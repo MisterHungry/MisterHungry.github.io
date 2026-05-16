@@ -1,0 +1,4698 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>BFS</name>
+			<longname>Bug Fables Custom Set (Beta V1) (WIP)</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-16</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Affable Bee</name>
+			<text>Flying
+{2}, {T}, Sacrifice an artifact or token: Draw a card. If it had counters on it, you may put those counters on this creature.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/0.png" num="1">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Amber, Devoted Carrier</name>
+			<text>Whenever another creature you control dies, you may move all counters it had and attach all Equipment that were attached to it onto Amber, Devoted Carrier.
+When Amber dies, you may move all counters she had and attach all Equipment that were attached to her onto another target creature.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/1.png" num="2">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ant Kingdom Infantry</name>
+			<text>Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
+When this creature dies, draw a card if it had a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/2.png" num="3">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ant Kingdom Lieutenant</name>
+			<text>Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
+Whenever a creature you control trains, create a 1/1 white Insect Soldier creature token.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/3.png" num="4">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ant Tunnel Miner</name>
+			<text>Whenever this creature attacks, you may pay {1}. If you do, create a Treasure token.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/4.png" num="5">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aspiring Musician</name>
+			<text>When this creature enters, create a 1/1 green and white Citizen creature token.
+{5}: Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/5.png" num="6">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Assisted Hover</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Target creature gets +1/+1 and gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/6.png" num="7">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bee-Boop</name>
+			<text>Flying
+{1}{W}: This creature gets +1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/7.png" num="8">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A Bond Thicker Than Honey</name>
+			<text>Equip abilities you activate cost {1} less to activate and an additional {1} less for each creature it is equipped to.
+Whenever you attack with two or more creatures, if at least one of them is modified, draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/8.png" num="9">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Boulder Toss</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Destroy target artifact, enchantment, or creature with power 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/9.png" num="10">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Defiant Standoff</name>
+			<text>This spell costs {1} less to cast if a creature died this turn.
+Target creature gets +2/+2 and gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/10.png" num="11">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Desperate Treatment</name>
+			<text>Convoke
+Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/11.png" num="12">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Diligent Cleaner</name>
+			<text>Flying
+Basic landcycling {1}{W} ({1}{W}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/12.png" num="13">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eetl, Retired Administrator</name>
+			<text>Vigilance
+When this Eetl, Retired Administrator enters, put a +1/+1 counter on up to two target creatures.
+Creatures can&apos;t attack you or planeswalkers you control unless their controller pays {2} for each counter on those creatures.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/13.png" num="14">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explorers&apos; Celebration</name>
+			<text>Create a Food token, then create a 1/1 white Insect Soldier creature token.
+Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/14.png" num="15">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gift of Love</name>
+			<text>Put a +1/+1 counter on target creature. It gains lifelink until end of turn.
+Draw a card at the beginning of the next turn&apos;s upkeep.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/15.png" num="16">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heavy Drone B-33</name>
+			<text>Flying
+Other artifact creatures you control get +1/+1.
+When Heavy Drone B-33 attacks, manufacture 1.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/16.png" num="17">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Honey Factory Maintenance Chief</name>
+			<text>Flying
+When this creature enters, manufacture 1 three times. (To manufacture 1, put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token. Do this three times.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/17.png" num="18">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Honey Factory Overseer</name>
+			<text>Flying, lifelink
+{3}{W}: Manufacture 1. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/18.png" num="19">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inspiring Melody</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/19.png" num="20">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jayde, Dissident Worker</name>
+			<text>Flying
+Raid — When Jayde, Dissident Worker enters, if you attacked this turn, create two 1/1 white Insect Soldier creature tokens.
+Whenever one or more creatures you control deal combat damage to a player, create a Food token.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/20.png" num="21">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kabbu&apos;s Request</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/21.png" num="22">BFS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kingdom Border Guard</name>
+			<text>Flying, vigilance
+Creatures you control with counters on them have ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/22.png" num="23">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Masterful Slice</name>
+			<text>Choose one —
+• Create three 1/1 white Insect Soldier creature tokens.
+• Create three Food tokens.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/23.png" num="24">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mayor Emmet</name>
+			<text>Equip abilities you activate that target a token you control cost {2} less to activate.
+{T}: Create X 1/1 green and white Citizen creature tokens, where X is the number of Equipment that entered the battlefield under your control this turn.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/24.png" num="25">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Medal Vendor</name>
+			<text>When this creature enters, draw a card.
+At the beginning of combat on your turn, if you control an Equipment, you may pay {1}. When you do, attach target Equipment you control to target creature you control.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/25.png" num="26">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Medicine Brewer</name>
+			<text>{1}{W}, {T}: Choose one —
+• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to any target this turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/26.png" num="27">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A Mother&apos;s Dream</name>
+			<text>Create two Treasure tokens. Then you may sacrifice any number of artifacts. Search your library for an artifact card with mana value X or less, where X is the number of artifacts you sacrificed. Put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/27.png" num="28">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Passionate Baker</name>
+			<text>When this creature enters, create a Food token.
+At the beginning of your end step, if two or more tokens have left the battlefield under your control this turn, create an Abomihoney token. (It&apos;s a 2/1 colorless Food Beast artifact creature token with &quot;When this creature dies, exile up to two target cards from a single graveyard.&quot;)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/28.png" num="29">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Queen Elizant I, the Peacemaker</name>
+			<text>Convoke
+Whenever a creature deals damage to a player, return it to its owner&apos;s hand.
+At the beginning of your end step, if you didn&apos;t attack this turn, populate, then proliferate.</text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/29.png" num="30">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>6WWW</manacost>
+				<cmc>9</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Queen&apos;s Teachings</name>
+			<text>Convoke
+Manufacture 1 X times. (To manufacture 1, put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token. Do this X times.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/30.png" num="32">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XXW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Quicksand Whirlpool</name>
+			<text>This spell costs {3} less to cast if it targets a tapped creature.
+Exile target creature.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/31.png" num="33">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Queen&apos;s Decree</name>
+			<text>Create a 1/1 white Insect Soldier creature token, then put a +1/+1 counter on each creature you control.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/32.png" num="31">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Salvation Strike</name>
+			<text>Exile target attacking creature. You gain 3 life.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/33.png" num="34">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Security Turret</name>
+			<text>Vigilance, reach
+When this creature dies, manufacture 1. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/34.png" num="35">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seedling Slayer</name>
+			<text>Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/35.png" num="36">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yin, Late Bloomer</name>
+			<text>Lifelink
+{1}{W}{W}: Target permanent gains hexproof and indestructible until end of turn. You gain 3 life.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/36.png" num="37">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Icefall</name>
+			<text>Until end of turn, creatures target player controls lose all abilities and can&apos;t attack or block.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/37.png" num="39">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Beetle Fortune Teller</name>
+			<text>When this creature enters, choose a card name, then target player mills a card. If a card with the chosen name was milled this way, you draw two cards. Otherwise, you draw a card.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/38.png" num="40">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloatshroom</name>
+			<text>When this creature enters, tap target creature an opponent controls and put a stun counter on it.
+When this creature dies, mill three cards.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/39.png" num="41">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bubble Shield</name>
+			<text>Put a +1/+1 counter on target creature, then creatures with +1/+1 counters on them gain hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/40.png" num="42">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Charm Dancer</name>
+			<text>{2}{U}{U}, {T}: Choose one:
+• Surveil 2.
+• Draw a card.
+• Target creature gains hexproof until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/41.png" num="43">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Checkpoint Scan</name>
+			<text>Choose one —
+• Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+• Counter target spell unless its controller pays {1} plus an additional {2} for each artifact you control.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/42.png" num="44">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cocoon of Slumber</name>
+			<text>You may cast this spell as though it had flash if a card left a graveyard this turn.
+Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 0/1.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/43.png" num="45">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Denmuki</name>
+			<text>Flash
+Whenever this creature or an artifact you control enters, target creature an opponent controls gets -1/-0 until your next turn.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/44.png" num="46">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disheveled Assistant</name>
+			<text>Flying
+When this creature enters, manufacture 2. (Distribute two +1/+1 counters among creatures you control or create a 2/2 colorless Construct artifact creature token.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/45.png" num="47">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diving Spider</name>
+			<text>This creature has hexproof as long as it&apos;s tapped.
+{T}: Target player mills a card.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/46.png" num="48">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Don&apos;t Make a Sound</name>
+			<text>Counter target spell unless its controller pays {2}. If they do, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/47.png" num="49">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Emergency Protocol</name>
+			<text>Return target nonland permanent to its owner&apos;s hand. If you controlled that permanent, manufacture 1.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/48.png" num="50">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Encased in Crystal</name>
+			<text>Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.
+{1}{U}, Sacrifice this enchantment: Surveil 2.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/49.png" num="51">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frigid Coffin</name>
+			<text>Counter target spell. Target player mills X cards, where X is that spell&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/50.png" num="52">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frost Bowling</name>
+			<text>Choose up to X target creatures. Return all creatures that aren&apos;t chosen this way to their owners&apos; hands.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/51.png" num="53">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>X2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gloomy Artist</name>
+			<text>Flying
+{3}{U}{U}: Create a token that&apos;s a copy of target artifact. That token gains haste. Exile it at the beginning of the next end step.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/52.png" num="54">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haunted Cloth</name>
+			<text>Vigilance
+When this creature enters, manufacture 1. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/53.png" num="55">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hypnotic Smoke</name>
+			<text>Gain control of target creature and each permanent attached to it.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/54.png" num="56">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jellyshroom</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/55.png" num="57">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kali, Compelling Seamstress</name>
+			<text>When Kali, Compelling Seamstress enters, create a Cursed Role token attached to target creature an opponent controls. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)
+{1}{U}, {T}: Gain control of target creature for as long as that creature is modified.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/56.png" num="58">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mimic Spider</name>
+			<text>Whenever another creature enters, you may have this creature become a copy of that creature until your next end step, except it has this ability.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/57.png" num="59">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Momentous Discovery</name>
+			<text>Draw two cards.
+Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/58.png" num="60">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Professor Neolith</name>
+			<text>When Professor Neolith enters, draw a card.
+Whenever an artifact you control enters, scry 1.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/59.png" num="61">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quest Board Manager</name>
+			<text>When this creature enters, mill a card.
+{T}, Exile three cards from your graveyard: Target creature you control explores.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/60.png" num="62">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roach Scientists</name>
+			<text>When this creature enters, surveil 2.
+{U}, {T}, Exile a creature card from your graveyard: Manufacture 1.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/61.png" num="63">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Royal Caretakers</name>
+			<text>When this creature enters, draw a card.
+When this creature leaves the battlefield, target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/62.png" num="64">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Secret Route</name>
+			<text>Up to three target creatures explore. Then they phase out. (Treat them and anything attached to them as though they don&apos;t exist until their controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/63.png" num="65">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sophisticated Research</name>
+			<text>Draw three cards. Manufacture 1. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/64.png" num="66">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spry Elder</name>
+			<text>When this creature enters, you may pay {1}{U}. If you do, target creature you control explores.
+Whenever a creature you control explores, tap target creature an opponent controls. If it&apos;s your turn, put a stun counter on it.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/65.png" num="67">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spy</name>
+			<text>Look at the top card of each player&apos;s library.
+You may choose a player. If you do, that player mills a card.
+Draw a card.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/66.png" num="68">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spy Cards</name>
+			<text>Your maximum hand size is five.
+Each player plays with their hand revealed.
+At the beginning of your draw step, draw an additional card. If you have no cards in hand, draw two additional cards instead.</text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/67.png" num="69">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stealth Mission</name>
+			<text>Put two +1/+1 counters on target creature you control. That creature can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/68.png" num="70">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Take Inventory</name>
+			<text>Draw a card, then draw cards equal to the number of cards named Take Inventory in your graveyard.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/69.png" num="71">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Tidal Wyrm</name>
+			<text>Trample
+When The Tidal Wyrm enters, tap all creatures your opponents control. Put a stun counter on up to X of those creatures, where X is the number of creature cards in your graveyard.</text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/70.png" num="72">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wurm Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tournament Challenger</name>
+			<text>When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/71.png" num="73">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alchemize</name>
+			<text>When this enchantment enters, mill three cards.
+{2}{U}{U}, Discard a card: Return target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/72.png" num="38">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Water Strider</name>
+			<text>When this creature enters, return up to one other target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/73.png" num="74">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ambushed by Bandits</name>
+			<text>Target creature an opponent controls gets -2/-2 until end of turn. When that creature dies this turn, create a Treasure token.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/74.png" num="75">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Beast</name>
+			<text>Menace
+Devour 2 (As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)
+Whenever a creature dealt damage by The Beast this turn dies, each opponent loses X life, where X is the number of +1/+1 counters on The Beast.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/75.png" num="76">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Big Mistake</name>
+			<text>Target creature gets +3/-3 and gains wither until end of turn. (It deals damage to creatures in the form of -1/-1 counters.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/76.png" num="77">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bittersweet Memory</name>
+			<text>Target creature card in your graveyard gains escape until end of turn. The escape cost is equal to its mana cost plus exile three other cards from your graveyard.
+Flashback {3}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/77.png" num="78">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bounty Board</name>
+			<text>Whenever a creature dies, create a Treasure token. This ability triggers only once each turn.
+{1}{B}, Sacrifice an artifact: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/78.png" num="79">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Caught as Prey</name>
+			<text>This spell costs {1} less to cast if a card left a graveyard this turn.
+Destroy target creature.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/79.png" num="80">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dead Lander Ω</name>
+			<text>Menace
+If a creature an opponent controls would die, instead exile it and put a +1/+1 counter on this creature
+During your turn, you may cast cards exiled with this card. If you cast a spell this way, remove three counters from among creatures you control rather than pay its mana cost.</text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/80.png" num="81">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dead Lander γ</name>
+			<text>First strike, menace, deathtouch, trample
+If a creature an opponent controls would die, exile it instead.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/81.png" num="82">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BBB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defiant Operators</name>
+			<text>Whenever you attack, you may sacrifice another creature or artifact. If you do, surveil 1, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/82.png" num="83">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defy Your Past</name>
+			<text>Choose one —
+• Target opponent discards two cards.
+• Creatures your opponents control get -1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/83.png" num="84">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dune Scorpion</name>
+			<text>Flash
+Deathtouch
+Whenever a creature dies, if this creature entered this turn, each opponent loses 2 life.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/84.png" num="85">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exiled Alchemist</name>
+			<text>Deathtouch
+{X}{B}, {T}: Remove X counters from creatures you control, then distribute those counters among creatures you control.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/85.png" num="86">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Failed Experiment</name>
+			<text>As an additional cost to cast this spell, pay {1}{B} or sacrifice an artifact or creature.
+Return target creature card from your graveyard to the battlefield tapped. It&apos;s a Zombie in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/86.png" num="87">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The False Monarch</name>
+			<text>Creature tokens you control get +1/+1.
+When this creature enters, attacks, or dies, create a 1/1 black Insect creature token with flying.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/87.png" num="88">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lawless Ruffian</name>
+			<text>Menace
+Raid — When this creature enters, if you attacked this turn, destroy target creature an opponent controls that was dealt damage this turn. Its controller loses 2 life.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/88.png" num="89">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leafbug Archer</name>
+			<text>Reach, deathtouch
+Renew — {2}{B}, Exile this card from your graveyard: Put a +1/+1 counter and a deathtouch counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/89.png" num="90">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leif&apos;s Request</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/90.png" num="91">BFS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lost Appetite</name>
+			<text>Target opponent loses X life and you gain X life, where X is the greatest power among creatures you control.
+Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/91.png" num="92">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lost Sands Bandit</name>
+			<text>Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
+When this creature deals combat damage to a player, you draw a card and lose 1 life.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/92.png" num="93">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Sands Burglar</name>
+			<text>Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
+Whenever a creature you control trains, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/93.png" num="94">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Sands Thief</name>
+			<text>Flying
+Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
+{2}{B}, Exile this card from your graveyard: You draw a card and you lose 1 life.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/94.png" num="95">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Madesphy</name>
+			<text>Flash
+When this creature dies, you may put a -1/-1 counter on target creature. If that creature is modified, put two -1/-1 counters on it instead. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/95.png" num="96">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mantidfly</name>
+			<text>Flying
+Raid — At the beginning of your end step, if you attacked this turn, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/96.png" num="97">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monsieur Scarlet</name>
+			<text>Lifelink
+Disguise {X}{B}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When Monsieur Scarlet is turned face up, he deals X damage to any target.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/97.png" num="98">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mothfly Cluster</name>
+			<text>Flying
+When this creature dies, create two 1/1 black Insect creature tokens with flying.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/98.png" num="99">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Piercing Roar</name>
+			<text>Creatures you control get +1/+0 and gain fear until end of turn. (They can&apos;t be blocked except by artifact creatures and/or black creatures.)
+Flashback {5}{B}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/99.png" num="100">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scorpion Caretaker</name>
+			<text>When this creature enters, create a 1/1 black Insect Beast creature token.
+{2}{B}: Target creature gains training until end of turn. (Whenever that creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/100.png" num="101">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scorpion Sting</name>
+			<text>Destroy target creature. If it had counters on it, put those counters on up to one target creature you control.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/101.png" num="102">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shady Dealer</name>
+			<text>When this creature enters, mill two cards.
+{2}{B}{B}, Exile this card from your graveyard: Look at the top two cards of target opponent&apos;s library. Exile one of them face down and put the other on the bottom of that library. You may play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/102.png" num="103">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snakemouth Researchers</name>
+			<text>This creature enters with a deathtouch counter on it.
+When this creature enters, you may mill cards equal to the number of creatures you control with a counter on them.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/103.png" num="104">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sororicide</name>
+			<text>Exile target creature. You lose life equal to its power.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/104.png" num="105">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sprout From Within</name>
+			<text>Enchant creature
+At the beginning of your end step, mill a card, then put a -1/-1 counter on enchanted creature. If a creature card was milled this way, you may put two -1/-1 counters on it instead.
+When enchanted creature dies, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/105.png" num="106">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stargaze</name>
+			<text>Look at twice X cards from the top of your library. Put X cards from among them into your hand and the rest into your graveyard. You lose X life.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/106.png" num="107">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XBB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Undercover Barkeep</name>
+			<text>Whenever you attack, target creature you control gets +1/+0 and gains deathtouch until end of turn. When that creature dies this turn, surveil 1.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/107.png" num="108">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zombee</name>
+			<text>Flying
+This creature enters with two +1/+1 counters on it.
+Renew — {1}{B}, Exile this card from your graveyard: Manufacture 1. Activate only as a sorcery. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/108.png" num="109">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zombeetle</name>
+			<text>Trample
+This creature enters with three +1/+1 counters on it.
+Renew — {3}{B}{B}, Exile this card from your graveyard: Put three +1/+1 counters on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/109.png" num="110">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zombiant</name>
+			<text>Deathtouch
+This creature enters with a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/110.png" num="111">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Apprehensive Novice</name>
+			<text>Haste
+Formidable — This creature has training as long as creatures you control have total power 8 or greater.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/111.png" num="112">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arrow Worm</name>
+			<text>This creature can&apos;t block.
+Disguise {1}{R}{R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/112.png" num="113">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Worm</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Automated Drone Boomerang Prototype</name>
+			<text>Equipped creature gets +2/+1.
+Whenever equipped creature deals damage, put a charge counter on this artifact.
+{1}, Tap equipped creature: It deals damage equal to the number of charge counters on this artifact to any target. Return this artifact to its owner&apos;s hand.
+Equip {1}</text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/113.png" num="114">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Battle Plan</name>
+			<text>At the beginning of combat on your turn, target creature you control gets +2/+0 until end of turn.
+Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/114.png" num="115">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Beehive Guardian</name>
+			<text>Flying
+When this creature enters, manufacture 1. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/115.png" num="116">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Big Score</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/116.png" num="117">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bomb Master</name>
+			<text>Artifacts you control have &quot;{1}, Sacrifice this artifact: Draw a card.&quot;
+Formidable — Whenever an artifact you control leaves the battlefield, if creatures you control have total power 8 or greater, this creature deals 2 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/117.png" num="118">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boomerang Toss</name>
+			<text>Boomerang Toss deals 2 damage to target creature.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/118.png" num="119">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brash Wager</name>
+			<text>Choose target opponent. If you deal combat damage to that opponent this turn, draw two cards.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/119.png" num="120">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burn Away</name>
+			<text>Burn Away deals 6 damage to target creature. When that creature dies this turn, exile its controller&apos;s graveyard.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/120.png" num="121">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burning Krawler</name>
+			<text>Haste
+This creature enters with three +1/+1 counters on it.
+At the beginning of your end step, you may remove a +1/+1 counter from this creature. If you do, it deals 1 damage to each player.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/121.png" num="122">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carmina, Seasoned Gambler</name>
+			<text>Haste
+When Carmina, Seasoned Gambler enters, you may search your library for a card, put that card into your hand, discard a card at random, then shuffle.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/122.png" num="123">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disciplined Slash</name>
+			<text>Disciplined Slash deals damage to any target equal to the number of attacking creatures you control.
+Flashback—{1}{R}{R}, Sacrifice an equipment. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/123.png" num="124">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exploration Team Rivalry</name>
+			<text>When this enchantment enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+{1}{R}: Choose two target creatures controlled by different players. Goad those creatures. Activate only during your first main phase. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/124.png" num="125">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Explorers&apos; Accountant</name>
+			<text>Whenever a Medal you control enters, exile the top card of your library. You may play it until the end of your next turn.
+Whenever you attack, target attacking equipped creature gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/125.png" num="126">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hurricane Toss</name>
+			<text>Replicate—Tap an untapped artifact you control. (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Hurricane Toss deals 3 damage to target creature.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/126.png" num="127">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lay Siege</name>
+			<text>Lay Siege deals 3 damage to each creature that didn&apos;t attack this turn.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/127.png" num="128">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Peculiar Inventor</name>
+			<text>Haste
+Raid — At the beginning of your postcombat main phase, if you attacked this turn, manufacture 1.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/128.png" num="129">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rabid Chase</name>
+			<text>Target creature gets +2/+0 and gains first strike until end of turn.
+Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/129.png" num="130">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Riz, Isolated Bulwark</name>
+			<text>Haste
+{1}, {T}: Create a colorless artifact token named Munitions with &quot;When this token leaves the battlefield, it deals 2 damage to any target.&quot;
+When Riz, Isolated Bulwark dies, you may sacrifice an artifact. If you do, draw a card.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/130.png" num="131">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rubbish Enthusiast</name>
+			<text>Raid — At the beginning of your end step, if you attacked this turn, you may draw a card. If you do, discard a card.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/131.png" num="132">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rush Into Action</name>
+			<text>Put a +1/+1 counter on target creature. That creature gains haste until end of turn. Until end of turn, whenever that creature becomes blocked, it deals 1 damage to the player or planeswalker that creature is attacking.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/132.png" num="133">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sharp Assistant</name>
+			<text>Flying
+When this creature enters, manufacture 3. (Distribute three +1/+1 counters among creatures you control or create a 3/3 colorless Construct artifact creature token.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/133.png" num="134">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Termite Engineers</name>
+			<text>Artifact creatures you control have trample.
+Formidable — At the beginning of your end step, manufacture 1. If creatures you control have total power 8 or greater, manufacture 2 instead.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/134.png" num="135">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Termite Financier</name>
+			<text>Whenever one or more +1/+1 counters are put on this creature for the first time each turn, create a Treasure token.
+{4}{R}: Manufacture 1. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/135.png" num="136">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Termite Knight</name>
+			<text>Ward {2}
+At the beginning of your upkeep, put a charge counter on this creature.
+Exhaust — {R}: Remove all charge counters from this creature. This creature explores X times, where X is the number of counters removed this way. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/136.png" num="137">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Underground Bartender</name>
+			<text>Flying, haste
+{T}: Add {R}{R}. Spend this mana only to activate an ability.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/137.png" num="138">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vanessa II, Usurped Queen</name>
+			<text>When Vanessa II enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+{T}: Target modified creature you control can&apos;t be blocked this turn. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/138.png" num="139">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vengeful Kin</name>
+			<text>When this creature enters, you may put a +1/+1 counter on another target creature. It gains first strike and haste until end of turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/139.png" num="140">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vi&apos;s Request</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/140.png" num="141">BFS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wasp Assault</name>
+			<text>This spell costs {1} less to cast if a creature attacked this turn.
+Wasp Assault deals 3 damage to target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/141.png" num="142">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wasp Bomber</name>
+			<text>Reach
+Raid — When this creature enters, if you attacked this turn, it deals 1 damage to each opponent and each creature and planeswalker they control.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/142.png" num="143">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wasp Driller</name>
+			<text>Trample
+Raid — When this creature enters, if you attacked this turn, this creature deals damage equal to its power to target opponent.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/143.png" num="144">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wasp Fanatic</name>
+			<text>Menace
+At the beginning of combat, if you control another Insect, target creature you control gets +1/+0 and gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/144.png" num="145">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wasp Scout</name>
+			<text>Flying, haste
+Whenever this creature attacks, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/145.png" num="146">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wasp Trooper</name>
+			<text>First strike
+Raid — This creature enters with a +1/+1 counter on it if you attacked this turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/146.png" num="147">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wronged Sailor</name>
+			<text>When this creature enters, you may pay {1}{R}. If you do, destroy target artifact.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/147.png" num="148">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abundant Harvest</name>
+			<text>Choose land or nonland. Reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and the rest on the bottom of your library in a random order.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/148.png" num="149">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Acolyte Aria</name>
+			<text>Convoke
+Reach
+When Acolyte Aria enters, each tapped creature you control explores.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/149.png" num="150">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Altruist Hospitality</name>
+			<text>Replicate—Remove three counters from among creatures you control. (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Return target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/150.png" num="151">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Belostoss</name>
+			<text>Trample
+Formidable — When this creature enters, if creatures you control have total power 8 or greater, destroy up to one target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/151.png" num="152">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Butomu, Mighty Blacksmith</name>
+			<text>When Butomu, Mighty Blacksmith enters, create a Treasure token.
+Tap three untapped artifacts or creatures you control: Butomu, Mighty Blacksmith explores.
+Tap four untapped artifacts or creatures you control: Destroy target artifact or enchantment.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/152.png" num="153">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carry the Lineage</name>
+			<text>Create a 1/1 green Plant creature token. Put X +1/+1 counters on it, where X is the greatest power among creatures you control.
+Flashback {3}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/153.png" num="154">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Charitable Sightseer</name>
+			<text>Vigilance
+{2}{G}: Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/154.png" num="155">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chomper Brute</name>
+			<text>Trample
+This creature has lifelink as long as you control a white or black permanent.
+Formidable — {1}{G}, Exile this card from your graveyard: Create a tapped 1/1 green Plant creature token. If creatures you control have total power 8 or greater, untap it.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/155.png" num="156">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diana, Stout Miner</name>
+			<text>Multikicker—{1}{G} or sacrifice an artifact (You may pay an additional {1}{G} or sacrifice an artifact any number of times as you cast this spell.)
+When Diana, Stout Miner enters, search your library for up to X basic land cards, where X is the number of times Diana, Stout Miner was kicked. Put them onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/156.png" num="157">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duel for Dominance</name>
+			<text>Coven — Choose target creature you control and target creature you don&apos;t control. If you control three or more creatures with different powers, put a +1/+1 counter on the chosen creature you control. Then the chosen creatures fight each other. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/157.png" num="158">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Enter the Unknown</name>
+			<text>Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+You may play an additional land this turn.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/158.png" num="159">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exotic Voyage</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/159.png" num="160">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fashionable Denizen</name>
+			<text>{T}: Add one mana of any color.
+{T}: Add {G}{G}. Activate only if this creature has a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/160.png" num="161">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frenzied Sunflower Dance</name>
+			<text>Convoke
+Create X 1/1 green and white Plant creature tokens named Venus Bud with reach and lifelink. Then each Plant you control explores.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/161.png" num="162">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fruitful Aphids</name>
+			<text>This creature enters with a +1/+1 counter on it.
+{3}{G}, Remove a counter from a creature you control: Populate. (Create a token that&apos;s a copy of a creature token you control.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/162.png" num="163">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fruity Bugs</name>
+			<text>As long as you control a creature with power 4 or greater, this creature has trample.
+{3}{G}: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/163.png" num="164">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goddess Venus</name>
+			<text>Indestructible
+As long as your devotion to green is less than five, Goddess Venus isn&apos;t a creature.
+Whenever another creature you control enters, it explores.
+{1}{G}{G}: Create a 1/1 green and white Plant creature token named Venus Bud with reach and lifelink.</text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/164.png" num="165">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Plant God</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Golden Festival Harvest</name>
+			<text>When this enchantment enters, up to two target creatures you control explore.
+{2}{G}: Reveal the top card of your library. If it&apos;s a creature card, put it into your hand. Otherwise, you may put it into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/165.png" num="166">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Golden Seedling</name>
+			<text>Convoke
+Trample, shroud
+Renew — {3}{G}{G}, Exile this card from your graveyard: Create three tapped Treasure tokens. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/166.png" num="167">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>6GGG</manacost>
+				<cmc>9</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heavy Strike</name>
+			<text>Target creature you control gets +2/+2 until end of turn. It deals damage equal to its power to target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/167.png" num="168">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inichas</name>
+			<text>Vigilance
+Renew — {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a vigilance counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/168.png" num="169">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inquisitive Biologist</name>
+			<text>This creature gets +2/+2 as long as there are three or more different creature types among other creatures you control.
+Formidable — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, target creature you control explores.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/169.png" num="170">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inseparable Travelers</name>
+			<text>When this creature enters, it explores.
+At the beginning of each end step, if you put a counter on a creature this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/170.png" num="171">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ironnail</name>
+			<text>Vigilance
+When this creature dies, if it had a counter on it, you may return another target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/171.png" num="172">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snail</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leafbug Clubber</name>
+			<text>Trample
+Renew — {3}{G}, Exile this card from your graveyard: Put two +1/+1 counters and a trample counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/172.png" num="173">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leafbug Ninja</name>
+			<text>Flash
+{5}{G}, Exile this card from your graveyard: Create two tokens that are copies of this creature.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/173.png" num="174">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Luminous Traveler</name>
+			<text>When this creature enters, it explores, then it explores again. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard. Then repeat this process.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/174.png" num="175">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mother Chomper</name>
+			<text>Trample
+Mother Chomper has lifelink as long as you control a white or black permanent.
+Renew — {4}{G}{G}, Exile this card from your graveyard: Put three +1/+1 counters, a trample counter, and a lifelink counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/175.png" num="176">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primal Weevil</name>
+			<text>Trample
+Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, another target creature you control gets +2/+2 and gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/176.png" num="177">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seedling</name>
+			<text>Reach
+Renew — {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a reach counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/177.png" num="178">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seedling King</name>
+			<text>Trample
+Other Plants you control have trample.
+Formidable — At the beginning of your end step, create a tapped Seedling token. If creatures you control have total power 8 or greater, create two tapped Seedling tokens instead. (They&apos;re 1/1 green Plant creature tokens with reach.)</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/178.png" num="179">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shattered Wings</name>
+			<text>Destroy target artifact, enchantment, or creature with flying. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/179.png" num="180">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tunneling Worm</name>
+			<text>When this creature enters, mill three cards. You may put a land card from among them into your hand. If you don&apos;t, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/180.png" num="181">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Worm</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Venus Guardian</name>
+			<text>Reach, trample
+Formidable — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, creatures you control gain vigilance until end of turn.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/181.png" num="182">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Venus&apos;s Blessing</name>
+			<text>Creatures you control get +2/+2 and gain trample until end of turn.
+Harmonize {5}{G}{G}{G} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by an amount of generic mana equal to its power. Then exile this spell.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/182.png" num="183">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Weevil</name>
+			<text>Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, target creature gets +1/+1 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/183.png" num="184">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wild Chomper</name>
+			<text>Defender, reach
+As long as this creature is modified, it can attack as though it didn&apos;t have defender. (Equipment, Auras you control, and counters are modifications.)
+Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/184.png" num="185">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ant Queen Elizant II</name>
+			<text>Creatures you control have training. (Whenever a creature you control attacks with another creature with greater power, put a +1/+1 counter on the creature with lesser power.)
+Whenever Ant Queen Elizant II enters or attacks, create a 1/1 white Insect Soldier creature token.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/185.png" num="186">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1WBG</manacost>
+				<cmc>4</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Astotheles, Bandit Leader</name>
+			<text>First strike
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Players can&apos;t cast spells during combat.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/186.png" num="187">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bee Queen Bianca</name>
+			<text>Flying
+Whenever Bee Queen Bianca or another nontoken creature you control enters, manufacture 1.
+Spells you cast and abilities you activate that target a creature you control cost {1} less to cast. This effect can&apos;t reduce the mana in that cost to less than one mana.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/187.png" num="188">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2URW</manacost>
+				<cmc>5</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Broodmother</name>
+			<text>Flying
+Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Whenever The Broodmother becomes the target of a spell or ability for the first time each turn, create a 1/1 green Insect creature token with flying.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/188.png" num="189">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cenn and Pisci, Fraudulent Team</name>
+			<text>Menace
+When Cenn and Pisci, Fraudulent Team attacks, you may exile a nonland card with mana value X or less from an opponent&apos;s graveyard, where X is the number of attacking creatures. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/189.png" num="190">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chompy, Next in Line</name>
+			<text>Lifelink
+{B}{G}: Exile target creature card from a graveyard. Put a +1/+1 counter on target creature. It gains trample until end of turn if the exiled creature had power 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/190.png" num="191">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cross and Poi, Termite Guards</name>
+			<text>During your turn, Cross and Poi, Termite Guards has first strike.
+Whenever Cross and Poi, Termite Guards attacks, up to one other target creature you control has base power and toughness 4/2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/191.png" num="192">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Devourer</name>
+			<text>Lifelink
+When The Devourer enters, exile another target creature until The Devourer leaves the battlefield. Put X +1/+1 counters on The Devourer, where X is the power of the exiled creature</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/192.png" num="193">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5BG</manacost>
+				<cmc>7</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doctor H.B.</name>
+			<text>Flying
+Artifact creatures you control have flying.
+Whenever you cast your first noncreature spell each turn, manufacture 1. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/193.png" num="194">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elder of the Roach Village</name>
+			<text>Activated abilities of cards in your graveyard cost {1} less to activate.
+Whenever one or more cards leave your graveyard during your turn, you may draw a card. If you do, discard a card.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/194.png" num="195">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frozen Drill</name>
+			<text>Convoke
+Tap target nonland permanent and put X stun counters on it. You gain twice X life.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/195.png" num="196">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XWU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gen and Eri, Twin Team</name>
+			<text>{T}: You may put a land card from your hand onto the battlefield.
+{2}{U}, Remove a counter from a creature you control: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/196.png" num="197">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jaune, Prodigious Painter</name>
+			<text>Flying
+When Jaune, Prodigious Painter enters, manufacture 1. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)
+{X}{W}{U}, {T}: X target artifact tokens become a copy of another target artifact or token you control until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/197.png" num="198">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kabbu, the Chivalrous</name>
+			<text>Whenever another creature you control enters, put a +1/+1 counter on that creature.
+When another creature you control with a +1/+1 counter on it dies, you may pay {3}. If you do, return that card to your hand.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/198.png" num="199">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kenny, the Vagabond</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Landfall — Whenever a land you control enters, Kenny, the Vagabond explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/199.png" num="200">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kina, Overprotective Fighter</name>
+			<text>Double strike
+Formidable — Whenever one or more creatures you control deal combat damage to a player, if creatures you control have total power 8 or greater, you may draw a card.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/200.png" num="201">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>King Hector IV and Queen Layra II</name>
+			<text>Formidable — At the beginning of combat on your turn, King Hector IV and Queen Layra II explores. Then if creatures you control have total power 8 or greater, you may put a land card from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/201.png" num="202">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leif, the Enigmatic</name>
+			<text>When Leif, the Enigmatic enters, look at the top three cards of your library, then put one of them into your hand and the rest into your graveyard.
+{2}{B}, {T}: Remove all counters from target creature.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/202.png" num="203">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Insect Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Levi and Celia, Seasoned Explorers</name>
+			<text>Whenever Levi and Celia, Seasoned Explorers attacks, it explores.
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/203.png" num="204">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maki, the Queen&apos;s Blade</name>
+			<text>Haste
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Each creature you control gets +1/+1 for each Equipment attached to it.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/204.png" num="205">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mothiva, the Cutthroat</name>
+			<text>When Mothiva, the Cutthroat enters, mill three cards.
+{3}{B}{G}, Discard a card: Return target creature card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/205.png" num="206">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Needle Pincer</name>
+			<text>Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)
+Target creature you control deals damage equal to its power to two target creatures you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/206.png" num="207">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Peacock Spider</name>
+			<text>All creatures have haste.
+{T}: Target creature an opponent controls attacks you this turn if able.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/207.png" num="208">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Professor Honeycomb</name>
+			<text>When Professor Honeycomb enters, manufacture 1. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)
+Whenever one or more modified creature you control deals combat damage to a player, draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/208.png" num="209">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spuder, Bane of Explorers</name>
+			<text>Menace
+Formidable — When Spuder, Bane of Explorers enters, if creatures you control have total power 8 or greater, he deals damage equal to his power to target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/209.png" num="210">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stratos and Delilah, Team Slacker</name>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Prevent all damage that Stratos and Delilah, Team Slacker would deal to players.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/210.png" num="211">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tarantular, the Wizard</name>
+			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on target creature.
+{T}, Remove three counters from among creatures you control: Copy target instant or sorcery spell you control. You may choose new targets for the copy.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/211.png" num="212">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>ULTIMAX Tank</name>
+			<text>Trample
+When ULTIMAX Tank attacks, it gains indestructible until end of turn.
+Exhaust — {B}{B}{B}{R}{R}{R}: ULTIMAX Tank deals 3 damage to each creature. (Activate each exhaust ability only once.) (Activate each exhaust ability only once.)
+Crew 2</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/212.png" num="213">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>6/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vi, the Audacious</name>
+			<text>Flying, haste
+When Vi, the Audacious attacks, attach up to one target Equipment to her. If a Medal is attached this way, attach it to any number of other creatures you control.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/213.png" num="214">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wasp General Ultimax</name>
+			<text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Raid — At the beginning of your end step, if you attacked this turn, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/214.png" num="215">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wasp King Hoaxe</name>
+			<text>When Wasp King Hoaxe enters, gain control of target creature an opponent controls with power less than Hoaxe&apos;s power until end of turn. Untap it. It gains haste until end of turn.
+Raid — At the beginning of your end step, if you attacked this turn, Hoaxe deals X damage to target creature an opponent controls, where X is the number of creatures that attacked this turn.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/215.png" num="216">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2RWB</manacost>
+				<cmc>5</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Watcher</name>
+			<text>When The Watcher enters, you may pay {X}. When you do, you may return target creature card with mana value X from your graveyard to the battlefield with a finality counter on it. (If it would die, exile it instead.)
+Whenever one or more cards leave your graveyard during your turn, you may tap target creature and put a stun counter on it.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/216.png" num="217">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1BGU</manacost>
+				<cmc>4</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zaryant, Royal Bodyguard</name>
+			<text>Vigilance
+{1}{W}, {T}, Discard a card: Create two 1/1 white Insect Soldier creature tokens.
+Sacrifice Zaryant, Royal Bodyguard: Creature tokens you control and up to one other target legendary creature you control gain indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/217.png" num="218">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zasp, the Zealous</name>
+			<text>First strike
+Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
+Whenever Zasp, the Zealous trains, put a +1/+1 counter on up to one other target creature.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/218.png" num="219">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zommoth</name>
+			<text>Menace
+Escape—{2}{U}{U}{B}{B}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+This creature escapes with &quot;When this creature enters, each other creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard.&quot;</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/219.png" num="220">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Insect Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abomihoney</name>
+			<text>When this creature dies, exile up to two target cards from a single graveyard.
+{2}, {T}, Sacrifice this creature: You gain 3 life.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/220.png" num="221">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ahoneynation</name>
+			<text>Trample
+When this creature dies, create two tapped Abomihoney tokens. (They&apos;re 2/1 colorless Food Beast artifact creature tokens with &quot;When this creature dies, exile up to two target cards from a single graveyard.&quot;)
+{2}, {T}, Sacrifice this creature: You gain 3 life.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/221.png" num="222">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Mask</name>
+			<text>As long as this Equipment is attached to a creature, equipped creature and Equipment you control have &quot;{T}: Add one mana of any color.&quot;
+Equip {2}</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/222.png" num="223">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Antlion Jaws</name>
+			<text>Equipped creature has trample.
+Whenever equipped creature becomes blocked, it deals 1 damage to that creature.
+Equip {2} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/223.png" num="224">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Berserker</name>
+			<text>Equipped creature gets +2/+2 and attacks each combat if able.
+Equip {2} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/224.png" num="225">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bug Me Not!</name>
+			<text>Equipped creature gets +1/+0 and can&apos;t be blocked by creatures with lesser power.
+Equip {3} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/225.png" num="226">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Charge Up Plus</name>
+			<text>At the beginning of your upkeep, put a charge counter on this Medal.
+Whenever equipped creature attacks, remove all charge counters from this artifact. When you do, creatures that this Medal is attached to get +1/+1 until end of turn for each charge counter removed this way.
+Equip {3} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/226.png" num="227">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Expedition Map</name>
+			<text>{2}, {T}, Sacrifice this artifact: Search your library for a land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/227.png" num="228">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Favorite One</name>
+			<text>Enrage — Whenever equipped creature is dealt damage, put a +1/+1 counter on each other creature you control.
+Equip {3} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/228.png" num="229">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>HP Plus</name>
+			<text>Equipped creature gets +0/+2.
+Equip {1} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/229.png" num="231">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Leaf Cloak</name>
+			<text>Equipped creature gets +0/+2 and has ward {2}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Equip {2} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/230.png" num="232">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Leaf of the Everlasting Sapling</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{T}: Add one mana of any color.
+{3}{W}{U}{B}{R}{G}: Draw two cards. Creatures you control get +X/+X and gain hexproof and indestructible until end of turn, where X is the number of cards in your hand.</text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/231.png" num="233">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Life Cast</name>
+			<text>Rather than pay the mana cost of an ability of equipped creature for the first time each turn, you may pay that much life.
+Equip {2} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/232.png" num="234">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Life Stealer</name>
+			<text>Equipped creature gets +0/+1 and has lifelink.
+Equip {2} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/233.png" num="235">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Miracle Matter</name>
+			<text>Whenever equipped creature dies, return that card to the battlefield tapped under its owner&apos;s control at the beginning of the next end step.
+Equip {4} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/234.png" num="236">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Smoke Bomb</name>
+			<text>Flash
+All creatures have shroud. (They can&apos;t be the targets of spells or abilities.)
+At the beginning of your upkeep, sacrifice this artifact. When you do, target creature you control can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/235.png" num="238">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Strong Start</name>
+			<text>Equipped creature gets +1/-1 and has first strike.
+Equip {2} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/236.png" num="239">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trading Post</name>
+			<text>{1}, {T}, Discard a card: You gain 4 life.
+{1}, {T}, Pay 1 life: Create a 0/1 white Goat creature token.
+{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.
+{1}, {T}, Sacrifice an artifact: Draw a card.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/237.png" num="240">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Triumph Buzz</name>
+			<text>Whenever a creature an opponent controls dies, put a +1/+1 counter on equipped creature.
+Equip {2} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/238.png" num="241">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bountiful Landscape</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Forest, Island, or Mountain card, put it onto the battlefield tapped, then shuffle.
+Cycling {G}{U}{R} ({G}{U}{R}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/239.png" num="242">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Deceptive Landscape</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Plains, Swamp, or Forest card, put it onto the battlefield tapped, then shuffle.
+Cycling {W}{B}{G} ({W}{B}{G}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/240.png" num="243">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Expensive Resort</name>
+			<text>{T}: Add {C}.
+{3}, {T}, Sacrifice this land: Create two tapped Treasure tokens.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/241.png" num="244">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fabled Passage</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.</text>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/242.png" num="245">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Foreboding Landscape</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Swamp, Forest, or Island card, put it onto the battlefield tapped, then shuffle.
+Cycling {B}{G}{U} ({B}{G}{U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/243.png" num="246">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Perilous Landscape</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Island, Mountain, or Plains card, put it onto the battlefield tapped, then shuffle.
+Cycling {U}{R}{W} ({U}{R}{W}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/244.png" num="247">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Royal Court</name>
+			<text>This land enters tapped.
+When this land enters, exile up to three target cards from graveyards.
+{T}: Add {C}.
+{T}: Add one mana of any of the exiled cards&apos; colors.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/245.png" num="248">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Secluded Village</name>
+			<text>{T}: Add {C}.
+{5}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/246.png" num="249">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shattered Landscape</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Mountain, Plains, or Swamp card, put it onto the battlefield tapped, then shuffle.
+Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/247.png" num="250">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Snakemouth Haven</name>
+			<text>This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/248.png" num="251">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/249.png" num="0">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/250.png" num="0">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/251.png" num="0">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/252.png" num="0">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/253.png" num="0">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Insect Soldier BFS</name>
+			<text></text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/254.png" num="1">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect BFS</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/255.png" num="2">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Leafbug Ninja BFS</name>
+			<text>(This token&apos;s mana cost is {2}{G}.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/256.png" num="3">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Seedling BFS</name>
+			<text>Reach
+(This token&apos;s mana cost is {G}.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/257.png" num="4">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Venus Bud BFS</name>
+			<text>Reach, lifelink</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/258.png" num="9">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WG</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect BFS</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/259.png" num="6">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect Beast BFS</name>
+			<text></text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/260.png" num="7">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plant BFS</name>
+			<text></text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/261.png" num="8">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Clue BFS</name>
+			<text>{2}, Sacrifice this token: Draw a card.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/262.png" num="11">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Construct BFS</name>
+			<text></text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/263.png" num="12">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Food BFS</name>
+			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/264.png" num="13">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure BFS</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/265.png" num="14">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Abomihoney BFS</name>
+			<text>When this creature dies, exile up to two target cards from a single graveyard.
+{2}, {T}, Sacrifice this creature: You gain 3 life.
+(This token&apos;s mana cost is {2}.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/266.png" num="10">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Food Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Sand Warden</name>
+			<text>When this creature dies, you may pay {1}. If you do, manufacture 1. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/267.png" num="237">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Helper Boost</name>
+			<text>Whenever this Medal or another Medal you control enters, create a 1/1 white Insect Soldier creature token.
+Equipped creature has training.
+Equip {2} (Medals may be equipped to any number of creatures at the same time.)</text>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/268.png" num="230">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Medal Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Citizen BFS</name>
+			<text></text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/269.png" num="5">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WG</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

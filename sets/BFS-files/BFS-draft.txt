@@ -1,0 +1,3565 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Affable Bee",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/0.png"
+			}
+		},
+		{
+			"name": "Amber, Devoted Carrier",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Insect Citizen",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/1.png"
+			}
+		},
+		{
+			"name": "Ant Kingdom Infantry",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/2.png"
+			}
+		},
+		{
+			"name": "Ant Kingdom Lieutenant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/3.png"
+			}
+		},
+		{
+			"name": "Ant Tunnel Miner",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect Scout",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/4.png"
+			}
+		},
+		{
+			"name": "Aspiring Musician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Citizen Bard",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/5.png"
+			}
+		},
+		{
+			"name": "Assisted Hover",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/6.png"
+			}
+		},
+		{
+			"name": "Bee-Boop",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/7.png"
+			}
+		},
+		{
+			"name": "A Bond Thicker Than Honey",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/8.png"
+			}
+		},
+		{
+			"name": "Boulder Toss",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/9.png"
+			}
+		},
+		{
+			"name": "Defiant Standoff",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/10.png"
+			}
+		},
+		{
+			"name": "Desperate Treatment",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/11.png"
+			}
+		},
+		{
+			"name": "Diligent Cleaner",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/12.png"
+			}
+		},
+		{
+			"name": "Eetl, Retired Administrator",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Insect Advisor",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/13.png"
+			}
+		},
+		{
+			"name": "Explorers' Celebration",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/14.png"
+			}
+		},
+		{
+			"name": "Gift of Love",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/15.png"
+			}
+		},
+		{
+			"name": "Heavy Drone B-33",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/16.png"
+			}
+		},
+		{
+			"name": "Honey Factory Maintenance Chief",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Insect Advisor",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/17.png"
+			}
+		},
+		{
+			"name": "Honey Factory Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect Advisor",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/18.png"
+			}
+		},
+		{
+			"name": "Inspiring Melody",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/19.png"
+			}
+		},
+		{
+			"name": "Jayde, Dissident Worker",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Insect Rebel",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/20.png"
+			}
+		},
+		{
+			"name": "Kabbu's Request",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/21.png"
+			}
+		},
+		{
+			"name": "Kingdom Border Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/22.png"
+			}
+		},
+		{
+			"name": "Masterful Slice",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/23.png"
+			}
+		},
+		{
+			"name": "Mayor Emmet",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Insect Advisor",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/24.png"
+			}
+		},
+		{
+			"name": "Medal Vendor",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/25.png"
+			}
+		},
+		{
+			"name": "Medicine Brewer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect Cleric",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/26.png"
+			}
+		},
+		{
+			"name": "A Mother's Dream",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/27.png"
+			}
+		},
+		{
+			"name": "Passionate Baker",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/28.png"
+			}
+		},
+		{
+			"name": "Queen Elizant I, the Peacemaker",
+			"rarity": "mythic",
+			"mana_cost": "{6}{W}{W}{W}",
+			"type": "Legendary Creature — Insect Noble",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/29.png"
+			}
+		},
+		{
+			"name": "Queen's Teachings",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{X}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/30.png"
+			}
+		},
+		{
+			"name": "Quicksand Whirlpool",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/31.png"
+			}
+		},
+		{
+			"name": "Queen's Decree",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/32.png"
+			}
+		},
+		{
+			"name": "Salvation Strike",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/33.png"
+			}
+		},
+		{
+			"name": "Security Turret",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/34.png"
+			}
+		},
+		{
+			"name": "Seedling Slayer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/35.png"
+			}
+		},
+		{
+			"name": "Yin, Late Bloomer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/36.png"
+			}
+		},
+		{
+			"name": "Ancient Icefall",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/37.png"
+			}
+		},
+		{
+			"name": "Beetle Fortune Teller",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/38.png"
+			}
+		},
+		{
+			"name": "Bloatshroom",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Plant Insect",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/39.png"
+			}
+		},
+		{
+			"name": "Bubble Shield",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/40.png"
+			}
+		},
+		{
+			"name": "Charm Dancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/41.png"
+			}
+		},
+		{
+			"name": "Checkpoint Scan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/42.png"
+			}
+		},
+		{
+			"name": "Cocoon of Slumber",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/43.png"
+			}
+		},
+		{
+			"name": "Denmuki",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/44.png"
+			}
+		},
+		{
+			"name": "Disheveled Assistant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Insect Scientist",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/45.png"
+			}
+		},
+		{
+			"name": "Diving Spider",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spider",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/46.png"
+			}
+		},
+		{
+			"name": "Don't Make a Sound",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/47.png"
+			}
+		},
+		{
+			"name": "Emergency Protocol",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/48.png"
+			}
+		},
+		{
+			"name": "Encased in Crystal",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/49.png"
+			}
+		},
+		{
+			"name": "Frigid Coffin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/50.png"
+			}
+		},
+		{
+			"name": "Frost Bowling",
+			"rarity": "rare",
+			"mana_cost": "{X}{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/51.png"
+			}
+		},
+		{
+			"name": "Gloomy Artist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/52.png"
+			}
+		},
+		{
+			"name": "Haunted Cloth",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/53.png"
+			}
+		},
+		{
+			"name": "Hypnotic Smoke",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/54.png"
+			}
+		},
+		{
+			"name": "Jellyshroom",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Plant Jellyfish",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/55.png"
+			}
+		},
+		{
+			"name": "Kali, Compelling Seamstress",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/56.png"
+			}
+		},
+		{
+			"name": "Mimic Spider",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Spider",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/57.png"
+			}
+		},
+		{
+			"name": "Momentous Discovery",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/58.png"
+			}
+		},
+		{
+			"name": "Professor Neolith",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Insect Scientist",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/59.png"
+			}
+		},
+		{
+			"name": "Quest Board Manager",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/60.png"
+			}
+		},
+		{
+			"name": "Roach Scientists",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect Scientist",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/61.png"
+			}
+		},
+		{
+			"name": "Royal Caretakers",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/62.png"
+			}
+		},
+		{
+			"name": "Secret Route",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/63.png"
+			}
+		},
+		{
+			"name": "Sophisticated Research",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/64.png"
+			}
+		},
+		{
+			"name": "Spry Elder",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/65.png"
+			}
+		},
+		{
+			"name": "Spy",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/66.png"
+			}
+		},
+		{
+			"name": "Spy Cards",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/67.png"
+			}
+		},
+		{
+			"name": "Stealth Mission",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/68.png"
+			}
+		},
+		{
+			"name": "Take Inventory",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/69.png"
+			}
+		},
+		{
+			"name": "The Tidal Wyrm",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Wurm Serpent",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/70.png"
+			}
+		},
+		{
+			"name": "Tournament Challenger",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/71.png"
+			}
+		},
+		{
+			"name": "Alchemize",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/72.png"
+			}
+		},
+		{
+			"name": "Water Strider",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/73.png"
+			}
+		},
+		{
+			"name": "Ambushed by Bandits",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/74.png"
+			}
+		},
+		{
+			"name": "The Beast",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Insect Beast",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/75.png"
+			}
+		},
+		{
+			"name": "Big Mistake",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/76.png"
+			}
+		},
+		{
+			"name": "Bittersweet Memory",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/77.png"
+			}
+		},
+		{
+			"name": "Bounty Board",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/78.png"
+			}
+		},
+		{
+			"name": "Caught as Prey",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/79.png"
+			}
+		},
+		{
+			"name": "Dead Lander Ω",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Creature — Giant Beast Horror",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/80.png"
+			}
+		},
+		{
+			"name": "Dead Lander γ",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/81.png"
+			}
+		},
+		{
+			"name": "Defiant Operators",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/82.png"
+			}
+		},
+		{
+			"name": "Defy Your Past",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/83.png"
+			}
+		},
+		{
+			"name": "Dune Scorpion",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/84.png"
+			}
+		},
+		{
+			"name": "Exiled Alchemist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Scientist",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/85.png"
+			}
+		},
+		{
+			"name": "Failed Experiment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/86.png"
+			}
+		},
+		{
+			"name": "The False Monarch",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Insect Noble",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/87.png"
+			}
+		},
+		{
+			"name": "Lawless Ruffian",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect Rogue",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/88.png"
+			}
+		},
+		{
+			"name": "Leafbug Archer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Archer",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/89.png"
+			}
+		},
+		{
+			"name": "Leif's Request",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/90.png"
+			}
+		},
+		{
+			"name": "Lost Appetite",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/91.png"
+			}
+		},
+		{
+			"name": "Lost Sands Bandit",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Rogue",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/92.png"
+			}
+		},
+		{
+			"name": "Lost Sands Burglar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect Rogue",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/93.png"
+			}
+		},
+		{
+			"name": "Lost Sands Thief",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Rogue",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/94.png"
+			}
+		},
+		{
+			"name": "Madesphy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/95.png"
+			}
+		},
+		{
+			"name": "Mantidfly",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/96.png"
+			}
+		},
+		{
+			"name": "Monsieur Scarlet",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Insect Assassin",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/97.png"
+			}
+		},
+		{
+			"name": "Mothfly Cluster",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/98.png"
+			}
+		},
+		{
+			"name": "Piercing Roar",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/99.png"
+			}
+		},
+		{
+			"name": "Scorpion Caretaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/100.png"
+			}
+		},
+		{
+			"name": "Scorpion Sting",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/101.png"
+			}
+		},
+		{
+			"name": "Shady Dealer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Rogue",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/102.png"
+			}
+		},
+		{
+			"name": "Snakemouth Researchers",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Scientist",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/103.png"
+			}
+		},
+		{
+			"name": "Sororicide",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/104.png"
+			}
+		},
+		{
+			"name": "Sprout From Within",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/105.png"
+			}
+		},
+		{
+			"name": "Stargaze",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/106.png"
+			}
+		},
+		{
+			"name": "Undercover Barkeep",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect Rebel",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/107.png"
+			}
+		},
+		{
+			"name": "Zombee",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Insect",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/108.png"
+			}
+		},
+		{
+			"name": "Zombeetle",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Insect",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/109.png"
+			}
+		},
+		{
+			"name": "Zombiant",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Insect",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/110.png"
+			}
+		},
+		{
+			"name": "Apprehensive Novice",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Insect",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/111.png"
+			}
+		},
+		{
+			"name": "Arrow Worm",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Worm",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/112.png"
+			}
+		},
+		{
+			"name": "Automated Drone Boomerang Prototype",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/113.png"
+			}
+		},
+		{
+			"name": "Battle Plan",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/114.png"
+			}
+		},
+		{
+			"name": "Beehive Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/115.png"
+			}
+		},
+		{
+			"name": "Big Score",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/116.png"
+			}
+		},
+		{
+			"name": "Bomb Master",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Artificer",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/117.png"
+			}
+		},
+		{
+			"name": "Boomerang Toss",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/118.png"
+			}
+		},
+		{
+			"name": "Brash Wager",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/119.png"
+			}
+		},
+		{
+			"name": "Burn Away",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/120.png"
+			}
+		},
+		{
+			"name": "Burning Krawler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/121.png"
+			}
+		},
+		{
+			"name": "Carmina, Seasoned Gambler",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/122.png"
+			}
+		},
+		{
+			"name": "Disciplined Slash",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/123.png"
+			}
+		},
+		{
+			"name": "Exploration Team Rivalry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/124.png"
+			}
+		},
+		{
+			"name": "Explorers' Accountant",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Advisor",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/125.png"
+			}
+		},
+		{
+			"name": "Hurricane Toss",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/126.png"
+			}
+		},
+		{
+			"name": "Lay Siege",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/127.png"
+			}
+		},
+		{
+			"name": "Peculiar Inventor",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Artificer",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/128.png"
+			}
+		},
+		{
+			"name": "Rabid Chase",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/129.png"
+			}
+		},
+		{
+			"name": "Riz, Isolated Bulwark",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Insect Ranger",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/130.png"
+			}
+		},
+		{
+			"name": "Rubbish Enthusiast",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/131.png"
+			}
+		},
+		{
+			"name": "Rush Into Action",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/132.png"
+			}
+		},
+		{
+			"name": "Sharp Assistant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Insect Scientist",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/133.png"
+			}
+		},
+		{
+			"name": "Termite Engineers",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Insect Scientist",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/134.png"
+			}
+		},
+		{
+			"name": "Termite Financier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/135.png"
+			}
+		},
+		{
+			"name": "Termite Knight",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Insect Knight",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/136.png"
+			}
+		},
+		{
+			"name": "Underground Bartender",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/137.png"
+			}
+		},
+		{
+			"name": "Vanessa II, Usurped Queen",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Insect Noble",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/138.png"
+			}
+		},
+		{
+			"name": "Vengeful Kin",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/139.png"
+			}
+		},
+		{
+			"name": "Vi's Request",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/140.png"
+			}
+		},
+		{
+			"name": "Wasp Assault",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/141.png"
+			}
+		},
+		{
+			"name": "Wasp Bomber",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/142.png"
+			}
+		},
+		{
+			"name": "Wasp Driller",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/143.png"
+			}
+		},
+		{
+			"name": "Wasp Fanatic",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/144.png"
+			}
+		},
+		{
+			"name": "Wasp Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Scout",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/145.png"
+			}
+		},
+		{
+			"name": "Wasp Trooper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/146.png"
+			}
+		},
+		{
+			"name": "Wronged Sailor",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/147.png"
+			}
+		},
+		{
+			"name": "Abundant Harvest",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/148.png"
+			}
+		},
+		{
+			"name": "Acolyte Aria",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Insect Cleric",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/149.png"
+			}
+		},
+		{
+			"name": "Altruist Hospitality",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/150.png"
+			}
+		},
+		{
+			"name": "Belostoss",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/151.png"
+			}
+		},
+		{
+			"name": "Butomu, Mighty Blacksmith",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Insect Artificer",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/152.png"
+			}
+		},
+		{
+			"name": "Carry the Lineage",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/153.png"
+			}
+		},
+		{
+			"name": "Charitable Sightseer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/154.png"
+			}
+		},
+		{
+			"name": "Chomper Brute",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/155.png"
+			}
+		},
+		{
+			"name": "Diana, Stout Miner",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Insect Scout",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/156.png"
+			}
+		},
+		{
+			"name": "Duel for Dominance",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/157.png"
+			}
+		},
+		{
+			"name": "Enter the Unknown",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/158.png"
+			}
+		},
+		{
+			"name": "Exotic Voyage",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/159.png"
+			}
+		},
+		{
+			"name": "Fashionable Denizen",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/160.png"
+			}
+		},
+		{
+			"name": "Frenzied Sunflower Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/161.png"
+			}
+		},
+		{
+			"name": "Fruitful Aphids",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/162.png"
+			}
+		},
+		{
+			"name": "Fruity Bugs",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Insect",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/163.png"
+			}
+		},
+		{
+			"name": "Goddess Venus",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Enchantment Creature — Plant God",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/164.png"
+			}
+		},
+		{
+			"name": "Golden Festival Harvest",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/165.png"
+			}
+		},
+		{
+			"name": "Golden Seedling",
+			"rarity": "mythic",
+			"mana_cost": "{6}{G}{G}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/166.png"
+			}
+		},
+		{
+			"name": "Heavy Strike",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/167.png"
+			}
+		},
+		{
+			"name": "Inichas",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/168.png"
+			}
+		},
+		{
+			"name": "Inquisitive Biologist",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Insect Scientist",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/169.png"
+			}
+		},
+		{
+			"name": "Inseparable Travelers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/170.png"
+			}
+		},
+		{
+			"name": "Ironnail",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Snail",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/171.png"
+			}
+		},
+		{
+			"name": "Leafbug Clubber",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect Berserker",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/172.png"
+			}
+		},
+		{
+			"name": "Leafbug Ninja",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Ninja",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/173.png"
+			}
+		},
+		{
+			"name": "Luminous Traveler",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/174.png"
+			}
+		},
+		{
+			"name": "Mother Chomper",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Plant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/175.png"
+			}
+		},
+		{
+			"name": "Primal Weevil",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/176.png"
+			}
+		},
+		{
+			"name": "Seedling",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/177.png"
+			}
+		},
+		{
+			"name": "Seedling King",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Plant Noble",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/178.png"
+			}
+		},
+		{
+			"name": "Shattered Wings",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/179.png"
+			}
+		},
+		{
+			"name": "Tunneling Worm",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Worm",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/180.png"
+			}
+		},
+		{
+			"name": "Venus Guardian",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Plant Soldier",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/181.png"
+			}
+		},
+		{
+			"name": "Venus's Blessing",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/182.png"
+			}
+		},
+		{
+			"name": "Weevil",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/183.png"
+			}
+		},
+		{
+			"name": "Wild Chomper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Insect",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/184.png"
+			}
+		},
+		{
+			"name": "Ant Queen Elizant II",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Insect Noble",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/185.png"
+			}
+		},
+		{
+			"name": "Astotheles, Bandit Leader",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Insect Rogue",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/186.png"
+			}
+		},
+		{
+			"name": "Bee Queen Bianca",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Insect Noble",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/187.png"
+			}
+		},
+		{
+			"name": "The Broodmother",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/188.png"
+			}
+		},
+		{
+			"name": "Cenn and Pisci, Fraudulent Team",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Insect Rogue",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/189.png"
+			}
+		},
+		{
+			"name": "Chompy, Next in Line",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Plant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/190.png"
+			}
+		},
+		{
+			"name": "Cross and Poi, Termite Guards",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Insect Soldier",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/191.png"
+			}
+		},
+		{
+			"name": "The Devourer",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Legendary Creature — Plant Beast",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/192.png"
+			}
+		},
+		{
+			"name": "Doctor H.B.",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Insect Scientist",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/193.png"
+			}
+		},
+		{
+			"name": "Elder of the Roach Village",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/194.png"
+			}
+		},
+		{
+			"name": "Frozen Drill",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/195.png"
+			}
+		},
+		{
+			"name": "Gen and Eri, Twin Team",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Insect Scout",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/196.png"
+			}
+		},
+		{
+			"name": "Jaune, Prodigious Painter",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Insect Citizen",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/197.png"
+			}
+		},
+		{
+			"name": "Kabbu, the Chivalrous",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Insect Hero",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/198.png"
+			}
+		},
+		{
+			"name": "Kenny, the Vagabond",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Insect Citizen",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/199.png"
+			}
+		},
+		{
+			"name": "Kina, Overprotective Fighter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/200.png"
+			}
+		},
+		{
+			"name": "King Hector IV and Queen Layra II",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Insect Noble",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/201.png"
+			}
+		},
+		{
+			"name": "Leif, the Enigmatic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Zombie Insect Hero",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/202.png"
+			}
+		},
+		{
+			"name": "Levi and Celia, Seasoned Explorers",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Insect Scout",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/203.png"
+			}
+		},
+		{
+			"name": "Maki, the Queen's Blade",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Insect Knight",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/204.png"
+			}
+		},
+		{
+			"name": "Mothiva, the Cutthroat",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Insect Bard",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/205.png"
+			}
+		},
+		{
+			"name": "Needle Pincer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Instant",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/206.png"
+			}
+		},
+		{
+			"name": "The Peacock Spider",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Spider",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/207.png"
+			}
+		},
+		{
+			"name": "Professor Honeycomb",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Insect Scientist",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/208.png"
+			}
+		},
+		{
+			"name": "Spuder, Bane of Explorers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Spider",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/209.png"
+			}
+		},
+		{
+			"name": "Stratos and Delilah, Team Slacker",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Insect Scout",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/210.png"
+			}
+		},
+		{
+			"name": "Tarantular, the Wizard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Insect Wizard",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/211.png"
+			}
+		},
+		{
+			"name": "ULTIMAX Tank",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/212.png"
+			}
+		},
+		{
+			"name": "Vi, the Audacious",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Insect Hero",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/213.png"
+			}
+		},
+		{
+			"name": "Wasp General Ultimax",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Insect Advisor",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/214.png"
+			}
+		},
+		{
+			"name": "Wasp King Hoaxe",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Insect Noble",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/215.png"
+			}
+		},
+		{
+			"name": "The Watcher",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Zombie Insect",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/216.png"
+			}
+		},
+		{
+			"name": "Zaryant, Royal Bodyguard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Insect Soldier",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/217.png"
+			}
+		},
+		{
+			"name": "Zasp, the Zealous",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/218.png"
+			}
+		},
+		{
+			"name": "Zommoth",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Zombie Insect Beast",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/219.png"
+			}
+		},
+		{
+			"name": "Abomihoney",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Food Beast",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/220.png"
+			}
+		},
+		{
+			"name": "Ahoneynation",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Food Beast",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/221.png"
+			}
+		},
+		{
+			"name": "Ancient Mask",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/222.png"
+			}
+		},
+		{
+			"name": "Antlion Jaws",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/223.png"
+			}
+		},
+		{
+			"name": "Berserker",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/224.png"
+			}
+		},
+		{
+			"name": "Bug Me Not!",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/225.png"
+			}
+		},
+		{
+			"name": "Charge Up Plus",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/226.png"
+			}
+		},
+		{
+			"name": "Expedition Map",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/227.png"
+			}
+		},
+		{
+			"name": "Favorite One",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/228.png"
+			}
+		},
+		{
+			"name": "HP Plus",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/229.png"
+			}
+		},
+		{
+			"name": "Leaf Cloak",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/230.png"
+			}
+		},
+		{
+			"name": "Leaf of the Everlasting Sapling",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/231.png"
+			}
+		},
+		{
+			"name": "Life Cast",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/232.png"
+			}
+		},
+		{
+			"name": "Life Stealer",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/233.png"
+			}
+		},
+		{
+			"name": "Miracle Matter",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/234.png"
+			}
+		},
+		{
+			"name": "Smoke Bomb",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/235.png"
+			}
+		},
+		{
+			"name": "Strong Start",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/236.png"
+			}
+		},
+		{
+			"name": "Trading Post",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/237.png"
+			}
+		},
+		{
+			"name": "Triumph Buzz",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/238.png"
+			}
+		},
+		{
+			"name": "Bountiful Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/239.png"
+			}
+		},
+		{
+			"name": "Deceptive Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/240.png"
+			}
+		},
+		{
+			"name": "Expensive Resort",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/241.png"
+			}
+		},
+		{
+			"name": "Fabled Passage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/242.png"
+			}
+		},
+		{
+			"name": "Foreboding Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/243.png"
+			}
+		},
+		{
+			"name": "Perilous Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/244.png"
+			}
+		},
+		{
+			"name": "Royal Court",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/245.png"
+			}
+		},
+		{
+			"name": "Secluded Village",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/246.png"
+			}
+		},
+		{
+			"name": "Shattered Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/247.png"
+			}
+		},
+		{
+			"name": "Snakemouth Haven",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/248.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/249.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/250.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/251.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/252.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/253.png"
+			}
+		},
+		{
+			"name": "Insect Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/254.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/255.png"
+			}
+		},
+		{
+			"name": "Leafbug Ninja",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect Ninja",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/256.png"
+			}
+		},
+		{
+			"name": "Seedling",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/257.png"
+			}
+		},
+		{
+			"name": "Venus Bud",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/258.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/259.png"
+			}
+		},
+		{
+			"name": "Insect Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect Beast",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/260.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/261.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/262.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/263.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/264.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/265.png"
+			}
+		},
+		{
+			"name": "Abomihoney",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Food Beast",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/266.png"
+			}
+		},
+		{
+			"name": "Sand Warden",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/267.png"
+			}
+		},
+		{
+			"name": "Helper Boost",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Medal Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/268.png"
+			}
+		},
+		{
+			"name": "Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Citizen",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/269.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Amber, Devoted Carrier
+	2 Eetl, Retired Administrator
+	2 Heavy Drone B-33
+	2 Jayde, Dissident Worker
+	1 Kabbu's Request
+	2 Mayor Emmet
+	2 A Mother's Dream
+	1 Queen Elizant I, the Peacemaker
+	2 Yin, Late Bloomer
+	2 Ancient Icefall
+	2 Frost Bowling
+	2 Hypnotic Smoke
+	2 Kali, Compelling Seamstress
+	2 Mimic Spider
+	2 Professor Neolith
+	1 Spy Cards
+	1 The Tidal Wyrm
+	2 Alchemize
+	2 The Beast
+	1 Dead Lander Ω
+	2 Dead Lander γ
+	2 Dune Scorpion
+	2 The False Monarch
+	1 Leif's Request
+	2 Monsieur Scarlet
+	2 Piercing Roar
+	2 Sororicide
+	1 Automated Drone Boomerang Prototype
+	2 Carmina, Seasoned Gambler
+	2 Disciplined Slash
+	2 Hurricane Toss
+	2 Peculiar Inventor
+	2 Riz, Isolated Bulwark
+	2 Termite Knight
+	2 Vanessa II, Usurped Queen
+	1 Vi's Request
+	2 Acolyte Aria
+	2 Butomu, Mighty Blacksmith
+	2 Carry the Lineage
+	2 Diana, Stout Miner
+	1 Goddess Venus
+	1 Golden Seedling
+	2 Mother Chomper
+	2 Seedling King
+	2 Venus Guardian
+	2 Ant Queen Elizant II
+	2 Astotheles, Bandit Leader
+	2 Bee Queen Bianca
+	2 The Broodmother
+	2 The Devourer
+	2 Frozen Drill
+	2 Kina, Overprotective Fighter
+	2 King Hector IV and Queen Layra II
+	2 Levi and Celia, Seasoned Explorers
+	2 Maki, the Queen's Blade
+	2 The Peacock Spider
+	2 ULTIMAX Tank
+	2 Wasp King Hoaxe
+	2 The Watcher
+	2 Zommoth
+	2 Ahoneynation
+	2 Ancient Mask
+	2 Charge Up Plus
+	1 Leaf of the Everlasting Sapling
+	1 Life Cast
+	1 Miracle Matter
+	2 Trading Post
+	2 Fabled Passage
+[uncommon(3)]
+	4 Ant Kingdom Lieutenant
+	4 Aspiring Musician
+	4 A Bond Thicker Than Honey
+	4 Boulder Toss
+	4 Desperate Treatment
+	4 Honey Factory Maintenance Chief
+	4 Honey Factory Overseer
+	4 Kingdom Border Guard
+	4 Queen's Teachings
+	4 Queen's Decree
+	4 Beetle Fortune Teller
+	4 Bloatshroom
+	4 Charm Dancer
+	4 Checkpoint Scan
+	4 Cocoon of Slumber
+	4 Denmuki
+	4 Disheveled Assistant
+	4 Frigid Coffin
+	4 Roach Scientists
+	4 Sophisticated Research
+	4 Bounty Board
+	4 Caught as Prey
+	4 Defiant Operators
+	4 Exiled Alchemist
+	4 Failed Experiment
+	4 Lost Sands Burglar
+	4 Scorpion Caretaker
+	4 Sprout From Within
+	4 Stargaze
+	4 Undercover Barkeep
+	4 Bomb Master
+	4 Burn Away
+	4 Burning Krawler
+	4 Exploration Team Rivalry
+	4 Lay Siege
+	4 Sharp Assistant
+	4 Termite Engineers
+	4 Termite Financier
+	4 Wasp Bomber
+	4 Wasp Driller
+	4 Altruist Hospitality
+	4 Belostoss
+	4 Charitable Sightseer
+	4 Chomper Brute
+	4 Enter the Unknown
+	4 Frenzied Sunflower Dance
+	4 Golden Festival Harvest
+	4 Inseparable Travelers
+	4 Primal Weevil
+	4 Venus's Blessing
+	4 Cenn and Pisci, Fraudulent Team
+	4 Chompy, Next in Line
+	4 Cross and Poi, Termite Guards
+	4 Doctor H.B.
+	4 Elder of the Roach Village
+	4 Gen and Eri, Twin Team
+	4 Jaune, Prodigious Painter
+	4 Kabbu, the Chivalrous
+	4 Kenny, the Vagabond
+	4 Leif, the Enigmatic
+	4 Mothiva, the Cutthroat
+	4 Needle Pincer
+	4 Professor Honeycomb
+	4 Spuder, Bane of Explorers
+	4 Stratos and Delilah, Team Slacker
+	4 Tarantular, the Wizard
+	4 Vi, the Audacious
+	4 Wasp General Ultimax
+	4 Zaryant, Royal Bodyguard
+	4 Zasp, the Zealous
+	4 Bug Me Not!
+	4 Favorite One
+	4 Leaf Cloak
+	4 Smoke Bomb
+	4 Strong Start
+	4 Triumph Buzz
+	4 Expensive Resort
+	4 Royal Court
+	4 Secluded Village
+	4 Snakemouth Haven
+	4 Helper Boost
+[common(6)]
+	8 Affable Bee
+	8 Ant Kingdom Infantry
+	8 Ant Tunnel Miner
+	8 Assisted Hover
+	8 Bee-Boop
+	8 Defiant Standoff
+	8 Diligent Cleaner
+	8 Explorers' Celebration
+	8 Gift of Love
+	8 Inspiring Melody
+	8 Masterful Slice
+	8 Medal Vendor
+	8 Medicine Brewer
+	8 Passionate Baker
+	8 Quicksand Whirlpool
+	8 Salvation Strike
+	8 Security Turret
+	8 Seedling Slayer
+	8 Bubble Shield
+	8 Diving Spider
+	8 Don't Make a Sound
+	8 Emergency Protocol
+	8 Encased in Crystal
+	8 Gloomy Artist
+	8 Haunted Cloth
+	8 Jellyshroom
+	8 Momentous Discovery
+	8 Quest Board Manager
+	8 Royal Caretakers
+	8 Secret Route
+	8 Spry Elder
+	8 Spy
+	8 Stealth Mission
+	8 Take Inventory
+	8 Tournament Challenger
+	8 Water Strider
+	8 Ambushed by Bandits
+	8 Big Mistake
+	8 Bittersweet Memory
+	8 Defy Your Past
+	8 Lawless Ruffian
+	8 Leafbug Archer
+	8 Lost Appetite
+	8 Lost Sands Bandit
+	8 Lost Sands Thief
+	8 Madesphy
+	8 Mantidfly
+	8 Mothfly Cluster
+	8 Scorpion Sting
+	8 Shady Dealer
+	8 Snakemouth Researchers
+	8 Zombee
+	8 Zombeetle
+	8 Zombiant
+	8 Apprehensive Novice
+	8 Arrow Worm
+	8 Battle Plan
+	8 Beehive Guardian
+	8 Big Score
+	8 Boomerang Toss
+	8 Brash Wager
+	8 Explorers' Accountant
+	8 Rabid Chase
+	8 Rubbish Enthusiast
+	8 Rush Into Action
+	8 Underground Bartender
+	8 Vengeful Kin
+	8 Wasp Assault
+	8 Wasp Fanatic
+	8 Wasp Scout
+	8 Wasp Trooper
+	8 Wronged Sailor
+	8 Abundant Harvest
+	8 Duel for Dominance
+	8 Exotic Voyage
+	8 Fashionable Denizen
+	8 Fruitful Aphids
+	8 Fruity Bugs
+	8 Heavy Strike
+	8 Inichas
+	8 Inquisitive Biologist
+	8 Ironnail
+	8 Leafbug Clubber
+	8 Leafbug Ninja
+	8 Luminous Traveler
+	8 Seedling
+	8 Shattered Wings
+	8 Tunneling Worm
+	8 Weevil
+	8 Wild Chomper
+	8 Abomihoney
+	8 Antlion Jaws
+	8 Berserker
+	8 Expedition Map
+	8 HP Plus
+	8 Life Stealer
+	8 Bountiful Landscape
+	8 Deceptive Landscape
+	8 Foreboding Landscape
+	8 Perilous Landscape
+	8 Shattered Landscape
+	8 Sand Warden
+[common | masterpiece(1)]
+	8 Affable Bee
+	8 Ant Kingdom Infantry
+	8 Ant Tunnel Miner
+	8 Assisted Hover
+	8 Bee-Boop
+	8 Defiant Standoff
+	8 Diligent Cleaner
+	8 Explorers' Celebration
+	8 Gift of Love
+	8 Inspiring Melody
+	8 Masterful Slice
+	8 Medal Vendor
+	8 Medicine Brewer
+	8 Passionate Baker
+	8 Quicksand Whirlpool
+	8 Salvation Strike
+	8 Security Turret
+	8 Seedling Slayer
+	8 Bubble Shield
+	8 Diving Spider
+	8 Don't Make a Sound
+	8 Emergency Protocol
+	8 Encased in Crystal
+	8 Gloomy Artist
+	8 Haunted Cloth
+	8 Jellyshroom
+	8 Momentous Discovery
+	8 Quest Board Manager
+	8 Royal Caretakers
+	8 Secret Route
+	8 Spry Elder
+	8 Spy
+	8 Stealth Mission
+	8 Take Inventory
+	8 Tournament Challenger
+	8 Water Strider
+	8 Ambushed by Bandits
+	8 Big Mistake
+	8 Bittersweet Memory
+	8 Defy Your Past
+	8 Lawless Ruffian
+	8 Leafbug Archer
+	8 Lost Appetite
+	8 Lost Sands Bandit
+	8 Lost Sands Thief
+	8 Madesphy
+	8 Mantidfly
+	8 Mothfly Cluster
+	8 Scorpion Sting
+	8 Shady Dealer
+	8 Snakemouth Researchers
+	8 Zombee
+	8 Zombeetle
+	8 Zombiant
+	8 Apprehensive Novice
+	8 Arrow Worm
+	8 Battle Plan
+	8 Beehive Guardian
+	8 Big Score
+	8 Boomerang Toss
+	8 Brash Wager
+	8 Explorers' Accountant
+	8 Rabid Chase
+	8 Rubbish Enthusiast
+	8 Rush Into Action
+	8 Underground Bartender
+	8 Vengeful Kin
+	8 Wasp Assault
+	8 Wasp Fanatic
+	8 Wasp Scout
+	8 Wasp Trooper
+	8 Wronged Sailor
+	8 Abundant Harvest
+	8 Duel for Dominance
+	8 Exotic Voyage
+	8 Fashionable Denizen
+	8 Fruitful Aphids
+	8 Fruity Bugs
+	8 Heavy Strike
+	8 Inichas
+	8 Inquisitive Biologist
+	8 Ironnail
+	8 Leafbug Clubber
+	8 Leafbug Ninja
+	8 Luminous Traveler
+	8 Seedling
+	8 Shattered Wings
+	8 Tunneling Worm
+	8 Weevil
+	8 Wild Chomper
+	8 Abomihoney
+	8 Antlion Jaws
+	8 Berserker
+	8 Expedition Map
+	8 HP Plus
+	8 Life Stealer
+	8 Bountiful Landscape
+	8 Deceptive Landscape
+	8 Foreboding Landscape
+	8 Perilous Landscape
+	8 Shattered Landscape
+	8 Sand Warden
+[foil(1)]
+	12 Affable Bee
+	2 Amber, Devoted Carrier
+	12 Ant Kingdom Infantry
+	6 Ant Kingdom Lieutenant
+	12 Ant Tunnel Miner
+	6 Aspiring Musician
+	12 Assisted Hover
+	12 Bee-Boop
+	6 A Bond Thicker Than Honey
+	6 Boulder Toss
+	12 Defiant Standoff
+	6 Desperate Treatment
+	12 Diligent Cleaner
+	2 Eetl, Retired Administrator
+	12 Explorers' Celebration
+	12 Gift of Love
+	2 Heavy Drone B-33
+	6 Honey Factory Maintenance Chief
+	6 Honey Factory Overseer
+	12 Inspiring Melody
+	2 Jayde, Dissident Worker
+	1 Kabbu's Request
+	6 Kingdom Border Guard
+	12 Masterful Slice
+	2 Mayor Emmet
+	12 Medal Vendor
+	12 Medicine Brewer
+	2 A Mother's Dream
+	12 Passionate Baker
+	1 Queen Elizant I, the Peacemaker
+	6 Queen's Teachings
+	12 Quicksand Whirlpool
+	6 Queen's Decree
+	12 Salvation Strike
+	12 Security Turret
+	12 Seedling Slayer
+	2 Yin, Late Bloomer
+	2 Ancient Icefall
+	6 Beetle Fortune Teller
+	6 Bloatshroom
+	12 Bubble Shield
+	6 Charm Dancer
+	6 Checkpoint Scan
+	6 Cocoon of Slumber
+	6 Denmuki
+	6 Disheveled Assistant
+	12 Diving Spider
+	12 Don't Make a Sound
+	12 Emergency Protocol
+	12 Encased in Crystal
+	6 Frigid Coffin
+	2 Frost Bowling
+	12 Gloomy Artist
+	12 Haunted Cloth
+	2 Hypnotic Smoke
+	12 Jellyshroom
+	2 Kali, Compelling Seamstress
+	2 Mimic Spider
+	12 Momentous Discovery
+	2 Professor Neolith
+	12 Quest Board Manager
+	6 Roach Scientists
+	12 Royal Caretakers
+	12 Secret Route
+	6 Sophisticated Research
+	12 Spry Elder
+	12 Spy
+	1 Spy Cards
+	12 Stealth Mission
+	12 Take Inventory
+	1 The Tidal Wyrm
+	12 Tournament Challenger
+	2 Alchemize
+	12 Water Strider
+	12 Ambushed by Bandits
+	2 The Beast
+	12 Big Mistake
+	12 Bittersweet Memory
+	6 Bounty Board
+	6 Caught as Prey
+	1 Dead Lander Ω
+	2 Dead Lander γ
+	6 Defiant Operators
+	12 Defy Your Past
+	2 Dune Scorpion
+	6 Exiled Alchemist
+	6 Failed Experiment
+	2 The False Monarch
+	12 Lawless Ruffian
+	12 Leafbug Archer
+	1 Leif's Request
+	12 Lost Appetite
+	12 Lost Sands Bandit
+	6 Lost Sands Burglar
+	12 Lost Sands Thief
+	12 Madesphy
+	12 Mantidfly
+	2 Monsieur Scarlet
+	12 Mothfly Cluster
+	2 Piercing Roar
+	6 Scorpion Caretaker
+	12 Scorpion Sting
+	12 Shady Dealer
+	12 Snakemouth Researchers
+	2 Sororicide
+	6 Sprout From Within
+	6 Stargaze
+	6 Undercover Barkeep
+	12 Zombee
+	12 Zombeetle
+	12 Zombiant
+	12 Apprehensive Novice
+	12 Arrow Worm
+	1 Automated Drone Boomerang Prototype
+	12 Battle Plan
+	12 Beehive Guardian
+	12 Big Score
+	6 Bomb Master
+	12 Boomerang Toss
+	12 Brash Wager
+	6 Burn Away
+	6 Burning Krawler
+	2 Carmina, Seasoned Gambler
+	2 Disciplined Slash
+	6 Exploration Team Rivalry
+	12 Explorers' Accountant
+	2 Hurricane Toss
+	6 Lay Siege
+	2 Peculiar Inventor
+	12 Rabid Chase
+	2 Riz, Isolated Bulwark
+	12 Rubbish Enthusiast
+	12 Rush Into Action
+	6 Sharp Assistant
+	6 Termite Engineers
+	6 Termite Financier
+	2 Termite Knight
+	12 Underground Bartender
+	2 Vanessa II, Usurped Queen
+	12 Vengeful Kin
+	1 Vi's Request
+	12 Wasp Assault
+	6 Wasp Bomber
+	6 Wasp Driller
+	12 Wasp Fanatic
+	12 Wasp Scout
+	12 Wasp Trooper
+	12 Wronged Sailor
+	12 Abundant Harvest
+	2 Acolyte Aria
+	6 Altruist Hospitality
+	6 Belostoss
+	2 Butomu, Mighty Blacksmith
+	2 Carry the Lineage
+	6 Charitable Sightseer
+	6 Chomper Brute
+	2 Diana, Stout Miner
+	12 Duel for Dominance
+	6 Enter the Unknown
+	12 Exotic Voyage
+	12 Fashionable Denizen
+	6 Frenzied Sunflower Dance
+	12 Fruitful Aphids
+	12 Fruity Bugs
+	1 Goddess Venus
+	6 Golden Festival Harvest
+	1 Golden Seedling
+	12 Heavy Strike
+	12 Inichas
+	12 Inquisitive Biologist
+	6 Inseparable Travelers
+	12 Ironnail
+	12 Leafbug Clubber
+	12 Leafbug Ninja
+	12 Luminous Traveler
+	2 Mother Chomper
+	6 Primal Weevil
+	12 Seedling
+	2 Seedling King
+	12 Shattered Wings
+	12 Tunneling Worm
+	2 Venus Guardian
+	6 Venus's Blessing
+	12 Weevil
+	12 Wild Chomper
+	2 Ant Queen Elizant II
+	2 Astotheles, Bandit Leader
+	2 Bee Queen Bianca
+	2 The Broodmother
+	6 Cenn and Pisci, Fraudulent Team
+	6 Chompy, Next in Line
+	6 Cross and Poi, Termite Guards
+	2 The Devourer
+	6 Doctor H.B.
+	6 Elder of the Roach Village
+	2 Frozen Drill
+	6 Gen and Eri, Twin Team
+	6 Jaune, Prodigious Painter
+	6 Kabbu, the Chivalrous
+	6 Kenny, the Vagabond
+	2 Kina, Overprotective Fighter
+	2 King Hector IV and Queen Layra II
+	6 Leif, the Enigmatic
+	2 Levi and Celia, Seasoned Explorers
+	2 Maki, the Queen's Blade
+	6 Mothiva, the Cutthroat
+	6 Needle Pincer
+	2 The Peacock Spider
+	6 Professor Honeycomb
+	6 Spuder, Bane of Explorers
+	6 Stratos and Delilah, Team Slacker
+	6 Tarantular, the Wizard
+	2 ULTIMAX Tank
+	6 Vi, the Audacious
+	6 Wasp General Ultimax
+	2 Wasp King Hoaxe
+	2 The Watcher
+	6 Zaryant, Royal Bodyguard
+	6 Zasp, the Zealous
+	2 Zommoth
+	12 Abomihoney
+	2 Ahoneynation
+	2 Ancient Mask
+	12 Antlion Jaws
+	12 Berserker
+	6 Bug Me Not!
+	2 Charge Up Plus
+	12 Expedition Map
+	6 Favorite One
+	12 HP Plus
+	6 Leaf Cloak
+	1 Leaf of the Everlasting Sapling
+	1 Life Cast
+	12 Life Stealer
+	1 Miracle Matter
+	6 Smoke Bomb
+	6 Strong Start
+	2 Trading Post
+	6 Triumph Buzz
+	12 Bountiful Landscape
+	12 Deceptive Landscape
+	6 Expensive Resort
+	2 Fabled Passage
+	12 Foreboding Landscape
+	12 Perilous Landscape
+	6 Royal Court
+	6 Secluded Village
+	12 Shattered Landscape
+	6 Snakemouth Haven
+	12 Sand Warden
+	6 Helper Boost
+[wildcard(1)]
+	6 Affable Bee
+	7 Amber, Devoted Carrier
+	6 Ant Kingdom Infantry
+	15 Ant Kingdom Lieutenant
+	6 Ant Tunnel Miner
+	15 Aspiring Musician
+	6 Assisted Hover
+	6 Bee-Boop
+	15 A Bond Thicker Than Honey
+	15 Boulder Toss
+	6 Defiant Standoff
+	15 Desperate Treatment
+	6 Diligent Cleaner
+	7 Eetl, Retired Administrator
+	6 Explorers' Celebration
+	6 Gift of Love
+	7 Heavy Drone B-33
+	15 Honey Factory Maintenance Chief
+	15 Honey Factory Overseer
+	6 Inspiring Melody
+	7 Jayde, Dissident Worker
+	4 Kabbu's Request
+	15 Kingdom Border Guard
+	6 Masterful Slice
+	7 Mayor Emmet
+	6 Medal Vendor
+	6 Medicine Brewer
+	7 A Mother's Dream
+	6 Passionate Baker
+	4 Queen Elizant I, the Peacemaker
+	15 Queen's Teachings
+	6 Quicksand Whirlpool
+	15 Queen's Decree
+	6 Salvation Strike
+	6 Security Turret
+	6 Seedling Slayer
+	7 Yin, Late Bloomer
+	7 Ancient Icefall
+	15 Beetle Fortune Teller
+	15 Bloatshroom
+	6 Bubble Shield
+	15 Charm Dancer
+	15 Checkpoint Scan
+	15 Cocoon of Slumber
+	15 Denmuki
+	15 Disheveled Assistant
+	6 Diving Spider
+	6 Don't Make a Sound
+	6 Emergency Protocol
+	6 Encased in Crystal
+	15 Frigid Coffin
+	7 Frost Bowling
+	6 Gloomy Artist
+	6 Haunted Cloth
+	7 Hypnotic Smoke
+	6 Jellyshroom
+	7 Kali, Compelling Seamstress
+	7 Mimic Spider
+	6 Momentous Discovery
+	7 Professor Neolith
+	6 Quest Board Manager
+	15 Roach Scientists
+	6 Royal Caretakers
+	6 Secret Route
+	15 Sophisticated Research
+	6 Spry Elder
+	6 Spy
+	4 Spy Cards
+	6 Stealth Mission
+	6 Take Inventory
+	4 The Tidal Wyrm
+	6 Tournament Challenger
+	7 Alchemize
+	6 Water Strider
+	6 Ambushed by Bandits
+	7 The Beast
+	6 Big Mistake
+	6 Bittersweet Memory
+	15 Bounty Board
+	15 Caught as Prey
+	4 Dead Lander Ω
+	7 Dead Lander γ
+	15 Defiant Operators
+	6 Defy Your Past
+	7 Dune Scorpion
+	15 Exiled Alchemist
+	15 Failed Experiment
+	7 The False Monarch
+	6 Lawless Ruffian
+	6 Leafbug Archer
+	4 Leif's Request
+	6 Lost Appetite
+	6 Lost Sands Bandit
+	15 Lost Sands Burglar
+	6 Lost Sands Thief
+	6 Madesphy
+	6 Mantidfly
+	7 Monsieur Scarlet
+	6 Mothfly Cluster
+	7 Piercing Roar
+	15 Scorpion Caretaker
+	6 Scorpion Sting
+	6 Shady Dealer
+	6 Snakemouth Researchers
+	7 Sororicide
+	15 Sprout From Within
+	15 Stargaze
+	15 Undercover Barkeep
+	6 Zombee
+	6 Zombeetle
+	6 Zombiant
+	6 Apprehensive Novice
+	6 Arrow Worm
+	4 Automated Drone Boomerang Prototype
+	6 Battle Plan
+	6 Beehive Guardian
+	6 Big Score
+	15 Bomb Master
+	6 Boomerang Toss
+	6 Brash Wager
+	15 Burn Away
+	15 Burning Krawler
+	7 Carmina, Seasoned Gambler
+	7 Disciplined Slash
+	15 Exploration Team Rivalry
+	6 Explorers' Accountant
+	7 Hurricane Toss
+	15 Lay Siege
+	7 Peculiar Inventor
+	6 Rabid Chase
+	7 Riz, Isolated Bulwark
+	6 Rubbish Enthusiast
+	6 Rush Into Action
+	15 Sharp Assistant
+	15 Termite Engineers
+	15 Termite Financier
+	7 Termite Knight
+	6 Underground Bartender
+	7 Vanessa II, Usurped Queen
+	6 Vengeful Kin
+	4 Vi's Request
+	6 Wasp Assault
+	15 Wasp Bomber
+	15 Wasp Driller
+	6 Wasp Fanatic
+	6 Wasp Scout
+	6 Wasp Trooper
+	6 Wronged Sailor
+	6 Abundant Harvest
+	7 Acolyte Aria
+	15 Altruist Hospitality
+	15 Belostoss
+	7 Butomu, Mighty Blacksmith
+	7 Carry the Lineage
+	15 Charitable Sightseer
+	15 Chomper Brute
+	7 Diana, Stout Miner
+	6 Duel for Dominance
+	15 Enter the Unknown
+	6 Exotic Voyage
+	6 Fashionable Denizen
+	15 Frenzied Sunflower Dance
+	6 Fruitful Aphids
+	6 Fruity Bugs
+	4 Goddess Venus
+	15 Golden Festival Harvest
+	4 Golden Seedling
+	6 Heavy Strike
+	6 Inichas
+	6 Inquisitive Biologist
+	15 Inseparable Travelers
+	6 Ironnail
+	6 Leafbug Clubber
+	6 Leafbug Ninja
+	6 Luminous Traveler
+	7 Mother Chomper
+	15 Primal Weevil
+	6 Seedling
+	7 Seedling King
+	6 Shattered Wings
+	6 Tunneling Worm
+	7 Venus Guardian
+	15 Venus's Blessing
+	6 Weevil
+	6 Wild Chomper
+	7 Ant Queen Elizant II
+	7 Astotheles, Bandit Leader
+	7 Bee Queen Bianca
+	7 The Broodmother
+	15 Cenn and Pisci, Fraudulent Team
+	15 Chompy, Next in Line
+	15 Cross and Poi, Termite Guards
+	7 The Devourer
+	15 Doctor H.B.
+	15 Elder of the Roach Village
+	7 Frozen Drill
+	15 Gen and Eri, Twin Team
+	15 Jaune, Prodigious Painter
+	15 Kabbu, the Chivalrous
+	15 Kenny, the Vagabond
+	7 Kina, Overprotective Fighter
+	7 King Hector IV and Queen Layra II
+	15 Leif, the Enigmatic
+	7 Levi and Celia, Seasoned Explorers
+	7 Maki, the Queen's Blade
+	15 Mothiva, the Cutthroat
+	15 Needle Pincer
+	7 The Peacock Spider
+	15 Professor Honeycomb
+	15 Spuder, Bane of Explorers
+	15 Stratos and Delilah, Team Slacker
+	15 Tarantular, the Wizard
+	7 ULTIMAX Tank
+	15 Vi, the Audacious
+	15 Wasp General Ultimax
+	7 Wasp King Hoaxe
+	7 The Watcher
+	15 Zaryant, Royal Bodyguard
+	15 Zasp, the Zealous
+	7 Zommoth
+	6 Abomihoney
+	7 Ahoneynation
+	7 Ancient Mask
+	6 Antlion Jaws
+	6 Berserker
+	15 Bug Me Not!
+	7 Charge Up Plus
+	6 Expedition Map
+	15 Favorite One
+	6 HP Plus
+	15 Leaf Cloak
+	4 Leaf of the Everlasting Sapling
+	4 Life Cast
+	6 Life Stealer
+	4 Miracle Matter
+	15 Smoke Bomb
+	15 Strong Start
+	7 Trading Post
+	15 Triumph Buzz
+	6 Bountiful Landscape
+	6 Deceptive Landscape
+	15 Expensive Resort
+	7 Fabled Passage
+	6 Foreboding Landscape
+	6 Perilous Landscape
+	15 Royal Court
+	15 Secluded Village
+	6 Shattered Landscape
+	15 Snakemouth Haven
+	6 Sand Warden
+	15 Helper Boost
