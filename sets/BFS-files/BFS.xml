@@ -5,7 +5,7 @@
 			<name>BFS</name>
 			<longname>Bug Fables Custom Set (Beta V1) (WIP)</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-16</releasedate>
+			<releasedate>2026-05-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -80,6 +80,7 @@ Whenever a creature you control trains, create a 1/1 white Insect Soldier creatu
 				<pt>3/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Insect Soldier</related>
 		</card>
 		<card>
 			<name>Ant Tunnel Miner</name>
@@ -97,6 +98,7 @@ Whenever a creature you control trains, create a 1/1 white Insect Soldier creatu
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Treasure</related>
 		</card>
 		<card>
 			<name>Aspiring Musician</name>
@@ -115,6 +117,7 @@ Whenever a creature you control trains, create a 1/1 white Insect Soldier creatu
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Citizen</related>
 		</card>
 		<card>
 			<name>Assisted Hover</name>
@@ -272,6 +275,8 @@ Flashback {3}{W} (You may cast this card from your graveyard for its flashback c
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Food</related>
+			<related count="1">Insect Soldier</related>
 		</card>
 		<card>
 			<name>Gift of Love</name>
@@ -308,6 +313,7 @@ When Heavy Drone B-33 attacks, manufacture 1.</text>
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Honey Factory Maintenance Chief</name>
@@ -326,6 +332,7 @@ When this creature enters, manufacture 1 three times. (To manufacture 1, put a +
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Honey Factory Overseer</name>
@@ -344,6 +351,7 @@ When this creature enters, manufacture 1 three times. (To manufacture 1, put a +
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Inspiring Melody</name>
@@ -380,6 +388,7 @@ Whenever one or more creatures you control deal combat damage to a player, creat
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Insect Soldier</related>
 		</card>
 		<card>
 			<name>Kabbu&apos;s Request</name>
@@ -432,6 +441,8 @@ Creatures you control with counters on them have ward {1}. (Whenever this creatu
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="3">Insect Soldier</related>
+			<related count="3">Food</related>
 		</card>
 		<card>
 			<name>Mayor Emmet</name>
@@ -450,6 +461,7 @@ Creatures you control with counters on them have ward {1}. (Whenever this creatu
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Citizen</related>
 		</card>
 		<card>
 			<name>Medal Vendor</name>
@@ -503,6 +515,7 @@ At the beginning of combat on your turn, if you control an Equipment, you may pa
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="2">Treasure</related>
 		</card>
 		<card>
 			<name>Passionate Baker</name>
@@ -521,6 +534,8 @@ At the beginning of your end step, if two or more tokens have left the battlefie
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Food</related>
+			<related count="1">Abomihoney</related>
 		</card>
 		<card>
 			<name>Queen Elizant I, the Peacemaker</name>
@@ -557,6 +572,7 @@ Manufacture 1 X times. (To manufacture 1, put a +1/+1 counter on a creature you 
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Quicksand Whirlpool</name>
@@ -590,6 +606,7 @@ Exile target creature.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Insect Soldier</related>
 		</card>
 		<card>
 			<name>Salvation Strike</name>
@@ -624,6 +641,7 @@ When this creature dies, manufacture 1. (Put a +1/+1 counter on a creature you c
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Seedling Slayer</name>
@@ -818,6 +836,7 @@ When this creature enters, manufacture 2. (Distribute two +1/+1 counters among c
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Diving Spider</name>
@@ -868,6 +887,7 @@ When this creature enters, manufacture 2. (Distribute two +1/+1 counters among c
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Encased in Crystal</name>
@@ -955,6 +975,7 @@ When this creature enters, manufacture 1. (Put a +1/+1 counter on a creature you
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Hypnotic Smoke</name>
@@ -1095,6 +1116,7 @@ Whenever an artifact you control enters, scry 1.</text>
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Royal Caretakers</name>
@@ -1145,6 +1167,7 @@ When this creature leaves the battlefield, target creature you control explores.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Spry Elder</name>
@@ -1316,6 +1339,7 @@ When The Tidal Wyrm enters, tap all creatures your opponents control. Put a stun
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Treasure</related>
 		</card>
 		<card>
 			<name>The Beast</name>
@@ -1385,6 +1409,7 @@ Flashback {3}{B} (You may cast this card from your graveyard for its flashback c
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="1">Treasure</related>
 		</card>
 		<card>
 			<name>Caught as Prey</name>
@@ -1546,6 +1571,7 @@ When this creature enters, attacks, or dies, create a 1/1 black Insect creature 
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Insect</related>
 		</card>
 		<card>
 			<name>Lawless Ruffian</name>
@@ -1598,6 +1624,7 @@ Renew — {2}{B}, Exile this card from your graveyard: Put a +1/+1 counter and a
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="1">Clue</related>
 		</card>
 		<card>
 			<name>Lost Appetite</name>
@@ -1743,6 +1770,7 @@ When this creature dies, create two 1/1 black Insect creature tokens with flying
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Insect</related>
 		</card>
 		<card>
 			<name>Piercing Roar</name>
@@ -1778,6 +1806,7 @@ Flashback {5}{B}{B}{B} (You may cast this card from your graveyard for its flash
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Insect Beast</related>
 		</card>
 		<card>
 			<name>Scorpion Sting</name>
@@ -1916,6 +1945,7 @@ Renew — {1}{B}, Exile this card from your graveyard: Manufacture 1. Activate o
 				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Zombeetle</name>
@@ -2043,6 +2073,7 @@ When this creature enters, manufacture 1. (Put a +1/+1 counter on a creature you
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Big Score</name>
@@ -2060,6 +2091,7 @@ Draw two cards and create two Treasure tokens. (They&apos;re artifacts with &quo
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="2">Treasure</related>
 		</card>
 		<card>
 			<name>Bomb Master</name>
@@ -2267,6 +2299,7 @@ Raid — At the beginning of your postcombat main phase, if you attacked this tu
 				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Rabid Chase</name>
@@ -2303,6 +2336,7 @@ When Riz, Isolated Bulwark dies, you may sacrifice an artifact. If you do, draw 
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Munitions</related>
 		</card>
 		<card>
 			<name>Rubbish Enthusiast</name>
@@ -2354,6 +2388,7 @@ When this creature enters, manufacture 3. (Distribute three +1/+1 counters among
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Termite Engineers</name>
@@ -2372,6 +2407,7 @@ Formidable — At the beginning of your end step, manufacture 1. If creatures yo
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Termite Financier</name>
@@ -2390,6 +2426,8 @@ Formidable — At the beginning of your end step, manufacture 1. If creatures yo
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Treasure</related>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Termite Knight</name>
@@ -2478,6 +2516,7 @@ Exhaust — {R}: Remove all charge counters from this creature. This creature ex
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="2">Treasure</related>
 		</card>
 		<card>
 			<name>Wasp Assault</name>
@@ -2691,6 +2730,7 @@ Tap four untapped artifacts or creatures you control: Destroy target artifact or
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Treasure</related>
 		</card>
 		<card>
 			<name>Carry the Lineage</name>
@@ -2708,6 +2748,7 @@ Flashback {3}{G}{G}{G} (You may cast this card from your graveyard for its flash
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Plant</related>
 		</card>
 		<card>
 			<name>Charitable Sightseer</name>
@@ -2745,6 +2786,7 @@ Formidable — {1}{G}, Exile this card from your graveyard: Create a tapped 1/1 
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Plant</related>
 		</card>
 		<card>
 			<name>Diana, Stout Miner</name>
@@ -2848,6 +2890,7 @@ Create X 1/1 green and white Plant creature tokens named Venus Bud with reach an
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Venus Bud</related>
 		</card>
 		<card>
 			<name>Fruitful Aphids</name>
@@ -2905,6 +2948,7 @@ Whenever another creature you control enters, it explores.
 				<loyalty>3</loyalty>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Venus Bud</related>
 		</card>
 		<card>
 			<name>Golden Festival Harvest</name>
@@ -2941,6 +2985,7 @@ Renew — {3}{G}{G}, Exile this card from your graveyard: Create three tapped Tr
 				<pt>9/9</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="3">Treasure</related>
 		</card>
 		<card>
 			<name>Heavy Strike</name>
@@ -3065,6 +3110,7 @@ Renew — {3}{G}, Exile this card from your graveyard: Put two +1/+1 counters an
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="2">Leafbug Ninja</related>
 		</card>
 		<card>
 			<name>Luminous Traveler</name>
@@ -3156,6 +3202,8 @@ Formidable — At the beginning of your end step, create a tapped Seedling token
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Seedling</related>
+			<related count="2">Seedling</related>
 		</card>
 		<card>
 			<name>Shattered Wings</name>
@@ -3278,6 +3326,7 @@ Whenever Ant Queen Elizant II enters or attacks, create a 1/1 white Insect Soldi
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Insect Soldier</related>
 		</card>
 		<card>
 			<name>Astotheles, Bandit Leader</name>
@@ -3335,6 +3384,7 @@ Whenever The Broodmother becomes the target of a spell or ability for the first 
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Insect</related>
 		</card>
 		<card>
 			<name>Cenn and Pisci, Fraudulent Team</name>
@@ -3426,6 +3476,7 @@ Whenever you cast your first noncreature spell each turn, manufacture 1. (Put a 
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Elder of the Roach Village</name>
@@ -3498,6 +3549,7 @@ When Jaune, Prodigious Painter enters, manufacture 1. (Put a +1/+1 counter on a 
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Kabbu, the Chivalrous</name>
@@ -3695,6 +3747,7 @@ Whenever one or more modified creature you control deals combat damage to a play
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Spuder, Bane of Explorers</name>
@@ -3860,6 +3913,7 @@ Sacrifice Zaryant, Royal Bodyguard: Creature tokens you control and up to one ot
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="2">Insect Soldier</related>
 		</card>
 		<card>
 			<name>Zasp, the Zealous</name>
@@ -3931,6 +3985,7 @@ When this creature dies, create two tapped Abomihoney tokens. (They&apos;re 2/1 
 				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="2">Abomihoney</related>
 		</card>
 		<card>
 			<name>Ancient Mask</name>
@@ -4177,6 +4232,7 @@ Equip {2} (Medals may be equipped to any number of creatures at the same time.)<
 				<cmc>4</cmc>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="1">Goat</related>
 		</card>
 		<card>
 			<name>Triumph Buzz</name>
@@ -4241,6 +4297,7 @@ Cycling {W}{B}{G} ({W}{B}{G}, Discard this card: Draw a card.)</text>
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
+			<related count="2">Treasure</related>
 		</card>
 		<card>
 			<name>Fabled Passage</name>
@@ -4660,6 +4717,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Construct</related>
 		</card>
 		<card>
 			<name>Helper Boost</name>
@@ -4676,6 +4734,7 @@ Equip {2} (Medals may be equipped to any number of creatures at the same time.)<
 				<cmc>3</cmc>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="1">Insect Soldier</related>
 		</card>
 		<card>
 			<name>Citizen BFS</name>
