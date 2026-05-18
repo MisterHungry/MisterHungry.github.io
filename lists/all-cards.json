@@ -5902,7 +5902,8 @@
             "rotated": false,
             "notes": "original token\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Token</p>\n<p>Art Link: <a href=\"https://x.com/Maci_Lena/status/1912861907901685996\">X</a>, <a href=\"https://xcancel.com/Maci_Lena/status/1912861907901685996\">XCancel</a></p>"
         },
         {
             "card_name": "Insect",
@@ -5925,7 +5926,8 @@
             "rotated": false,
             "notes": "original token\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nmidge",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Token</p>\n<p>Art Link: <a href=\"https://x.com/Maci_Lena/status/1912861907901685996\">X</a>, <a href=\"https://xcancel.com/Maci_Lena/status/1912861907901685996\">XCancel</a></p>"
         },
         {
             "card_name": "Leafbug Ninja",
@@ -5994,7 +5996,8 @@
             "rotated": false,
             "notes": "original token\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Token</p>\n<p>Art Link: <a href=\"https://x.com/Maci_Lena/status/1912861907901685996\">X</a>, <a href=\"https://xcancel.com/Maci_Lena/status/1912861907901685996\">XCancel</a></p>"
         },
         {
             "card_name": "Insect",
@@ -6017,7 +6020,8 @@
             "rotated": false,
             "notes": "reprint token\n\nart: https://x.com/StemTheBug/status/1695158437599121830\nhttps://xcancel.com/StemTheBug/status/1695158437599121830\n\nmothfly",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Token</p>\n<p>Art Link: <a href=\"https://x.com/Maci_Lena/status/1912861907901685996\">X</a>, <a href=\"https://xcancel.com/Maci_Lena/status/1912861907901685996\">XCancel</a></p>"
         },
         {
             "card_name": "Insect Beast",
@@ -6040,7 +6044,8 @@
             "rotated": false,
             "notes": "reprint token\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nscorpion",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Token</p>\n<p>Art Link: <a href=\"https://x.com/Maci_Lena/status/1912861907901685996\">X</a>, <a href=\"https://xcancel.com/Maci_Lena/status/1912861907901685996\">XCancel</a></p>"
         },
         {
             "card_name": "Plant",
@@ -6063,7 +6068,8 @@
             "rotated": false,
             "notes": "reprint token\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nchomper",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint Token</p>\n<p>Art Link: <a href=\"https://x.com/Maci_Lena/status/1912861907901685996\">X</a>, <a href=\"https://xcancel.com/Maci_Lena/status/1912861907901685996\">XCancel</a></p>"
         },
         {
             "card_name": "Clue",
@@ -6109,7 +6115,8 @@
             "rotated": false,
             "notes": "original token\nmanufacture token\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nmender",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Token (Manufacture)</p>\n<p>Art Link: <a href=\"https://x.com/Maci_Lena/status/1912861907901685996\">X</a>, <a href=\"https://xcancel.com/Maci_Lena/status/1912861907901685996\">XCancel</a></p>\n<p><em>\"Manufacture N\" means \"Distribute N +1/+1 counters among creatures you control or create a N/N colorless Construct artifact creature token.\"</em></p>"
         },
         {
             "card_name": "Food",
