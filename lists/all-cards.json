@@ -909,7 +909,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/zeratin927/status/1284897425803468800\nhttps://xcancel.com/zeratin927/status/1284897425803468800\n\nwatcher",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/zeratin927/status/1284897425803468800\">X</a>, <a href=\"https://xcancel.com/zeratin927/status/1284897425803468800\">XCancel</a></p>"
         },
         {
             "card_name": "Beetle Fortune Teller",
@@ -932,7 +933,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/hiveblood/status/1440451457665277960\nhttps://xcancel.com/hiveblood/status/1440451457665277960",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/hiveblood/status/1440451457665277960\">X</a>, <a href=\"https://xcancel.com/hiveblood/status/1440451457665277960\">XCancel</a></p>"
         },
         {
             "card_name": "Bloatshroom",
@@ -979,7 +981,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://www.deviantart.com/breadmadman/art/OwO-1145888139",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.deviantart.com/breadmadman/art/OwO-1145888139\">DeviantArt</a></p>"
         },
         {
             "card_name": "Charm Dancer",
@@ -1002,7 +1005,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/hiveblood/status/1489437346374328326\nhttps://xcancel.com/hiveblood/status/1489437346374328326\ncharmy\n\n1UU or 2UU for ability?",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/hiveblood/status/1489437346374328326\">X</a>, <a href=\"https://xcancel.com/hiveblood/status/1489437346374328326\">XCancel</a></p>"
         },
         {
             "card_name": "Checkpoint Scan",
@@ -1025,7 +1029,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/privatemumbles/status/1374939111778312193\nhttps://xcancel.com/privatemumbles/status/1374939111778312193\n\nvi, kabbu, leif\n\nbasis: Confounding Riddle",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/privatemumbles/status/1374939111778312193\">X</a>, <a href=\"https://xcancel.com/privatemumbles/status/1374939111778312193\">XCancel</a></p>"
         },
         {
             "card_name": "Cocoon of Slumber",
@@ -1048,7 +1053,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/Jendra82/status/1444824959055015947\nhttps://xcancel.com/Jendra82/status/1444824959055015947\n\nleif",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/Jendra82/status/1444824959055015947\">X</a>, <a href=\"https://xcancel.com/Jendra82/status/1444824959055015947\">XCancel</a></p>"
         },
         {
             "card_name": "Denmuki",
@@ -1095,7 +1101,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/Jendra82/status/1447356381229723652\nhttps://xcancel.com/Jendra82/status/1447356381229723652\n\ncrow\n\n!tokens Construct<1>",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/Jendra82/status/1447356381229723652\">X</a>, <a href=\"https://xcancel.com/Jendra82/status/1447356381229723652\">XCancel</a></p>"
         },
         {
             "card_name": "Diving Spider",
@@ -1142,7 +1149,8 @@
             "rotated": false,
             "notes": "reprint\n\nart: https://x.com/Jendra82/status/1453919958514163717\nhttps://xcancel.com/Jendra82/status/1453919958514163717\n\nkabbu, beast",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://x.com/Jendra82/status/1453919958514163717\">X</a>, <a href=\"https://xcancel.com/Jendra82/status/1453919958514163717\">XCancel</a></p>"
         },
         {
             "card_name": "Emergency Protocol",
@@ -1165,7 +1173,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/796218222694236160/bugtober-time-day-1-snakemouth-den-remake-on\n\n!tokens Construct<1>",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.tumblr.com/longeth-dayv/796218222694236160/bugtober-time-day-1-snakemouth-den-remake-on\">Tumblr</a></p>"
         },
         {
             "card_name": "Encased in Crystal",
@@ -1188,7 +1197,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/Jendra82/status/1448832778867519488\nhttps://xcancel.com/Jendra82/status/1448832778867519488\n\nleif",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/Jendra82/status/1448832778867519488\">X</a>, <a href=\"https://xcancel.com/Jendra82/status/1448832778867519488\">XCancel</a></p>"
         },
         {
             "card_name": "Frigid Coffin",
@@ -1211,7 +1221,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/Jendra82/status/1446975350660026370\nhttps://xcancel.com/Jendra82/status/1446975350660026370\n\nleif",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/Jendra82/status/1446975350660026370\">X</a>, <a href=\"https://xcancel.com/Jendra82/status/1446975350660026370\">XCancel</a></p>"
         },
         {
             "card_name": "Frost Bowling",
@@ -1234,7 +1245,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://www.deviantart.com/meadowmoos/art/Frost-Bowling-881440757\n\ncould give convoke if i was feeling devious",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.deviantart.com/meadowmoos/art/Frost-Bowling-881440757\">DeviantArt</a></p>"
         },
         {
             "card_name": "Gloomy Artist",
@@ -1257,7 +1269,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/sachichy/status/1318949810330693632\nhttps://xcancel.com/sachichy/status/1318949810330693632\n\nartia",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/sachichy/status/1318949810330693632\">X</a>, <a href=\"https://xcancel.com/sachichy/status/1318949810330693632\">XCancel</a></p>"
         },
         {
             "card_name": "Haunted Cloth",
@@ -1304,7 +1317,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://www.tumblr.com/vioyume/739907933017669632/unlikely-possession-bug-fables-speedpaint\n\nvi, kabbu, leif, kali\n\n3UU?",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.tumblr.com/vioyume/739907933017669632/unlikely-possession-bug-fables-speedpaint\">Tumblr</a></p>"
         },
         {
             "card_name": "Jellyshroom",
@@ -1327,7 +1341,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1575828854627004416\nhttps://xcancel.com/MilaTheArtsy/status/1575828854627004416\n\nmaybe should be uncommon",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/MilaTheArtsy/status/1575828854627004416\">X</a>, <a href=\"https://xcancel.com/MilaTheArtsy/status/1575828854627004416\">XCancel</a></p>"
         },
         {
             "card_name": "Kali, Compelling Seamstress",
@@ -1350,7 +1365,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/ktss_rgm/status/1273199855893049344\nhttps://xcancel.com/ktss_rgm/status/1273199855893049344\n\nenchanted \u2014> modified?",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/ktss_rgm/status/1273199855893049344\">X</a>, <a href=\"https://xcancel.com/ktss_rgm/status/1273199855893049344\">XCancel</a></p>"
         },
         {
             "card_name": "Mimic Spider",
@@ -1373,7 +1389,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://www.tumblr.com/machiko-yayoi/731611021584826368/bugtober2023-19-mimic\n\nvi, kabbu, leif",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.tumblr.com/machiko-yayoi/731611021584826368/bugtober2023-19-mimic\">Tumblr</a></p>"
         },
         {
             "card_name": "Momentous Discovery",
@@ -1396,7 +1413,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1598006312058912768\nhttps://xcancel.com/MilaTheArtsy/status/1598006312058912768\nvi",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/MilaTheArtsy/status/1598006312058912768\">X</a>, <a href=\"https://xcancel.com/MilaTheArtsy/status/1598006312058912768\">XCancel</a></p>"
         },
         {
             "card_name": "Professor Neolith",
@@ -1419,7 +1437,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/TheBoxMaster/status/1386348820053864448\nhttps://xcancel.com/TheBoxMaster/status/1386348820053864448",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/TheBoxMaster/status/1386348820053864448\">X</a>, <a href=\"https://xcancel.com/TheBoxMaster/status/1386348820053864448\">XCancel</a></p>"
         },
         {
             "card_name": "Quest Board Manager",
@@ -1442,7 +1461,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/hiveblood/status/1426563856600608773\nhttps://xcancel.com/hiveblood/status/1426563856600608773\nutter\n\nmana cost for ability?",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/hiveblood/status/1426563856600608773\">X</a>, <a href=\"https://xcancel.com/hiveblood/status/1426563856600608773\">XCancel</a></p>"
         },
         {
             "card_name": "Roach Scientists",
@@ -1465,7 +1485,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://www.tumblr.com/hana-bobo-finch/781354350526234624/leif\n\n!tokens Construct<1>",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.tumblr.com/hana-bobo-finch/781354350526234624/leif\">Tumblr</a></p>"
         },
         {
             "card_name": "Royal Caretakers",
@@ -1536,7 +1557,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/Jendra82/status/1451691519736430595\nhttps://xcancel.com/Jendra82/status/1451691519736430595\n\ncrow, hb\n\n!tokens Construct<1>",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/Jendra82/status/1451691519736430595\">X</a>, <a href=\"https://xcancel.com/Jendra82/status/1451691519736430595\">XCancel</a></p>"
         },
         {
             "card_name": "Spry Elder",
@@ -1559,7 +1581,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/hiveblood/status/1425881236828995594\nhttps://xcancel.com/hiveblood/status/1425881236828995594\nchuck",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/hiveblood/status/1425881236828995594\">X</a>, <a href=\"https://xcancel.com/hiveblood/status/1425881236828995594\">XCancel</a></p>"
         },
         {
             "card_name": "Spy",
@@ -1582,7 +1605,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/CalendarCursed/status/1578170880479604736\n\nshould it be 1U?\n\"You may have a player mill a card.\"\n\"You may have any number of players mill a card.\"",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/CalendarCursed/status/1578170880479604736\">X</a>, <a href=\"https://xcancel.com/CalendarCursed/status/1578170880479604736\">XCancel</a></p>"
         },
         {
             "card_name": "Spy Cards",
@@ -1605,7 +1629,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/sa_ba_can/status/1267487743841452032\nhttps://xcancel.com/sa_ba_can/status/1267487743841452032\nleif",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/sa_ba_can/status/1267487743841452032\">X</a>, <a href=\"https://xcancel.com/sa_ba_can/status/1267487743841452032\">XCancel</a></p>"
         },
         {
             "card_name": "Stealth Mission",
@@ -1628,7 +1653,8 @@
             "rotated": false,
             "notes": "reprint\n\nart: https://www.tumblr.com/leaderfuzzy/704164178891538432/i-like-how-leif-just-pretends-that-they-dont-have\n\nvi, kabbu, leif\n\n\u201cThe more we see of the Wasp Kingdom, the more confused we get.\u201d\n\u2014Leif",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://www.tumblr.com/leaderfuzzy/704164178891538432/i-like-how-leif-just-pretends-that-they-dont-have\">Tumblr</a></p>"
         },
         {
             "card_name": "Take Inventory",
@@ -1651,7 +1677,8 @@
             "rotated": false,
             "notes": "reprint\n\nart: https://x.com/EepyiLizard/status/1838002809045962933\nhttps://xcancel.com/EepyiLizard/status/1838002809045962933\n\nvi, kabbu, leif",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://x.com/EepyiLizard/status/1838002809045962933\">X</a>, <a href=\"https://xcancel.com/EepyiLizard/status/1838002809045962933\">XCancel</a></p>"
         },
         {
             "card_name": "The Tidal Wyrm",
@@ -1674,7 +1701,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/COELACAMTH/status/1491796599546294272\nhttps://xcancel.com/COELACAMTH/status/1491796599546294272",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/COELACAMTH/status/1491796599546294272\">X</a>, <a href=\"https://xcancel.com/COELACAMTH/status/1491796599546294272\">XCancel</a></p>"
         },
         {
             "card_name": "Tournament Challenger",
@@ -1697,7 +1725,8 @@
             "rotated": false,
             "notes": "original card, functional reprint\n\nart: https://x.com/MilaTheArtsy/status/1614121078124838914\nhttps://xcancel.com/MilaTheArtsy/status/1614121078124838914\njanet",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card (functional reprint)</p>\n<p>Art Link: <a href=\"https://x.com/MilaTheArtsy/status/1614121078124838914\">X</a>, <a href=\"https://xcancel.com/MilaTheArtsy/status/1614121078124838914\">XCancel</a></p>"
         },
         {
             "card_name": "Alchemize",
@@ -1720,7 +1749,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://fallenaither.tumblr.com/post/796459422041948160/bugtober-day-3-spell-casting-been-wanting-to\n\ntarantular\n\nreplaced unconvincing camouflage\n\nKabbu: He must be one of the 10 sorcerers! What an honor! To think we'd trespass his property\u2026",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://fallenaither.tumblr.com/post/796459422041948160/bugtober-day-3-spell-casting-been-wanting-to\">Tumblr</a></p>"
         },
         {
             "card_name": "Water Strider",
