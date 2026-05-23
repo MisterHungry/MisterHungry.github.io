@@ -4942,7 +4942,7 @@
             "notes": "originally UR11\n\noriginal card\n\nart: https://www.pixiv.net/en/artworks/93362276",
             "image_type": "png",
             "v_mana": "",
-            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.pixiv.net/en/artworks/93362276\">X</a></p>"
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.pixiv.net/en/artworks/93362276\">Pixiv</a></p>"
         },
         {
             "card_name": "Needle Pincer",
@@ -5301,7 +5301,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1575828854627004416\nhttps://xcancel.com/MilaTheArtsy/status/1575828854627004416",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/MilaTheArtsy/status/1575828854627004416\">X</a>, <a href=\"https://xcancel.com/MilaTheArtsy/status/1575828854627004416\">XCancel</a></p>"
         },
         {
             "card_name": "Ahoneynation",
@@ -5324,7 +5325,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://www.newgrounds.com/art/view/crumblekoek/ahoneynation\n\n!tokens Abomihoney<2>",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.newgrounds.com/art/view/crumblekoek/ahoneynation\">Newgrounds</a></p>"
         },
         {
             "card_name": "Ancient Mask",
@@ -5347,7 +5349,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/17lale8/vi_art_texttextless_ver/\n\nvi",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.reddit.com/r/BugFables/comments/17lale8/vi_art_texttextless_ver/\">Reddit</a></p>"
         },
         {
             "card_name": "Antlion Jaws",
@@ -5370,7 +5373,8 @@
             "rotated": false,
             "notes": "original card\n\nart: game sprites, redrawn by me\n\ncolorless?\nmedal idea may have weird rules baggage\nAssign X (X: Attach to target creature you control. You may assign to any number of creatures. Assign only as a sorcery.)",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Berserker",
@@ -5393,7 +5397,8 @@
             "rotated": false,
             "notes": "Note: Edit \u2022 Preferences for view change\ncould try 200% + use view finder for final export (higher res)\n\nno info skeleton card\n\noriginal card\n\nart: game sprites, redrawn by me",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Bug Me Not!",
@@ -5416,7 +5421,8 @@
             "rotated": false,
             "notes": "original card\n\nart: game sprites, redrawn by me",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Charge Up Plus",
@@ -5439,7 +5445,8 @@
             "rotated": false,
             "notes": "originally MX05\n\noriginal card\n\nart: game sprites, redrawn by me",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Expedition Map",
@@ -5462,7 +5469,8 @@
             "rotated": false,
             "notes": "reprint\n\nart: https://www.deviantart.com/sticspace/art/Bug-Fables-Team-Snakemouth-Map-1020048582",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://www.deviantart.com/sticspace/art/Bug-Fables-Team-Snakemouth-Map-1020048582\">DeviantArt</a></p>"
         },
         {
             "card_name": "Favorite One",
@@ -5485,7 +5493,8 @@
             "rotated": false,
             "notes": "originally UL05\n\noriginal card\n\nart: game sprites, redrawn by me",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "HP Plus",
@@ -5508,7 +5517,8 @@
             "rotated": false,
             "notes": "original card\n\nart: game sprites, redrawn by me",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Leaf Cloak",
@@ -5531,7 +5541,8 @@
             "rotated": false,
             "notes": "original card\n\nart: game sprites, redrawn by me",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Leaf of the Everlasting Sapling",
@@ -5554,7 +5565,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/kumoketu/status/1744284696375365896\nhttps://xcancel.com/kumoketu/status/1744284696375365896\nelizant II, hoaxe",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/kumoketu/status/1744284696375365896\">X</a>, <a href=\"https://xcancel.com/kumoketu/status/1744284696375365896\">XCancel</a></p>"
         },
         {
             "card_name": "Life Cast",
@@ -5577,7 +5589,8 @@
             "rotated": false,
             "notes": "original card\n\nart: game sprites, redrawn by me\n\nwording hard\ngoes infinite with kenrith \u2014 probably fine?",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Life Stealer",
@@ -5600,7 +5613,8 @@
             "rotated": false,
             "notes": "original card\n\nart: game sprites, redrawn by me",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Miracle Matter",
@@ -5623,7 +5637,8 @@
             "rotated": false,
             "notes": "original card\n\nart: game sprites, redrawn by me",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Smoke Bomb",
@@ -5646,7 +5661,8 @@
             "rotated": false,
             "notes": "reprint\n\nart: https://x.com/Jendra82/status/1492294005304008714\nhttps://xcancel.com/Jendra82/status/1492294005304008714\n\nzasp",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://x.com/Jendra82/status/1492294005304008714\">X</a>, <a href=\"https://xcancel.com/Jendra82/status/1492294005304008714\">XCancel</a></p>"
         },
         {
             "card_name": "Strong Start",
@@ -5669,7 +5685,8 @@
             "rotated": false,
             "notes": "original card\n\nart: game sprites, redrawn by me",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Trading Post",
@@ -5692,7 +5709,8 @@
             "rotated": false,
             "notes": "reprint\n\nart: https://www.deviantart.com/fuzzyspirit/art/Shopping-Day-854412439\n\nvi, kabbu, caravan\n\n!tokens Goat<1>",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://www.deviantart.com/fuzzyspirit/art/Shopping-Day-854412439\">DeviantArt</a></p>"
         },
         {
             "card_name": "Triumph Buzz",
@@ -5715,7 +5733,8 @@
             "rotated": false,
             "notes": "original card\n\nart: game sprites, redrawn by me",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Bountiful Landscape",
@@ -5738,7 +5757,8 @@
             "rotated": false,
             "notes": "Originally CW19\n\ntemur termites\n\nreprint\n\nart: https://www.deviantart.com/vvipereonk/art/Kingdom-among-the-mist-901678273",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://www.deviantart.com/vvipereonk/art/Kingdom-among-the-mist-901678273\">DeviantArt</a></p>"
         },
         {
             "card_name": "Deceptive Landscape",
@@ -5761,7 +5781,8 @@
             "rotated": false,
             "notes": "Originally CU19\n\nabzan ants\n\nreprint\n\nart: https://x.com/nyusu_UT/status/1309087320092663812\nhttps://xcancel.com/nyusu_UT/status/1309087320092663812",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://x.com/nyusu_UT/status/1309087320092663812\">X</a>, <a href=\"https://xcancel.com/nyusu_UT/status/1309087320092663812\">XCancel</a></p>"
         },
         {
             "card_name": "Expensive Resort",
@@ -5784,7 +5805,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://www.tumblr.com/shrimpricebowl/754270100310327296/home-is-where-family-is\n\n!tokens Treasure<2>",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.tumblr.com/shrimpricebowl/754270100310327296/home-is-where-family-is\">Tumblr</a></p>"
         },
         {
             "card_name": "Fabled Passage",
@@ -5807,7 +5829,8 @@
             "rotated": false,
             "notes": "originally MX04\n\nreprint\n\nart: https://www.deviantart.com/vvipereonk/art/Ant-Metro-913848146",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://www.deviantart.com/vvipereonk/art/Ant-Metro-913848146\">DeviantArt</a></p>"
         },
         {
             "card_name": "Foreboding Landscape",
@@ -5830,7 +5853,8 @@
             "rotated": false,
             "notes": "Originally CB19\n\nsultai roaches\n\nreprint\n\nart: https://x.com/Blipbugbug/status/1756692335252152683\nhttps://xcancel.com/Blipbugbug/status/1756692335252152683\nhttps://www.pixiv.net/en/artworks/116796052\n\nname had extra space in export",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://x.com/Blipbugbug/status/1756692335252152683\">X</a>, <a href=\"https://xcancel.com/Blipbugbug/status/1756692335252152683\">XCancel</a>, <a href=\"https://www.pixiv.net/en/artworks/116796052\">Pixiv</a></p>"
         },
         {
             "card_name": "Perilous Landscape",
@@ -5853,7 +5877,8 @@
             "rotated": false,
             "notes": "Originally CR19\n\njeskai bees\n\nreprint\n\nart: https://www.deviantart.com/vvipereonk/art/A-suite-for-the-sweets-above-1-2-920776095",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://www.deviantart.com/vvipereonk/art/A-suite-for-the-sweets-above-1-2-920776095\">DeviantArt</a></p>"
         },
         {
             "card_name": "Royal Court",
@@ -5876,7 +5901,8 @@
             "rotated": false,
             "notes": "original card, functional reprint\n\nart: https://www.deviantart.com/loracia-art/art/Bug-Fables-Ant-Castle-869010039",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card (functional reprint)</p>\n<p>Art Link: <a href=\"https://www.deviantart.com/loracia-art/art/Bug-Fables-Ant-Castle-869010039\">DeviantArt</a></p>"
         },
         {
             "card_name": "Secluded Village",
@@ -5899,7 +5925,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/SnowsilverK/status/1640671632954994688\nhttps://xcancel.com/SnowsilverK/status/1640671632954994688",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/SnowsilverK/status/1640671632954994688\">X</a>, <a href=\"https://xcancel.com/SnowsilverK/status/1640671632954994688\">XCancel</a></p>"
         },
         {
             "card_name": "Shattered Landscape",
@@ -5922,7 +5949,8 @@
             "rotated": false,
             "notes": "Originally CG19\n\nart: https://www.tumblr.com/machiko-yayoi/721719626537533440/hello-i-am-usually-active-on-twitter-but-i-am\n\nmardu wasps\n\nreprint",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://www.tumblr.com/machiko-yayoi/721719626537533440/hello-i-am-usually-active-on-twitter-but-i-am\">Tumblr</a></p>"
         },
         {
             "card_name": "Snakemouth Haven",
@@ -5945,7 +5973,8 @@
             "rotated": false,
             "notes": "original card\n\nart: https://x.com/Jaxoline_Artist/status/1642896488215740416\nhttps://xcancel.com/Jaxoline_Artist/status/1642896488215740416",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/Jaxoline_Artist/status/1642896488215740416\">X</a>, <a href=\"https://xcancel.com/Jaxoline_Artist/status/1642896488215740416\">XCancel</a></p>"
         },
         {
             "card_name": "Forest",
@@ -5968,7 +5997,8 @@
             "rotated": false,
             "notes": "reprint\n\nart: https://x.com/nyusu_UT/status/1296412283690717185\nhttps://xcancel.com/nyusu_UT/status/1296412283690717185\n\ngolden settlement\nvi, kabbu, leif",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://x.com/nyusu_UT/status/1296412283690717185\">X</a>, <a href=\"https://xcancel.com/nyusu_UT/status/1296412283690717185\">XCancel</a></p>"
         },
         {
             "card_name": "Plains",
@@ -5991,7 +6021,8 @@
             "rotated": false,
             "notes": "reprint\n\nart: https://x.com/SnowsilverK/status/1373092754599809025\nhttps://xcancel.com/SnowsilverK/status/1373092754599809025\n\nvi, kabbu, leif",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://x.com/SnowsilverK/status/1373092754599809025\">X</a>, <a href=\"https://xcancel.com/SnowsilverK/status/1373092754599809025\">XCancel</a></p>"
         },
         {
             "card_name": "Island",
@@ -6014,7 +6045,8 @@
             "rotated": false,
             "notes": "reprint\n\nart: https://x.com/Holy_Gadunka/status/1405370355938598914\nhttps://xcancel.com/Holy_Gadunka/status/1405370355938598914\n\npeacock island\nvi, kabbu, leif",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://x.com/Holy_Gadunka/status/1405370355938598914\">X</a>, <a href=\"https://xcancel.com/Holy_Gadunka/status/1405370355938598914\">XCancel</a></p>"
         },
         {
             "card_name": "Swamp",
@@ -6037,7 +6069,8 @@
             "rotated": false,
             "notes": "reprint\n\nart: https://x.com/kumoketu/status/1398874712688660490\nhttps://xcancel.com/kumoketu/status/1398874712688660490\n\nwild swamplands\nkabbu",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://x.com/kumoketu/status/1398874712688660490\">X</a>, <a href=\"https://xcancel.com/kumoketu/status/1398874712688660490\">XCancel</a></p>"
         },
         {
             "card_name": "Mountain",
@@ -6060,7 +6093,8 @@
             "rotated": false,
             "notes": "reprint\n\nart: https://x.com/kumoketu/status/1352011686782279680\nhttps://xcancel.com/kumoketu/status/1352011686782279680\n\nbee kingdom hive bridge\nvi, kabbu, leif, h.b., hawk",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://x.com/kumoketu/status/1352011686782279680\">X</a>, <a href=\"https://xcancel.com/kumoketu/status/1352011686782279680\">XCancel</a></p>"
         },
         {
             "card_name": "Insect Soldier",
@@ -6271,7 +6305,8 @@
             "rotated": false,
             "notes": "reprint token\n\nart: https://x.com/MilaTheArtsy/status/1598006339036680193/photo/1\nhttps://xcancel.com/MilaTheArtsy/status/1598006339036680193/photo/1",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint Token</p>\n<p>Art Link: <a href=\"https://x.com/MilaTheArtsy/status/1598006339036680193/photo/1\">X</a>, <a href=\"https://xcancel.com/MilaTheArtsy/status/1598006339036680193/photo/1\">XCancel</a></p>"
         },
         {
             "card_name": "Construct",
@@ -6341,7 +6376,8 @@
             "rotated": false,
             "notes": "reprint token\n\nart: https://www.reddit.com/r/BugFables/comments/i22gad/im_back_with_potential_pin_designs_please_let_me/\n\nvi\n\nart bg?",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint Token</p>\n<p>Art Link: <a href=\"https://www.reddit.com/r/BugFables/comments/i22gad/im_back_with_potential_pin_designs_please_let_me/\">Reddit</a></p>"
         },
         {
             "card_name": "Abomihoney",
@@ -6364,7 +6400,8 @@
             "rotated": false,
             "notes": "original token\n\nart: https://x.com/MilaTheArtsy/status/1575828854627004416\nhttps://xcancel.com/MilaTheArtsy/status/1575828854627004416",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/MilaTheArtsy/status/1575828854627004416\">X</a>, <a href=\"https://xcancel.com/MilaTheArtsy/status/1575828854627004416\">XCancel</a></p>"
         },
         {
             "card_name": "Sand Warden",
@@ -6411,7 +6448,8 @@
             "rotated": false,
             "notes": "original card\n\nart: game sprites, redrawn by me\n\n!tokens Insect Soldier<1>",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Card</p>\n<p>Art Link: game sprites, redrawn by me</p>"
         },
         {
             "card_name": "Citizen",
