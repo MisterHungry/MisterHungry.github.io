@@ -6117,7 +6117,8 @@
             "rotated": false,
             "notes": "original token\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Token</p>\n<p>Art Link: <a href=\"https://x.com/Maci_Lena/status/1912861907901685996\">X</a>, <a href=\"https://xcancel.com/Maci_Lena/status/1912861907901685996\">XCancel</a></p>"
         },
         {
             "card_name": "Insect",
@@ -6258,7 +6259,8 @@
             "rotated": false,
             "notes": "reprint token\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nscorpion",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Unique Token</p>\n<p>Art Link: <a href=\"https://x.com/Maci_Lena/status/1912861907901685996\">X</a>, <a href=\"https://xcancel.com/Maci_Lena/status/1912861907901685996\">XCancel</a></p>"
         },
         {
             "card_name": "Plant",
@@ -6353,7 +6355,8 @@
             "rotated": false,
             "notes": "reprint token\n\nart: https://rincsart.tumblr.com/post/733791064002019328/bug-fables-banner-for-the-discord-the-theme-was\n\nvi, kabbu, leif",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint Token</p>\n<p>Art Link: <a href=\"https://rincsart.tumblr.com/post/733791064002019328/bug-fables-banner-for-the-discord-the-theme-was\">Tumblr</a></p>"
         },
         {
             "card_name": "Treasure",
@@ -6472,7 +6475,8 @@
             "rotated": false,
             "notes": "reprint token\n\nart: https://x.com/MilaTheArtsy/status/1609937245355790336\nhttps://xcancel.com/MilaTheArtsy/status/1609937245355790336\n\ntod",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>Reprint Token</p>\n<p>Art Link: <a href=\"https://x.com/MilaTheArtsy/status/1609937245355790336\">X</a>, <a href=\"https://xcancel.com/MilaTheArtsy/status/1609937245355790336\">XCancel</a></p>"
         }
     ]
 }
