@@ -805,7 +805,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Creature — Giant Beast Horror",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/80.png"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Creature — Beast Horror",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/81.png"
 			}
@@ -2725,7 +2725,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Beast Horror",
-			"collector_number": "85",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/272.png"
 			}

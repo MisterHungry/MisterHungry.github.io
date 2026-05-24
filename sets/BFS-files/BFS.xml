@@ -1434,7 +1434,7 @@ Destroy target creature.</text>
 			<text>Menace
 If a creature an opponent controls would die, instead exile it and put a +1/+1 counter on this creature
 During your turn, you may cast cards exiled with this card. If you cast a spell this way, remove three counters from among creatures you control rather than pay its mana cost.</text>
-			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/80.png" num="83">BFS</set>
+			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/80.png" num="84">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1452,7 +1452,7 @@ During your turn, you may cast cards exiled with this card. If you cast a spell 
 			<name>Dead Lander γ</name>
 			<text>First strike, menace, deathtouch, trample
 If a creature an opponent controls would die, exile it instead.</text>
-			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/81.png" num="84">BFS</set>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/81.png" num="85">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3261,7 +3261,7 @@ Formidable — At the beginning of combat on your turn, if creatures you control
 		<card>
 			<name>Venus&apos;s Blessing</name>
 			<text>Creatures you control get +2/+2 and gain trample until end of turn.
-Harmonize {5}{G}{G}{G} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by an amount of generic mana equal to its power. Then exile this spell.)</text>
+Harmonize {5}{G}{G}{G} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by an amount of generic mana equal to its power. Then exile this spell.) (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
 			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/182.png" num="188">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -4806,7 +4806,7 @@ Escape—{2}{U}{U}, Exile twice X other cards from your graveyard. (You may cast
 			<name>Dead Lander α</name>
 			<text>Deathtouch
 Whenever one or more cards leave your graveyard, you may pay {BP}. If you do, target creature gets -1/-1 until end of turn. ({BP} can be paid with either {B} or 2 life.)</text>
-			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/272.png" num="85">BFS</set>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/272.png" num="83">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

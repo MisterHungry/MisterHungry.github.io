@@ -1,4 +1,65 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Leafbug Archer
+rules_text: Reach, deathtouch
+[i]Renew[/i] — {2}{B}, Exile this card from your graveyard: Put a +1/+1 counter and a deathtouch counter on target creature. Activate only as a sorcery. => Reach, deathtouch
+[i][i]Renew[/i][/i] — {2}{B}, Exile this card from your graveyard: Put a +1/+1 counter and a deathtouch counter on target creature. Activate only as a sorcery.
+
+Zombee
+rules_text: Flying
+This creature enters with two +1/+1 counters on it.
+[i]Renew[/i] — {1}{B}, Exile this card from your graveyard: Manufacture 1. Activate only as a sorcery. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i] => Flying
+This creature enters with two +1/+1 counters on it.
+[i][i]Renew[/i][/i] — {1}{B}, Exile this card from your graveyard: Manufacture 1. Activate only as a sorcery. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i]
+
+Zombeetle
+rules_text: Trample
+This creature enters with three +1/+1 counters on it.
+[i]Renew[/i] — {3}{B}{B}, Exile this card from your graveyard: Put three +1/+1 counters on target creature. Activate only as a sorcery. => Trample
+This creature enters with three +1/+1 counters on it.
+[i][i]Renew[/i][/i] — {3}{B}{B}, Exile this card from your graveyard: Put three +1/+1 counters on target creature. Activate only as a sorcery.
+
+Golden Seedling
+rules_text: Convoke
+Trample, shroud
+[i]Renew[/i] — {3}{G}{G}, Exile this card from your graveyard: Create three tapped Treasure tokens. Activate only as a sorcery. => Convoke
+Trample, shroud
+[i][i]Renew[/i][/i] — {3}{G}{G}, Exile this card from your graveyard: Create three tapped Treasure tokens. Activate only as a sorcery.
+
+Inichas
+rules_text: Vigilance
+[i]Renew[/i] — {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a vigilance counter on target creature. Activate only as a sorcery. => Vigilance
+[i][i]Renew[/i][/i] — {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a vigilance counter on target creature. Activate only as a sorcery.
+
+Leafbug Clubber
+rules_text: Trample
+[i]Renew[/i] — {3}{G}, Exile this card from your graveyard: Put two +1/+1 counters and a trample counter on target creature. Activate only as a sorcery. => Trample
+[i][i]Renew[/i][/i] — {3}{G}, Exile this card from your graveyard: Put two +1/+1 counters and a trample counter on target creature. Activate only as a sorcery.
+
+Mother Chomper
+rules_text: Trample
+Mother Chomper has lifelink as long as you control a white or black permanent.
+[i]Renew[/i] — {4}{G}{G}, Exile this card from your graveyard: Put three +1/+1 counters, a trample counter, and a lifelink counter on target creature. Activate only as a sorcery.
+ => Trample
+Mother Chomper has lifelink as long as you control a white or black permanent.
+[i][i]Renew[/i][/i] — {4}{G}{G}, Exile this card from your graveyard: Put three +1/+1 counters, a trample counter, and a lifelink counter on target creature. Activate only as a sorcery.
+
+
+Seedling
+rules_text: Reach
+[i]Renew[/i] — {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a reach counter on target creature. Activate only as a sorcery. => Reach
+[i][i]Renew[/i][/i] — {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a reach counter on target creature. Activate only as a sorcery.
+
+Venus's Blessing
+rules_text: Creatures you control get +2/+2 and gain trample until end of turn.
+Harmonize {5}{G}{G}{G} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by an amount of generic mana equal to its power. Then exile this spell.)[/i] => Creatures you control get +2/+2 and gain trample until end of turn.
+Harmonize {5}{G}{G}{G} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by an amount of generic mana equal to its power. Then exile this spell.)[/i] [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Royal Fealty added.
