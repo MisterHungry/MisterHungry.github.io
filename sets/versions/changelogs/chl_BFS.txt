@@ -1,4 +1,283 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Royal Fealty added.
+Defend the Factory added.
+Dead Lander α added.
+Forced Conscription added.
+Acornling added.
+
+
+Ant Kingdom Lieutenant
+
+Ant Tunnel Miner
+
+Aspiring Musician
+
+A Bond Thicker Than Honey
+rules_text: Equip abilities you activate cost {1} less to activate and an additional {1} less for each creature it is equipped to.
+Whenever you attack with two or more creatures, if at least one of them is modified, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Equip abilities you activate cost {1} less to activate.
+Assign all abilities you activate cost {2} less to activate.
+Whenever you attack with two or more creatures, if at least one of them is modified, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Explorers' Celebration
+
+Gift of Love
+
+Heavy Drone B-33
+
+Honey Factory Maintenance Chief
+
+Honey Factory Overseer
+
+Jayde, Dissident Worker
+
+Masterful Slice
+
+Mayor Emmet
+
+Medicine Brewer
+
+A Mother's Dream
+
+Passionate Baker
+
+Queen's Teachings
+
+Queen's Decree
+
+Security Turret
+
+Disheveled Assistant
+
+Emergency Protocol
+
+Haunted Cloth
+
+Kali, Compelling Seamstress
+
+Momentous Discovery
+
+Quest Board Manager
+
+Roach Scientists
+
+Sophisticated Research
+
+Spry Elder
+
+Spy
+
+Spy Cards
+
+Tournament Challenger
+
+Alchemize
+
+Ambushed by Bandits
+
+Bounty Board
+
+The False Monarch
+
+Leif's Request
+
+Mothfly Cluster
+
+Scorpion Caretaker
+
+Shady Dealer
+
+Sprout From Within
+
+Undercover Barkeep
+cost: {3}{B} => {1}{B}
+rules_text: Whenever you attack, target creature you control gets +1/+0 and gains deathtouch until end of turn. When that creature dies this turn, surveil 1. => At the beginning of combat on your turn, you may pay {B}. If you do, target creature you control gains training until end of turn.
+Whenever this creature or another creature you control with training dies, surveil 1.
+pt: 3/4 => 3/1
+
+Zombee
+
+Battle Plan
+
+Beehive Guardian
+
+Big Score
+
+Boomerang Toss
+cost: {1}{R} => {2}{R}
+rules_text: Boomerang Toss deals 2 damage to target creature.
+Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i] => Boomerang Toss deals 3 damage to target creature.
+Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+
+Burn Away
+
+Disciplined Slash
+
+Explorers' Accountant
+
+Peculiar Inventor
+
+Riz, Isolated Bulwark
+
+Rush Into Action
+
+Sharp Assistant
+
+Termite Engineers
+
+Termite Financier
+
+Vi's Request
+
+Wronged Sailor
+
+Abundant Harvest
+
+Altruist Hospitality
+
+Butomu, Mighty Blacksmith
+
+Carry the Lineage
+
+Chomper Brute
+
+Frenzied Sunflower Dance
+
+Goddess Venus
+
+Golden Seedling
+
+Leafbug Ninja
+
+Seedling King
+
+Ant Queen Elizant II
+
+The Broodmother
+
+Doctor H.B.
+
+Jaune, Prodigious Painter
+
+Professor Honeycomb
+
+Vi, the Audacious
+rules_text: Flying, haste
+When Vi, the Audacious attacks, attach up to one target Equipment to her. If a Medal is attached this way, attach it to any number of other creatures you control. => Flying, haste
+When Vi, the Audacious attacks, attach up to one target Equipment to her. If a Medal is attached this way, you may activate its assign all ability without paying its costs.
+
+Zaryant, Royal Bodyguard
+
+Ahoneynation
+
+Antlion Jaws
+rules_text: Equipped creature has trample.
+Whenever equipped creature becomes blocked, it deals 1 damage to that creature.
+Equip {2} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => Equipped creature has trample and “When this creature becomes blocked, it deals 1 damage to each creature blocking it.”
+Equip {2}
+Assign all {3} [i]({3}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Berserker
+rules_text: Equipped creature gets +2/+2 and attacks each combat if able.
+Equip {2} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => Equipped creature gets +2/+2 and attacks each combat if able.
+Equip {2}
+Assign all {5} [i]({5}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Bug Me Not!
+rules_text: Equipped creature gets +1/+0 and can't be blocked by creatures with lesser power.
+Equip {3} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => Equipped creature gets +1/+0 and can't be blocked by creatures with lesser power.
+Equip {3}
+Assign all {5}
+
+Charge Up Plus
+rules_text: At the beginning of your upkeep, put a charge counter on this Medal.
+Whenever equipped creature attacks, remove all charge counters from this artifact. When you do, creatures that this Medal is attached to get +1/+1 until end of turn for each charge counter removed this way.
+Equip {3} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => At the beginning of your upkeep, put a charge counter on this Medal.
+Whenever you attack, you may remove all charge counters from this Medal. If you do, equipped creature gets +1/+1 until end of turn for each charge counter removed this way.
+Equip {2}
+Assign all {6}
+
+Favorite One
+rules_text: [i]Enrage[/i] — Whenever equipped creature is dealt damage, put a +1/+1 counter on each other creature you control.
+Equip {3} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => [i]Enrage[/i] — Equipped creature has “When this creature is dealt damage, put a +1/+1 counter on each other creature you control.”
+Equip {3}
+Assign all {6}
+
+HP Plus
+rules_text: Equipped creature gets +0/+2.
+Equip {1} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => Equipped creature gets +0/+2.
+Equip {1}
+Assign all {3} [i]({3}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Leaf Cloak
+rules_text: Equipped creature gets +0/+2 and has ward {2}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Equip {2} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => Equipped creature gets +0/+2 and has ward {2}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Equip {2}
+Assign all {5}
+
+Leaf of the Everlasting Sapling
+
+Life Cast
+rules_text: Rather than pay the mana cost of an ability of equipped creature for the first time each turn, you may pay that much life.
+Equip {2} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => Equipped creature has “Rather than pay the mana cost of an ability of this creature for the first time each turn, you may pay that much life instead.”
+Equip {2}
+Assign all {6}
+
+Life Stealer
+rules_text: Equipped creature gets +0/+1 and has lifelink.
+Equip {2} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => Equipped creature gets +0/+1 and has lifelink.
+Equip {2}
+Assign all {4} [i]({4}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Miracle Matter
+rules_text: Whenever equipped creature dies, return that card to the battlefield tapped under its owner's control at the beginning of the next end step.
+Equip {4} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => Equipped creature has “When this creature dies, return it to the battlefield tapped under its owner's control at the beginning of your next turn.”
+Equip {4}
+Assign all {7}
+
+Strong Start
+rules_text: Equipped creature gets +1/-1 and has first strike.
+Equip {2} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => Equipped creature gets +1/-1 and has first strike.
+Equip {2}
+Assign all {5} [i]({5}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Trading Post
+
+Triumph Buzz
+rules_text: Whenever a creature an opponent controls dies, put a +1/+1 counter on equipped creature.
+Equip {2} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => Whenever a creature an opponent controls dies, put a +1/+1 counter on equipped creature.
+Equip {2}
+Assign all {4} [i]({4}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Bountiful Landscape
+
+Deceptive Landscape
+
+Expensive Resort
+
+Foreboding Landscape
+
+Perilous Landscape
+
+Royal Court
+
+Shattered Landscape
+
+Insect Beast
+
+Sand Warden
+
+Helper Boost
+rules_text: Whenever this Medal or another Medal you control enters, create a 1/1 white Insect Soldier creature token.
+Equipped creature has training.
+Equip {2} [i](Medals may be equipped to any number of creatures at the same time.)[/i] => Whenever this Medal or another Medal you control enters, create a 1/1 white Insect Soldier creature token.
+Equipped creature has training.
+Equip {2}
+Assign all {4}
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

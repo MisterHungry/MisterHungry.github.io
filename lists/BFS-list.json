@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Spy Cards",
-        "number": 69,
+        "number": 71,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Dead Lander \u03a9",
-        "number": 81,
+        "number": 83,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Automated Drone Boomerang Prototype",
-        "number": 114,
+        "number": 117,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Goddess Venus",
-        "number": 165,
+        "number": 170,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "The Tidal Wyrm",
-        "number": 72,
+        "number": 74,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Leif's Request",
-        "number": 91,
+        "number": 94,
         "shape": "saga",
         "set": "BFS",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Vi's Request",
-        "number": 141,
+        "number": 145,
         "shape": "saga",
         "set": "BFS",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Golden Seedling",
-        "number": 167,
+        "number": 172,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "Alchemize",
-        "number": 38,
+        "number": 39,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "The Beast",
-        "number": 76,
+        "number": 78,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Carmina, Seasoned Gambler",
-        "number": 123,
+        "number": 126,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Acolyte Aria",
-        "number": 150,
+        "number": 154,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Ancient Icefall",
-        "number": 39,
+        "number": 40,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "Dead Lander \u03b3",
-        "number": 82,
+        "number": 84,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "Disciplined Slash",
-        "number": 124,
+        "number": 127,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "Butomu, Mighty Blacksmith",
-        "number": 153,
+        "number": 158,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Frost Bowling",
-        "number": 53,
+        "number": 55,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -177,7 +177,7 @@
     },
     {
         "card_name": "Dune Scorpion",
-        "number": 85,
+        "number": 88,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -185,7 +185,7 @@
     },
     {
         "card_name": "Hurricane Toss",
-        "number": 127,
+        "number": 131,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Carry the Lineage",
-        "number": 154,
+        "number": 159,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -209,7 +209,7 @@
     },
     {
         "card_name": "Hypnotic Smoke",
-        "number": 56,
+        "number": 58,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "The False Monarch",
-        "number": 88,
+        "number": 91,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "Peculiar Inventor",
-        "number": 129,
+        "number": 133,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "Diana, Stout Miner",
-        "number": 157,
+        "number": 162,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -249,7 +249,7 @@
     },
     {
         "card_name": "Kali, Compelling Seamstress",
-        "number": 58,
+        "number": 60,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -257,7 +257,7 @@
     },
     {
         "card_name": "Monsieur Scarlet",
-        "number": 98,
+        "number": 101,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Riz, Isolated Bulwark",
-        "number": 131,
+        "number": 135,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Mother Chomper",
-        "number": 176,
+        "number": 181,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -289,7 +289,7 @@
     },
     {
         "card_name": "Mimic Spider",
-        "number": 59,
+        "number": 61,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -297,7 +297,7 @@
     },
     {
         "card_name": "Piercing Roar",
-        "number": 100,
+        "number": 103,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Termite Knight",
-        "number": 137,
+        "number": 141,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Seedling King",
-        "number": 179,
+        "number": 184,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "Yin, Late Bloomer",
-        "number": 37,
+        "number": 38,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -329,7 +329,7 @@
     },
     {
         "card_name": "Professor Neolith",
-        "number": 61,
+        "number": 63,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -337,7 +337,7 @@
     },
     {
         "card_name": "Sororicide",
-        "number": 105,
+        "number": 108,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -345,7 +345,7 @@
     },
     {
         "card_name": "Vanessa II, Usurped Queen",
-        "number": 139,
+        "number": 143,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -353,7 +353,7 @@
     },
     {
         "card_name": "Venus Guardian",
-        "number": 182,
+        "number": 187,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -369,7 +369,7 @@
     },
     {
         "card_name": "Beetle Fortune Teller",
-        "number": 40,
+        "number": 41,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -377,7 +377,7 @@
     },
     {
         "card_name": "Bounty Board",
-        "number": 79,
+        "number": 81,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -385,19 +385,19 @@
     },
     {
         "card_name": "Bomb Master",
-        "number": 118,
+        "number": 121,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
         "position": "117"
     },
     {
-        "card_name": "Altruist Hospitality",
-        "number": 151,
+        "card_name": "Acornling",
+        "number": 155,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "150"
+        "position": "274"
     },
     {
         "card_name": "Aspiring Musician",
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Bloatshroom",
-        "number": 41,
+        "number": 42,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -417,7 +417,7 @@
     },
     {
         "card_name": "Caught as Prey",
-        "number": 80,
+        "number": 82,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -425,19 +425,19 @@
     },
     {
         "card_name": "Burn Away",
-        "number": 121,
+        "number": 124,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
         "position": "120"
     },
     {
-        "card_name": "Belostoss",
-        "number": 152,
+        "card_name": "Altruist Hospitality",
+        "number": 156,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "151"
+        "position": "150"
     },
     {
         "card_name": "A Bond Thicker Than Honey",
@@ -449,35 +449,35 @@
     },
     {
         "card_name": "Charm Dancer",
-        "number": 43,
+        "number": 44,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
         "position": "41"
     },
     {
-        "card_name": "Defiant Operators",
-        "number": 83,
+        "card_name": "Dead Lander \u03b1",
+        "number": 85,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "82"
+        "position": "272"
     },
     {
         "card_name": "Burning Krawler",
-        "number": 122,
+        "number": 125,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
         "position": "121"
     },
     {
-        "card_name": "Charitable Sightseer",
-        "number": 155,
+        "card_name": "Belostoss",
+        "number": 157,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "154"
+        "position": "151"
     },
     {
         "card_name": "Boulder Toss",
@@ -489,35 +489,35 @@
     },
     {
         "card_name": "Checkpoint Scan",
-        "number": 44,
+        "number": 45,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
         "position": "42"
     },
     {
-        "card_name": "Exiled Alchemist",
+        "card_name": "Defiant Operators",
         "number": 86,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "85"
+        "position": "82"
     },
     {
         "card_name": "Exploration Team Rivalry",
-        "number": 125,
+        "number": 128,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
         "position": "124"
     },
     {
-        "card_name": "Chomper Brute",
-        "number": 156,
+        "card_name": "Charitable Sightseer",
+        "number": 160,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "155"
+        "position": "154"
     },
     {
         "card_name": "Desperate Treatment",
@@ -529,35 +529,35 @@
     },
     {
         "card_name": "Cocoon of Slumber",
-        "number": 45,
+        "number": 46,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
         "position": "43"
     },
     {
-        "card_name": "Failed Experiment",
-        "number": 87,
+        "card_name": "Exiled Alchemist",
+        "number": 89,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "86"
+        "position": "85"
     },
     {
-        "card_name": "Lay Siege",
-        "number": 128,
+        "card_name": "Forced Conscription",
+        "number": 130,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "127"
+        "position": "273"
     },
     {
-        "card_name": "Enter the Unknown",
-        "number": 159,
+        "card_name": "Chomper Brute",
+        "number": 161,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "158"
+        "position": "155"
     },
     {
         "card_name": "Honey Factory Maintenance Chief",
@@ -568,36 +568,36 @@
         "position": "17"
     },
     {
-        "card_name": "Denmuki",
-        "number": 46,
+        "card_name": "Defend the Factory",
+        "number": 47,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "44"
+        "position": "271"
     },
     {
-        "card_name": "Lost Sands Burglar",
-        "number": 94,
+        "card_name": "Failed Experiment",
+        "number": 90,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "93"
+        "position": "86"
     },
     {
-        "card_name": "Sharp Assistant",
-        "number": 134,
+        "card_name": "Lay Siege",
+        "number": 132,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "133"
+        "position": "127"
     },
     {
-        "card_name": "Frenzied Sunflower Dance",
-        "number": 162,
+        "card_name": "Enter the Unknown",
+        "number": 164,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "161"
+        "position": "158"
     },
     {
         "card_name": "Honey Factory Overseer",
@@ -608,36 +608,36 @@
         "position": "18"
     },
     {
-        "card_name": "Disheveled Assistant",
-        "number": 47,
+        "card_name": "Denmuki",
+        "number": 48,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "45"
+        "position": "44"
     },
     {
-        "card_name": "Scorpion Caretaker",
-        "number": 101,
+        "card_name": "Lost Sands Burglar",
+        "number": 97,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "100"
+        "position": "93"
     },
     {
-        "card_name": "Termite Engineers",
-        "number": 135,
+        "card_name": "Sharp Assistant",
+        "number": 138,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "134"
+        "position": "133"
     },
     {
-        "card_name": "Golden Festival Harvest",
-        "number": 166,
+        "card_name": "Frenzied Sunflower Dance",
+        "number": 167,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "165"
+        "position": "161"
     },
     {
         "card_name": "Kingdom Border Guard",
@@ -648,36 +648,36 @@
         "position": "22"
     },
     {
-        "card_name": "Frigid Coffin",
-        "number": 52,
+        "card_name": "Disheveled Assistant",
+        "number": 49,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "50"
+        "position": "45"
     },
     {
-        "card_name": "Sprout From Within",
-        "number": 106,
+        "card_name": "Scorpion Caretaker",
+        "number": 104,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "105"
+        "position": "100"
     },
     {
-        "card_name": "Termite Financier",
-        "number": 136,
+        "card_name": "Termite Engineers",
+        "number": 139,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "135"
+        "position": "134"
     },
     {
-        "card_name": "Inseparable Travelers",
+        "card_name": "Golden Festival Harvest",
         "number": 171,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "170"
+        "position": "165"
     },
     {
         "card_name": "Queen's Decree",
@@ -688,36 +688,36 @@
         "position": "32"
     },
     {
-        "card_name": "Roach Scientists",
-        "number": 63,
+        "card_name": "Frigid Coffin",
+        "number": 54,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "61"
+        "position": "50"
     },
     {
-        "card_name": "Stargaze",
-        "number": 107,
+        "card_name": "Sprout From Within",
+        "number": 109,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "106"
+        "position": "105"
     },
     {
-        "card_name": "Wasp Bomber",
-        "number": 143,
+        "card_name": "Termite Financier",
+        "number": 140,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "142"
+        "position": "135"
     },
     {
-        "card_name": "Primal Weevil",
-        "number": 177,
+        "card_name": "Inseparable Travelers",
+        "number": 176,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "176"
+        "position": "170"
     },
     {
         "card_name": "Queen's Teachings",
@@ -728,8 +728,48 @@
         "position": "30"
     },
     {
+        "card_name": "Roach Scientists",
+        "number": 65,
+        "shape": "normal",
+        "set": "BFS",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Stargaze",
+        "number": 110,
+        "shape": "normal",
+        "set": "BFS",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Wasp Bomber",
+        "number": 147,
+        "shape": "normal",
+        "set": "BFS",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "Primal Weevil",
+        "number": 182,
+        "shape": "normal",
+        "set": "BFS",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "Royal Fealty",
+        "number": 34,
+        "shape": "normal",
+        "set": "BFS",
+        "rotated": false,
+        "position": "270"
+    },
+    {
         "card_name": "Sophisticated Research",
-        "number": 66,
+        "number": 68,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -737,7 +777,7 @@
     },
     {
         "card_name": "Undercover Barkeep",
-        "number": 108,
+        "number": 111,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -745,7 +785,7 @@
     },
     {
         "card_name": "Wasp Driller",
-        "number": 144,
+        "number": 148,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -753,7 +793,7 @@
     },
     {
         "card_name": "Venus's Blessing",
-        "number": 183,
+        "number": 188,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -769,7 +809,7 @@
     },
     {
         "card_name": "Bubble Shield",
-        "number": 42,
+        "number": 43,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -777,7 +817,7 @@
     },
     {
         "card_name": "Ambushed by Bandits",
-        "number": 75,
+        "number": 77,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -785,7 +825,7 @@
     },
     {
         "card_name": "Apprehensive Novice",
-        "number": 112,
+        "number": 115,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -793,7 +833,7 @@
     },
     {
         "card_name": "Abundant Harvest",
-        "number": 149,
+        "number": 153,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -809,7 +849,7 @@
     },
     {
         "card_name": "Diving Spider",
-        "number": 48,
+        "number": 50,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -817,7 +857,7 @@
     },
     {
         "card_name": "Big Mistake",
-        "number": 77,
+        "number": 79,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -825,7 +865,7 @@
     },
     {
         "card_name": "Arrow Worm",
-        "number": 113,
+        "number": 116,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -833,7 +873,7 @@
     },
     {
         "card_name": "Duel for Dominance",
-        "number": 158,
+        "number": 163,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -849,7 +889,7 @@
     },
     {
         "card_name": "Don't Make a Sound",
-        "number": 49,
+        "number": 51,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -857,7 +897,7 @@
     },
     {
         "card_name": "Bittersweet Memory",
-        "number": 78,
+        "number": 80,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -865,7 +905,7 @@
     },
     {
         "card_name": "Battle Plan",
-        "number": 115,
+        "number": 118,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -873,7 +913,7 @@
     },
     {
         "card_name": "Exotic Voyage",
-        "number": 160,
+        "number": 165,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -889,7 +929,7 @@
     },
     {
         "card_name": "Emergency Protocol",
-        "number": 50,
+        "number": 52,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -897,7 +937,7 @@
     },
     {
         "card_name": "Defy Your Past",
-        "number": 84,
+        "number": 87,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -905,7 +945,7 @@
     },
     {
         "card_name": "Beehive Guardian",
-        "number": 116,
+        "number": 119,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -913,7 +953,7 @@
     },
     {
         "card_name": "Fashionable Denizen",
-        "number": 161,
+        "number": 166,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -929,7 +969,7 @@
     },
     {
         "card_name": "Encased in Crystal",
-        "number": 51,
+        "number": 53,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -937,7 +977,7 @@
     },
     {
         "card_name": "Lawless Ruffian",
-        "number": 89,
+        "number": 92,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -945,7 +985,7 @@
     },
     {
         "card_name": "Big Score",
-        "number": 117,
+        "number": 120,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -953,7 +993,7 @@
     },
     {
         "card_name": "Fruitful Aphids",
-        "number": 163,
+        "number": 168,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -969,7 +1009,7 @@
     },
     {
         "card_name": "Gloomy Artist",
-        "number": 54,
+        "number": 56,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -977,7 +1017,7 @@
     },
     {
         "card_name": "Leafbug Archer",
-        "number": 90,
+        "number": 93,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -985,7 +1025,7 @@
     },
     {
         "card_name": "Boomerang Toss",
-        "number": 119,
+        "number": 122,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -993,7 +1033,7 @@
     },
     {
         "card_name": "Fruity Bugs",
-        "number": 164,
+        "number": 169,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1009,7 +1049,7 @@
     },
     {
         "card_name": "Haunted Cloth",
-        "number": 55,
+        "number": 57,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1017,7 +1057,7 @@
     },
     {
         "card_name": "Lost Appetite",
-        "number": 92,
+        "number": 95,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1025,7 +1065,7 @@
     },
     {
         "card_name": "Brash Wager",
-        "number": 120,
+        "number": 123,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1033,7 +1073,7 @@
     },
     {
         "card_name": "Heavy Strike",
-        "number": 168,
+        "number": 173,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1049,7 +1089,7 @@
     },
     {
         "card_name": "Jellyshroom",
-        "number": 57,
+        "number": 59,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1057,7 +1097,7 @@
     },
     {
         "card_name": "Lost Sands Bandit",
-        "number": 93,
+        "number": 96,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1065,7 +1105,7 @@
     },
     {
         "card_name": "Explorers' Accountant",
-        "number": 126,
+        "number": 129,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1073,7 +1113,7 @@
     },
     {
         "card_name": "Inichas",
-        "number": 169,
+        "number": 174,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1089,7 +1129,7 @@
     },
     {
         "card_name": "Momentous Discovery",
-        "number": 60,
+        "number": 62,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1097,7 +1137,7 @@
     },
     {
         "card_name": "Lost Sands Thief",
-        "number": 95,
+        "number": 98,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1105,7 +1145,7 @@
     },
     {
         "card_name": "Rabid Chase",
-        "number": 130,
+        "number": 134,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1113,7 +1153,7 @@
     },
     {
         "card_name": "Inquisitive Biologist",
-        "number": 170,
+        "number": 175,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1129,7 +1169,7 @@
     },
     {
         "card_name": "Quest Board Manager",
-        "number": 62,
+        "number": 64,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1137,7 +1177,7 @@
     },
     {
         "card_name": "Madesphy",
-        "number": 96,
+        "number": 99,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1145,7 +1185,7 @@
     },
     {
         "card_name": "Rubbish Enthusiast",
-        "number": 132,
+        "number": 136,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1153,7 +1193,7 @@
     },
     {
         "card_name": "Ironnail",
-        "number": 172,
+        "number": 177,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1169,7 +1209,7 @@
     },
     {
         "card_name": "Royal Caretakers",
-        "number": 64,
+        "number": 66,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1177,7 +1217,7 @@
     },
     {
         "card_name": "Mantidfly",
-        "number": 97,
+        "number": 100,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1185,7 +1225,7 @@
     },
     {
         "card_name": "Rush Into Action",
-        "number": 133,
+        "number": 137,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1193,7 +1233,7 @@
     },
     {
         "card_name": "Leafbug Clubber",
-        "number": 173,
+        "number": 178,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1209,7 +1249,7 @@
     },
     {
         "card_name": "Secret Route",
-        "number": 65,
+        "number": 67,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1217,7 +1257,7 @@
     },
     {
         "card_name": "Mothfly Cluster",
-        "number": 99,
+        "number": 102,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1225,7 +1265,7 @@
     },
     {
         "card_name": "Underground Bartender",
-        "number": 138,
+        "number": 142,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1233,7 +1273,7 @@
     },
     {
         "card_name": "Leafbug Ninja",
-        "number": 174,
+        "number": 179,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1249,7 +1289,7 @@
     },
     {
         "card_name": "Spry Elder",
-        "number": 67,
+        "number": 69,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1257,7 +1297,7 @@
     },
     {
         "card_name": "Scorpion Sting",
-        "number": 102,
+        "number": 105,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1265,7 +1305,7 @@
     },
     {
         "card_name": "Vengeful Kin",
-        "number": 140,
+        "number": 144,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1273,7 +1313,7 @@
     },
     {
         "card_name": "Luminous Traveler",
-        "number": 175,
+        "number": 180,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1289,7 +1329,7 @@
     },
     {
         "card_name": "Spy",
-        "number": 68,
+        "number": 70,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1297,7 +1337,7 @@
     },
     {
         "card_name": "Shady Dealer",
-        "number": 103,
+        "number": 106,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1305,7 +1345,7 @@
     },
     {
         "card_name": "Wasp Assault",
-        "number": 142,
+        "number": 146,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1313,7 +1353,7 @@
     },
     {
         "card_name": "Seedling",
-        "number": 178,
+        "number": 183,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1329,7 +1369,7 @@
     },
     {
         "card_name": "Stealth Mission",
-        "number": 70,
+        "number": 72,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1337,7 +1377,7 @@
     },
     {
         "card_name": "Snakemouth Researchers",
-        "number": 104,
+        "number": 107,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1345,7 +1385,7 @@
     },
     {
         "card_name": "Wasp Fanatic",
-        "number": 145,
+        "number": 149,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1353,7 +1393,7 @@
     },
     {
         "card_name": "Shattered Wings",
-        "number": 180,
+        "number": 185,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1361,7 +1401,7 @@
     },
     {
         "card_name": "Salvation Strike",
-        "number": 34,
+        "number": 35,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1369,7 +1409,7 @@
     },
     {
         "card_name": "Take Inventory",
-        "number": 71,
+        "number": 73,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1377,7 +1417,7 @@
     },
     {
         "card_name": "Zombee",
-        "number": 109,
+        "number": 112,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1385,7 +1425,7 @@
     },
     {
         "card_name": "Wasp Scout",
-        "number": 146,
+        "number": 150,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1393,7 +1433,7 @@
     },
     {
         "card_name": "Tunneling Worm",
-        "number": 181,
+        "number": 186,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1401,7 +1441,7 @@
     },
     {
         "card_name": "Security Turret",
-        "number": 35,
+        "number": 36,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1409,7 +1449,7 @@
     },
     {
         "card_name": "Tournament Challenger",
-        "number": 73,
+        "number": 75,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1417,7 +1457,7 @@
     },
     {
         "card_name": "Zombeetle",
-        "number": 110,
+        "number": 113,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1425,7 +1465,7 @@
     },
     {
         "card_name": "Wasp Trooper",
-        "number": 147,
+        "number": 151,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1433,7 +1473,7 @@
     },
     {
         "card_name": "Weevil",
-        "number": 184,
+        "number": 189,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1441,7 +1481,7 @@
     },
     {
         "card_name": "Seedling Slayer",
-        "number": 36,
+        "number": 37,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1449,7 +1489,7 @@
     },
     {
         "card_name": "Water Strider",
-        "number": 74,
+        "number": 76,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1457,7 +1497,7 @@
     },
     {
         "card_name": "Zombiant",
-        "number": 111,
+        "number": 114,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1465,7 +1505,7 @@
     },
     {
         "card_name": "Wronged Sailor",
-        "number": 148,
+        "number": 152,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1473,7 +1513,7 @@
     },
     {
         "card_name": "Wild Chomper",
-        "number": 185,
+        "number": 190,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1494,7 +1534,7 @@
     "a->gold",
     {
         "card_name": "Frozen Drill",
-        "number": 196,
+        "number": 201,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1502,7 +1542,7 @@
     },
     {
         "card_name": "Zommoth",
-        "number": 220,
+        "number": 225,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1510,7 +1550,7 @@
     },
     {
         "card_name": "ULTIMAX Tank",
-        "number": 213,
+        "number": 218,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1518,7 +1558,7 @@
     },
     {
         "card_name": "Kina, Overprotective Fighter",
-        "number": 201,
+        "number": 206,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1526,7 +1566,7 @@
     },
     {
         "card_name": "The Broodmother",
-        "number": 189,
+        "number": 194,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1534,7 +1574,7 @@
     },
     {
         "card_name": "Doctor H.B.",
-        "number": 194,
+        "number": 199,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1542,7 +1582,7 @@
     },
     {
         "card_name": "Elder of the Roach Village",
-        "number": 195,
+        "number": 200,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1550,7 +1590,7 @@
     },
     {
         "card_name": "Cenn and Pisci, Fraudulent Team",
-        "number": 190,
+        "number": 195,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1558,7 +1598,7 @@
     },
     {
         "card_name": "Cross and Poi, Termite Guards",
-        "number": 192,
+        "number": 197,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1566,7 +1606,7 @@
     },
     {
         "card_name": "Kabbu, the Chivalrous",
-        "number": 199,
+        "number": 204,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1574,7 +1614,7 @@
     },
     {
         "card_name": "Jaune, Prodigious Painter",
-        "number": 198,
+        "number": 203,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1582,7 +1622,7 @@
     },
     {
         "card_name": "Leif, the Enigmatic",
-        "number": 203,
+        "number": 208,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1590,7 +1630,7 @@
     },
     {
         "card_name": "Wasp General Ultimax",
-        "number": 215,
+        "number": 220,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1598,7 +1638,7 @@
     },
     {
         "card_name": "Spuder, Bane of Explorers",
-        "number": 210,
+        "number": 215,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1606,7 +1646,7 @@
     },
     {
         "card_name": "Zaryant, Royal Bodyguard",
-        "number": 218,
+        "number": 223,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1629,7 +1669,7 @@
     },
     {
         "card_name": "Astotheles, Bandit Leader",
-        "number": 187,
+        "number": 192,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1637,7 +1677,7 @@
     },
     {
         "card_name": "The Peacock Spider",
-        "number": 208,
+        "number": 213,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1645,7 +1685,7 @@
     },
     {
         "card_name": "The Devourer",
-        "number": 193,
+        "number": 198,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1653,7 +1693,7 @@
     },
     {
         "card_name": "Maki, the Queen's Blade",
-        "number": 205,
+        "number": 210,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1661,7 +1701,7 @@
     },
     {
         "card_name": "Levi and Celia, Seasoned Explorers",
-        "number": 204,
+        "number": 209,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1669,7 +1709,7 @@
     },
     {
         "card_name": "Stratos and Delilah, Team Slacker",
-        "number": 211,
+        "number": 216,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1677,7 +1717,7 @@
     },
     {
         "card_name": "Professor Honeycomb",
-        "number": 209,
+        "number": 214,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1685,7 +1725,7 @@
     },
     {
         "card_name": "Chompy, Next in Line",
-        "number": 191,
+        "number": 196,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1693,7 +1733,7 @@
     },
     {
         "card_name": "Needle Pincer",
-        "number": 207,
+        "number": 212,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1701,7 +1741,7 @@
     },
     {
         "card_name": "Gen and Eri, Twin Team",
-        "number": 197,
+        "number": 202,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1709,7 +1749,7 @@
     },
     {
         "card_name": "Zasp, the Zealous",
-        "number": 219,
+        "number": 224,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1717,7 +1757,7 @@
     },
     {
         "card_name": "Tarantular, the Wizard",
-        "number": 212,
+        "number": 217,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1725,7 +1765,7 @@
     },
     {
         "card_name": "Mothiva, the Cutthroat",
-        "number": 206,
+        "number": 211,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1733,7 +1773,7 @@
     },
     {
         "card_name": "Vi, the Audacious",
-        "number": 214,
+        "number": 219,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1741,7 +1781,7 @@
     },
     {
         "card_name": "Kenny, the Vagabond",
-        "number": 200,
+        "number": 205,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1764,7 +1804,7 @@
     },
     {
         "card_name": "Ant Queen Elizant II",
-        "number": 186,
+        "number": 191,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1772,7 +1812,7 @@
     },
     {
         "card_name": "Bee Queen Bianca",
-        "number": 188,
+        "number": 193,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1780,7 +1820,7 @@
     },
     {
         "card_name": "King Hector IV and Queen Layra II",
-        "number": 202,
+        "number": 207,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1788,7 +1828,7 @@
     },
     {
         "card_name": "Wasp King Hoaxe",
-        "number": 216,
+        "number": 221,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1796,7 +1836,7 @@
     },
     {
         "card_name": "The Watcher",
-        "number": 217,
+        "number": 222,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1817,7 +1857,7 @@
     "a->colorless",
     {
         "card_name": "Leaf of the Everlasting Sapling",
-        "number": 233,
+        "number": 238,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1825,7 +1865,7 @@
     },
     {
         "card_name": "Life Cast",
-        "number": 234,
+        "number": 239,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1833,7 +1873,7 @@
     },
     {
         "card_name": "Miracle Matter",
-        "number": 236,
+        "number": 241,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1841,7 +1881,7 @@
     },
     {
         "card_name": "Ahoneynation",
-        "number": 222,
+        "number": 227,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1849,7 +1889,7 @@
     },
     {
         "card_name": "Ancient Mask",
-        "number": 223,
+        "number": 228,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1857,7 +1897,7 @@
     },
     {
         "card_name": "Charge Up Plus",
-        "number": 227,
+        "number": 232,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1865,7 +1905,7 @@
     },
     {
         "card_name": "Trading Post",
-        "number": 240,
+        "number": 245,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1873,7 +1913,7 @@
     },
     {
         "card_name": "Bug Me Not!",
-        "number": 226,
+        "number": 231,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1881,7 +1921,7 @@
     },
     {
         "card_name": "Favorite One",
-        "number": 229,
+        "number": 234,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1889,7 +1929,7 @@
     },
     {
         "card_name": "Helper Boost",
-        "number": 230,
+        "number": 235,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1897,7 +1937,7 @@
     },
     {
         "card_name": "Leaf Cloak",
-        "number": 232,
+        "number": 237,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1905,7 +1945,7 @@
     },
     {
         "card_name": "Smoke Bomb",
-        "number": 238,
+        "number": 243,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1913,7 +1953,7 @@
     },
     {
         "card_name": "Strong Start",
-        "number": 239,
+        "number": 244,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1921,7 +1961,7 @@
     },
     {
         "card_name": "Triumph Buzz",
-        "number": 241,
+        "number": 246,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1929,7 +1969,7 @@
     },
     {
         "card_name": "Abomihoney",
-        "number": 221,
+        "number": 226,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1937,7 +1977,7 @@
     },
     {
         "card_name": "Antlion Jaws",
-        "number": 224,
+        "number": 229,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1945,7 +1985,7 @@
     },
     {
         "card_name": "Berserker",
-        "number": 225,
+        "number": 230,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1953,7 +1993,7 @@
     },
     {
         "card_name": "Expedition Map",
-        "number": 228,
+        "number": 233,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1961,7 +2001,7 @@
     },
     {
         "card_name": "HP Plus",
-        "number": 231,
+        "number": 236,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1969,7 +2009,7 @@
     },
     {
         "card_name": "Life Stealer",
-        "number": 235,
+        "number": 240,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -1977,7 +2017,7 @@
     },
     {
         "card_name": "Sand Warden",
-        "number": 237,
+        "number": 242,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -2012,7 +2052,7 @@
     },
     {
         "card_name": "Fabled Passage",
-        "number": 245,
+        "number": 250,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -2020,7 +2060,7 @@
     },
     {
         "card_name": "Expensive Resort",
-        "number": 244,
+        "number": 249,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -2028,7 +2068,7 @@
     },
     {
         "card_name": "Royal Court",
-        "number": 248,
+        "number": 253,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -2036,7 +2076,7 @@
     },
     {
         "card_name": "Secluded Village",
-        "number": 249,
+        "number": 254,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -2044,7 +2084,7 @@
     },
     {
         "card_name": "Snakemouth Haven",
-        "number": 251,
+        "number": 256,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -2052,7 +2092,7 @@
     },
     {
         "card_name": "Bountiful Landscape",
-        "number": 242,
+        "number": 247,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -2060,7 +2100,7 @@
     },
     {
         "card_name": "Deceptive Landscape",
-        "number": 243,
+        "number": 248,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -2068,7 +2108,7 @@
     },
     {
         "card_name": "Foreboding Landscape",
-        "number": 246,
+        "number": 251,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -2076,7 +2116,7 @@
     },
     {
         "card_name": "Perilous Landscape",
-        "number": 247,
+        "number": 252,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -2084,7 +2124,7 @@
     },
     {
         "card_name": "Shattered Landscape",
-        "number": 250,
+        "number": 255,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
