@@ -913,7 +913,7 @@
 		{
 			"name": "Lost Appetite",
 			"rarity": "common",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
 			"collector_number": "95",
 			"image_uris": {
@@ -1182,8 +1182,8 @@
 		},
 		{
 			"name": "Boomerang Toss",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "122",
 			"image_uris": {
@@ -1211,11 +1211,11 @@
 			}
 		},
 		{
-			"name": "Burning Krawler",
-			"rarity": "uncommon",
+			"name": "Combination Attack",
+			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "125",
+			"type": "Instant",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/121.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Insect",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/122.png"
 			}
@@ -2853,8 +2853,8 @@
 	4 Stargaze
 	4 Undercover Barkeep
 	4 Bomb Master
+	4 Boomerang Toss
 	4 Burn Away
-	4 Burning Krawler
 	4 Exploration Team Rivalry
 	4 Lay Siege
 	4 Sharp Assistant
@@ -2968,8 +2968,8 @@
 	8 Battle Plan
 	8 Beehive Guardian
 	8 Big Score
-	8 Boomerang Toss
 	8 Brash Wager
+	8 Combination Attack
 	8 Explorers' Accountant
 	8 Rabid Chase
 	8 Rubbish Enthusiast
@@ -3071,8 +3071,8 @@
 	8 Battle Plan
 	8 Beehive Guardian
 	8 Big Score
-	8 Boomerang Toss
 	8 Brash Wager
+	8 Combination Attack
 	8 Explorers' Accountant
 	8 Rabid Chase
 	8 Rubbish Enthusiast
@@ -3233,10 +3233,10 @@
 	12 Beehive Guardian
 	12 Big Score
 	6 Bomb Master
-	12 Boomerang Toss
+	6 Boomerang Toss
 	12 Brash Wager
 	6 Burn Away
-	6 Burning Krawler
+	12 Combination Attack
 	2 Carmina, Seasoned Gambler
 	2 Disciplined Slash
 	6 Exploration Team Rivalry
@@ -3490,10 +3490,10 @@
 	6 Beehive Guardian
 	6 Big Score
 	15 Bomb Master
-	6 Boomerang Toss
+	15 Boomerang Toss
 	6 Brash Wager
 	15 Burn Away
-	15 Burning Krawler
+	6 Combination Attack
 	7 Carmina, Seasoned Gambler
 	7 Disciplined Slash
 	15 Exploration Team Rivalry

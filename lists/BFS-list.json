@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Carmina, Seasoned Gambler",
-        "number": 126,
+        "number": 125,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
@@ -424,12 +424,12 @@
         "position": "79"
     },
     {
-        "card_name": "Burn Away",
-        "number": 124,
+        "card_name": "Boomerang Toss",
+        "number": 122,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "120"
+        "position": "118"
     },
     {
         "card_name": "Altruist Hospitality",
@@ -464,12 +464,12 @@
         "position": "272"
     },
     {
-        "card_name": "Burning Krawler",
-        "number": 125,
+        "card_name": "Burn Away",
+        "number": 124,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "121"
+        "position": "120"
     },
     {
         "card_name": "Belostoss",
@@ -1024,12 +1024,12 @@
         "position": "89"
     },
     {
-        "card_name": "Boomerang Toss",
-        "number": 122,
+        "card_name": "Brash Wager",
+        "number": 123,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "118"
+        "position": "119"
     },
     {
         "card_name": "Fruity Bugs",
@@ -1064,12 +1064,12 @@
         "position": "91"
     },
     {
-        "card_name": "Brash Wager",
-        "number": 123,
+        "card_name": "Combination Attack",
+        "number": 126,
         "shape": "normal",
         "set": "BFS",
         "rotated": false,
-        "position": "119"
+        "position": "121"
     },
     {
         "card_name": "Heavy Strike",

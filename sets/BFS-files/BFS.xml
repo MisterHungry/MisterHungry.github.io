@@ -1637,7 +1637,7 @@ Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a b
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3BB</manacost>
+				<manacost>4B</manacost>
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2115,16 +2115,16 @@ Formidable — Whenever an artifact you control leaves the battlefield, if creat
 		</card>
 		<card>
 			<name>Boomerang Toss</name>
-			<text>Boomerang Toss deals 3 damage to target creature.
+			<text>Boomerang Toss deals 2 damage to target creature.
 Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/118.png" num="122">BFS</set>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/118.png" num="122">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -2163,29 +2163,26 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Burning Krawler</name>
-			<text>Haste
-This creature enters with three +1/+1 counters on it.
-At the beginning of your end step, you may remove a +1/+1 counter from this creature. If you do, it deals 1 damage to each player.</text>
-			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/121.png" num="125">BFS</set>
+			<name>Combination Attack</name>
+			<text>Two target creatures you control each get +1/+0 until end of turn. They each deal damage equal to their power to target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/121.png" num="126">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Construct</type>
-				<maintype>Creature</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>0/0</pt>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Carmina, Seasoned Gambler</name>
 			<text>Haste
 When Carmina, Seasoned Gambler enters, you may search your library for a card, put that card into your hand, discard a card at random, then shuffle.</text>
-			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/122.png" num="126">BFS</set>
+			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/122.png" num="125">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3261,7 +3258,7 @@ Formidable — At the beginning of combat on your turn, if creatures you control
 		<card>
 			<name>Venus&apos;s Blessing</name>
 			<text>Creatures you control get +2/+2 and gain trample until end of turn.
-Harmonize {5}{G}{G}{G} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by an amount of generic mana equal to its power. Then exile this spell.) (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
+Harmonize {5}{G}{G}{G} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
 			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/182.png" num="188">BFS</set>
 			<prop>
 				<layout>normal</layout>
