@@ -1,4 +1,48 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Bountiful Landscape
+
+Deceptive Landscape
+
+Foreboding Landscape
+
+Perilous Landscape
+
+Shattered Landscape
+
+
+VERSION 7 CHANGELOG
+====================
+
+
+
+Bountiful Landscape
+
+Deceptive Landscape
+
+Foreboding Landscape
+
+Perilous Landscape
+
+Shattered Landscape
+
+
+VERSION 6 CHANGELOG
+====================
+
+
+
+Deceptive Landscape
+
+Foreboding Landscape
+
+Perilous Landscape
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

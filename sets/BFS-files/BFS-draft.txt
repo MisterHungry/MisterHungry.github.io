@@ -3629,3 +3629,13 @@
 	15 Forced Conscription
 	15 Acornling
 [landslot(1)]
+	5 Bountiful Landscape
+	5 Deceptive Landscape
+	5 Foreboding Landscape
+	5 Perilous Landscape
+	5 Shattered Landscape
+	5 Forest
+	5 Plains
+	5 Island
+	5 Swamp
+	5 Mountain
