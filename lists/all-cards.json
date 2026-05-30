@@ -1736,7 +1736,7 @@
             "number": 39,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this enchantment enters, mill three cards.\n{2}{U}{U}, Discard a card: Return target instant or sorcery card from your graveyard to your hand.",
+            "rules_text": "When this enchantment enters, mill three cards.\n{2}{U}{U}, Discard a card: Choose an instant or sorcery card in your graveyard. You may cast it this turn. If that spell would be put into your graveyard, exile it instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3795,7 +3795,7 @@
         {
             "card_name": "Enter the Unknown",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 164,
             "color_identity": "G",
@@ -3811,7 +3811,7 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": "reprint\n\nart: https://www.tumblr.com/longeth-dayv/773866202682605568/early-snakemouth-explorers",
+            "notes": "reprint (downshifted)\n\nart: https://www.tumblr.com/longeth-dayv/773866202682605568/early-snakemouth-explorers",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://www.tumblr.com/longeth-dayv/773866202682605568/early-snakemouth-explorers\">Tumblr</a></p>"
@@ -4059,7 +4059,7 @@
         {
             "card_name": "Inquisitive Biologist",
             "color": "G",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Insect Scientist",
             "number": 175,
             "color_identity": "G",
@@ -5875,7 +5875,7 @@
             "alias": "",
             "position": "244",
             "rotated": false,
-            "notes": "!landslot",
+            "notes": "jeskai bees\n\nreprint\n\nart: https://www.deviantart.com/vvipereonk/art/A-suite-for-the-sweets-above-1-2-920776095\n\n!landslot",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://www.deviantart.com/vvipereonk/art/A-suite-for-the-sweets-above-1-2-920776095\">DeviantArt</a></p>"

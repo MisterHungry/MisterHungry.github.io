@@ -5,7 +5,7 @@
 			<name>BFS</name>
 			<longname>Bug Fables Custom Set (Beta V1)</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-25</releasedate>
+			<releasedate>2026-05-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1294,7 +1294,7 @@ When The Tidal Wyrm enters, tap all creatures your opponents control. Put a stun
 		<card>
 			<name>Alchemize</name>
 			<text>When this enchantment enters, mill three cards.
-{2}{U}{U}, Discard a card: Return target instant or sorcery card from your graveyard to your hand.</text>
+{2}{U}{U}, Discard a card: Choose an instant or sorcery card in your graveyard. You may cast it this turn. If that spell would be put into your graveyard, exile it instead.</text>
 			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/72.png" num="39">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -2825,7 +2825,7 @@ When Diana, Stout Miner enters, search your library for up to X basic land cards
 			<name>Enter the Unknown</name>
 			<text>Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
 You may play an additional land this turn.</text>
-			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/158.png" num="164">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/158.png" num="164">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3024,7 +3024,7 @@ Renew — {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a
 			<name>Inquisitive Biologist</name>
 			<text>This creature gets +2/+2 as long as there are three or more different creature types among other creatures you control.
 Formidable — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, target creature you control explores.</text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/169.png" num="175">BFS</set>
+			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/169.png" num="175">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

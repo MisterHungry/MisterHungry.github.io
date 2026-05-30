@@ -1582,7 +1582,7 @@
 		},
 		{
 			"name": "Enter the Unknown",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
 			"collector_number": "164",
@@ -1692,7 +1692,7 @@
 		},
 		{
 			"name": "Inquisitive Biologist",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Insect Scientist",
 			"collector_number": "175",
@@ -2866,9 +2866,9 @@
 	4 Belostoss
 	4 Charitable Sightseer
 	4 Chomper Brute
-	4 Enter the Unknown
 	4 Frenzied Sunflower Dance
 	4 Golden Festival Harvest
+	4 Inquisitive Biologist
 	4 Inseparable Travelers
 	4 Primal Weevil
 	4 Venus's Blessing
@@ -2983,13 +2983,13 @@
 	8 Wronged Sailor
 	8 Abundant Harvest
 	8 Duel for Dominance
+	8 Enter the Unknown
 	8 Exotic Voyage
 	8 Fashionable Denizen
 	8 Fruitful Aphids
 	8 Fruity Bugs
 	8 Heavy Strike
 	8 Inichas
-	8 Inquisitive Biologist
 	8 Ironnail
 	8 Leafbug Clubber
 	8 Leafbug Ninja
@@ -3086,13 +3086,13 @@
 	8 Wronged Sailor
 	8 Abundant Harvest
 	8 Duel for Dominance
+	8 Enter the Unknown
 	8 Exotic Voyage
 	8 Fashionable Denizen
 	8 Fruitful Aphids
 	8 Fruity Bugs
 	8 Heavy Strike
 	8 Inichas
-	8 Inquisitive Biologist
 	8 Ironnail
 	8 Leafbug Clubber
 	8 Leafbug Ninja
@@ -3273,7 +3273,7 @@
 	6 Chomper Brute
 	2 Diana, Stout Miner
 	12 Duel for Dominance
-	6 Enter the Unknown
+	12 Enter the Unknown
 	12 Exotic Voyage
 	12 Fashionable Denizen
 	6 Frenzied Sunflower Dance
@@ -3284,7 +3284,7 @@
 	1 Golden Seedling
 	12 Heavy Strike
 	12 Inichas
-	12 Inquisitive Biologist
+	6 Inquisitive Biologist
 	6 Inseparable Travelers
 	12 Ironnail
 	12 Leafbug Clubber
@@ -3530,7 +3530,7 @@
 	15 Chomper Brute
 	7 Diana, Stout Miner
 	6 Duel for Dominance
-	15 Enter the Unknown
+	6 Enter the Unknown
 	6 Exotic Voyage
 	6 Fashionable Denizen
 	15 Frenzied Sunflower Dance
@@ -3541,7 +3541,7 @@
 	4 Golden Seedling
 	6 Heavy Strike
 	6 Inichas
-	6 Inquisitive Biologist
+	15 Inquisitive Biologist
 	15 Inseparable Travelers
 	6 Ironnail
 	6 Leafbug Clubber

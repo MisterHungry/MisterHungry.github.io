@@ -1,4 +1,21 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Alchemize
+rules_text: When this enchantment enters, mill three cards.
+{2}{U}{U}, Discard a card: Return target instant or sorcery card from your graveyard to your hand. => When this enchantment enters, mill three cards.
+{2}{U}{U}, Discard a card: Choose an instant or sorcery card in your graveyard. You may cast it this turn. If that spell would be put into your graveyard, exile it instead.
+
+Enter the Unknown
+
+Inquisitive Biologist
+
+Perilous Landscape
+
+
+VERSION 8 CHANGELOG
 ====================
 
 
