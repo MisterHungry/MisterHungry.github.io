@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>BFS</name>
-			<longname>Bug Fables Custom Set (Beta V1)</longname>
+			<longname>Bug Fables Custom Set (Beta V1.1)</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-30</releasedate>
+			<releasedate>2026-06-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -77,7 +77,7 @@ Whenever a creature you control trains, create a 1/1 white Insect Soldier creatu
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/6</pt>
+				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">Insect Soldier BFS</related>
@@ -410,7 +410,7 @@ Whenever one or more creatures you control deal combat damage to a player, creat
 		<card>
 			<name>Kingdom Border Guard</name>
 			<text>Flying, vigilance
-Creatures you control with counters on them have ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+Equipped creatures you control have ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
 			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/22.png" num="23">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1363,7 +1363,7 @@ Whenever a creature dealt damage by The Beast this turn dies, each opponent lose
 		</card>
 		<card>
 			<name>Big Mistake</name>
-			<text>Target creature gets +3/-3 and gains wither until end of turn. (It deals damage to creatures in the form of -1/-1 counters.)</text>
+			<text>Target creature gets +3/-3 and gains menace until end of turn. (That creature can&apos;t be blocked except by two or more creatures.)</text>
 			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/76.png" num="79">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1468,7 +1468,7 @@ If a creature an opponent controls would die, exile it instead.</text>
 		</card>
 		<card>
 			<name>Defiant Operators</name>
-			<text>Whenever you attack, you may sacrifice another creature or artifact. If you do, surveil 1, then draw a card.</text>
+			<text>Whenever you attack, you may sacrifice another creature or artifact. If you do, surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/82.png" num="86">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1702,7 +1702,7 @@ Training (Whenever this creature attacks with another creature with greater powe
 		<card>
 			<name>Madesphy</name>
 			<text>Flash
-When this creature dies, you may put a -1/-1 counter on target creature. If that creature is modified, put two -1/-1 counters on it instead. (Equipment, Auras you control, and counters are modifications.)</text>
+When this creature dies, target creature an opponent controls gets -1/-1 until end of turn.</text>
 			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/95.png" num="99">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1713,14 +1713,14 @@ When this creature dies, you may put a -1/-1 counter on target creature. If that
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/1</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Mantidfly</name>
 			<text>Flying
-Raid — At the beginning of your end step, if you attacked this turn, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+Raid — At the beginning of your end step, if you attacked this turn, surveil 2.</text>
 			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/96.png" num="100">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1828,7 +1828,7 @@ Flashback {5}{B}{B}{B} (You may cast this card from your graveyard for its flash
 		<card>
 			<name>Shady Dealer</name>
 			<text>When this creature enters, mill two cards.
-{2}{B}{B}, Exile this card from your graveyard: Look at the top two cards of target opponent&apos;s library. Exile one of them face down and put the other on the bottom of that library. You may play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.</text>
+{2}{B}{B}, Exile this card from your graveyard: Exile the top card of target opponent&apos;s library. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast it.</text>
 			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/102.png" num="106">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1880,7 +1880,8 @@ When this creature enters, you may mill cards equal to the number of creatures y
 		<card>
 			<name>Sprout From Within</name>
 			<text>Enchant creature
-At the beginning of your end step, mill a card, then put a -1/-1 counter on enchanted creature. If a creature card was milled this way, you may put two -1/-1 counters on it instead.
+At the beginning of your end step, mill a card, then put a plague counter on this Aura. If a creature card was milled this way, you may put two plague counters on it instead.
+Enchanted creature gets -1/-1 for each plague counter on this Aura.
 When enchanted creature dies, you gain 3 life.</text>
 			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/105.png" num="109">BFS</set>
 			<prop>
@@ -2026,7 +2027,7 @@ Disguise {1}{R}{R} (You may cast this card face down for {3} as a 2/2 creature w
 			<name>Automated Drone Boomerang Prototype</name>
 			<text>Equipped creature gets +2/+1.
 Whenever equipped creature deals damage, put a charge counter on this artifact.
-{1}, Tap equipped creature: It deals damage equal to the number of charge counters on this artifact to any target. Return this artifact to its owner&apos;s hand.
+{R}, Tap equipped creature: It deals damage equal to the number of charge counters on this artifact to any target. Return this artifact to its owner&apos;s hand. Activate only if equipped creature is untapped.
 Equip {1}</text>
 			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/113.png" num="117">BFS</set>
 			<prop>
@@ -2132,7 +2133,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 		</card>
 		<card>
 			<name>Brash Wager</name>
-			<text>Choose target opponent. If you deal combat damage to that opponent this turn, draw two cards.</text>
+			<text>Choose target opponent. When a creature you control next deals combat damage to that player this turn, draw two cards.</text>
 			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/119.png" num="123">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -2303,7 +2304,7 @@ Raid — At the beginning of your postcombat main phase, if you attacked this tu
 		<card>
 			<name>Rabid Chase</name>
 			<text>Target creature gets +2/+0 and gains first strike until end of turn.
-Draw a card, then discard a card.</text>
+You may discard a card. If you do, draw a card.</text>
 			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/129.png" num="134">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -2339,7 +2340,7 @@ When Riz, Isolated Bulwark dies, you may sacrifice an artifact. If you do, draw 
 		</card>
 		<card>
 			<name>Rubbish Enthusiast</name>
-			<text>Raid — At the beginning of your end step, if you attacked this turn, you may draw a card. If you do, discard a card.</text>
+			<text>Raid — At the beginning of your end step, if you attacked this turn, you may discard a card. If you do, draw a card.</text>
 			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/131.png" num="136">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -3806,7 +3807,7 @@ Prevent all damage that Stratos and Delilah, Team Slacker would deal to players.
 			<name>ULTIMAX Tank</name>
 			<text>Trample
 When ULTIMAX Tank attacks, it gains indestructible until end of turn.
-Exhaust — {B}{B}{B}{R}{R}{R}: ULTIMAX Tank deals 3 damage to each creature. (Activate each exhaust ability only once.) (Activate each exhaust ability only once.)
+Exhaust — {B}{B}{B}{R}{R}{R}: ULTIMAX Tank deals 3 damage to each creature. (Activate each exhaust ability only once.)
 Crew 2</text>
 			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/212.png" num="218">BFS</set>
 			<prop>

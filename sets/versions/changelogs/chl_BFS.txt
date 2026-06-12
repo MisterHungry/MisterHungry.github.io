@@ -1,4 +1,102 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Ant Kingdom Lieutenant
+pt: 3/6 => 3/5
+
+Kingdom Border Guard
+rules_text: Flying, vigilance
+Creatures you control with counters on them have ward {1}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i] => Flying, vigilance
+Equipped creatures you control have ward {1}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+
+The Beast
+
+Big Mistake
+rules_text: Target creature gets +3/-3 and gains wither until end of turn. [i](It deals damage to creatures in the form of -1/-1 counters.)[/i] => Target creature gets +3/-3 and gains menace until end of turn. [i](That creature can't be blocked except by two or more creatures.)[/i]
+
+Dead Lander Ω
+rules_text: Menace
+If a creature an opponent controls would die, instead exile it and put a +1/+1 counter on this creature
+During your turn, you may cast cards exiled with this card. If you cast a spell this way, remove three counters from among creatures you control rather than pay its mana cost. => Menace
+If a creature an opponent controls would die, instead exile it and put a +1/+1 counter on this creature
+During your turn, you may cast cards exiled with this card. If you cast a spell this way, remove three counters from among creatures you control rather than pay its mana cost.
+
+
+Defiant Operators
+rules_text: Whenever you attack, you may sacrifice another creature or artifact. If you do, surveil 1, then draw a card. => Whenever you attack, you may sacrifice another creature or artifact. If you do, surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Madesphy
+rules_text: Flash
+When this creature dies, you may put a -1/-1 counter on target creature. If that creature is modified, put two -1/-1 counters on it instead. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Flash
+When this creature dies, target creature an opponent controls gets -1/-1 until end of turn.
+pt: 2/1 => 1/1
+
+Mantidfly
+rules_text: Flying
+[i]Raid[/i] — At the beginning of your end step, if you attacked this turn, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Flying
+[i]Raid[/i] — At the beginning of your end step, if you attacked this turn, surveil 2.
+
+Shady Dealer
+rules_text: When this creature enters, mill two cards.
+{2}{B}{B}, Exile this card from your graveyard: Look at the top two cards of target opponent's library. Exile one of them face down and put the other on the bottom of that library. You may play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell. => When this creature enters, mill two cards.
+{2}{B}{B}, Exile this card from your graveyard: Exile the top card of target opponent's library. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast it.
+
+
+Sprout From Within
+rules_text: Enchant creature
+At the beginning of your end step, mill a card, then put a -1/-1 counter on enchanted creature. If a creature card was milled this way, you may put two -1/-1 counters on it instead.
+When enchanted creature dies, you gain 3 life. => Enchant creature
+At the beginning of your end step, mill a card, then put a plague counter on this Aura. If a creature card was milled this way, you may put two plague counters on it instead.
+Enchanted creature gets -1/-1 for each plague counter on this Aura.
+When enchanted creature dies, you gain 3 life.
+
+Automated Drone Boomerang Prototype
+rules_text: Equipped creature gets +2/+1.
+Whenever equipped creature deals damage, put a charge counter on this artifact.
+{1}, Tap equipped creature: It deals damage equal to the number of charge counters on this artifact to any target. Return this artifact to its owner's hand.
+Equip {1} => Equipped creature gets +2/+1.
+Whenever equipped creature deals damage, put a charge counter on this artifact.
+{R}, Tap equipped creature: It deals damage equal to the number of charge counters on this artifact to any target. Return this artifact to its owner's hand. Activate only if equipped creature is untapped.
+Equip {1}
+
+Brash Wager
+rules_text: Choose target opponent. If you deal combat damage to that opponent this turn, draw two cards. => Choose target opponent. When a creature you control next deals combat damage to that player this turn, draw two cards.
+
+Rabid Chase
+rules_text: Target creature gets +2/+0 and gains first strike until end of turn.
+Draw a card, then discard a card. => Target creature gets +2/+0 and gains first strike until end of turn.
+You may discard a card. If you do, draw a card.
+
+Rubbish Enthusiast
+rules_text: [i]Raid[/i] — At the beginning of your end step, if you attacked this turn, you may draw a card. If you do, discard a card. => [i]Raid[/i] — At the beginning of your end step, if you attacked this turn, you may discard a card. If you do, draw a card.
+
+Charitable Sightseer
+
+Seedling
+
+Weevil
+
+Cenn and Pisci, Fraudulent Team
+
+Jaune, Prodigious Painter
+
+Kenny, the Vagabond
+
+Professor Honeycomb
+
+ULTIMAX Tank
+rules_text: Trample
+When ULTIMAX Tank attacks, it gains indestructible until end of turn.
+Exhaust — {B}{B}{B}{R}{R}{R}: ULTIMAX Tank deals 3 damage to each creature. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+Crew 2 => Trample
+When ULTIMAX Tank attacks, it gains indestructible until end of turn.
+Exhaust — {B}{B}{B}{R}{R}{R}: ULTIMAX Tank deals 3 damage to each creature. [i](Activate each exhaust ability only once.)[/i]
+Crew 2
+
+
+VERSION 9 CHANGELOG
 ====================
 
 
