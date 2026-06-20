@@ -1,4 +1,704 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Card Tournament Contender added.
+Sparring Match added.
+World Map added.
+Robot added.
+Crystal Slumber added.
+
+Quicksand Whirlpool removed.
+Tournament Challenger removed.
+Duel for Dominance removed.
+Expedition Map removed.
+Construct removed.
+
+Bee-Boop
+type: Artifact Creature — Construct => Artifact Creature — Robot
+
+Explorers' Celebration
+rules_text: Create a Food token, then create a 1/1 white Insect Soldier creature token.
+Flashback {3}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Create a Food token, then create a 1/1 white Insect Soldier creature token.
+Flashback—Tap four untapped artifacts and/or creatures you control. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Heavy Drone B-33
+type: Legendary Artifact Creature — Construct => Legendary Artifact Creature — Drone
+rules_text: Flying
+Other artifact creatures you control get +1/+1.
+When Heavy Drone B-33 attacks, manufacture 1. => Flying
+Other artifact creatures you control get +1/+1.
+Whenever Heavy Drone B-33 attacks, manufacture 1.
+
+Honey Factory Maintenance Chief
+cost: {4}{W} => {5}{W}
+rules_text: Flying
+When this creature enters, manufacture 1 three times. [i](To manufacture 1, put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token. Do this three times.)[/i] => Flying
+When this creature enters, manufacture 1 three times. [i](To manufacture 1, put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token. Do this three times.)[/i]
+
+Honey Factory Overseer
+rules_text: Flying, lifelink
+{3}{W}: Manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i] => Flying, lifelink
+{3}{W}: Manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Kingdom Border Guard
+rules_text: Flying, vigilance
+Equipped creatures you control have ward {1}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i] => Flying, vigilance
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+
+Masterful Slice
+rules_text: Choose one —
+• Create three 1/1 white Insect Soldier creature tokens.
+• Create three Food tokens. => Choose one —
+• Create three 1/1 white Insect Soldier creature tokens.
+• Create three Food tokens. [i](They're artifacts with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Queen's Teachings
+rules_text: Convoke
+Manufacture 1 X times. [i](To manufacture 1, put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token. Do this X times.)[/i] => Convoke
+Manufacture 1 X times. [i](To manufacture 1, put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token. Do this X times.)[/i]
+
+Queen's Decree
+
+Salvation Strike
+rules_text: Exile target attacking creature. You gain 3 life. => Exile target attacking creature. You gain 2 life.
+
+Security Turret
+type: Artifact Creature — Construct => Artifact Creature — Robot
+rules_text: Vigilance, reach
+When this creature dies, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i] => Vigilance, reach
+When this creature dies, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Seedling Slayer
+
+Yin, Late Bloomer
+
+Ancient Icefall
+
+Beetle Fortune Teller
+
+Bloatshroom
+type: Creature — Plant Insect => Creature — Fungus Insect
+
+Bubble Shield
+
+Charm Dancer
+
+Checkpoint Scan
+
+Cocoon of Slumber
+
+Denmuki
+
+Disheveled Assistant
+rules_text: Flying
+When this creature enters, manufacture 2. [i](Distribute two +1/+1 counters among creatures you control or create a 2/2 colorless Construct artifact creature token.)[/i] => Flying
+When this creature enters, manufacture 2. [i](Distribute two +1/+1 counters among creatures you control or create a 2/2 colorless Robot artifact creature token.)[/i]
+
+Diving Spider
+
+Don't Make a Sound
+
+Emergency Protocol
+
+Encased in Crystal
+
+Frigid Coffin
+
+Frost Bowling
+
+Gloomy Artist
+rules_text: Flying
+{3}{U}{U}: Create a token that's a copy of target artifact. That token gains haste. Exile it at the beginning of the next end step. => Flying
+{2}{U}{U}, {T}: Create a token that's a copy of target artifact you control. That token gains haste. Exile it at the beginning of the next end step.
+
+Haunted Cloth
+rules_text: Vigilance
+When this creature enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i] => Vigilance
+When this creature enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Hypnotic Smoke
+
+Jellyshroom
+type: Creature — Plant Jellyfish => Creature — Fungus Jellyfish
+
+Kali, Compelling Seamstress
+
+Mimic Spider
+
+Momentous Discovery
+
+Professor Neolith
+
+Quest Board Manager
+
+Roach Scientists
+
+Royal Caretakers
+
+Secret Route
+
+Sophisticated Research
+rules_text: Draw three cards. Manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i] => Draw three cards. Manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Spry Elder
+rules_text: When this creature enters, you may pay {1}{U}. If you do, target creature you control explores.
+Whenever a creature you control explores, tap target creature an opponent controls. If it's your turn, put a stun counter on it. => When this creature enters, you may pay {1}{U}. If you do, target creature you control explores.
+Whenever a creature you control explores, tap target creature an opponent controls.
+
+Spy
+cost: {U} => {1}{U}
+rules_text: Look at the top card of each player's library.
+You may choose a player. If you do, that player mills a card.
+Draw a card. => Look at the top card of each player's library.
+Choose any number of players. Each of them mill a card.
+Draw a card.
+
+Spy Cards
+
+Stealth Mission
+
+Take Inventory
+
+The Tidal Wyrm
+
+Alchemize
+
+Water Strider
+
+Ambushed by Bandits
+
+The Beast
+
+Big Mistake
+
+Bittersweet Memory
+rules_text: Target creature card in your graveyard gains escape until end of turn. The escape cost is equal to its mana cost plus exile three other cards from your graveyard.
+Flashback {3}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Target creature card in your graveyard gains escape until end of turn. The escape cost is equal to its mana cost plus exile three other cards from your graveyard. [i](You may cast it from your graveyard for its escape cost this turn.)[/i]
+Flashback {3}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Bounty Board
+
+Caught as Prey
+
+Dead Lander Ω
+
+Dead Lander γ
+
+Defiant Operators
+
+Defy Your Past
+
+Dune Scorpion
+
+Exiled Alchemist
+
+Failed Experiment
+
+The False Monarch
+rules_text: Creature tokens you control get +1/+1.
+When this creature enters, attacks, or dies, create a 1/1 black Insect creature token with flying. => Creature tokens you control get +1/+1.
+Whenever The False Monarch enters, attacks, or dies, create a 1/1 black Insect creature token with flying.
+
+Lawless Ruffian
+
+Leafbug Archer
+
+Leif's Request
+
+Lost Appetite
+
+Lost Sands Bandit
+rules_text: Training [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i]
+When this creature deals combat damage to a player, you draw a card and lose 1 life. => Training [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i]
+Whenever this creature deals combat damage to a player, you draw a card and lose 1 life.
+
+Lost Sands Burglar
+
+Lost Sands Thief
+
+Madesphy
+
+Mantidfly
+
+Monsieur Scarlet
+
+Mothfly Cluster
+
+Piercing Roar
+
+Scorpion Caretaker
+
+Scorpion Sting
+
+Shady Dealer
+
+Snakemouth Researchers
+
+Sororicide
+
+Sprout From Within
+
+Stargaze
+
+Undercover Barkeep
+
+Zombee
+rules_text: Flying
+This creature enters with two +1/+1 counters on it.
+[i][i]Renew[/i][/i] — {1}{B}, Exile this card from your graveyard: Manufacture 1. Activate only as a sorcery. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i] => Flying
+This creature enters with two +1/+1 counters on it.
+[i][i]Renew[/i][/i] — {1}{B}, Exile this card from your graveyard: Manufacture 1. Activate only as a sorcery. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Zombeetle
+
+Zombiant
+
+Apprehensive Novice
+rules_text: Haste
+[i]Formidable[/i] — This creature has training as long as creatures you control have total power 8 or greater. => Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+[i]Formidable[/i] — This creature has training and can't be blocked by creature tokens as long as creatures you control have total power 8 or greater. [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i]
+
+Arrow Worm
+rules_text: This creature can't block.
+Disguise {1}{R}{R} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i] => This creature can't block.
+pt: 4/1 => 4/2
+
+Automated Drone Boomerang Prototype
+
+Battle Plan
+
+Beehive Guardian
+rules_text: Flying
+When this creature enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i] => Flying
+When this creature enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Big Score
+
+Bomb Master
+rules_text: Artifacts you control have “{1}, Sacrifice this artifact: Draw a card.”
+[i]Formidable[/i] — Whenever an artifact you control leaves the battlefield, if creatures you control have total power 8 or greater, this creature deals 2 damage to any target. => Artifacts you control have “{1}, Sacrifice this artifact: Draw a card.”
+[i]Formidable[/i] — Whenever a noncreature artifact you control leaves the battlefield, if creatures you control have total power 8 or greater, this creature deals 2 damage to any target.
+
+Boomerang Toss
+
+Brash Wager
+
+Burn Away
+
+Combination Attack
+
+Carmina, Seasoned Gambler
+
+Disciplined Slash
+
+Exploration Team Rivalry
+rules_text: When this enchantment enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+{1}{R}: Choose two target creatures controlled by different players. Goad those creatures. Activate only during your first main phase. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i] => When this enchantment enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+{4}{R}: Target creature you control gets +1/+1 until end of turn. It fights target creature of an opponent's choice they control. [i](Each deals damage equal to its power to the other.)[/i]
+
+Explorers' Accountant
+rules_text: Whenever a Medal you control enters, exile the top card of your library. You may play it until the end of your next turn.
+Whenever you attack, target attacking equipped creature gains trample until end of turn. => Whenever a Medal you control enters, exile the top card of your library. You may play it until the end of your next turn.
+Whenever you attack, target attacking modified creature gains trample until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Hurricane Toss
+
+Lay Siege
+
+Peculiar Inventor
+
+Rabid Chase
+
+Riz, Isolated Bulwark
+
+Rubbish Enthusiast
+
+Rush Into Action
+
+Sharp Assistant
+rules_text: Flying
+When this creature enters, manufacture 3. [i](Distribute three +1/+1 counters among creatures you control or create a 3/3 colorless Construct artifact creature token.)[/i] => Flying
+When this creature enters, manufacture 3. [i](Distribute three +1/+1 counters among creatures you control or create a 3/3 colorless Robot artifact creature token.)[/i]
+
+Termite Engineers
+type: Creature — Insect Scientist => Creature — Insect Artificer
+
+Termite Financier
+rules_text: Whenever one or more +1/+1 counters are put on this creature for the first time each turn, create a Treasure token.
+{4}{R}: Manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i] => Whenever one or more +1/+1 counters are put on this creature for the first time each turn, create a Treasure token.
+{4}{R}: Manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Termite Knight
+
+Underground Bartender
+
+Vanessa II, Usurped Queen
+
+Vengeful Kin
+
+Vi's Request
+
+Wasp Assault
+
+Wasp Bomber
+
+Wasp Driller
+
+Wasp Fanatic
+
+Wasp Scout
+
+Wasp Trooper
+
+Wronged Sailor
+
+Abundant Harvest
+
+Acolyte Aria
+
+Altruist Hospitality
+rules_text: Replicate—Remove three counters from among creatures you control. [i](When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)[/i]
+Return target card from your graveyard to your hand. => Kicker—Remove three counters from among creatures you control. [i](You may remove three counters from among creatures you control in addition to any other costs as you cast this spell.)[/i]
+Return target card from your graveyard to your hand. If this spell was kicked, instead return two target cards from your graveyard to your hand.
+
+Belostoss
+
+Butomu, Mighty Blacksmith
+
+Carry the Lineage
+
+Charitable Sightseer
+rules_text: Vigilance
+{2}{G}: Target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)[/i] => Vigilance
+{2}{G}: Target creature you control explores. Activate only as a sorcery. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)[/i]
+
+Chomper Brute
+
+Diana, Stout Miner
+rules_text: Multikicker—{1}{G} or sacrifice an artifact [i](You may pay an additional {1}{G} or sacrifice an artifact any number of times as you cast this spell.)[/i]
+When Diana, Stout Miner enters, search your library for up to X basic land cards, where X is the number of times Diana, Stout Miner was kicked. Put them onto the battlefield tapped, then shuffle. => Multikicker—{1}{G} or sacrifice an artifact [i](You may pay an additional {1}{G} or sacrifice an artifact any number of times as you cast this spell.)[/i]
+When Diana, Stout Miner enters, search your library for up to X basic land cards, where X is the number of times Diana, Stout Miner was kicked. Put those cards onto the battlefield tapped, then shuffle.
+
+Enter the Unknown
+
+Exotic Voyage
+
+Fashionable Denizen
+
+Frenzied Sunflower Dance
+
+Fruitful Aphids
+rules_text: This creature enters with a +1/+1 counter on it.
+{3}{G}, Remove a counter from a creature you control: Populate. [i](Create a token that's a copy of a creature token you control.)[/i] => This creature enters with a +1/+1 counter on it.
+{2}{G}, {T}, Remove a counter from a creature you control: Create a token that's a copy of this creature.
+pt: 0/0 => 0/1
+
+Fruity Bugs
+rules_text: As long as you control a creature with power 4 or greater, this creature has trample.
+{3}{G}: Put a +1/+1 counter on target creature. Activate only as a sorcery. => [i]Formidable[/i] — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, this creature gains trample until end of turn.
+{3}{G}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+
+Goddess Venus
+
+Golden Festival Harvest
+
+Golden Seedling
+rules_text: Convoke
+Trample, shroud
+[i]Renew[/i] — {3}{G}{G}, Exile this card from your graveyard: Create three tapped Treasure tokens. Activate only as a sorcery. => Convoke
+Trample, ward {4}
+[i]Renew[/i] — {3}{G}{G}, Exile this card from your graveyard: Create three tapped Treasure tokens. Activate only as a sorcery.
+
+Heavy Strike
+
+Inichas
+
+Inquisitive Biologist
+
+Inseparable Travelers
+
+Ironnail
+
+Leafbug Clubber
+
+Leafbug Ninja
+
+Luminous Traveler
+
+Mother Chomper
+
+Primal Weevil
+
+Seedling
+
+Seedling King
+
+Shattered Wings
+
+Tunneling Worm
+
+Venus Guardian
+
+Venus's Blessing
+rules_text: Creatures you control get +2/+2 and gain trample until end of turn.
+Harmonize {5}{G}{G}{G} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i] => Creatures you control get +2/+2 and gain trample until end of turn. If this spell was cast from a graveyard, they also gain vigilance until end of turn.
+Flashback {5}{G}{G}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Weevil
+
+Wild Chomper
+
+Ant Queen Elizant II
+
+Astotheles, Bandit Leader
+
+Bee Queen Bianca
+
+The Broodmother
+
+Cenn and Pisci, Fraudulent Team
+rules_text: Menace
+When Cenn and Pisci, Fraudulent Team attacks, you may exile a nonland card with mana value X or less from an opponent's graveyard, where X is the number of attacking creatures. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell. => Menace
+Whenever Cenn and Pisci, Fraudulent Team attacks, you may exile a nonland card with mana value X or less from an opponent's graveyard, where X is the number of attacking creatures. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
+
+Chompy, Next in Line
+
+Cross and Poi, Termite Guards
+
+The Devourer
+
+Doctor H.B.
+rules_text: Flying
+Artifact creatures you control have flying.
+Whenever you cast your first noncreature spell each turn, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i] => Flying
+Artifact creatures you control have flying.
+Whenever you cast your first noncreature spell each turn, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Elder of the Roach Village
+
+Frozen Drill
+
+Gen and Eri, Twin Team
+
+Jaune, Prodigious Painter
+rules_text: Flying
+When Jaune, Prodigious Painter enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i]
+{X}{W}{U}, {T}: X target artifact tokens become a copy of another target artifact or token you control until end of turn. => Flying
+When Jaune, Prodigious Painter enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+{X}{W}{U}, {T}: X target artifact tokens you control become a copy of another target artifact or token you control until end of turn.
+
+Kabbu, the Chivalrous
+
+Kenny, the Vagabond
+type: Legendary Creature — Insect Citizen => Legendary Creature — Insect
+
+Kina, Overprotective Fighter
+
+King Hector IV and Queen Layra II
+
+Leif, the Enigmatic
+
+Levi and Celia, Seasoned Explorers
+
+Maki, the Queen's Blade
+
+Mothiva, the Cutthroat
+
+Needle Pincer
+
+The Peacock Spider
+
+Professor Honeycomb
+rules_text: When Professor Honeycomb enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i]
+Whenever one or more modified creature you control deals combat damage to a player, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Professor Honeycomb enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+Whenever one or more modified creature you control deals combat damage to a player, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Spuder, Bane of Explorers
+
+Stratos and Delilah, Team Slacker
+rules_text: Mentor [i](Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)[/i]
+Prevent all damage that Stratos and Delilah, Team Slacker would deal to players. => Mentor [i](Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)[/i]
+Prevent all damage that Stratos and Delilah, Team Slacker would deal.
+
+Tarantular, the Wizard
+
+ULTIMAX Tank
+rules_text: Trample
+When ULTIMAX Tank attacks, it gains indestructible until end of turn.
+Exhaust — {B}{B}{B}{R}{R}{R}: ULTIMAX Tank deals 3 damage to each creature. [i](Activate each exhaust ability only once.)[/i]
+Crew 2 => Trample
+Whenever ULTIMAX Tank attacks, it gains indestructible until end of turn.
+Exhaust — {B}{B}{B}{R}{R}{R}: ULTIMAX Tank deals 3 damage to each creature. [i](Activate each exhaust ability only once.)[/i]
+Crew 2
+
+Vi, the Audacious
+rules_text: Flying, haste
+When Vi, the Audacious attacks, attach up to one target Equipment to her. If a Medal is attached this way, you may activate its assign all ability without paying its costs. => Flying, haste
+Whenever Vi, the Audacious attacks, attach up to one target Equipment to her. If a Medal is attached this way, you may activate its assign all ability without paying its costs.
+
+Wasp General Ultimax
+
+Wasp King Hoaxe
+
+The Watcher
+
+Zaryant, Royal Bodyguard
+
+Zasp, the Zealous
+
+Zommoth
+
+Abomihoney
+
+Ahoneynation
+cost: {5} => {6}
+
+Ancient Mask
+
+Antlion Jaws
+rules_text: Equipped creature has trample and “When this creature becomes blocked, it deals 1 damage to each creature blocking it.”
+Equip {2}
+Assign all {3} [i]({3}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i] => Equipped creature has trample and “Whenever this creature becomes blocked, it deals 1 damage to each creature blocking it.”
+Equip {2}
+Assign all {3} [i]({3}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Berserker
+
+Bug Me Not!
+rules_text: Equipped creature gets +1/+0 and can't be blocked by creatures with lesser power.
+Equip {3}
+Assign all {5} => Equipped creature gets +1/+0 and can't be blocked by creatures with lesser power.
+Equip {3}
+Assign all {5} [i]({5}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Charge Up Plus
+
+Favorite One
+rules_text: [i]Enrage[/i] — Equipped creature has “When this creature is dealt damage, put a +1/+1 counter on each other creature you control.”
+Equip {3}
+Assign all {6} => [i]Enrage[/i] — Equipped creature has “Whenever this creature is dealt damage, put a +1/+1 counter on each other creature you control.”
+Equip {3}
+Assign all {6} [i]({6}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+HP Plus
+
+Leaf Cloak
+rules_text: Equipped creature gets +0/+2 and has ward {2}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Equip {2}
+Assign all {5} => Equipped creature gets +0/+2 and has ward {2}. [i](Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Equip {2}
+Assign all {5} [i]({5}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Leaf of the Everlasting Sapling
+
+Life Cast
+rules_text: Equipped creature has “Rather than pay the mana cost of an ability of this creature for the first time each turn, you may pay that much life instead.”
+Equip {2}
+Assign all {6} => Equipped creature has “Rather than pay the mana cost of an ability of this creature for the first time each turn, you may pay that much life instead.”
+Equip {2}
+Assign all {6} [i]({6}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Life Stealer
+rules_text: Equipped creature gets +0/+1 and has lifelink.
+Equip {2}
+Assign all {4} [i]({4}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i] => Equipped creature has lifelink.
+Equip {2}
+Assign all {5} [i]({5}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Miracle Matter
+rules_text: Equipped creature has “When this creature dies, return it to the battlefield tapped under its owner's control at the beginning of your next turn.”
+Equip {4}
+Assign all {7} => Equipped creature has “When this creature dies, return it to the battlefield tapped under its owner's control at the beginning of your next turn.”
+Equip {4}
+Assign all {7} [i]({7}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Smoke Bomb
+
+Strong Start
+
+Trading Post
+
+Triumph Buzz
+
+Bountiful Landscape
+
+Deceptive Landscape
+
+Expensive Resort
+
+Fabled Passage
+
+Foreboding Landscape
+
+Perilous Landscape
+
+Royal Court
+
+Secluded Village
+
+Shattered Landscape
+
+Snakemouth Haven
+
+Insect Soldier
+
+Insect
+
+Leafbug Ninja
+
+Seedling
+
+Venus Bud
+
+Insect
+
+Insect Beast
+
+Plant
+
+Clue
+
+Food
+
+Treasure
+
+Abomihoney
+
+Sand Warden
+rules_text: When this creature dies, you may pay {1}. If you do, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Construct artifact creature token.)[/i] => When this creature dies, you may manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Helper Boost
+rules_text: Whenever this Medal or another Medal you control enters, create a 1/1 white Insect Soldier creature token.
+Equipped creature has training.
+Equip {2}
+Assign all {4} => Whenever this Medal or another Medal you control enters, create a 1/1 white Insect Soldier creature token.
+Equipped creature has training.
+Equip {2}
+Assign all {4} [i]({4}: Until your next turn, change “equipped creature” in this card's text to “each creature you control.” Activate only as a sorcery and only once each turn.)[/i]
+
+Citizen
+
+Royal Fealty
+rules_text: When this enchantment enters, create two 1/1 white Insect Soldier creature tokens.
+At the beginning of combat on your turn, if you control an equipped creature, target creature you control gains training until end of turn. [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i] => When this enchantment enters, create two 1/1 white Insect Soldier creature tokens.
+At the beginning of combat on your turn, target creature token to you control gains training until end of turn. [i](Whenever that creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i]
+
+Defend the Factory
+rules_text: Manufacture X. [i](Distribute X +1/+1 counters among creatures you control or create a X/X colorless Construct artifact creature token.)[/i]
+Escape—{2}{U}{U}, Exile twice X other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Manufacture X. [i](Distribute X +1/+1 counters among creatures you control or create a X/X colorless Robot artifact creature token.)[/i]
+Escape—{2}{U}{U}, Exile twice X other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Dead Lander α
+
+Forced Conscription
+
+Acornling
+rules_text: When this creature enters, put a +1/+1 counter on target creature.
+Each creature you control with a counter on it has ward {1}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i] => When this creature enters, put a +1/+1 counter on target creature.
+Each creature you control with a counter on it has ward {1}. [i](Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
