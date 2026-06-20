@@ -1,4 +1,34 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Ant Kingdom Infantry
+
+A Mother's Dream
+
+Spy
+
+Scorpion Sting
+
+Boomerang Toss
+
+Exploration Team Rivalry
+
+Termite Knight
+
+Acolyte Aria
+
+Diana, Stout Miner
+
+Seedling King
+
+Spuder, Bane of Explorers
+
+Tarantular, the Wizard
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Card Tournament Contender added.

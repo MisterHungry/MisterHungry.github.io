@@ -3,14 +3,12 @@
 [Design Document](https://docs.google.com/document/d/1iAwazExnW4K0wgJ2zAdtNVnng0qdLlmtADU8dwDSdTs/edit?usp=sharing)
 
 <details>
-
   <summary>Most Recent Changelog (VB2)</summary>
-
-
+  
   ## Changelog (VB1.1 --> VB2):
-
+  
   * Functional Changes
-
+  
     * Ahoneynation: changed mana cost from 5 to 6
     * Altruist Hospitality: changed replicate to a kicker cost (cut cameo mechanic)
     * Apprehensive Novice: slight buff to formidable ability; added training and haste reminder text
@@ -47,7 +45,7 @@
     * Termite Engineers: changed Scientist type to Artificer
     * Venus's Blessing: changed grave eff from harmonize to flashback with upside (cut cameo mechanic)
   * Aesthetic / Formatting Changes
-
+  
     * Acornling: fixed ward reminder text
     * Antlion Jaws: changed block trigger "When" to "Whenever"
     * Bittersweet Memory: added Escape reminder text
@@ -65,5 +63,5 @@
     * Tournament Challenger: changed name to Card Tournament Contender
     * ULTIMAX Tank: changed attack trigger "When" to "Whenever"
     * Vi, the Audacious: changed attack trigger "When" to "Whenever"
-
+  
 </details>
