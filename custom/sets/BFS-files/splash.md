@@ -3,6 +3,7 @@
 [Design Document](https://docs.google.com/document/d/1iAwazExnW4K0wgJ2zAdtNVnng0qdLlmtADU8dwDSdTs/edit?usp=sharing)
 
 <details>
+
   <summary>Most Recent Changelog (VB2)</summary>
 
 
