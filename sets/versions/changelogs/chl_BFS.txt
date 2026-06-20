@@ -1,4 +1,12 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Tarantular, the Wizard
+
+
+VERSION 12 CHANGELOG
 ====================
 
 
