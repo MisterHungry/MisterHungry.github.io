@@ -273,7 +273,7 @@
 		{
 			"name": "A Mother's Dream",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
@@ -1483,7 +1483,7 @@
 		{
 			"name": "Acolyte Aria",
 			"rarity": "rare",
-			"mana_cost": "{4}{G}",
+			"mana_cost": "{5}{G}",
 			"type": "Legendary Creature — Insect Cleric",
 			"collector_number": "154",
 			"image_uris": {
@@ -2545,7 +2545,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/254.png"
 			}
@@ -2555,7 +2555,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect Ninja",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/255.png"
 			}
@@ -2565,7 +2565,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Plant",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/256.png"
 			}
@@ -2575,7 +2575,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Plant",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/257.png"
 			}
@@ -2585,7 +2585,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/258.png"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect Beast",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/259.png"
 			}
@@ -2605,7 +2605,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Plant",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/260.png"
 			}
@@ -2615,7 +2615,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/261.png"
 			}
@@ -2625,7 +2625,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Robot",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/262.png"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/263.png"
 			}
@@ -2645,7 +2645,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/264.png"
 			}
@@ -2655,7 +2655,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Food Beast",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/265.png"
 			}
@@ -2685,7 +2685,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/268.png"
 			}
@@ -2748,6 +2748,16 @@
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://MisterHungry.github.io/sets/BFS-files/img/274.png"
+			}
+		},
+		{
+			"name": "Fruitful Aphids",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MisterHungry.github.io/sets/BFS-files/img/275.png"
 			}
 		}
 	]

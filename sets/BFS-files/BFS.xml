@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>BFS</name>
-			<longname>Bug Fables Custom Set (Beta V2)</longname>
+			<longname>Bug Fables Custom Set (Beta V2.1)</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-20</releasedate>
+			<releasedate>2026-07-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -84,7 +84,7 @@ Whenever a creature you control trains, create a 1/1 white Insect Soldier creatu
 		</card>
 		<card>
 			<name>Ant Tunnel Miner</name>
-			<text>Whenever this creature attacks, you may pay {1}. If you do, create a Treasure token.</text>
+			<text>Whenever this creature attacks, if defending player controls more lands than you, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/4.png" num="5">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -503,20 +503,20 @@ At the beginning of combat on your turn, if you control an Equipment, you may pa
 		</card>
 		<card>
 			<name>A Mother&apos;s Dream</name>
-			<text>Create two Treasure tokens. Then you may sacrifice any number of artifacts. Search your library for an artifact card with mana value X or less, where X is the number of artifacts you sacrificed. Put it onto the battlefield, then shuffle.</text>
+			<text>Choose an opponent. If that player controls more lands than you, create a number of Treasure tokens equal to the difference. Then sacrifice any number of artifacts. Search your library for an artifact card with mana value X or less, where X is the number of artifacts sacrificed this way. Put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://MisterHungry.github.io/sets/BFS-files/img/27.png" num="29">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2WW</manacost>
+				<manacost>3W</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="2">Treasure BFS</related>
+			<related count="1">Treasure BFS</related>
 		</card>
 		<card>
 			<name>Passionate Baker</name>
@@ -542,7 +542,7 @@ At the beginning of your end step, if two or more tokens have left the battlefie
 			<name>Queen Elizant I, the Peacemaker</name>
 			<text>Convoke
 Whenever a creature deals damage to a player, return it to its owner&apos;s hand.
-At the beginning of your end step, if you didn&apos;t attack this turn, populate, then proliferate.</text>
+At the beginning of your end step, if you didn&apos;t attack this turn, create a 1/1 white Insect Soldier creature token, then put a +1/+1 counter on each creature you control.</text>
 			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/29.png" num="31">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1310,7 +1310,7 @@ When The Tidal Wyrm enters, tap all creatures your opponents control. Put a stun
 		</card>
 		<card>
 			<name>Ambushed by Bandits</name>
-			<text>Target creature an opponent controls gets -2/-2 until end of turn. When that creature dies this turn, create a Treasure token.</text>
+			<text>Target creature an opponent controls gets -2/-2 until end of turn. When that creature dies this turn, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/73.png" num="77">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -2591,7 +2591,7 @@ Whenever this creature attacks, add {R}. Until end of turn, you don&apos;t lose 
 		</card>
 		<card>
 			<name>Wasp Trooper</name>
-			<text>First strike
+			<text>During your turn, this creature has first strike.
 Raid — This creature enters with a +1/+1 counter on it if you attacked this turn.</text>
 			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/145.png" num="151">BFS</set>
 			<prop>
@@ -2651,11 +2651,11 @@ When Acolyte Aria enters, each tapped creature you control explores.</text>
 				<side>front</side>
 				<type>Legendary Creature — Insect Cleric</type>
 				<maintype>Creature</maintype>
-				<manacost>4G</manacost>
-				<cmc>5</cmc>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/6</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2842,7 +2842,7 @@ Search your library for a basic land card, put it onto the battlefield tapped, t
 		<card>
 			<name>Fashionable Denizen</name>
 			<text>{T}: Add one mana of any color.
-{T}: Add {G}{G}. Activate only if this creature has a +1/+1 counter on it.</text>
+{T}: Add {G}{G}. Activate only if this creature is modified. (Equipment, Auras you control, and counters are modifications.)</text>
 			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/159.png" num="165">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -2859,7 +2859,7 @@ Search your library for a basic land card, put it onto the battlefield tapped, t
 		</card>
 		<card>
 			<name>Frenzied Sunflower Dance</name>
-			<text>Convoke
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
 Create X 1/1 green and white Plant creature tokens named Venus Bud with reach and lifelink. Then each Plant you control explores.</text>
 			<set rarity="uncommon" picurl="https://MisterHungry.github.io/sets/BFS-files/img/160.png" num="166">BFS</set>
 			<prop>
@@ -2914,7 +2914,7 @@ Create X 1/1 green and white Plant creature tokens named Venus Bud with reach an
 		<card>
 			<name>Goddess Venus</name>
 			<text>Indestructible
-As long as your devotion to green is less than five, Goddess Venus isn&apos;t a creature.
+As long as your devotion to green is less than five, Goddess Venus isn&apos;t a creature. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
 Whenever another creature you control enters, it explores.
 {1}{G}{G}: Create a 1/1 green and white Plant creature token named Venus Bud with reach and lifelink.</text>
 			<set rarity="mythic" picurl="https://MisterHungry.github.io/sets/BFS-files/img/163.png" num="169">BFS</set>
@@ -3782,7 +3782,7 @@ Prevent all damage that Stratos and Delilah, Team Slacker would deal.</text>
 				<cmc>5</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>3/5</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4503,7 +4503,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Insect BFS</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/254.png" num="2">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/254.png" num="3">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4520,7 +4520,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Leafbug Ninja BFS</name>
 			<text>(This token&apos;s mana cost is {2}{G}.)</text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/255.png" num="3">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/255.png" num="4">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4538,7 +4538,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 			<name>Seedling BFS</name>
 			<text>Reach
 (This token&apos;s mana cost is {G}.)</text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/256.png" num="4">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/256.png" num="5">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4555,7 +4555,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Venus Bud BFS</name>
 			<text>Reach, lifelink</text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/257.png" num="9">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/257.png" num="10">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4572,7 +4572,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Insect BFS</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/258.png" num="6">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/258.png" num="7">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4589,7 +4589,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Insect Beast BFS</name>
 			<text></text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/259.png" num="7">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/259.png" num="8">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4606,7 +4606,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Plant BFS</name>
 			<text></text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/260.png" num="8">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/260.png" num="9">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4623,7 +4623,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Clue BFS</name>
 			<text>{2}, Sacrifice this token: Draw a card.</text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/261.png" num="11">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/261.png" num="12">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4638,7 +4638,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Robot BFS</name>
 			<text></text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/262.png" num="13">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/262.png" num="14">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4654,7 +4654,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Food BFS</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/263.png" num="12">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/263.png" num="13">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4669,7 +4669,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Treasure BFS</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/264.png" num="14">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/264.png" num="15">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4686,7 +4686,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 			<text>When this creature dies, exile up to two target cards from a single graveyard.
 {2}, {T}, Sacrifice this creature: You gain 3 life.
 (This token&apos;s mana cost is {2}.)</text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/265.png" num="10">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/265.png" num="11">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4736,7 +4736,7 @@ Assign all {4} ({4}: Until your next turn, change &quot;equipped creature&quot; 
 		<card>
 			<name>Citizen BFS</name>
 			<text></text>
-			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/268.png" num="5">BFS</set>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/268.png" num="6">BFS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4853,6 +4853,26 @@ Each creature you control with a counter on it has ward {1}. (Whenever it become
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fruitful Aphids BFS</name>
+			<text>This creature enters with a +1/+1 counter on it.
+{2}{G}, {T}, Remove a counter from a creature you control: Create a token that&apos;s a copy of this creature.
+(This token&apos;s mana cost is {G}.)</text>
+			<set rarity="common" picurl="https://MisterHungry.github.io/sets/BFS-files/img/275.png" num="2">BFS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

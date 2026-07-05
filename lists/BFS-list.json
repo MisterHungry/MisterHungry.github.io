@@ -2200,7 +2200,7 @@
     "a->token",
     {
         "card_name": "Abomihoney",
-        "number": 10,
+        "number": 11,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2208,7 +2208,7 @@
     },
     {
         "card_name": "Clue",
-        "number": 11,
+        "number": 12,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2216,7 +2216,7 @@
     },
     {
         "card_name": "Food",
-        "number": 12,
+        "number": 13,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2224,7 +2224,7 @@
     },
     {
         "card_name": "Robot",
-        "number": 13,
+        "number": 14,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2232,7 +2232,7 @@
     },
     {
         "card_name": "Treasure",
-        "number": 14,
+        "number": 15,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2247,8 +2247,16 @@
         "position": "253"
     },
     {
-        "card_name": "Insect",
+        "card_name": "Fruitful Aphids",
         "number": 2,
+        "shape": "token",
+        "set": "BFS",
+        "rotated": false,
+        "position": "275"
+    },
+    {
+        "card_name": "Insect",
+        "number": 3,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2256,7 +2264,7 @@
     },
     {
         "card_name": "Leafbug Ninja",
-        "number": 3,
+        "number": 4,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2264,7 +2272,7 @@
     },
     {
         "card_name": "Seedling",
-        "number": 4,
+        "number": 5,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2272,7 +2280,7 @@
     },
     {
         "card_name": "Insect",
-        "number": 6,
+        "number": 7,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2280,7 +2288,7 @@
     },
     {
         "card_name": "Insect Beast",
-        "number": 7,
+        "number": 8,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2288,7 +2296,7 @@
     },
     {
         "card_name": "Plant",
-        "number": 8,
+        "number": 9,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2296,7 +2304,7 @@
     },
     {
         "card_name": "Citizen",
-        "number": 5,
+        "number": 6,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
@@ -2304,14 +2312,11 @@
     },
     {
         "card_name": "Venus Bud",
-        "number": 9,
+        "number": 10,
         "shape": "token",
         "set": "BFS",
         "rotated": false,
         "position": "257"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

@@ -1,4 +1,66 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Fruitful Aphids added.
+
+
+Ant Tunnel Miner
+rules_text: Whenever this creature attacks, you may pay {1}. If you do, create a Treasure token. => Whenever this creature attacks, if defending player controls more lands than you, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+A Mother's Dream
+cost: {2}{W}{W} => {3}{W}
+rules_text: Create two Treasure tokens. Then you may sacrifice any number of artifacts. Search your library for an artifact card with mana value X or less, where X is the number of artifacts you sacrificed. Put it onto the battlefield, then shuffle. => Choose an opponent. If that player controls more lands than you, create a number of Treasure tokens equal to the difference. Then sacrifice any number of artifacts. Search your library for an artifact card with mana value X or less, where X is the number of artifacts sacrificed this way. Put it onto the battlefield, then shuffle.
+
+Queen Elizant I, the Peacemaker
+rules_text: Convoke
+Whenever a creature deals damage to a player, return it to its owner's hand.
+At the beginning of your end step, if you didn't attack this turn, populate, then proliferate. => Convoke
+Whenever a creature deals damage to a player, return it to its owner's hand.
+At the beginning of your end step, if you didn't attack this turn, create a 1/1 white Insect Soldier creature token, then put a +1/+1 counter on each creature you control.
+
+Diving Spider
+
+Ambushed by Bandits
+rules_text: Target creature an opponent controls gets -2/-2 until end of turn. When that creature dies this turn, create a Treasure token. => Target creature an opponent controls gets -2/-2 until end of turn. When that creature dies this turn, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Termite Knight
+
+Wasp Trooper
+rules_text: First strike
+[i]Raid[/i] — This creature enters with a +1/+1 counter on it if you attacked this turn. => During your turn, this creature has first strike.
+[i]Raid[/i] — This creature enters with a +1/+1 counter on it if you attacked this turn.
+
+Acolyte Aria
+cost: {4}{G} => {5}{G}
+pt: 4/6 => 5/5
+
+Enter the Unknown
+
+Fashionable Denizen
+rules_text: {T}: Add one mana of any color.
+{T}: Add {G}{G}. Activate only if this creature has a +1/+1 counter on it. => {T}: Add one mana of any color.
+{T}: Add {G}{G}. Activate only if this creature is modified. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Frenzied Sunflower Dance
+rules_text: Convoke
+Create X 1/1 green and white Plant creature tokens named Venus Bud with reach and lifelink. Then each Plant you control explores. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Create X 1/1 green and white Plant creature tokens named Venus Bud with reach and lifelink. Then each Plant you control explores.
+
+Goddess Venus
+rules_text: Indestructible
+As long as your devotion to green is less than five, Goddess Venus isn't a creature.
+Whenever another creature you control enters, it explores.
+{1}{G}{G}: Create a 1/1 green and white Plant creature token named Venus Bud with reach and lifelink. => Indestructible
+As long as your devotion to green is less than five, Goddess Venus isn't a creature. [i](Each {G} in the mana costs of permanents you control counts toward your devotion to green.)[/i]
+Whenever another creature you control enters, it explores.
+{1}{G}{G}: Create a 1/1 green and white Plant creature token named Venus Bud with reach and lifelink.
+
+
+Tarantular, the Wizard
+pt: 3/5 => 4/4
+
+
+VERSION 13 CHANGELOG
 ====================
 
 
