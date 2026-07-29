@@ -1,4 +1,815 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Set Ablaze added.
+Unconventional Collector added.
+The Ancient Mask added.
+Honey Factory Guide added.
+Unorthodox Couple added.
+Cactling added.
+Poison Master added.
+Berry Merchant added.
+Krawler Swarm added.
+
+Burn Away removed.
+Rubbish Enthusiast removed.
+Ancient Mask removed.
+Smoke Bomb removed.
+
+Affable Bee
+
+Amber, Devoted Carrier
+
+Ant Kingdom Infantry
+rules_text: Training [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i]
+When this creature dies, draw a card if it had a +1/+1 counter on it. => Training [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i]
+[i]Resourceful[/i] — When this creature dies, if its power was greater than its base power, draw a card.
+
+Ant Kingdom Lieutenant
+
+Ant Tunnel Miner
+
+Aspiring Musician
+
+Assisted Hover
+
+Bee-Boop
+rules_text: Flying
+{1}{W}: This creature gets +1/-1 until end of turn. => Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+{1}{W}: This creature gets +1/-1 until end of turn.
+
+A Bond Thicker Than Honey
+rules_text: Equip abilities you activate cost {1} less to activate.
+Assign all abilities you activate cost {2} less to activate.
+Whenever you attack with two or more creatures, if at least one of them is modified, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Equip abilities you activate cost {1} less to activate.
+Assign all abilities you activate cost {2} less to activate.
+[i]Resourceful[/i] — Whenever you attack with two or more creatures, if at least one of them has power greater than its base power, draw a card.
+
+Boulder Toss
+
+Defiant Standoff
+type: Instant => Sorcery
+cost: {1}{W} => {5}{W}
+rules_text: This spell costs {1} less to cast if a creature died this turn.
+Target creature gets +2/+2 and gains indestructible until end of turn. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Creatures you control get +2/+2 until end of turn.
+
+Desperate Treatment
+
+Diligent Cleaner
+
+Eetl, Retired Administrator
+
+Explorers' Celebration
+
+Gift of Love
+rules_text: Put a +1/+1 counter on target creature. It gains lifelink until end of turn.
+Draw a card at the beginning of the next turn's upkeep. => Put a +1/+1 counter on target creature. It gains lifelink until end of turn.
+Draw a card.
+
+Heavy Drone B-33
+
+Honey Factory Maintenance Chief
+
+Inspiring Melody
+
+Jayde, Dissident Worker
+
+Kabbu's Request
+
+Kingdom Border Guard
+rules_text: Flying, vigilance
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] => Flying, vigilance
+Training [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i]
+pt: 2/3 => 2/2
+
+Masterful Slice
+
+Mayor Emmet
+
+Medal Vendor
+
+Medicine Brewer
+rules_text: {1}{W}, {T}: Choose one —
+• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to any target this turn. => Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+When this creature enters, gain 1 life for each counter on creatures you control.
+pt: 1/2 => 1/3
+
+A Mother's Dream
+
+Passionate Baker
+
+Queen Elizant I, the Peacemaker
+
+Queen's Teachings
+
+Queen's Decree
+
+Salvation Strike
+
+Security Turret
+cost: {2}{W} => {4}{W}
+rules_text: Vigilance, reach
+When this creature dies, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i] => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+When this creature dies, manufacture 2. [i](Distribute two +1/+1 counters among creatures you control or create a 2/2 colorless Robot artifact creature token.)[/i]
+
+pt: 2/3 => 4/4
+
+Seedling Slayer
+
+Yin, Late Bloomer
+
+Ancient Icefall
+
+Beetle Fortune Teller
+
+Bloatshroom
+rules_text: When this creature enters, tap target creature an opponent controls and put a stun counter on it.
+When this creature dies, mill three cards. => When this creature enters, tap target creature an opponent controls and put a stun counter on it.
+{2}{U}, Exile this card from your graveyard: Mill three cards.
+
+Bubble Shield
+rules_text: Put a +1/+1 counter on target creature, then creatures with +1/+1 counters on them gain hexproof until end of turn. => Put a +1/+1 counter on target creature, then creatures with +1/+1 counters on them gain hexproof until end of turn. [i](They can't be the targets of spells or abilities your opponents control.)[/i]
+
+Charm Dancer
+rules_text: {2}{U}{U}, {T}: Choose one:
+• Surveil 2.
+• Draw a card.
+• Target creature gains hexproof until end of turn. => {2}{U}{U}, {T}: Choose one:
+• Surveil 2.
+• Target creature you control explores.
+• Target creature gains hexproof until end of turn.
+
+Checkpoint Scan
+
+Cocoon of Slumber
+
+Denmuki
+rules_text: Flash
+Whenever this creature or an artifact you control enters, target creature an opponent controls gets -1/-0 until your next turn. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Whenever this creature or an artifact you control enters, target creature an opponent controls gets -1/-0 until your next turn.
+
+Disheveled Assistant
+rules_text: Flying
+When this creature enters, manufacture 2. [i](Distribute two +1/+1 counters among creatures you control or create a 2/2 colorless Robot artifact creature token.)[/i] => Flying
+As long as you control an artifact, this creature gets +1/+1.
+When this creature enters, manufacture 2. [i](Distribute two +1/+1 counters among creatures you control or create a 2/2 colorless Robot artifact creature token.)[/i]
+pt: 2/1 => 1/1
+
+Diving Spider
+rules_text: This creature has hexproof as long as it's tapped.
+{T}: Target player mills a card. => This creature has hexproof as long as it's untapped. [i](It can't be the target of spells or abilities your opponents control.)[/i]
+{T}: Target player mills a card.
+
+Don't Make a Sound
+
+Emergency Protocol
+rules_text: Return target nonland permanent to its owner's hand. If you controlled that permanent, manufacture 1. => Return target nonland permanent to its owner's hand. If you controlled that permanent, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Encased in Crystal
+cost: {1}{U} => {U}
+rules_text: Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+{1}{U}, Sacrifice this enchantment: Surveil 2. => Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+{1}{U}, Sacrifice this enchantment: Surveil 2.
+
+Frigid Coffin
+
+Frost Bowling
+
+Gloomy Artist
+
+Haunted Cloth
+
+Hypnotic Smoke
+
+Jellyshroom
+
+Kali, Compelling Seamstress
+rules_text: When Kali, Compelling Seamstress enters, create a Cursed Role token attached to target creature an opponent controls. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)[/i]
+{1}{U}, {T}: Gain control of target creature for as long as that creature is modified. => When Kali, Compelling Seamstress enters, create a Cursed Role token attached to target creature an opponent controls. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)[/i]
+{1}{U}, {T}: Gain control of target creature for as long as it is equipped or enchanted.
+
+Mimic Spider
+
+Momentous Discovery
+
+Professor Neolith
+cost: {2}{U} => {1}{U}{U}
+rules_text: When Professor Neolith enters, draw a card.
+Whenever an artifact you control enters, scry 1. => When Professor Neolith enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{T}: The next spell you cast this turn costs {X} less to cast, where X is the number of cards you've drawn this turn.
+pt: 1/4 => 1/3
+
+Quest Board Manager
+rules_text: When this creature enters, mill a card.
+{T}, Exile three cards from your graveyard: Target creature you control explores. => When this creature enters, mill a card.
+{T}, Exile three cards from your graveyard: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Roach Scientists
+
+Royal Caretakers
+rules_text: When this creature enters, draw a card.
+When this creature leaves the battlefield, target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+ => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+[i]Renew[/i] — {1}{U}, Exile this card from your graveyard: Target creature you control explores. Activate only as a sorcery.
+pt: 2/1 => 3/2
+
+Secret Route
+
+Sophisticated Research
+
+Spry Elder
+rules_text: When this creature enters, you may pay {1}{U}. If you do, target creature you control explores.
+Whenever a creature you control explores, tap target creature an opponent controls. => When this creature enters, you may pay {1}{U}. If you do, target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Whenever a creature you control explores, tap target creature an opponent controls.
+
+Spy
+
+Spy Cards
+
+Stealth Mission
+
+Take Inventory
+
+The Tidal Wyrm
+
+Card Tournament Contender
+
+Alchemize
+
+Water Strider
+
+Ambushed by Bandits
+
+The Beast
+
+Big Mistake
+
+Bittersweet Memory
+
+Bounty Board
+
+Caught as Prey
+
+Dead Lander Ω
+
+Dead Lander γ
+
+Defiant Operators
+
+Defy Your Past
+
+Dune Scorpion
+
+Exiled Alchemist
+rules_text: Deathtouch
+{X}{B}, {T}: Remove X counters from creatures you control, then distribute those counters among creatures you control. => Deathtouch
+{X}{B}, {T}: Remove X counters from creatures you control, then manufacture X. [i](Distribute X +1/+1 counters among creatures you control or create a X/X colorless Robot artifact creature token.)[/i]
+
+Failed Experiment
+
+The False Monarch
+
+Lawless Ruffian
+rules_text: Menace
+[i]Raid[/i] — When this creature enters, if you attacked this turn, destroy target creature an opponent controls that was dealt damage this turn. Its controller loses 2 life. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Raid[/i] — When this creature enters, if you attacked this turn, destroy target creature an opponent controls that was dealt damage this turn. Its controller loses 2 life.
+
+Leafbug Archer
+
+Leif's Request
+
+Lost Appetite
+
+Lost Sands Bandit
+
+Lost Sands Burglar
+cost: {3}{B} => {4}{B}
+rules_text: Training [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i]
+Whenever a creature you control trains, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Training [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i]
+Whenever a creature you control trains, surveil 1. Each opponent loses 1 life. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+pt: 2/5 => 3/5
+
+Lost Sands Thief
+
+Madesphy
+rules_text: Flash
+When this creature dies, target creature an opponent controls gets -1/-1 until end of turn. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this creature dies, target creature an opponent controls gets -1/-1 until end of turn.
+
+Mantidfly
+
+Monsieur Scarlet
+
+Mothfly Cluster
+
+Piercing Roar
+rules_text: Creatures you control get +1/+0 and gain fear until end of turn. [i](They can't be blocked except by artifact creatures and/or black creatures.)[/i]
+Flashback {5}{B}{B}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Creatures you control get +2/+0 and gain menace until end of turn.
+Flashback {5}{B}{B}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Scorpion Caretaker
+
+Scorpion Sting
+
+Shady Dealer
+
+Snakemouth Researchers
+
+Sororicide
+
+Sprout From Within
+
+Stargaze
+
+Undercover Barkeep
+rules_text: At the beginning of combat on your turn, you may pay {B}. If you do, target creature you control gains training until end of turn.
+Whenever this creature or another creature you control with training dies, surveil 1. => At the beginning of combat on your turn, you may pay {B}. If you do, target creature you control gains training until end of turn.
+[i]Resourceful[/i] — Whenever a creature you control dies, if its power was greater than its base power, surveil 1.
+
+Zombee
+
+Zombeetle
+cost: {3}{B} => {5}{B}
+rules_text: Trample
+This creature enters with three +1/+1 counters on it.
+[i]Renew[/i] — {3}{B}{B}, Exile this card from your graveyard: Put three +1/+1 counters on target creature. Activate only as a sorcery. => Trample
+This creature enters with five +1/+1 counters on it.
+[i]Renew[/i] — {3}{B}{B}, Exile this card from your graveyard: Put three +1/+1 counters on target creature. Activate only as a sorcery.
+
+Zombiant
+rules_text: Deathtouch
+This creature enters with a +1/+1 counter on it. => Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+This creature enters with a +1/+1 counter on it.
+
+Apprehensive Novice
+rules_text: Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+[i]Formidable[/i] — This creature has training and can't be blocked by creature tokens as long as creatures you control have total power 8 or greater. [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i] => Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+[i]Resourceful[/i] — {2}{R}: This creature gets +2/+0 until end of turn. This ability costs {1} less to activate if you control a creature with power greater than its base power.
+
+Arrow Worm
+cost: {1}{R} => {5}{R}
+rules_text: This creature can't block. => [i]Resourceful[/i] — This spell costs {1} less to cast for each creature you control with power greater than its base power.
+First strike [i](This creature deals combat damage before creatures without first strike.)[/i]
+pt: 4/2 => 5/4
+
+Automated Drone Boomerang Prototype
+
+Battle Plan
+
+Beehive Guardian
+rules_text: Flying
+When this creature enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i] => Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+When this creature enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Big Score
+
+Bomb Master
+rules_text: Artifacts you control have “{1}, Sacrifice this artifact: Draw a card.”
+[i]Formidable[/i] — Whenever a noncreature artifact you control leaves the battlefield, if creatures you control have total power 8 or greater, this creature deals 2 damage to any target. => Artifacts you control have “{1}, Sacrifice this artifact: Draw a card.”
+[i]Resourceful[/i] — Whenever a noncreature artifact you control leaves the battlefield, if you control a creature with power greater than its base power, this creature deals 2 damage to any target.
+
+Boomerang Toss
+
+Brash Wager
+
+Combination Attack
+
+Carmina, Seasoned Gambler
+
+Disciplined Slash
+
+Exploration Team Rivalry
+
+Explorers' Accountant
+rules_text: Whenever a Medal you control enters, exile the top card of your library. You may play it until the end of your next turn.
+Whenever you attack, target attacking modified creature gains trample until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Whenever a Medal you control enters, exile the top card of your library. You may play it until the end of your next turn.
+[i]Resourceful[/i] — Whenever you attack, target attacking creature with power greater than its base power gains trample until end of turn.
+
+Hurricane Toss
+
+Lay Siege
+
+Peculiar Inventor
+
+Rabid Chase
+
+Riz, Isolated Bulwark
+
+Rush Into Action
+cost: {R} => {1}{R}
+rules_text: Put a +1/+1 counter on target creature. That creature gains haste until end of turn. Until end of turn, whenever that creature becomes blocked, it deals 1 damage to the player or planeswalker that creature is attacking. => Put a +1/+1 counter on target creature. That creature gains menace and haste until end of turn.
+
+Sharp Assistant
+cost: {3}{R} => {4}{R}
+rules_text: Flying
+When this creature enters, manufacture 3. [i](Distribute three +1/+1 counters among creatures you control or create a 3/3 colorless Robot artifact creature token.)[/i] => Flying, haste
+When this creature enters, manufacture 3. [i](Distribute three +1/+1 counters among creatures you control or create a 3/3 colorless Robot artifact creature token.)[/i]
+
+Termite Engineers
+rules_text: Artifact creatures you control have trample.
+[i]Formidable[/i] — At the beginning of your end step, manufacture 1. If creatures you control have total power 8 or greater, manufacture 2 instead. => Artifact creatures you control have trample.
+[i]Resourceful[/i] — At the beginning of your end step, manufacture 1. If you control three or more creatures each with power greater than its base power, manufacture 2 instead.
+
+
+Termite Financier
+
+Termite Knight
+
+Underground Bartender
+
+Vanessa II, Usurped Queen
+rules_text: When Vanessa II enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+{T}: Target modified creature you control can't be blocked this turn. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Vanessa II enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+[i]Resourceful[/i] — {R}, {T}: Target creature you control with power greater than its base power can't be blocked this turn.
+
+Vengeful Kin
+cost: {2}{R} => {3}{R}
+pt: 3/2 => 4/3
+
+Vi's Request
+
+Wasp Assault
+
+Wasp Bomber
+
+Wasp Driller
+
+Wasp Fanatic
+rules_text: Menace
+At the beginning of combat, if you control another Insect, target creature you control gets +1/+0 and gains menace until end of turn. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+At the beginning of combat, if you control another Insect, target Insect you control gets +1/+0 and gains menace until end of turn.
+
+Wasp Scout
+
+Wasp Trooper
+
+Wronged Sailor
+rules_text: When this creature enters, you may pay {1}{R}. If you do, destroy target artifact. => When this creature enters, you may pay {2}{R}. If you do, put a +1/+1 counter on it and destroy up to one target artifact.
+
+Abundant Harvest
+
+Acolyte Aria
+
+Altruist Hospitality
+
+Belostoss
+rules_text: Trample
+[i]Formidable[/i] — When this creature enters, if creatures you control have total power 8 or greater, destroy up to one target artifact or enchantment. => Trample
+[i]Resourceful[/i] — When this creature enters, if you control a creature with power greater than its base power, destroy up to one target artifact or enchantment.
+
+Butomu, Mighty Blacksmith
+
+Carry the Lineage
+
+Charitable Sightseer
+
+Chomper Brute
+cost: {2}{G} => {3}{G}
+rules_text: Trample
+This creature has lifelink as long as you control a white or black permanent.
+[i]Formidable[/i] — {1}{G}, Exile this card from your graveyard: Create a tapped 1/1 green Plant creature token. If creatures you control have total power 8 or greater, untap it. => Trample
+This creature has lifelink as long as you control a white or black permanent.
+[i]Resourceful[/i] — {G}, Exile this card from your graveyard: Create a 1/1 green Plant creature token. Activate only if you control a creature with power greater than its base power.
+
+pt: 3/3 => 4/3
+
+Diana, Stout Miner
+
+Sparring Match
+rules_text: [i]Formidable[/i] — This spell costs {1} less to cast if creatures you control have total power 8 or greater.
+Target creature you control fights target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i] => [i]Resourceful[/i] — This spell costs {1} less to cast if it targets a creature you control with power greater than its base power.
+Target creature you control fights target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+
+Enter the Unknown
+
+Exotic Voyage
+
+Fashionable Denizen
+rules_text: {T}: Add one mana of any color.
+{T}: Add {G}{G}. Activate only if this creature is modified. [i](Equipment, Auras you control, and counters are modifications.)[/i] => {T}: Add one mana of any color.
+[i]Resourceful[/i] — {T}: Add {G}{G}. Activate only if this creature has power greater than its base power.
+
+Frenzied Sunflower Dance
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Create X 1/1 green and white Plant creature tokens named Venus Bud with reach and lifelink. Then each Plant you control explores. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Create X 1/1 green and white Plant creature tokens named Venus Bud with reach. Then each Plant you control explores.
+
+Fruitful Aphids
+
+Fruity Bugs
+rules_text: [i]Formidable[/i] — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, this creature gains trample until end of turn.
+{3}{G}: Put a +1/+1 counter on target creature. Activate only as a sorcery. => [i]Resourceful[/i] — At the beginning of combat on your turn, if this creature has power greater than its base power, it gains trample until end of turn.
+{3}{G}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+
+Goddess Venus
+rules_text: Indestructible
+As long as your devotion to green is less than five, Goddess Venus isn't a creature. [i](Each {G} in the mana costs of permanents you control counts toward your devotion to green.)[/i]
+Whenever another creature you control enters, it explores.
+{1}{G}{G}: Create a 1/1 green and white Plant creature token named Venus Bud with reach and lifelink.
+ => Indestructible
+As long as your devotion to green is less than five, Goddess Venus isn't a creature. [i](Each {G} in the mana costs of permanents you control counts toward your devotion to green.)[/i]
+Whenever another creature you control enters, it explores.
+{1}{G}{G}: Create a 1/1 green and white Plant creature token named Venus Bud with reach.
+
+Golden Festival Harvest
+
+Golden Seedling
+
+Heavy Strike
+
+Inichas
+rules_text: Vigilance
+[i]Renew[/i] — {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a vigilance counter on target creature. Activate only as a sorcery. => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+[i]Renew[/i] — {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a vigilance counter on target creature. Activate only as a sorcery.
+
+Inquisitive Biologist
+rules_text: This creature gets +2/+2 as long as there are three or more different creature types among other creatures you control.
+[i]Formidable[/i] — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, target creature you control explores.
+ => This creature gets +2/+2 as long as there are three or more different creature types among other creatures you control.
+[i]Resourceful[/i] — At the beginning of combat on your turn, if this creature has power greater than its base power, target creature you control explores.
+
+Inseparable Travelers
+rules_text: When this creature enters, it explores.
+At the beginning of each end step, if you put a counter on a creature this turn, draw a card. => When this creature enters, it explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+At the beginning of each end step, if you put a counter on a creature this turn, draw a card.
+
+Ironnail
+rules_text: Vigilance
+When this creature dies, if it had a counter on it, you may return another target creature card from your graveyard to your hand. => Vigilance
+[i]Resourceful[/i] — When this creature dies, if its power was greater than its base power, you may return another target creature card from your graveyard to your hand.
+
+Leafbug Clubber
+rules_text: Trample
+[i]Renew[/i] — {3}{G}, Exile this card from your graveyard: Put two +1/+1 counters and a trample counter on target creature. Activate only as a sorcery. => Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+[i]Renew[/i] — {3}{G}, Exile this card from your graveyard: Put two +1/+1 counters and a trample counter on target creature. Activate only as a sorcery.
+
+Leafbug Ninja
+
+Luminous Traveler
+
+Mother Chomper
+
+Primal Weevil
+cost: {3}{G} => {4}{G}
+rules_text: Trample
+[i]Formidable[/i] — Whenever this creature attacks, if creatures you control have total power 8 or greater, another target creature you control gets +2/+2 and gains trample until end of turn. => Trample
+[i]Resourceful[/i] — Whenever this creature attacks, if you control a creature with power greater than its base power, another target creature you control gets +2/+2 and gains trample until end of turn.
+pt: 4/4 => 5/4
+
+Seedling
+
+Seedling King
+rules_text: Trample
+Other Plants you control have trample.
+[i]Formidable[/i] — At the beginning of your end step, create a tapped Seedling token. If creatures you control have total power 8 or greater, create two tapped Seedling tokens instead. [i](They're 1/1 green Plant creature tokens with reach.)[/i] => Trample
+Other Plants you control have trample.
+[i]Resourceful[/i] — At the beginning of your end step, create a tapped Seedling token. If you control three or more creatures each with power greater than its base power, create two tapped Seedling tokens instead. [i](They're 1/1 green Plant creature tokens with reach.)[/i]
+
+Shattered Wings
+
+Tunneling Worm
+
+Venus Guardian
+rules_text: Reach, trample
+[i]Formidable[/i] — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, creatures you control gain vigilance until end of turn. => Reach, trample
+[i]Resourceful[/i] — At the beginning of combat on your turn, creatures you control with power greater than their base power gain vigilance until end of turn.
+
+Venus's Blessing
+
+Weevil
+rules_text: [i]Formidable[/i] — Whenever this creature attacks, if creatures you control have total power 8 or greater, target creature gets +1/+1 and gains trample until end of turn. => [i]Resourceful[/i] — Whenever this creature attacks, if you control a creature with power greater than its base power, target creature gets +1/+1 and gains trample until end of turn.
+
+Wild Chomper
+cost: {1}{G} => {5}{G}
+rules_text: Defender, reach
+As long as this creature is modified, it can attack as though it didn't have defender. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Basic landcycling {1}{G} [i]({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+ => Reach [i](This creature can block creatures with flying.)[/i]
+Green creatures you control get +1/+0.
+Basic landcycling {1}{G} [i]({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 3/2 => 5/5
+
+Ant Queen Elizant II
+
+Astotheles, Bandit Leader
+rules_text: First strike
+Mentor [i](Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)[/i]
+Players can't cast spells during combat. => First strike
+Other Rogues you control get +1/+1 and have first strike.
+Players can't cast spells during combat.
+
+Bee Queen Bianca
+
+The Broodmother
+
+Cenn and Pisci, Fraudulent Team
+rules_text: Menace
+Whenever Cenn and Pisci, Fraudulent Team attacks, you may exile a nonland card with mana value X or less from an opponent's graveyard, where X is the number of attacking creatures. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell. => Menace
+Whenever Cenn and Pisci, Fraudulent Team attack, you may exile a nonland card with mana value X or less from an opponent's graveyard, where X is the number of attacking creatures. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
+
+Chompy, Next in Line
+
+Cross and Poi, Termite Guards
+rules_text: During your turn, Cross and Poi, Termite Guards has first strike.
+Whenever Cross and Poi, Termite Guards attacks, up to one other target creature you control has base power and toughness 4/2 until end of turn. => During your turn, Cross and Poi, Termite Guards have first strike.
+Whenever Cross and Poi attack, up to one other target creature you control has base power and toughness 4/2 until end of turn.
+
+The Devourer
+
+Doctor H.B.
+
+Elder of the Roach Village
+
+Frozen Drill
+
+Gen and Eri, Twin Team
+
+Jaune, Prodigious Painter
+
+Kabbu, the Chivalrous
+
+Kenny, the Vagabond
+
+Kina, Overprotective Fighter
+rules_text: Double strike
+[i]Formidable[/i] — Whenever one or more creatures you control deal combat damage to a player, if creatures you control have total power 8 or greater, you may draw a card. => Double strike
+[i]Resourceful[/i] — Whenever one or more creatures you control each with power greater than its base power deal combat damage to a player, draw a card.
+
+King Hector IV and Queen Layra II
+rules_text: [i]Formidable[/i] — At the beginning of combat on your turn, King Hector IV and Queen Layra II explores. Then if creatures you control have total power 8 or greater, you may put a land card from your hand onto the battlefield. => [i]Resourceful[/i] — At the beginning of combat on your turn, King Hector IV and Queen Layra II explore. Then if you control three or more creatures each with power greater than its base power, you may put a land card from your hand onto the battlefield.
+
+Leif, the Enigmatic
+
+Levi and Celia, Seasoned Explorers
+rules_text: Whenever Levi and Celia, Seasoned Explorers attacks, it explores.
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead. => Whenever Levi and Celia, Seasoned Explorers attack, they explore.
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
+
+Maki, the Queen's Blade
+rules_text: Haste
+Mentor [i](Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)[/i]
+Each creature you control gets +1/+1 for each Equipment attached to it. => Haste
+Other Knights, Soldiers, and Warriors you control get +1/+1 and have haste.
+Each creature you control gets +1/+1 for each Equipment attached to it.
+
+Mothiva, the Cutthroat
+
+Needle Pincer
+
+The Peacock Spider
+
+Professor Honeycomb
+rules_text: When Professor Honeycomb enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+Whenever one or more modified creature you control deals combat damage to a player, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Professor Honeycomb enters, manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+[i]Resourceful[/i] — Whenever Professor Honeycomb deals combat damage to a player, if her power is greater than her base power, draw a card.
+pt: 3/2 => 2/2
+
+Spuder, Bane of Explorers
+rules_text: Menace
+[i]Formidable[/i] — When Spuder, Bane of Explorers enters, if creatures you control have total power 8 or greater, he deals damage equal to his power to target creature an opponent controls. => Menace
+[i]Resourceful[/i] — When Spuder, Bane of Explorers enters, if you control a creature with power greater than its base power, you may pay {RG}. When you do, he deals damage equal to his power to target creature an opponent controls.
+
+Stratos and Delilah, Team Slacker
+rules_text: Mentor [i](Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)[/i]
+Prevent all damage that Stratos and Delilah, Team Slacker would deal. => Prevent all damage that Stratos and Delilah, Team Slacker would deal.
+Whenever Stratos and Delilah attack, another target attacking creature you control gains indestructible until end of turn.
+
+Tarantular, the Wizard
+
+ULTIMAX Tank
+
+Vi, the Audacious
+rules_text: Flying, haste
+Whenever Vi, the Audacious attacks, attach up to one target Equipment to her. If a Medal is attached this way, you may activate its assign all ability without paying its costs. => Flying, haste
+Whenever Vi, the Audacious attacks, attach up to one target Equipment you control to her. If a Medal is attached this way, you may activate its assign all ability without paying its costs.
+
+Wasp General Ultimax
+
+Wasp King Hoaxe
+
+The Watcher
+
+Zaryant, Royal Bodyguard
+
+Zasp, the Zealous
+
+Zommoth
+
+Abomihoney
+
+Ahoneynation
+
+Antlion Jaws
+
+Berserker
+
+Bug Me Not!
+
+Charge Up Plus
+
+World Map
+
+Favorite One
+
+HP Plus
+
+Leaf Cloak
+
+Leaf of the Everlasting Sapling
+
+Life Cast
+
+Life Stealer
+
+Miracle Matter
+
+Strong Start
+
+Trading Post
+
+Triumph Buzz
+
+Bountiful Landscape
+
+Deceptive Landscape
+
+Expensive Resort
+
+Fabled Passage
+
+Foreboding Landscape
+
+Perilous Landscape
+
+Royal Court
+
+Secluded Village
+
+Shattered Landscape
+
+Snakemouth Haven
+
+Insect Soldier
+
+Insect
+
+Leafbug Ninja
+
+Seedling
+
+Venus Bud
+rules_text: Reach, lifelink => Reach [i](This creature can block creatures with flying.)[/i]
+
+Insect
+
+Insect Beast
+
+Plant
+
+Clue
+
+Robot
+
+Food
+
+Treasure
+
+Abomihoney
+
+Sand Warden
+
+Helper Boost
+
+Citizen
+
+Royal Fealty
+
+Defend the Factory
+
+Dead Lander α
+
+Forced Conscription
+
+Acornling
+
+Crystal Slumber
+
+Fruitful Aphids
+
+Honey Factory Overseer
+cost: {1}{W} => {5}{U}
+rules_text: Flying, lifelink
+{3}{W}: Manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i] => Flying
+Whenever this creature enters or deals combat damage to a player, you may create a token that's a copy of target artifact you control with mana value X or less, where X is the number of artifacts you control.
+pt: 1/1 => 4/4
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Fruitful Aphids added.

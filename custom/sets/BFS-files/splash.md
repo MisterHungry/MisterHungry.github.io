@@ -3,37 +3,75 @@
 [Design Document](https://docs.google.com/document/d/1iAwazExnW4K0wgJ2zAdtNVnng0qdLlmtADU8dwDSdTs/edit?usp=sharing)
 
 <details>
-  <summary>Changelog (VB2.1)</summary>
+  <summary>Changelog (VB3)</summary>
   
-  ## Changelog (VB2 --> VB2.1):
-  
-  * Functional Changes
-  
-    * Acolyte Aria: changed from 4/6 to 5/5; changed mana cost from 4G to 5G
-  
-    * Ant Tunnel Miner: changed Treasure generation to be catch-up; added Treasure reminder text
-  
-    * Fashionable Denizen: changed second tap ability to care about modified
-  
-    * A Mother's Dream: changed Treasure generation to be catch-up
-  
-    * Kabbu's Request: changed second lore ability (cut cameo mechanic); changed third lore ability from power to toughness
-  
-    * Queen Elizant I, the Peacemaker: reworked end step ability (cut cameo mechanic)
-  
-    * Tarantular, the Wizard: changed from 3/5 to 4/4
-  
-    * Wasp Trooper: changed to first strike on your turn
-  
-  * Aesthetic / Formatting Changes
-  
-    * Ambushed by Bandits: added Treasure reminder text
-  
-    * Enter the Unknown: changed flavor text
-  
-    * Frenzied Sunflower Dance: added convoke reminder text
-  
-    * Goddess Venus: added devotion reminder text
+  ## Changelog (VB2.1 --> VB3):
+* Functional Changes
+  * (general, 24 cards): Replaced formidable and modified effects (and some extra) with new mechanic "Resourceful" (power > base power)
+  * Ancient Mask: added legendary supertype; changed name to "The Ancient Mask"
+  * Arrow Worm: reworked card
+  * Astotheles, Bandit Leader: changed mentor ability to a Rogue typal ability
+  * Bittersweet Memory: upshifted to uncommon
+  * Bloatshroom: changed death mill to renew eff
+  * Burn Away: replaced with new card Set Ablaze (downshifted to common)
+  * Cactling: added new card
+  * Charitable Sightseer: downshifted to common
+  * Charm Dancer: changed second ability to explore
+  * Chomper Brute: downshifted to uncommon; changed mana cost from 2G to 3G; changed from 3/3 to 4/3 (in addition to formidable change)
+  * Cocoon of Slumber: downshifted to common
+  * Defiant Standoff: reworked card to a mass pump
+  * Disheveled Assistant: changed from 2/1 to 1/1 with conditional +1/+1 buff
+  * Diving Spider: changed tapped hexproof to untapped hexproof; added hexproof reminder text
+  * Encased in Crystal: changed mana cost from 1U to U; removed etb tap
+  * Exiled Alchemist: changed counter distribution to manufacture
+  * Failed Experiment: downshifted to common
+  * Frenzied Sunflower Dance, Goddess Venus: removed lifelink from Venus Bud tokens
+  * Fruitful Aphids: upshifted to uncommon
+  * Gift of Love: changed draw to be immediate
+  * Honey Factory Overseer: reworked card; old effect kept in new card Honey Factory Guide
+  * Kingdom Border Guard: changed ward to training; changed from 2/3 to 2/2
+  * Krawler Swarm: added new card
+  * Leaf Cloak: downshifted to common
+  * Life Stealer: upshifted to uncommon
+  * Lost Sands Burglar: changed mana cost from 3B to 4B; changed from 2/5 to 3/5; added life loss
+  * Maki, the Queen’s Blade: changed mentor ability to a typal ability
+  * Medicine Brewer: reworked card
+  * Piercing Roar: changed fear to menace, +1/+0 to +2/+0 (cut cameo mechanic)
+  * Poison Master: added new card
+  * Primal Weevil: changed mana cost from 3G to 4G; changed from 4/4 to 5/4 (in addition to formidable change)
+  * Professor Honeycomb: changed from 3/2 to 2/2 (in addition to modified change)
+  * Professor Neolith: reworked card
+  * Quest Board Manager: upshifted to uncommon; changed activated ability to sorcery speed; added explore reminder text
+  * Royal Caretakers: replaced etb draw with flash; replaced ltb with renew; changed from 2/1 to 3/2
+  * Rush Into Action: changed mana cost from R to 1R; changed block trigger to menace
+  * Security Turret: changed mana cost from 2W to 3W; changed from 2/3 to 4/4; changed from manufacture 1 to 2; removed reach
+  * Sharp Assistant: changed mana cost from 3R to 4R; added haste
+  * Smoke Bomb: cut card
+  * Spoils From Yonder: added new card
+  * Stratos and Delilah, Team Slacker: changed mentor ability to another attack trigger
+  * Unorthodox Couple: added new card
+  * Vengeful Kin: changed mana cost from 2R to 3R; changed from 3/2 to 4/3
+  * Vi, the Audacious: added "you control" to attach ability
+  * Wasp Fanatic: upshifted to Insect; changed target creature to target Insect; added menace reminder text
+  * Wasp Scout: upshifted to uncommon
+  * Wild Chomper: reworked card
+  * Wronged Sailor: changed ability from 1R to 2R and added +1/+1 counter
+  * Zombeetle: changed from +3/+3 to +5/+5; changed mana cost from 3B to 5B
+* Aesthetic / Formatting Changes
+  * (general): changed quote formatting; other minor spacing changes
+  * Bee-Boop: added flying reminder text
+  * Beehive Guardian: added flying reminder text
+  * Bubble Shield: added hexproof reminder text
+  * Denmuki: added flash reminder text
+  * Emergency Protocol: added manufacture reminder text; put flavor text in quotes
+  * Inichas: added vigilance reminder text
+  * Inseparable Travelers: added explore reminder text
+  * Lawless Ruffian: added menace reminder text
+  * Leafbug Clubber: added trample reminder text
+  * Madesphy: added flash reminder text
+  * Rubbish Enthusiast: changed name to Unconventional Collector
+  * Spry Elder: added explore reminder text
+  * Zombiant: added deathtouch reminder text
   
 </details>
 
