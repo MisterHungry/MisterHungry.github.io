@@ -4,6 +4,11 @@
             "set_code": "BFS",
             "set_name": "Bug Fables Custom Set (Beta V3)",
             "formats": ""
+        },
+        {
+            "set_code": "OSC",
+            "set_name": "Oneshot Commander Cards",
+            "formats": "Commander"
         }
     ]
 }
