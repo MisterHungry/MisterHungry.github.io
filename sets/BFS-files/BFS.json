@@ -1,5 +1,5 @@
 ﻿{
-    "name": "Bug Fables Custom Set (Beta V3)",
+    "name": "Bug Fables Custom Set (Beta V3.1)",
     "formats": "",
     "image_type": "png",
     "draft_structure": "play booster",
@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/hiveblood/status/1424581041461792769\nhttps://xcancel.com/hiveblood/status/1424581041461792769\n\nchubee"
+            "notes": "Unique Card\n\nArt Link: https://x.com/hiveblood/status/1424581041461792769\nhttps://xcancel.com/hiveblood/status/1424581041461792769\n\nchubee\n\n!tag custom\n!tag card-advantage\n!tag counters-matter\n!tag move-counters\n!tag sacrifice-outlet"
         },
         {
             "card_name": "Amber, Devoted Carrier",
@@ -47,7 +47,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/hiveblood/status/1432211374466387968\nhttps://xcancel.com/hiveblood/status/1432211374466387968\n\nwording weird\n\n\"This commitment to her job has turned absurd!\""
+            "notes": "Unique Card\n\nArt Link: https://x.com/hiveblood/status/1432211374466387968\nhttps://xcancel.com/hiveblood/status/1432211374466387968\n\nwording weird\n\n!tag custom\n!tag counters-matter\n!tag death-trigger\n!tag move-counters\n!tag quick-attach\n!tag quick-equip"
         },
         {
             "card_name": "Ant Kingdom Infantry",
@@ -68,7 +68,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nalt ant guard"
+            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nalt ant guard\n\n!tag custom\n!tag attack-trigger\n!tag death-trigger\n!tag card-advantage\n!tag gains-pp-counters\n!tag power-matters"
         },
         {
             "card_name": "Ant Kingdom Lieutenant",
@@ -89,7 +89,7 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/hiveblood/status/1435653569273909248\nhttps://xcancel.com/hiveblood/status/1435653569273909248\n\n!tokens Insect Soldier BFS<1>"
+            "notes": "Unique Card\n\nArt Link: https://x.com/hiveblood/status/1435653569273909248\nhttps://xcancel.com/hiveblood/status/1435653569273909248\n\n!tokens Insect Soldier BFS<1>\n\n!tag custom\n!tag attack-trigger\n!tag gains-pp-counters\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator\n!tag training-matters"
         },
         {
             "card_name": "Ant Tunnel Miner",
@@ -110,7 +110,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/MilaTheArtsy/status/1619490728538939394\nhttps://xcancel.com/MilaTheArtsy/status/1619490728538939394\n\n!tokens Treasure BFS<1>"
+            "notes": "Unique Card\n\nArt Link: https://x.com/MilaTheArtsy/status/1619490728538939394\nhttps://xcancel.com/MilaTheArtsy/status/1619490728538939394\n\n!tokens Treasure BFS<1>\n\n!tag custom\n!tag attack-trigger\n!tag catch-up\n!tag ramp\n!tag repeatable-artifact-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Aspiring Musician",
@@ -131,7 +131,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://www.tumblr.com/kereruatbugaria/770120158035443712/thank-you-for-always-giving-us-wonderful-music\n\nsamira\n\n!tokens Citizen BFS<1>"
+            "notes": "Unique Card\n\nArt Link: https://www.tumblr.com/kereruatbugaria/770120158035443712/thank-you-for-always-giving-us-wonderful-music\n\nsamira\n\n!tokens Citizen BFS<1>\n\n!tag custom\n!tag enters-in-company\n!tag multiple-bodies\n!tag mana-sink\n!tag power-boost-to-all\n!tag toughness-boost-to-all"
         },
         {
             "card_name": "Assisted Hover",
@@ -152,7 +152,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/Jendra82/status/1448429486421250053\nhttps://xcancel.com/Jendra82/status/1448429486421250053\n\nvi, kabbu"
+            "notes": "Unique Card\n\nArt Link: https://x.com/Jendra82/status/1448429486421250053\nhttps://xcancel.com/Jendra82/status/1448429486421250053\n\nvi, kabbu\n\n!tag custom\n!tag combat-trick\n!tag discount-self\n!tag jump"
         },
         {
             "card_name": "Bee-Boop",
@@ -173,7 +173,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/PinpinNeon/status/1573302449506758657\nhttps://xcancel.com/PinpinNeon/status/1573302449506758657"
+            "notes": "Unique Card\n\nArt Link: https://x.com/PinpinNeon/status/1573302449506758657\nhttps://xcancel.com/PinpinNeon/status/1573302449506758657\n\n!tag custom\n!tag flowstone\n!tag mana-sink"
         },
         {
             "card_name": "A Bond Thicker Than Honey",
@@ -194,7 +194,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://www.pixiv.net/en/artworks/116796052\n\nvi, jaune\n\nwording weird"
+            "notes": "Unique Card\n\nArt Link: https://www.pixiv.net/en/artworks/116796052\n\nvi, jaune\n\n!tag custom\n!tag attacking-matters\n!tag attack-trigger\n!tag card-advantage\n!tag cost-reducer-equip-ability\n!tag draw-engine\n!tag power-matters\n!tag synergy-Equipment\n!tag synergy-Medal"
         },
         {
             "card_name": "Boulder Toss",
@@ -215,7 +215,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://www.tumblr.com/machiko-yayoi/730432560521461760/bugtober2023-6-mighty-pebble\n\nkabbu\n\nmaybe 4W?"
+            "notes": "Unique Card\n\nArt Link: https://www.tumblr.com/machiko-yayoi/730432560521461760/bugtober2023-6-mighty-pebble\n\nkabbu\n\n!tag custom\n!tag discount-self\n!tag disenchant\n!tag hate-high-pt\n!tag removal"
         },
         {
             "card_name": "Defiant Standoff",
@@ -236,7 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/asocketwrench/status/1535844147000922112\nhttps://xcancel.com/asocketwrench/status/1535844147000922112\n\nkabbu, beast\n\n!tag flagged"
+            "notes": "Unique Card\n\nArt Link: https://x.com/asocketwrench/status/1535844147000922112\nhttps://xcancel.com/asocketwrench/status/1535844147000922112\n\nkabbu, beast\n\n!tag flagged\n!tag custom\n!tag discount-self\n!tag power-boost-to-all\n!tag toughness-boost-to-all"
         },
         {
             "card_name": "Desperate Treatment",
@@ -257,7 +257,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: 7gloomysnake7 / sta77dust (cannot find)\n\nvi, kabbu, leif, zasp"
+            "notes": "Unique Card\n\nArt Link: 7gloomysnake7 / sta77dust (cannot find)\n\nvi, kabbu, leif, zasp\n\n!tag custom\n!tag discount-self\n!tag reanimate\n!tag recursion"
         },
         {
             "card_name": "Diligent Cleaner",
@@ -278,7 +278,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/tawagotopick/status/1252247241101725697\nhttps://xcancel.com/tawagotopick/status/1252247241101725697\n\nbanna\n\nart bg?"
+            "notes": "Unique Card\n\nArt Link: https://x.com/tawagotopick/status/1252247241101725697\nhttps://xcancel.com/tawagotopick/status/1252247241101725697\n\nbanna\n\nart bg?\n\n!tag custom\n!tag cycle\n!tag cheaper-than-mv\n!tag mana-fix"
         },
         {
             "card_name": "Eetl, Retired Administrator",
@@ -299,7 +299,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://www.deviantart.com/vrchimp/art/EETL-871996760"
+            "notes": "Unique Card\n\nArt Link: https://www.deviantart.com/vrchimp/art/EETL-871996760\n\n!tag custom\n!tag gives-pp-counters\n!tag pillowfort"
         },
         {
             "card_name": "Explorers' Celebration",
@@ -320,7 +320,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://www.tumblr.com/shrimpricebowl/757298345953968128/heres-to-a-safer-bugaria\n\ngroup of characters\n\n!tokens Food BFS<1>;Insect Soldier BFS<1>"
+            "notes": "Unique Card\n\nArt Link: https://www.tumblr.com/shrimpricebowl/757298345953968128/heres-to-a-safer-bugaria\n\ngroup of characters\n\n!tokens Food BFS<1>;Insect Soldier BFS<1>\n\n!tag custom\n!tag castable-from-graveyard\n!tag lifegain\n!tag manaless-value"
         },
         {
             "card_name": "Gift of Love",
@@ -341,7 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/hiroshiiiii_no8/status/1360821316081700864\nhttps://xcancel.com/hiroshiiiii_no8/status/1360821316081700864\n\nreed, artia\n\nstretched art"
+            "notes": "Unique Card\n\nArt Link: https://x.com/hiroshiiiii_no8/status/1360821316081700864\nhttps://xcancel.com/hiroshiiiii_no8/status/1360821316081700864\n\nreed, artia\n\nstretched art\n\n!tag custom\n!tag cantrip\n!tag card-advantage\n!tag combat-trick\n!tag gives-pp-counters\n!tag gives-lifelink\n!tag lifegain"
         },
         {
             "card_name": "Heavy Drone B-33",
@@ -362,7 +362,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/MilaTheArtsy/status/1573702603246272513\nhttps://xcancel.com/MilaTheArtsy/status/1573702603246272513\n\n!tokens Robot BFS<1>"
+            "notes": "Unique Card\n\nArt Link: https://x.com/MilaTheArtsy/status/1573702603246272513\nhttps://xcancel.com/MilaTheArtsy/status/1573702603246272513\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag anthem\n!tag power-boost-to-all\n!tag toughness-boost-to-all\n!tag synergy-artifact-creature\n!tag attack-trigger\n!tag gives-pp-counters\n!tag repeatable-artifact-tokens\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Honey Factory Maintenance Chief",
@@ -383,7 +383,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://www.deviantart.com/vvipereonk/art/Huh-so-that-s-where-they-got-it-from-890758390\n\nmalbee\n\n!tokens Robot BFS<1>"
+            "notes": "Unique Card\n\nArt Link: https://www.deviantart.com/vvipereonk/art/Huh-so-that-s-where-they-got-it-from-890758390\n\nmalbee\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag gives-pp-counters\n!tag enters-in-company\n!tag multiple-bodies"
         },
         {
             "card_name": "Inspiring Melody",
@@ -404,7 +404,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Philalots/status/1448014123913125888\nhttps://xcancel.com/Philalots/status/1448014123913125888"
+            "notes": "original card\n\nart: https://x.com/Philalots/status/1448014123913125888\nhttps://xcancel.com/Philalots/status/1448014123913125888\n\n!tag custom\n!tag discount-self\n!tag reanimate\n!tag recursion"
         },
         {
             "card_name": "Jayde, Dissident Worker",
@@ -425,7 +425,7 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Insect Soldier BFS<1>"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Insect Soldier BFS<1>\n\n!tag custom\n!tag enters-in-company\n!tag multiple-bodies\n!tag lifegain\n!tag attacking-matters\n!tag saboteur\n!tag repeatable-artifact-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Kabbu's Request",
@@ -446,7 +446,7 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/LeavanniteA/status/1373810080311873536\nhttps://xcancel.com/LeavanniteA/status/1373810080311873536"
+            "notes": "original card\n\nart: https://x.com/LeavanniteA/status/1373810080311873536\nhttps://xcancel.com/LeavanniteA/status/1373810080311873536\n\n!tag custom\n!tag gives-pp-counters\n!tag gives-vigilance\n!tag attack-trigger\n!tag gives-indestructible\n!tag card-advantage\n!tag burst-draw\n!tag toughness-matters"
         },
         {
             "card_name": "Kingdom Border Guard",
@@ -467,7 +467,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/773956270190428160/aebees-because-strong-bugg-bug-ladies-o7\n\naebees\n\n!tag flagged"
+            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/773956270190428160/aebees-because-strong-bugg-bug-ladies-o7\n\naebees\n\n!tag flagged\n!tag custom\n!tag attack-trigger\n!tag gains-pp-counters"
         },
         {
             "card_name": "Masterful Slice",
@@ -488,7 +488,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/kumoketu/status/1355744275598766081\nhttps://xcancel.com/kumoketu/status/1355744275598766081\n\nmaster slice, vi, kabbu, leif\n\n!tokens Insect Soldier BFS<3>;Food BFS<3>"
+            "notes": "original card\n\nart: https://x.com/kumoketu/status/1355744275598766081\nhttps://xcancel.com/kumoketu/status/1355744275598766081\n\nmaster slice, vi, kabbu, leif\n\n!tokens Insect Soldier BFS<3>;Food BFS<3>\n\n!tag custom\n!tag modal\n!tag multiple-bodies\n!tag lifegain"
         },
         {
             "card_name": "Mayor Emmet",
@@ -509,7 +509,7 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1470918310162223104\nhttps://xcancel.com/hiveblood/status/1470918310162223104\n\n!tokens Citizen BFS<1>"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1470918310162223104\nhttps://xcancel.com/hiveblood/status/1470918310162223104\n\n!tokens Citizen BFS<1>\n\n!tag custom\n!tag synergy-token\n!tag cost-reducer-equip-ability\n!tag synergy-Equipmenth\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Medal Vendor",
@@ -530,7 +530,7 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "Original Card (functional reprint)\n\nArt Link: https://x.com/hiveblood/status/1424016554744762374\nhttps://xcancel.com/hiveblood/status/1424016554744762374\n\nmerab"
+            "notes": "Original Card (functional reprint)\n\nArt Link: https://x.com/hiveblood/status/1424016554744762374\nhttps://xcancel.com/hiveblood/status/1424016554744762374\n\nmerab\n\n!tag custom\n!tag functional-reprint\n!tag cantrip\n!tag card-advantage\n!tag quick-equip\n!tag synergy-Equipment"
         },
         {
             "card_name": "Medicine Brewer",
@@ -551,7 +551,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/machiko-yayoi/731070330763919360/bugtober2023-13-medicine\n\nisau\n\nalabaster eff?"
+            "notes": "original card\n\nart: https://www.tumblr.com/machiko-yayoi/731070330763919360/bugtober2023-13-medicine\n\nisau\n\nalabaster eff?\n\n!tag custom\n!tag lifegain\n!tag counters-matter"
         },
         {
             "card_name": "A Mother's Dream",
@@ -572,7 +572,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/zukimochi_zon/status/1761909316695843103\nhttps://xcancel.com/zukimochi_zon/status/1761909316695843103\n\nelizant I/II\n\n!tokens Treasure BFS<1>"
+            "notes": "original card\n\nart: https://x.com/zukimochi_zon/status/1761909316695843103\nhttps://xcancel.com/zukimochi_zon/status/1761909316695843103\n\nelizant I/II\n\n!tokens Treasure BFS<1>\n\n!tag custom\n!tag catch-up\n!tag ramp\n!tag tutor\n!tag tutor-artifact\n!tag tutor-to-battlefield"
         },
         {
             "card_name": "Passionate Baker",
@@ -593,7 +593,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/sa_ba_can/status/1214195836797640705\nhttps://xcancel.com/sa_ba_can/status/1214195836797640705\n\ncrisbee\n\n!tokens Food BFS<1>;Abomihoney BFS<1>"
+            "notes": "original card\n\nart: https://x.com/sa_ba_can/status/1214195836797640705\nhttps://xcancel.com/sa_ba_can/status/1214195836797640705\n\ncrisbee\n\n!tokens Food BFS<1>;Abomihoney BFS<1>\n\n!tag custom\n!tag lifegain\n!tag synergy-token\n!tag creates-oracle-token\n!tag repeatable-artifact-tokens\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Queen Elizant I, the Peacemaker",
@@ -603,7 +603,7 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{6}{W}{W}{W}",
-            "rules_text": "Convoke\nWhenever a creature deals damage to a player, return it to its owner's hand.\nAt the beginning of your end step, if you didn't attack this turn, create a 1/1 white Insect Soldier creature token, then put a +1/+1 counter on each creature you control.",
+            "rules_text": "Convoke\nWhenever a creature deals damage to a player, return it to its owner's hand.\nAt the beginning of your end step, if you didn't attack with a creature this turn, create a 1/1 white Insect Soldier creature token, then put a +1/+1 counter on each creature you control.",
             "flavor_text": "[i]\u201cA graceful Queen, loved by all. A diplomatic genius, who ended wars without combat. I longed for her return... So that I may concede my throne to her.\u201d\n\u2014Elizant II[/i]",
             "pt": "4/8",
             "special_text": "",
@@ -614,7 +614,7 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1424462439781896193\nhttps://xcancel.com/hiveblood/status/1424462439781896193"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1424462439781896193\nhttps://xcancel.com/hiveblood/status/1424462439781896193\n\n!tokens Insect Soldier BFS<1>\n\n!tag custom\n!tag pillowfort\n!tag bounce\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator\n!tag gives-pp-counters\n!tag gives-pp-counters-to-all"
         },
         {
             "card_name": "Queen's Teachings",
@@ -635,7 +635,7 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/775292538093518848/a-friend-asked-for-bianca-and-huh-yeah\n\nqueen bianca\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/775292538093518848/a-friend-asked-for-bianca-and-huh-yeah\n\nqueen bianca\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag discount-self\n!tag multiple-bodies\n!tag gives-pp-counters"
         },
         {
             "card_name": "Queen's Decree",
@@ -656,7 +656,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/kumoketu/status/1397308863632736256\nhttps://xcancel.com/kumoketu/status/1397308863632736256\n\nelizant II, vi, kabbu, leif\n\nname changed from royal decree (already taken)\n\n!tokens Insect Soldier BFS<1>"
+            "notes": "original card\n\nart: https://x.com/kumoketu/status/1397308863632736256\nhttps://xcancel.com/kumoketu/status/1397308863632736256\n\nelizant II, vi, kabbu, leif\n\nname changed from royal decree (already taken)\n\n!tokens Insect Soldier BFS<1>\n\n!tag custom\n!tag gives-pp-counters\n!tag gives-pp-counters-to-all"
         },
         {
             "card_name": "Salvation Strike",
@@ -677,7 +677,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1452809230054998017\nhttps://xcancel.com/Jendra82/status/1452809230054998017\n\nzasp, leif, dune scorpion\n\ndestroy target attacking creature eff; maybe modal?\nlifegain something diff?"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1452809230054998017\nhttps://xcancel.com/Jendra82/status/1452809230054998017\n\nzasp, leif, dune scorpion\n\n!tag custom\n!tag removal\n!tag removal-exile\n!tag lifegain\n!tag hate-attacker"
         },
         {
             "card_name": "Security Turret",
@@ -698,7 +698,7 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag death-trigger\n!tag gives-pp-counters\n!tag leaves-body-behind"
         },
         {
             "card_name": "Seedling Slayer",
@@ -719,7 +719,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1428843315110289414\nhttps://xcancel.com/hiveblood/status/1428843315110289414"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1428843315110289414\nhttps://xcancel.com/hiveblood/status/1428843315110289414\n\n!tag custom\n!tag attack-trigger\n!tag gains-pp-counters"
         },
         {
             "card_name": "Yin, Late Bloomer",
@@ -740,7 +740,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.deviantart.com/vrchimp/art/Yin-871995710"
+            "notes": "original card\n\nart: https://www.deviantart.com/vrchimp/art/Yin-871995710\n\n!tag custom\n!tag lifegain\n!tag protection\n!tag gives-hexproof\n!tag gives-indestructible"
         },
         {
             "card_name": "Ancient Icefall",
@@ -761,7 +761,7 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/zeratin927/status/1284897425803468800\nhttps://xcancel.com/zeratin927/status/1284897425803468800\n\nwatcher"
+            "notes": "original card\n\nart: https://x.com/zeratin927/status/1284897425803468800\nhttps://xcancel.com/zeratin927/status/1284897425803468800\n\nwatcher\n\n!tag custom\n!tag humble\n!tag prevent-attack\n!tag prevent-blocker\n!tag pseudo-fog"
         },
         {
             "card_name": "Beetle Fortune Teller",
@@ -782,7 +782,7 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1440451457665277960\nhttps://xcancel.com/hiveblood/status/1440451457665277960"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1440451457665277960\nhttps://xcancel.com/hiveblood/status/1440451457665277960\n\n!tag custom\n!tag guess\n!tag mill-self\n!tag mill-any\n!tag card-advantage\n!tag burst-draw\n!tag cantrip"
         },
         {
             "card_name": "Bloatshroom",
@@ -803,7 +803,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag tapper-creature\n!tag freeze-creature\n!tag mill-self\n!tag renew"
         },
         {
             "card_name": "Bubble Shield",
@@ -824,7 +824,7 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.deviantart.com/breadmadman/art/OwO-1145888139"
+            "notes": "original card\n\nart: https://www.deviantart.com/breadmadman/art/OwO-1145888139\n\n!tag custom\n!tag gives-pp-counters\n!tag protection\n!tag gives-hexproof\n!tag counters-matter"
         },
         {
             "card_name": "Charm Dancer",
@@ -845,7 +845,7 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1489437346374328326\nhttps://xcancel.com/hiveblood/status/1489437346374328326\ncharmy\n\n1UU or 2UU for ability?"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1489437346374328326\nhttps://xcancel.com/hiveblood/status/1489437346374328326\ncharmy\n\n1UU or 2UU for ability?\n\n!tag custom\n!tag modal\n!tag mill-self\n!tag gives-pp-counters\n!tag gives-hexproof\n!tag protection"
         },
         {
             "card_name": "Checkpoint Scan",
@@ -866,7 +866,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/privatemumbles/status/1374939111778312193\nhttps://xcancel.com/privatemumbles/status/1374939111778312193\n\nvi, kabbu, leif\n\nbasis: Confounding Riddle"
+            "notes": "original card\n\nart: https://x.com/privatemumbles/status/1374939111778312193\nhttps://xcancel.com/privatemumbles/status/1374939111778312193\n\nvi, kabbu, leif\n\nbasis: Confounding Riddle \n\n!tag custom\n!tag card-advantage\n!tag mill-self\n!tag counterspell\n!tag counterspell-soft\n!tag synergy-artifact"
         },
         {
             "card_name": "Cocoon of Slumber",
@@ -887,7 +887,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1444824959055015947\nhttps://xcancel.com/Jendra82/status/1444824959055015947\n\nleif"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1444824959055015947\nhttps://xcancel.com/Jendra82/status/1444824959055015947\n\nleif\n\n!tag custom\n!tag leaving-graveyard-matters\n!tag gains-flash\n!tag removal\n!tag humble"
         },
         {
             "card_name": "Denmuki",
@@ -908,7 +908,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag synergy-artifact\n!tag combat-trick\n!tag shrink"
         },
         {
             "card_name": "Disheveled Assistant",
@@ -929,7 +929,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1447356381229723652\nhttps://xcancel.com/Jendra82/status/1447356381229723652\n\ncrow\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1447356381229723652\nhttps://xcancel.com/Jendra82/status/1447356381229723652\n\ncrow\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag synergy-artifact\n!tag gives-pp-counters\n!tag enters-in-company\n!tag multiple-bodies"
         },
         {
             "card_name": "Diving Spider",
@@ -950,7 +950,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag mill-any\n!tag mill-self\n!tag gains-hexproof"
         },
         {
             "card_name": "Don't Make a Sound",
@@ -971,7 +971,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://x.com/Jendra82/status/1453919958514163717\nhttps://xcancel.com/Jendra82/status/1453919958514163717\n\nkabbu, beast"
+            "notes": "Reprint\n\nArt Link: https://x.com/Jendra82/status/1453919958514163717\nhttps://xcancel.com/Jendra82/status/1453919958514163717\n\nkabbu, beast\n\n!tag reprint\n!tag counterspell\n!tag counterspell-soft\n!tag mill-self"
         },
         {
             "card_name": "Emergency Protocol",
@@ -992,7 +992,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/796218222694236160/bugtober-time-day-1-snakemouth-den-remake-on\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/796218222694236160/bugtober-time-day-1-snakemouth-den-remake-on\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag bounce\n!tag removal\n!tag gives-pp-counters"
         },
         {
             "card_name": "Encased in Crystal",
@@ -1013,7 +1013,7 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1448832778867519488\nhttps://xcancel.com/Jendra82/status/1448832778867519488\n\nleif"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1448832778867519488\nhttps://xcancel.com/Jendra82/status/1448832778867519488\n\nleif\n\n!tag custom\n!tag mill-self\n!tag removal\n!tag lockdown\n!tag sacrifice-self"
         },
         {
             "card_name": "Frigid Coffin",
@@ -1034,7 +1034,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1446975350660026370\nhttps://xcancel.com/Jendra82/status/1446975350660026370\n\nleif"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1446975350660026370\nhttps://xcancel.com/Jendra82/status/1446975350660026370\n\nleif\n\n!tag custom\n!tag counterspell\n!tag mill-any\n!tag mill-self"
         },
         {
             "card_name": "Frost Bowling",
@@ -1055,7 +1055,7 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.deviantart.com/meadowmoos/art/Frost-Bowling-881440757\n\ncould give convoke if i was feeling devious"
+            "notes": "original card\n\nart: https://www.deviantart.com/meadowmoos/art/Frost-Bowling-881440757\n\ncould give convoke if i was feeling devious\n\n!tag custom\n!tag bounce\n!tag removal\n!tag sweeper"
         },
         {
             "card_name": "Gloomy Artist",
@@ -1076,7 +1076,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/sachichy/status/1318949810330693632\nhttps://xcancel.com/sachichy/status/1318949810330693632\n\nartia"
+            "notes": "original card\n\nart: https://x.com/sachichy/status/1318949810330693632\nhttps://xcancel.com/sachichy/status/1318949810330693632\n\nartia\n\n!tag custom\n!tag copy\n!tag copy-artifact\n!tag gives-haste\n!tag temporary-token"
         },
         {
             "card_name": "Haunted Cloth",
@@ -1097,7 +1097,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag gives-pp-counters\n!tag enters-in-company\n!tag multiple-bodies"
         },
         {
             "card_name": "Hypnotic Smoke",
@@ -1118,7 +1118,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/vioyume/739907933017669632/unlikely-possession-bug-fables-speedpaint\n\nvi, kabbu, leif, kali\n\n3UU?"
+            "notes": "original card\n\nart: https://www.tumblr.com/vioyume/739907933017669632/unlikely-possession-bug-fables-speedpaint\n\nvi, kabbu, leif, kali\n\n!tag custom\n!tag theft"
         },
         {
             "card_name": "Jellyshroom",
@@ -1139,7 +1139,7 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1575828854627004416\nhttps://xcancel.com/MilaTheArtsy/status/1575828854627004416"
+            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1575828854627004416\nhttps://xcancel.com/MilaTheArtsy/status/1575828854627004416\n\n!tag custom\n!tag saboteur\n!tag counters-matter"
         },
         {
             "card_name": "Kali, Compelling Seamstress",
@@ -1160,7 +1160,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/ktss_rgm/status/1273199855893049344\nhttps://xcancel.com/ktss_rgm/status/1273199855893049344\n\ndon't know token code"
+            "notes": "original card\n\nart: https://x.com/ktss_rgm/status/1273199855893049344\nhttps://xcancel.com/ktss_rgm/status/1273199855893049344\n\ndon't know token code for sure\n!tokens Cursed Role<1>\n\n!tag custom\n!tag theft\n!tag humble"
         },
         {
             "card_name": "Mimic Spider",
@@ -1181,7 +1181,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/machiko-yayoi/731611021584826368/bugtober2023-19-mimic\n\nvi, kabbu, leif"
+            "notes": "original card\n\nart: https://www.tumblr.com/machiko-yayoi/731611021584826368/bugtober2023-19-mimic\n\nvi, kabbu, leif\n\n!tag custom\n!tag copy\n!tag clone"
         },
         {
             "card_name": "Momentous Discovery",
@@ -1202,7 +1202,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1598006312058912768\nhttps://xcancel.com/MilaTheArtsy/status/1598006312058912768\n\nvi"
+            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1598006312058912768\nhttps://xcancel.com/MilaTheArtsy/status/1598006312058912768\n\nvi\n\n!tag custom\n!tag cycle\n!tag cheaper-than-mv\n!tag mana-fix\n!tag burst-draw\n!tag card-advantage"
         },
         {
             "card_name": "Professor Neolith",
@@ -1223,7 +1223,7 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": "Unique Card\n\nart: https://x.com/TheBoxMaster/status/1386348820053864448\nhttps://xcancel.com/TheBoxMaster/status/1386348820053864448\n\n!tag flagged"
+            "notes": "Unique Card\n\nart: https://x.com/TheBoxMaster/status/1386348820053864448\nhttps://xcancel.com/TheBoxMaster/status/1386348820053864448\n\n!tag flagged\n!tag custom\n!tag card-advantage\n!tag ramp\n!tag cost-reducer\n!tag draw-matters"
         },
         {
             "card_name": "Quest Board Manager",
@@ -1244,7 +1244,7 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1426563856600608773\nhttps://xcancel.com/hiveblood/status/1426563856600608773\n\nutter\n\nmana cost for ability?"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1426563856600608773\nhttps://xcancel.com/hiveblood/status/1426563856600608773\n\nutter\n\nmana cost for ability?\n\n!tag custom\n!tag mill-self\n!tag graveyard-fuel\n!tag gives-pp-counters\n!tag mill-self"
         },
         {
             "card_name": "Roach Scientists",
@@ -1254,7 +1254,7 @@
             "number": 68,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When this creature enters, surveil 2.\n{U}, {T}, Exile a creature card from your graveyard: Manufacture 1.",
+            "rules_text": "When this creature enters, surveil 2.\n{U}, {T}, Exile a creature card from your graveyard: Manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]",
             "flavor_text": "[i]\u201cIt's a failure. Yet another one\u2026\u201d[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1265,7 +1265,7 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/hana-bobo-finch/781354350526234624/leif\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://www.tumblr.com/hana-bobo-finch/781354350526234624/leif\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag mill-self\n!tag graveyard-fuel\n!tag gives-pp-counters\n!tag repeatable-artifact-tokens\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Royal Caretakers",
@@ -1286,7 +1286,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag renew\n!tag gives-pp-counters\n!tag mill-self"
         },
         {
             "card_name": "Secret Route",
@@ -1307,7 +1307,7 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag gives-pp-counters\n!tag mill-self\n!tag protection\n!tag phasing"
         },
         {
             "card_name": "Sophisticated Research",
@@ -1328,7 +1328,7 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1451691519736430595\nhttps://xcancel.com/Jendra82/status/1451691519736430595\n\ncrow, hb\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1451691519736430595\nhttps://xcancel.com/Jendra82/status/1451691519736430595\n\ncrow, hb\n\n!tokens Robot BFS<1>\n\n!tag card-advantage\n!tag burst-draw\n!tag gives-pp-counters\n!tag custom"
         },
         {
             "card_name": "Spry Elder",
@@ -1349,7 +1349,7 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1425881236828995594\nhttps://xcancel.com/hiveblood/status/1425881236828995594\n\nchuck\n\nif its not your turn, stun?"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1425881236828995594\nhttps://xcancel.com/hiveblood/status/1425881236828995594\n\nchuck\n\nif its not your turn, stun?\n\n!tag custom\n!tag gives-pp-counters\n!tag mill-self\n!tag synergy-explore\n!tag tapper-creature"
         },
         {
             "card_name": "Spy",
@@ -1370,7 +1370,7 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/CalendarCursed/status/1578170880479604736\nhttps://xcancel.com/CalendarCursed/status/1578170880479604736\n\nshould it be 1U?\n\"You may have a player mill a card.\"\n\"You may have any number of players mill a card.\"\n\n!tag flagged"
+            "notes": "original card\n\nart: https://x.com/CalendarCursed/status/1578170880479604736\nhttps://xcancel.com/CalendarCursed/status/1578170880479604736\n\nshould it be 1U?\n\"You may have a player mill a card.\"\n\"You may have any number of players mill a card.\"\n\n!tag flagged\n!tag custom\n!tag card-advntage\n!tag cantrip\n!tag mill-any\n!tag mill-self\n!tag peek-library"
         },
         {
             "card_name": "Spy Cards",
@@ -1391,7 +1391,7 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/sa_ba_can/status/1267487743841452032\nhttps://xcancel.com/sa_ba_can/status/1267487743841452032\n\nleif"
+            "notes": "original card\n\nart: https://x.com/sa_ba_can/status/1267487743841452032\nhttps://xcancel.com/sa_ba_can/status/1267487743841452032\n\nleif\n\n!tag custom\n!tag hand-size-decrease\n!tag reveal-hand\n!tag card-advantage\n!tag draw-engine\n!tag hand-size-matters"
         },
         {
             "card_name": "Stealth Mission",
@@ -1412,7 +1412,7 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://www.tumblr.com/leaderfuzzy/704164178891538432/i-like-how-leif-just-pretends-that-they-dont-have\n\nvi, kabbu, leif\n\n\u201cThe more we see of the Wasp Kingdom, the more confused we get.\u201d\n\u2014Leif"
+            "notes": "Reprint\n\nArt Link: https://www.tumblr.com/leaderfuzzy/704164178891538432/i-like-how-leif-just-pretends-that-they-dont-have\n\nvi, kabbu, leif\n\n\u201cThe more we see of the Wasp Kingdom, the more confused we get.\u201d\n\u2014Leif\n\n!tag reprint\n!tag gives-pp-counters\n!tag gives-unblockable"
         },
         {
             "card_name": "Take Inventory",
@@ -1433,7 +1433,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://x.com/EepyiLizard/status/1838002809045962933\nhttps://xcancel.com/EepyiLizard/status/1838002809045962933\n\nvi, kabbu, leif"
+            "notes": "Reprint\n\nArt Link: https://x.com/EepyiLizard/status/1838002809045962933\nhttps://xcancel.com/EepyiLizard/status/1838002809045962933\n\nvi, kabbu, leif\n\n!tag reprint\n!tag card-advantage\n!tag scales-with-multiple\n!tag cards-in-graveyard-matter"
         },
         {
             "card_name": "The Tidal Wyrm",
@@ -1454,7 +1454,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/COELACAMTH/status/1491796599546294272\nhttps://xcancel.com/COELACAMTH/status/1491796599546294272"
+            "notes": "original card\n\nart: https://x.com/COELACAMTH/status/1491796599546294272\nhttps://xcancel.com/COELACAMTH/status/1491796599546294272\n\n!tag custom\n!tag tapper-creature\n!tag pseudo-fog\n!tag freeze-creature\n!tag cards-in-graveyard-matter"
         },
         {
             "card_name": "Card Tournament Contender",
@@ -1475,7 +1475,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "Unique Card (functional reprint)\n\nArt Link: https://x.com/MilaTheArtsy/status/1614121078124838914\nhttps://xcancel.com/MilaTheArtsy/status/1614121078124838914\n\njanet"
+            "notes": "Unique Card (functional reprint)\n\nArt Link: https://x.com/MilaTheArtsy/status/1614121078124838914\nhttps://xcancel.com/MilaTheArtsy/status/1614121078124838914\n\njanet\n\n!tag custom\n!tag functional-reprint\n!tag gains-pp-counters\n!tag mill-self"
         },
         {
             "card_name": "Alchemize",
@@ -1496,7 +1496,7 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": "original card\n\nart: https://fallenaither.tumblr.com/post/796459422041948160/bugtober-day-3-spell-casting-been-wanting-to\n\ntarantular\n\nreplaced unconvincing camouflage\n\nKabbu: He must be one of the 10 sorcerers! What an honor! To think we'd trespass his property\u2026"
+            "notes": "original card\n\nart: https://fallenaither.tumblr.com/post/796459422041948160/bugtober-day-3-spell-casting-been-wanting-to\n\ntarantular\n\nreplaced unconvincing camouflage\n\nKabbu: He must be one of the 10 sorcerers! What an honor! To think we'd trespass his property\u2026\n\n!tag custom\n!tag mill-self\n!tag recursion\n!tag gives-castable-from-graveyard\n!tag synergy-instant\n!tag synergy-sorcery"
         },
         {
             "card_name": "Water Strider",
@@ -1517,7 +1517,7 @@
             "alias": "",
             "position": "71",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag bounce\n!tag removal"
         },
         {
             "card_name": "Ambushed by Bandits",
@@ -1538,7 +1538,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiroshiiiii_no8/status/1294844405216473088\nhttps://xcancel.com/hiroshiiiii_no8/status/1294844405216473088\n\nastotheles\n\n!tokens Treasure BFS<1>"
+            "notes": "original card\n\nart: https://x.com/hiroshiiiii_no8/status/1294844405216473088\nhttps://xcancel.com/hiroshiiiii_no8/status/1294844405216473088\n\nastotheles\n\n!tokens Treasure BFS<1>\n\n!tag custom\n!tag removal\n!tag ramp"
         },
         {
             "card_name": "The Beast",
@@ -1559,7 +1559,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/116796052\n\nThis terrifying creature haunted the Wild Swamplands, devouring everything without mercy."
+            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/116796052\n\nThis terrifying creature haunted the Wild Swamplands, devouring everything without mercy.\n\n!tag custom\n!tag sacrifice-outlet\n!tag gains-pp-counters\n!tag hunger\n!tag opponent-loses-life"
         },
         {
             "card_name": "Big Mistake",
@@ -1580,7 +1580,7 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1452437565949239303\nhttps://xcancel.com/Jendra82/status/1452437565949239303\n\nvi, kabbu, leif"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1452437565949239303\nhttps://xcancel.com/Jendra82/status/1452437565949239303\n\nvi, kabbu, leif\n\n!tag custom\n!tag removal\n!tag gives-menace\n!tag flowstone"
         },
         {
             "card_name": "Bittersweet Memory",
@@ -1601,7 +1601,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/hana-bobo-finch/781354350526234624/leif"
+            "notes": "original card\n\nart: https://www.tumblr.com/hana-bobo-finch/781354350526234624/leif\n\n!tag custom\n!tag recursion\n!tag castable-from-graveyard\n!tag graveyard-fuel\n!tag gives-escape"
         },
         {
             "card_name": "Bounty Board",
@@ -1622,7 +1622,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/allegroart/764348195421749248/bugtober-2024-day-14-bounties-the-team-decided\n\n!tokens Treasure BFS<1>"
+            "notes": "original card\n\nart: https://www.tumblr.com/allegroart/764348195421749248/bugtober-2024-day-14-bounties-the-team-decided\n\n!tokens Treasure BFS<1>\n\n!tag custom\n!tag death-trigger\n!tag ramp\n!tag card-advantage\n!tag draw-engine\n!tag sacrifice-outlet"
         },
         {
             "card_name": "Caught as Prey",
@@ -1643,7 +1643,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1454590108968144903\nhttps://xcancel.com/Jendra82/status/1454590108968144903\n\nbeast, kabbu\n\nif a (creature) card left?"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1454590108968144903\nhttps://xcancel.com/Jendra82/status/1454590108968144903\n\nbeast, kabbu\n\n!tag custom\n!tag leaving-graveyard-matters\n!tag removal\n!tag discount-self"
         },
         {
             "card_name": "Dead Lander \u03a9",
@@ -1653,7 +1653,7 @@
             "number": 86,
             "color_identity": "B",
             "cost": "{4}{B}{B}{B}",
-            "rules_text": "Menace\nIf a creature an opponent controls would die, instead exile it and put a +1/+1 counter on this creature\nDuring your turn, you may cast cards exiled with this card. If you cast a spell this way, remove three counters from among creatures you control rather than pay its mana cost.\n",
+            "rules_text": "Menace\nIf a creature an opponent controls would die, instead exile it and put a +1/+1 counter on this creature.\nDuring your turn, you may cast cards exiled with this card. If you cast a spell this way, remove three counters from among creatures you control rather than pay its mana cost.\n",
             "flavor_text": "[i][/i]",
             "pt": "7/6",
             "special_text": "",
@@ -1664,7 +1664,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/qj0svo/bugtober_day_30_nightmare_spoilered_for_featuring/\n\n\"remove from among creatures\" instead of creatures you control?\n\n\u201cI would prefer if we never learn what will happen if it sees us...\u201d\n\u2014Kabbu"
+            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/qj0svo/bugtober_day_30_nightmare_spoilered_for_featuring/\n\n\"remove from among creatures\" instead of creatures you control?\n\n\u201cI would prefer if we never learn what will happen if it sees us...\u201d\n\u2014Kabbu\n\n!tag custom\n!tag gains-pp-counters\n!tag death-trigger\n!tag graveyard-seal\n!tag gives-castable-from-exile\n!tag theft\n!tag counters-matter\n!tag counter-fuel"
         },
         {
             "card_name": "Dead Lander \u03b3",
@@ -1685,7 +1685,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/kxz8ws/fanart_dead_landers_alpha_beta_gamma/"
+            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/kxz8ws/fanart_dead_landers_alpha_beta_gamma/\n\n!tag custom\n!tag death-trigger\n!tag graveyard-seal"
         },
         {
             "card_name": "Defiant Operators",
@@ -1706,7 +1706,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1499413339964940290\nhttps://xcancel.com/hiveblood/status/1499413339964940290"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1499413339964940290\nhttps://xcancel.com/hiveblood/status/1499413339964940290\n\n!tag custom\n!tag attack-trigger\n!tag sacrifice-outlet\n!tag card-advantage\n!tag draw-engine\n!tag mill-self"
         },
         {
             "card_name": "Defy Your Past",
@@ -1727,7 +1727,7 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": "Original Card (functional reprint)\n\nArt Link: https://x.com/MilaTheArtsy/status/1551338362199769088\nhttps://xcancel.com/MilaTheArtsy/status/1551338362199769088\nvi, kabbu, leif, zommoth"
+            "notes": "Original Card (functional reprint)\n\nArt Link: https://x.com/MilaTheArtsy/status/1551338362199769088\nhttps://xcancel.com/MilaTheArtsy/status/1551338362199769088\nvi, kabbu, leif, zommoth\n\n!tag custom\n!tag functional-reprint\n!tag modal\n!tag discard\n!tag removal\n!tag sweeper"
         },
         {
             "card_name": "Dune Scorpion",
@@ -1748,7 +1748,7 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag death-trigger\n!tag opponent-loses-life"
         },
         {
             "card_name": "Exiled Alchemist",
@@ -1758,7 +1758,7 @@
             "number": 91,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Deathtouch\n{X}{B}, {T}: Remove X counters from creatures you control, then manufacture X. [i](Distribute X +1/+1 counters among creatures you control or create a X/X colorless Robot artifact creature token.)[/i]",
+            "rules_text": "Deathtouch\n{X}{B}, {T}, Remove X counters from creatures you control: Manufacture X. [i](Distribute X +1/+1 counters among creatures you control or create a X/X colorless Robot artifact creature token.)[/i]",
             "flavor_text": "[i]\u201cOi oi, my stuff never hurt nobody... too badly.\u201d\n[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1769,7 +1769,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/No_842/status/1308759431857934336\nhttps://xcancel.com/No_842/status/1308759431857934336\n\npatton"
+            "notes": "original card\n\nart: https://x.com/No_842/status/1308759431857934336\nhttps://xcancel.com/No_842/status/1308759431857934336\n\npatton\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag counter-fuel\n!tag gives-pp-counters\n!tag repeatable-artifact-tokens\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Failed Experiment",
@@ -1790,7 +1790,7 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/that1tvhead/788315550241701888/me-myself-and-us\n\nleif"
+            "notes": "original card\n\nart: https://www.tumblr.com/that1tvhead/788315550241701888/me-myself-and-us\n\nleif\n\n!tag custom\n!tag alternate-cost-sacrifice\n!tag recursion\n!tag reanimate\n!tag type-change"
         },
         {
             "card_name": "The False Monarch",
@@ -1811,7 +1811,7 @@
             "alias": "",
             "position": "85",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.newgrounds.com/art/view/endore050/the-false-monarch\n\n!tokens Insect BFS<1>"
+            "notes": "original card\n\nart: https://www.newgrounds.com/art/view/endore050/the-false-monarch\n\n!tokens Insect BFS<1>\n\n!tag custom\n!tag attack-trigger\n!tag death-trigger\n!tag titan-trigger\n!tag synergy-token\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator\n!tag enters-in-company\n!tag multiple-bodies\n!tag anthem\n!tag power-boost-to-all\n!tag toughness-boost-to-all"
         },
         {
             "card_name": "Lawless Ruffian",
@@ -1821,7 +1821,7 @@
             "number": 94,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Menace [i](This creature can't be blocked except by two or more creatures.)[/i]\n[i]Raid[/i] \u2014 When this creature enters, if you attacked this turn, destroy target creature an opponent controls that was dealt damage this turn. Its controller loses 2 life.",
+            "rules_text": "Menace\n[i]Raid[/i] \u2014 When this creature enters, if you attacked this turn, destroy target creature an opponent controls that was dealt damage this turn. Its controller loses 2 life.",
             "flavor_text": "[i]These freed prisoners are so dangerous, the Wasps left the cuffs on. They don't care, though. They're cruel and cunning enough to wreak enough havoc using only their legs.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1832,7 +1832,7 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag removal\n!tag opponent-loses-life\n!tag attacking-matters"
         },
         {
             "card_name": "Leafbug Archer",
@@ -1853,7 +1853,7 @@
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag renew\n!tag gives-pp-counters\n!tag gives-deathtouch\n!tag keyword-counter"
         },
         {
             "card_name": "Leif's Request",
@@ -1874,7 +1874,7 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/LeavanniteA/status/1373810080311873536\nhttps://xcancel.com/LeavanniteA/status/1373810080311873536\n\n!tokens Clue BFS<1>"
+            "notes": "original card\n\nart: https://x.com/LeavanniteA/status/1373810080311873536\nhttps://xcancel.com/LeavanniteA/status/1373810080311873536\n\n!tokens Clue BFS<1>\n\n!tag custom\n!tag card-advantage\n!tag gives-pp-counters\n!tag recursion\n!tag reanimate\n!tag sacrifice-matters"
         },
         {
             "card_name": "Lost Appetite",
@@ -1895,7 +1895,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1446282994558328834\nhttps://xcancel.com/Jendra82/status/1446282994558328834\n\nzasp"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1446282994558328834\nhttps://xcancel.com/Jendra82/status/1446282994558328834\n\nzasp\n\n!tag custom\n!tag cycle\n!tag cheaper-than-mv\n!tag mana-fix\n!tag drain-life\n!tag opponent-loses-life\n!tag power-matters"
         },
         {
             "card_name": "Lost Sands Bandit",
@@ -1916,7 +1916,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/741141187815161856/preposterous-i-cant-post-twice-in-one-day-bandit\n\n!tag flagged"
+            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/741141187815161856/preposterous-i-cant-post-twice-in-one-day-bandit\n\n!tag flagged\n!tag custom\n!tag attack-trigger\n!tag gains-pp-counters\n!tag card-advantage\n!tag draw-engine\n!tag saboteur"
         },
         {
             "card_name": "Lost Sands Burglar",
@@ -1937,7 +1937,7 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1460961688073744389\nhttps://xcancel.com/hiveblood/status/1460961688073744389"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1460961688073744389\nhttps://xcancel.com/hiveblood/status/1460961688073744389\n\n!tag custom\n!tag attack-trigger\n!tag gains-pp-counters\n!tag mill-self\n!tag opponent-loses-life\n!tag synergy-training"
         },
         {
             "card_name": "Lost Sands Thief",
@@ -1958,7 +1958,7 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nrenew eff"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag attack-trigger\n!tag gains-pp-counters\n!tag renew\n!tag card-advantage"
         },
         {
             "card_name": "Madesphy",
@@ -1969,7 +1969,7 @@
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nWhen this creature dies, target creature an opponent controls gets -1/-1 until end of turn.",
-            "flavor_text": "[i]With a face only a mother could love, the Madesphy grumpily trudges along the swamplands. It's poisonous to eat, thorny to touch, and deafening to hear its wails. One could say it has adapted to its habitat perfectly.[/i]",
+            "flavor_text": "[i]It's poisonous to eat, thorny to touch, and deafening to hear its wails. One could say it has adapted to its habitat perfectly.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -1979,7 +1979,7 @@
             "alias": "",
             "position": "93",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\ncould mirror inichas more"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\ncould mirror inichas more\n\n!tag custom\n!tag removal\n!tag death-trigger"
         },
         {
             "card_name": "Mantidfly",
@@ -2000,7 +2000,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag attacking-matters\n!tag mill-self"
         },
         {
             "card_name": "Monsieur Scarlet",
@@ -2021,7 +2021,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Chun083/status/1586334023667748864\nhttps://xcancel.com/Chun083/status/1586334023667748864"
+            "notes": "original card\n\nart: https://x.com/Chun083/status/1586334023667748864\nhttps://xcancel.com/Chun083/status/1586334023667748864\n\n!tag custom\n!tag lifegain\n!tag drain-life\n!tag removal\n!tag burn\n!tag burn-any"
         },
         {
             "card_name": "Mothfly Cluster",
@@ -2042,7 +2042,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": "original car\n\nart: https://www.pixiv.net/en/artworks/93819364\n\n!tokens Insect BFS<1>"
+            "notes": "original car\n\nart: https://www.pixiv.net/en/artworks/93819364\n\n!tokens Insect BFS<1>\n\n!tag custom\n!tag death-trigger\n!tag leaves-body-behind\n!tag multiple-bodies"
         },
         {
             "card_name": "Piercing Roar",
@@ -2063,7 +2063,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/No_842/status/1305495850123026433\nhttps://xcancel.com/No_842/status/1305495850123026433"
+            "notes": "original card\n\nart: https://x.com/No_842/status/1305495850123026433\nhttps://xcancel.com/No_842/status/1305495850123026433\n\n!tag custom\n!tag gives-menace\n!tag castable-from-graveyard\n!tag power-boost-to-all"
         },
         {
             "card_name": "Scorpion Caretaker",
@@ -2084,7 +2084,7 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Insect Beast BFS<1>\n\n!tag flagged"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Insect Beast BFS<1>\n\n!tag flagged\n!tag custom\n!tag enters-in-company\n!tag multiple-bodies\n!tag mana-sink\n!tag gives-training"
         },
         {
             "card_name": "Scorpion Sting",
@@ -2105,7 +2105,7 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1453093343257403400\nhttps://xcancel.com/Jendra82/status/1453093343257403400\n\nleif, dune scorpion\n\n!tag flagged"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1453093343257403400\nhttps://xcancel.com/Jendra82/status/1453093343257403400\n\nleif, dune scorpion\n\n!tag flagged\n!tag custom\n!tag removal\n!tag counters-matter\n!tag move-counters\n!tag hate-counters"
         },
         {
             "card_name": "Shady Dealer",
@@ -2126,7 +2126,7 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1424948284712529920\nhttps://xcancel.com/hiveblood/status/1424948284712529920\n\nshades\n\nonly as sorcery?"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1424948284712529920\nhttps://xcancel.com/hiveblood/status/1424948284712529920\n\nshades\n\nonly as sorcery?\n\n!tag custom\n!tag mill-self\n!tag renew\n!tag theft"
         },
         {
             "card_name": "Snakemouth Researchers",
@@ -2147,7 +2147,7 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag keyword-counter\n!tag mill-self\n!tag counters-matter"
         },
         {
             "card_name": "Sororicide",
@@ -2168,7 +2168,7 @@
             "alias": "",
             "position": "102",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/theanonymousmystery/738901434156908544/for-answers"
+            "notes": "original card\n\nart: https://www.tumblr.com/theanonymousmystery/738901434156908544/for-answers\n\n!tag custom\n!tag removal\n!tag removal-exile\n!tag drawback"
         },
         {
             "card_name": "Sprout From Within",
@@ -2189,7 +2189,7 @@
             "alias": "",
             "position": "103",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1453410879660347397\nhttps://xcancel.com/hiveblood/status/1453410879660347397\n\nhoaxe"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1453410879660347397\nhttps://xcancel.com/hiveblood/status/1453410879660347397\n\nhoaxe\n\n!tag custom\n!tag mill-self\n!tag removal\n!tag lifegain"
         },
         {
             "card_name": "Stargaze",
@@ -2210,7 +2210,7 @@
             "alias": "",
             "position": "104",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://x.com/SnowsilverK/status/1405110503299506180\nhttps://xcancel.com/SnowsilverK/status/1405110503299506180\n\nvi, kabbu, leif"
+            "notes": "Reprint\n\nArt Link: https://x.com/SnowsilverK/status/1405110503299506180\nhttps://xcancel.com/SnowsilverK/status/1405110503299506180\n\nvi, kabbu, leif\n\n!tag reprint\n!tag card-advantage\n!tag burst-draw\n!tag mill-self"
         },
         {
             "card_name": "Undercover Barkeep",
@@ -2231,7 +2231,7 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/hiveblood/status/1447367926982533126\nhttps://xcancel.com/hiveblood/status/1447367926982533126\n\ndoppel"
+            "notes": "Unique Card\n\nArt Link: https://x.com/hiveblood/status/1447367926982533126\nhttps://xcancel.com/hiveblood/status/1447367926982533126\n\ndoppel\n\n!tag custom\n!tag gives-training\n!tag power-matters\n!tag mill-self\n!tag death-trigger"
         },
         {
             "card_name": "Zombee",
@@ -2252,7 +2252,7 @@
             "alias": "",
             "position": "106",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag gains-pp-counters\n!tag renew\n!tag gives-pp-counters"
         },
         {
             "card_name": "Zombeetle",
@@ -2273,7 +2273,7 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag gains-pp-counters\n!tag renew\n!tag gives-pp-counters"
         },
         {
             "card_name": "Zombiant",
@@ -2294,7 +2294,7 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1452096670204932097\nhttps://xcancel.com/Jendra82/status/1452096670204932097"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1452096670204932097\nhttps://xcancel.com/Jendra82/status/1452096670204932097\n\n!tag custom\n!tag gains-pp-counters"
         },
         {
             "card_name": "Apprehensive Novice",
@@ -2315,7 +2315,7 @@
             "alias": "",
             "position": "109",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/776447661989609472/he-reminds-me-of-samus-somehow-mun-i-love-him\n\nmun\n\n\u201cI still have to practice more, so that something like this won't happen again!\u201d"
+            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/776447661989609472/he-reminds-me-of-samus-somehow-mun-i-love-him\n\nmun\n\n\u201cI still have to practice more, so that something like this won't happen again!\u201d\n\n!tag custom\n!tag power-matters\n!tag mana-sink\n!tag firebreathing"
         },
         {
             "card_name": "Arrow Worm",
@@ -2336,7 +2336,7 @@
             "alias": "",
             "position": "110",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nThe Arrow Worm is the most hated pest of the Lost Sands, annoying villagers and bandits alike."
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nThe Arrow Worm is the most hated pest of the Lost Sands, annoying villagers and bandits alike.\n\n!tag custom\n!tag discount-self\n!tag power-matters"
         },
         {
             "card_name": "Automated Drone Boomerang Prototype",
@@ -2357,7 +2357,7 @@
             "alias": "",
             "position": "111",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.deviantart.com/kingdrawsstuff/art/Vi-930162754\n\nwording weird"
+            "notes": "original card\n\nart: https://www.deviantart.com/kingdrawsstuff/art/Vi-930162754\n\nwording weird\n\n!tag custom\n!tag saboteur\n!tag removal\n\n!tag bounce-self\n!tag burn\n!tag burn-any"
         },
         {
             "card_name": "Battle Plan",
@@ -2378,7 +2378,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://x.com/puppet_kirby/status/1472630289352761346\nhttps://xcancel.com/puppet_kirby/status/1472630289352761346\n\nvanessa, ultimax"
+            "notes": "Reprint\n\nArt Link: https://x.com/puppet_kirby/status/1472630289352761346\nhttps://xcancel.com/puppet_kirby/status/1472630289352761346\n\nvanessa, ultimax\n\n!tag reprint\n!tag cycle\n!tag cheaper-than-mv\n!tag mana-fix"
         },
         {
             "card_name": "Beehive Guardian",
@@ -2399,7 +2399,7 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag gives-pp-counters\n!tag enters-in-company\n!tag multiple-bodies"
         },
         {
             "card_name": "Big Score",
@@ -2420,7 +2420,7 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://www.tumblr.com/vioyume/741359529960357888\n\nvi, kabbu, leif, fishing\n\n!tokens Treasure BFS<2>"
+            "notes": "Reprint\n\nArt Link: https://www.tumblr.com/vioyume/741359529960357888\n\nvi, kabbu, leif, fishing\n\n!tokens Treasure BFS<2>\n\n!tag reprint\n!tag ramp\n!tag card-advantage\n!tag pillage-effect\n!tag rummage\n!tag tormenting-voice"
         },
         {
             "card_name": "Bomb Master",
@@ -2441,7 +2441,7 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag sacrifice-outlet\n!tag card-advantage\n!tag power-mattters\n!tag removal\n!tag repeatable-removal\n!tag burn\n!tag burn-any"
         },
         {
             "card_name": "Boomerang Toss",
@@ -2462,7 +2462,7 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Butterlord120/status/1321985126767693824\nhttps://xcancel.com/Butterlord120/status/1321985126767693824\n\n!tag flagged"
+            "notes": "original card\n\nart: https://x.com/Butterlord120/status/1321985126767693824\nhttps://xcancel.com/Butterlord120/status/1321985126767693824\n\n!tag flagged\n!tag custom\n!tag removal\n!tag repeatable-removal\n!tag castable-from-exile\n!tag burn\n!tag burn-creature"
         },
         {
             "card_name": "Brash Wager",
@@ -2483,7 +2483,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/SnowsilverK/status/1311059562385100800\nhttps://xcancel.com/SnowsilverK/status/1311059562385100800\n\nvi, kabbu, leif\n\ncombat damage or damage?"
+            "notes": "original card\n\nart: https://x.com/SnowsilverK/status/1311059562385100800\nhttps://xcancel.com/SnowsilverK/status/1311059562385100800\n\nvi, kabbu, leif\n\ncombat damage or damage?\n\n!tag custom\n!tag card-advantage\n!tag saboteur\n!tag burst-draw"
         },
         {
             "card_name": "Set Ablaze",
@@ -2504,7 +2504,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://www.tumblr.com/pawperanimal/710228285431414784\n\nhoaxe"
+            "notes": "Unique Card\n\nArt Link: https://www.tumblr.com/pawperanimal/710228285431414784\n\nhoaxe\n\n!tag custom\n!tag removal\n!tag burn\n!tag burn-creature\n!tag hate-graveyard"
         },
         {
             "card_name": "Combination Attack",
@@ -2525,7 +2525,7 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/sa_ba_can/status/1266031597473509377\nhttps://xcancel.com/sa_ba_can/status/1266031597473509377\n\nmaki, kina"
+            "notes": "original card\n\nart: https://x.com/sa_ba_can/status/1266031597473509377\nhttps://xcancel.com/sa_ba_can/status/1266031597473509377\n\nmaki, kina\n\n!tag custom\n!tag bite\n!tag removal"
         },
         {
             "card_name": "Carmina, Seasoned Gambler",
@@ -2546,7 +2546,7 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/ktss_rgm/status/1269267137824096257\nhttps://xcancel.com/ktss_rgm/status/1269267137824096257"
+            "notes": "original card\n\nart: https://x.com/ktss_rgm/status/1269267137824096257\nhttps://xcancel.com/ktss_rgm/status/1269267137824096257\n\n!tag custom\n!tag tutor\n!tag tutor-to-hand\n!tag tutor-any\n!tag gamble"
         },
         {
             "card_name": "Disciplined Slash",
@@ -2556,7 +2556,7 @@
             "number": 130,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Disciplined Slash deals damage to any target equal to the number of attacking creatures you control.\nFlashback\u2014{1}{R}{R}, Sacrifice an equipment. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
+            "rules_text": "Disciplined Slash deals damage to any target equal to the number of attacking creatures you control.\nFlashback\u2014{1}{R}{R}, Sacrifice an Equipment. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2567,7 +2567,7 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiroshiiiii_no8/status/1299909619402199040\nhttps://xcancel.com/hiroshiiiii_no8/status/1299909619402199040\n\nmaki"
+            "notes": "original card\n\nart: https://x.com/hiroshiiiii_no8/status/1299909619402199040\nhttps://xcancel.com/hiroshiiiii_no8/status/1299909619402199040\n\nmaki\n\n!tag custom\n!tag attacking-matters\n!tag removal\n!tag repeatable-removal\n!tag burn\n!tag burn-any\n!tag castable-from-graveyard"
         },
         {
             "card_name": "Exploration Team Rivalry",
@@ -2588,7 +2588,7 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.deviantart.com/lilithmoth/art/Rivalry-team-Snakemouth-V-s-team-Motiva-904669691\n\nvi, kabbu, leif, mothiva, zasp\n\nart has ratio squished (too vertical for regular frame)\n\n2R: Target creature gets +1/+1 and gains haste until end of turn.\n\n!tag flagged"
+            "notes": "original card\n\nart: https://www.deviantart.com/lilithmoth/art/Rivalry-team-Snakemouth-V-s-team-Motiva-904669691\n\nvi, kabbu, leif, mothiva, zasp\n\nart has ratio squished (too vertical for regular frame)\n\n2R: Target creature gets +1/+1 and gains haste until end of turn.\n\n!tag flagged\n!tag custom\n!tag card-advantage\n!tag impulsive-draw\n!tag gives-castable-from-exile\n!tag fight\n!tag removal\n!tag repeatable-removal"
         },
         {
             "card_name": "Explorers' Accountant",
@@ -2609,7 +2609,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1424042724257378307\nhttps://xcancel.com/hiveblood/status/1424042724257378307\n\nartis\n\n\u201cHeh. I see you lot like challenge.\u201d"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1424042724257378307\nhttps://xcancel.com/hiveblood/status/1424042724257378307\n\nartis\n\n\u201cHeh. I see you lot like challenge.\u201d\n\n!tag custom\n!tag card-advantage\n!tag draw-engine\n!tag impulsive-draw\n!tag gives-castable-from-exile\n!tag synergy-Medal\n!tag synergy-Equipment\n!tag power-matters\n!tag gives-trample"
         },
         {
             "card_name": "Hurricane Toss",
@@ -2630,7 +2630,7 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/16n2hbf/im_not_gonna_sugar_coat_it/\n\nvi\n\noverpowered? make sorcery?"
+            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/16n2hbf/im_not_gonna_sugar_coat_it/\n\nvi\n\n!tag custom\n!tag removal\n!tag synergy-artifact\n!tag burn\n!tag burn-creature\n!tag multi-removal"
         },
         {
             "card_name": "Lay Siege",
@@ -2651,7 +2651,7 @@
             "alias": "",
             "position": "125",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/LeavanniteA/status/1355639886271934466\nhttps://xcancel.com/LeavanniteA/status/1355639886271934466\n\nhoaxe"
+            "notes": "original card\n\nart: https://x.com/LeavanniteA/status/1355639886271934466\nhttps://xcancel.com/LeavanniteA/status/1355639886271934466\n\nhoaxe\n\n!tag custom\n!tag removal\n!tag burn\n!tag burn-creature\n!tag sweeper\n!tag attacking-matters"
         },
         {
             "card_name": "Peculiar Inventor",
@@ -2672,7 +2672,7 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1463211688010862605\nhttps://xcancel.com/hiveblood/status/1463211688010862605\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1463211688010862605\nhttps://xcancel.com/hiveblood/status/1463211688010862605\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag attacking-matters\n!tag gives-pp-counters\n!tag repeatable-artifact-tokens\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Rabid Chase",
@@ -2693,7 +2693,7 @@
             "alias": "",
             "position": "127",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/SnowsilverK/status/1592350115045330944\nhttps://xcancel.com/SnowsilverK/status/1592350115045330944\n\nspuder, vi, kabbu, leif"
+            "notes": "original card\n\nart: https://x.com/SnowsilverK/status/1592350115045330944\nhttps://xcancel.com/SnowsilverK/status/1592350115045330944\n\nspuder, vi, kabbu, leif\n\n!tag custom\n!tag gives-first-strike\n!tag card-advantage\n!tag rummage\n!tag combat-trick"
         },
         {
             "card_name": "Riz, Isolated Bulwark",
@@ -2714,7 +2714,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": "original card\n\nart: cannot find (account deleted)\n\ntraps?\n\n!tokens Munitions<1>"
+            "notes": "original card\n\nart: cannot find (account deleted)\n\n!tokens Munitions<1>\n\n!tag custom\n!tag removal\n!tag synergy-artifact\n!tag burn\n!tag burn-any\n!tag repeatable-removal\n!tag leaves-battlefield-trigger\n!tag death-trigger\n!tag card-advantage"
         },
         {
             "card_name": "Unconventional Collector",
@@ -2735,7 +2735,7 @@
             "alias": "",
             "position": "129",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/772954864393273344/bad-book-being-stolen\n\nreeves\n\nlittle silly"
+            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/772954864393273344/bad-book-being-stolen\n\nreeves\n\nlittle silly\n\n!tag custom\n!tag attacking-matters\n!tag card-advantage\n!tag rummage"
         },
         {
             "card_name": "Rush Into Action",
@@ -2756,7 +2756,7 @@
             "alias": "",
             "position": "130",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/No_842/status/1309636869026578433\nhttps://xcancel.com/No_842/status/1309636869026578433\n\nmun"
+            "notes": "original card\n\nart: https://x.com/No_842/status/1309636869026578433\nhttps://xcancel.com/No_842/status/1309636869026578433\n\nmun\n\n!tag custom\n!tag gives-pp-counters\n!tag gives-menace\n!tag gives-haste"
         },
         {
             "card_name": "Sharp Assistant",
@@ -2777,7 +2777,7 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1562783478596648964\nhttps://xcancel.com/MilaTheArtsy/status/1562783478596648964\n\nhawk\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1562783478596648964\nhttps://xcancel.com/MilaTheArtsy/status/1562783478596648964\n\nhawk\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag gives-pp-counters\n!tag enters-in-company\n!tag multiple-bodies"
         },
         {
             "card_name": "Termite Engineers",
@@ -2798,7 +2798,7 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/773602252159107072/a-coupleo-termites-wedge-and-biggs-from-bug\n\ncould be manu 1 an additional time\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://www.tumblr.com/longeth-dayv/773602252159107072/a-coupleo-termites-wedge-and-biggs-from-bug\n\ncould be manu 1 an additional time\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag synergy-artifact-creature\n!tag keyword-anthem\n!tag gives-trample\n!tag gives-pp-counters\n!tag repeatable-artifact-tokens\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator\n!tag power-matters"
         },
         {
             "card_name": "Termite Financier",
@@ -2819,7 +2819,7 @@
             "alias": "",
             "position": "133",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\ntiver\n\nref: axgard artisan\n\n!tokens Treasure BFS<1>;Robot<1>"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\ntiver\n\nref: axgard artisan\n\n!tokens Treasure BFS<1>;Robot<1>\n\n!tag custom\n!tag gives-pp-counters\n!tag repeatable-artifact-tokens\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator\n!tag ramp\n!tag counters-matter"
         },
         {
             "card_name": "Termite Knight",
@@ -2840,7 +2840,7 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag gains-pp-counters\n!tag mill-self"
         },
         {
             "card_name": "Underground Bartender",
@@ -2861,7 +2861,7 @@
             "alias": "",
             "position": "135",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/1obtkew/bea_3d_render/\n\nbea"
+            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/1obtkew/bea_3d_render/\n\nbea\n\n!tag custom\n!tag ramp\n!tag mana-dork\n!tag restricted-mana"
         },
         {
             "card_name": "Vanessa II, Usurped Queen",
@@ -2882,7 +2882,7 @@
             "alias": "",
             "position": "136",
             "rotated": false,
-            "notes": "original card\n\nart: cannot find (artist DA hacked/deactivated)"
+            "notes": "original card\n\nart: cannot find (artist DA hacked/deactivated)\n\n!tag custom\n!tag tutor\n!tag tutor-equipment\n!tag power-matters\n!tag gives-unblockable"
         },
         {
             "card_name": "Vengeful Kin",
@@ -2903,7 +2903,7 @@
             "alias": "",
             "position": "137",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1491591896090697729\nhttps://xcancel.com/hiveblood/status/1491591896090697729"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1491591896090697729\nhttps://xcancel.com/hiveblood/status/1491591896090697729\n\n!tag custom\n!tag gives-pp-counters\n!tag gives-first-strike\n!tag gives-haste"
         },
         {
             "card_name": "Vi's Request",
@@ -2924,7 +2924,7 @@
             "alias": "",
             "position": "138",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/LeavanniteA/status/1373810080311873536\nhttps://xcancel.com/LeavanniteA/status/1373810080311873536\n\n!tokens Treasure BFS<2>"
+            "notes": "original card\n\nart: https://x.com/LeavanniteA/status/1373810080311873536\nhttps://xcancel.com/LeavanniteA/status/1373810080311873536\n\n!tokens Treasure BFS<2>\n\n!tag custom\n!tag ramp\n!tag exchange-control\n!tag theft\n!tag synergy-artifact\n!tag gives-trample\n!tag cranial-plating\n!tag"
         },
         {
             "card_name": "Wasp Assault",
@@ -2945,7 +2945,7 @@
             "alias": "",
             "position": "139",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1451337704759779336\nhttps://xcancel.com/Jendra82/status/1451337704759779336"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1451337704759779336\nhttps://xcancel.com/Jendra82/status/1451337704759779336\n\n!tag custom\n!tag discount-self\n!tag attacking-matters\n!tag removal\n!tag burn\n!tag burn-creature"
         },
         {
             "card_name": "Wasp Bomber",
@@ -2966,7 +2966,7 @@
             "alias": "",
             "position": "140",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/lizbot/785314957966376960/wasp"
+            "notes": "original card\n\nart: https://www.tumblr.com/lizbot/785314957966376960/wasp\n\n!tag custom\n!tag attacking-matters\n!tag burn\n!tag burn-creature\n!tag sweeper\n!tag burn-player"
         },
         {
             "card_name": "Wasp Driller",
@@ -2987,7 +2987,7 @@
             "alias": "",
             "position": "141",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1448981760071671811\nhttps://xcancel.com/hiveblood/status/1448981760071671811"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1448981760071671811\nhttps://xcancel.com/hiveblood/status/1448981760071671811\n\n!tag custom\n!tag attacking-matters\n!tag burn\n!tag burn-player\n!tag power-matters"
         },
         {
             "card_name": "Wasp Fanatic",
@@ -3008,7 +3008,7 @@
             "alias": "",
             "position": "142",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Phero1111/status/1751254827412390318\nhttps://xcancel.com/Phero1111/status/1751254827412390318\n\nFutes"
+            "notes": "original card\n\nart: https://x.com/Phero1111/status/1751254827412390318\nhttps://xcancel.com/Phero1111/status/1751254827412390318\n\nFutes\n\n!tag custom\n!tag typal\n!tag typal-Insect\n!tag gives-menace"
         },
         {
             "card_name": "Wasp Scout",
@@ -3029,7 +3029,7 @@
             "alias": "",
             "position": "143",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/No_842/status/1307632897822613504\nhttps://xcancel.com/No_842/status/1307632897822613504"
+            "notes": "original card\n\nart: https://x.com/No_842/status/1307632897822613504\nhttps://xcancel.com/No_842/status/1307632897822613504\n\n!tag custom\n!tag ramp\n!tag attack-trigger\n!tag mana-dork\n!tag firebend-like"
         },
         {
             "card_name": "Wasp Trooper",
@@ -3050,7 +3050,7 @@
             "alias": "",
             "position": "144",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1453136505623433219\nhttps://xcancel.com/hiveblood/status/1453136505623433219"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1453136505623433219\nhttps://xcancel.com/hiveblood/status/1453136505623433219\n\n!tag custom\n!tag attacking-matters\n!tag gains-pp-counters\n!tag gains-first-strike"
         },
         {
             "card_name": "Wronged Sailor",
@@ -3071,7 +3071,7 @@
             "alias": "",
             "position": "145",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1426997272567484421\nhttps://xcancel.com/hiveblood/status/1426997272567484421\n\nalex"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1426997272567484421\nhttps://xcancel.com/hiveblood/status/1426997272567484421\n\nalex\n\n!tag custom\n!tag gains-pp-counters\n!tag removal\n!tag removal-artifact"
         },
         {
             "card_name": "Abundant Harvest",
@@ -3092,7 +3092,7 @@
             "alias": "",
             "position": "146",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://x.com/puppet_kirby/status/1505823291332005888\nhttps://xcancel.com/puppet_kirby/status/1505823291332005888\n\nvenus, aria"
+            "notes": "Reprint\n\nArt Link: https://x.com/puppet_kirby/status/1505823291332005888\nhttps://xcancel.com/puppet_kirby/status/1505823291332005888\n\nvenus, aria\n\n!tag reprint\n!tag card-advantage\n!tag consult"
         },
         {
             "card_name": "Acolyte Aria",
@@ -3113,7 +3113,7 @@
             "alias": "",
             "position": "147",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.newgrounds.com/art/view/lizardfungus/acolyte-aria"
+            "notes": "original card\n\nart: https://www.newgrounds.com/art/view/lizardfungus/acolyte-aria\n\n!tag custom\n!tag discount-self\n!tag synergy-tapped\n!tag gives-pp-counters\n!tag mill-self"
         },
         {
             "card_name": "Altruist Hospitality",
@@ -3134,7 +3134,7 @@
             "alias": "",
             "position": "148",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/kumoketu/status/1353285189548470274\nhttps://xcancel.com/kumoketu/status/1353285189548470274\n\nvi, kabbu, leif, chuck"
+            "notes": "original card\n\nart: https://x.com/kumoketu/status/1353285189548470274\nhttps://xcancel.com/kumoketu/status/1353285189548470274\n\nvi, kabbu, leif, chuck\n\n!tag custom\n!tag recursion\n!tag regrowth\n!tag card-advantage\n!tag counters-matter\n!tag counter-fuel"
         },
         {
             "card_name": "Belostoss",
@@ -3155,7 +3155,7 @@
             "alias": "",
             "position": "149",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag power-matters\n!tag removal\n!tag disenchant"
         },
         {
             "card_name": "Butomu, Mighty Blacksmith",
@@ -3165,7 +3165,7 @@
             "number": 162,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "When Butomu, Mighty Blacksmith enters, create a Treasure token.\nTap three untapped artifacts or creatures you control: Butomu, Mighty Blacksmith explores.\nTap four untapped artifacts or creatures you control: Destroy target artifact or enchantment.",
+            "rules_text": "When Butomu, Mighty Blacksmith enters, create a Treasure token.\nTap three untapped artifacts or creatures you control: Butomu explores.\nTap four untapped artifacts or creatures you control: Destroy target artifact or enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3176,7 +3176,7 @@
             "alias": "",
             "position": "150",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1461760713593131011\nhttps://xcancel.com/hiveblood/status/1461760713593131011\n\n!tokens Treasure BFS<1>"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1461760713593131011\nhttps://xcancel.com/hiveblood/status/1461760713593131011\n\n!tokens Treasure BFS<1>\n\n!tag custom\n!tag removal\n!tag repeatable-removal\n!tag disenchant\n!tag ramp\n!tag gains-pp-counters\n!tag mill-self"
         },
         {
             "card_name": "Carry the Lineage",
@@ -3197,7 +3197,7 @@
             "alias": "",
             "position": "151",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Philalots/status/1505985053075070988\nhttps://xcancel.com/Philalots/status/1505985053075070988\n\nchompy, mother chomper\n\n!tokens Plant BFS<1>"
+            "notes": "original card\n\nart: https://x.com/Philalots/status/1505985053075070988\nhttps://xcancel.com/Philalots/status/1505985053075070988\n\nchompy, mother chomper\n\n!tokens Plant BFS<1>\n\n!tag custom\n!tag power-matters\n!tag castable-from-graveyard"
         },
         {
             "card_name": "Charitable Sightseer",
@@ -3218,7 +3218,7 @@
             "alias": "",
             "position": "152",
             "rotated": false,
-            "notes": "original card\n\nart: 7gloomysnake7 / sta77dust (cannot find)\n\nmadeline, seb\n\n\u201cDo not worry. I can handle myself. And I may even get to see some Leafbugs!\u201d"
+            "notes": "original card\n\nart: 7gloomysnake7 / sta77dust (cannot find)\n\nmadeline, seb\n\n\u201cDo not worry. I can handle myself. And I may even get to see some Leafbugs!\u201d\n\n!tag custom\n!tag gives-pp-counters\n!tag mill-self\n!tag mana-sink"
         },
         {
             "card_name": "Chomper Brute",
@@ -3239,7 +3239,7 @@
             "alias": "",
             "position": "153",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nrenew eff\n\n!tokens Plant BFS<1>"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Plant BFS<1>\n\n!tag custom\n!tag gains-lifelink\n!tag power-matters\n!tag renew\n!tag lifegain"
         },
         {
             "card_name": "Diana, Stout Miner",
@@ -3260,7 +3260,7 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1432740173821906952\nhttps://xcancel.com/hiveblood/status/1432740173821906952\n\n!tag flagged"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1432740173821906952\nhttps://xcancel.com/hiveblood/status/1432740173821906952\n\n!tag flagged\n!tag custom\n!tag ramp\n!tag ramp-land\n!tag multi-land-ramp\n!tag more-expensive-than-mv"
         },
         {
             "card_name": "Sparring Match",
@@ -3281,7 +3281,7 @@
             "alias": "",
             "position": "155",
             "rotated": false,
-            "notes": "Unique Card\n\nart: https://www.tumblr.com/longeth-dayv/774755004667035648/swordsbug-duel\n\nmaki, stratos"
+            "notes": "Unique Card\n\nart: https://www.tumblr.com/longeth-dayv/774755004667035648/swordsbug-duel\n\nmaki, stratos\n\n!tag custom\n!tag power-matters\n!tag discount-self\n!tag removal\n!tag fight"
         },
         {
             "card_name": "Enter the Unknown",
@@ -3302,7 +3302,7 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": "Reprint (downshifted)\n\nArt Link: https://www.tumblr.com/longeth-dayv/773866202682605568/early-snakemouth-explorers"
+            "notes": "Reprint (downshifted)\n\nArt Link: https://www.tumblr.com/longeth-dayv/773866202682605568/early-snakemouth-explorers\n\n!tag reprint\n!tag gives-pp-counters\n!tag mill-self\n!tag ramp\n!tag play-additional-land"
         },
         {
             "card_name": "Exotic Voyage",
@@ -3323,7 +3323,7 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": "original card\n\nart: cannot find\n\nvi, kabbu, leif"
+            "notes": "original card\n\nart: cannot find\n\nvi, kabbu, leif\n\n!tag custom\n!tag discount-self\n!tag ramp\n!tag ramp-land"
         },
         {
             "card_name": "Fashionable Denizen",
@@ -3344,7 +3344,7 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/No_842/status/1310603060796850177\nhttps://xcancel.com/No_842/status/1310603060796850177\n\neremi"
+            "notes": "original card\n\nart: https://x.com/No_842/status/1310603060796850177\nhttps://xcancel.com/No_842/status/1310603060796850177\n\neremi\n\n!tag custom\n!tag ramp\n!tag mana-dork\n!tag power-matters\n!tag adds-multiple-mana"
         },
         {
             "card_name": "Frenzied Sunflower Dance",
@@ -3365,7 +3365,7 @@
             "alias": "",
             "position": "159",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/m4dsif/frenzied_sunflower_dance/\n\nvi, kabbu, leif, venus guardian\n\n!tokens Venus Bud BFS<1>"
+            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/m4dsif/frenzied_sunflower_dance/\n\nvi, kabbu, leif, venus guardian\n\n!tokens Venus Bud BFS<1>\n\n!tag custom\n!tag discount-self\n!tag multiple-bodies\n!tag gives-pp-counters\n!tag mill-self\n!tag typal\n!tag typal-Plant"
         },
         {
             "card_name": "Fruitful Aphids",
@@ -3386,7 +3386,7 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": "original card\n\nart: https://fallenaither.tumblr.com/post/779672707874816000/another-entry-for-a-banner-contest-in-the-bf"
+            "notes": "original card\n\nart: https://fallenaither.tumblr.com/post/779672707874816000/another-entry-for-a-banner-contest-in-the-bf\n\n!tag custom\n!tag gains-pp-counters\n!tag counters-matter\n!tag counter-fuel\n!tag copy-self\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Fruity Bugs",
@@ -3407,7 +3407,7 @@
             "alias": "",
             "position": "161",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/dv21_art/status/1271974262895763456\nhttps://xcancel.com/dv21_art/status/1271974262895763456\n\ntanjerin, cerise"
+            "notes": "original card\n\nart: https://x.com/dv21_art/status/1271974262895763456\nhttps://xcancel.com/dv21_art/status/1271974262895763456\n\ntanjerin, cerise\n\n!tag custom\n!tag power-matters\n!tag gains-trample\n!tag gives-pp-counters\n!tag mana-sink"
         },
         {
             "card_name": "Goddess Venus",
@@ -3428,7 +3428,7 @@
             "alias": "",
             "position": "162",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/ktss_rgm/status/1285608055560953858\nhttps://xcancel.com/ktss_rgm/status/1285608055560953858\n\noriginally a planeswalker\n\n+1: Up to one target creature you control explores.\n-2: Create a 1/1 green and white Plant creature token named Venus Bud with reach and lifelink.\n-5: Search your library and/or outside the game for a card named Venus Guardian and put it onto the battlefield. If you search your library this way, shuffle.\n\n!tokens Venus Bud BFS<1>"
+            "notes": "original card\n\nart: https://x.com/ktss_rgm/status/1285608055560953858\nhttps://xcancel.com/ktss_rgm/status/1285608055560953858\n\noriginally a planeswalker\n\n!tokens Venus Bud BFS<1>\n\n!tag custom\n!tag drawback\n!tag type-change\n!tag gives-pp-counters\n!tag mill-self\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Golden Festival Harvest",
@@ -3449,7 +3449,7 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/93819364\n\nlevi, celia, zasp, mothiva"
+            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/93819364\n\nlevi, celia, zasp, mothiva\n\n!tag custom\n!tag gives-pp-counters\n!tag mill-self\n!tag mana-sink\n!tag card-advantage\n!tag explore-like"
         },
         {
             "card_name": "Golden Seedling",
@@ -3470,7 +3470,7 @@
             "alias": "",
             "position": "164",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/LemmyKirby/status/1870663512693076146\nhttps://xcancel.com/LemmyKirby/status/1870663512693076146\n\nshroud, hexproof, or high ward?\n\n!tokens Treasure BFS<3>"
+            "notes": "original card\n\nart: https://x.com/LemmyKirby/status/1870663512693076146\nhttps://xcancel.com/LemmyKirby/status/1870663512693076146\n\nshroud, hexproof, or high ward?\n\n!tokens Treasure BFS<3>\n\n!tag custom\n!tag discount-self\n!tag renew\n!tag ramp"
         },
         {
             "card_name": "Heavy Strike",
@@ -3491,7 +3491,7 @@
             "alias": "",
             "position": "165",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Butterlord120/status/1332380667506782210\nhttps://xcancel.com/Butterlord120/status/1332380667506782210\n\nkabbu"
+            "notes": "original card\n\nart: https://x.com/Butterlord120/status/1332380667506782210\nhttps://xcancel.com/Butterlord120/status/1332380667506782210\n\nkabbu\n\n!tag custom\n!tag removal\n!tag bite"
         },
         {
             "card_name": "Inichas",
@@ -3512,7 +3512,7 @@
             "alias": "",
             "position": "166",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/LemmyKirby/status/1636771086778892288\nhttps://xcancel.com/LemmyKirby/status/1636771086778892288"
+            "notes": "original card\n\nart: https://x.com/LemmyKirby/status/1636771086778892288\nhttps://xcancel.com/LemmyKirby/status/1636771086778892288\n\n!tag custom\n!tag renew\n!tag gives-pp-counters\n!tag gives-vigilance\n!tag keyword-counter"
         },
         {
             "card_name": "Inquisitive Biologist",
@@ -3533,7 +3533,7 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\ntakkun"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\ntakkun\n\n!tag custom\n!tag power-matters\n!tag gives-pp-counters\n!tag mill-self"
         },
         {
             "card_name": "Inseparable Travelers",
@@ -3554,7 +3554,7 @@
             "alias": "",
             "position": "168",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nrob and bub"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nrob and bub\n\n!tag custom\n!tag gains-pp-counters\n!tag mill-self\n!tag card-advantage\n!tag draw-engine\n!tag counters-matter"
         },
         {
             "card_name": "Ironnail",
@@ -3575,7 +3575,7 @@
             "alias": "",
             "position": "169",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag power-matters\n!tag death-trigger\n!tag recursion\n!tag regrowth\n!tag regrowth-creature"
         },
         {
             "card_name": "Leafbug Clubber",
@@ -3596,7 +3596,7 @@
             "alias": "",
             "position": "170",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag renew\n!tag gives-pp-counters\n!tag gives-trample\n!tag keyword-counter"
         },
         {
             "card_name": "Leafbug Ninja",
@@ -3617,7 +3617,7 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/LemmyKirby/status/1669413274704592896\nhttps://xcancel.com/LemmyKirby/status/1669413274704592896\n\nrenew eff\n\n!tokens Leafbug Ninja BFS<2>"
+            "notes": "original card\n\nart: https://x.com/LemmyKirby/status/1669413274704592896\nhttps://xcancel.com/LemmyKirby/status/1669413274704592896\n\n!tokens Leafbug Ninja BFS<2>\n\n!tag custom\n!tag renew\n!tag copy-self\n!tag multiple-bodies"
         },
         {
             "card_name": "Luminous Traveler",
@@ -3638,7 +3638,7 @@
             "alias": "",
             "position": "172",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1603030696817479680\nhttps://xcancel.com/MilaTheArtsy/status/1603030696817479680\n\nlayna, nero"
+            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1603030696817479680\nhttps://xcancel.com/MilaTheArtsy/status/1603030696817479680\n\nlayna, nero\n\n!tag custom\n!tag gains-pp-counters\n!tag mill-self"
         },
         {
             "card_name": "Mother Chomper",
@@ -3648,7 +3648,7 @@
             "number": 185,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "Trample\nMother Chomper has lifelink as long as you control a white or black permanent.\n[i]Renew[/i] \u2014 {4}{G}{G}, Exile this card from your graveyard: Put three +1/+1 counters, a trample counter, and a lifelink counter on target creature. Activate only as a sorcery.\n",
+            "rules_text": "Trample\nMother Chomper has lifelink as long as you control a white or black permanent.\n[i]Renew[/i] \u2014 {4}{G}{G}, Exile this card from your graveyard: Put three +1/+1 counters and a trample counter on target creature. If you control a white or black permanent, put a lifelink counter on it. Activate only as a sorcery.\n",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3659,7 +3659,7 @@
             "alias": "",
             "position": "173",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/ktss_rgm/status/1325746576778653700\nhttps://xcancel.com/ktss_rgm/status/1325746576778653700\n\nvi, kabbu, leif"
+            "notes": "original card\n\nart: https://x.com/ktss_rgm/status/1325746576778653700\nhttps://xcancel.com/ktss_rgm/status/1325746576778653700\n\nvi, kabbu, leif\n\n!tag custom\n!tag gains-lifelink\n!tag renew\n!tag gives-pp-counters\n!tag gives-trample\n!tag gives-lifelink\n!tag keyword-counter\n!tag lifegain"
         },
         {
             "card_name": "Primal Weevil",
@@ -3680,7 +3680,7 @@
             "alias": "",
             "position": "174",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/LemmyKirby/status/1631131089707188224\nhttps://xcancel.com/LemmyKirby/status/1631131089707188224"
+            "notes": "original card\n\nart: https://x.com/LemmyKirby/status/1631131089707188224\nhttps://xcancel.com/LemmyKirby/status/1631131089707188224\n\n!tag custom\n!tag power-matters\n!tag gives-trample\n!tag attack-trigger"
         },
         {
             "card_name": "Seedling",
@@ -3691,7 +3691,7 @@
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Reach\n[i]Renew[/i] \u2014 {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a reach counter on target creature. Activate only as a sorcery.",
-            "flavor_text": "[i]The seedling species is one of the most common species in the world. They are tenacious and with a huge appetite, which they calm by devouring farmer's crops.[/i]",
+            "flavor_text": "[i]The seedling species is one of the most common species in the world. They are tenacious and with a huge appetite, which they calm by devouring farmer's crops.\n[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -3701,7 +3701,7 @@
             "alias": "",
             "position": "175",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1553083422595497985\nhttps://xcancel.com/MilaTheArtsy/status/1553083422595497985"
+            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1553083422595497985\nhttps://xcancel.com/MilaTheArtsy/status/1553083422595497985\n\n!tag custom\n!tag renew\n!tag gives-pp-counters\n!tag gives-reach\n!tag keyword-counter"
         },
         {
             "card_name": "Seedling King",
@@ -3722,7 +3722,7 @@
             "alias": "",
             "position": "176",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Seedling BFS<1>;Seedling BFS<2>\n\n!tag flagged"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tokens Seedling BFS<1>;Seedling BFS<2>\n\n!tag flagged\n!tag custom\n!tag typal\n!tag typal-Plant\n!tag gives-trample\n!tag keyword-anthem\n!tag power-matters\n!tag creates-oracle-token\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Shattered Wings",
@@ -3743,7 +3743,7 @@
             "alias": "",
             "position": "177",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://x.com/yunyuni59025761/status/1916201056092275071\nhttps://xcancel.com/yunyuni59025761/status/1916201056092275071\n\nhoaxe"
+            "notes": "Reprint\n\nArt Link: https://x.com/yunyuni59025761/status/1916201056092275071\nhttps://xcancel.com/yunyuni59025761/status/1916201056092275071\n\nhoaxe\n\n!tag reprint\n!tag disenchant\n!tag hate-flying\n!tag removal\n!tag mill-self"
         },
         {
             "card_name": "Tunneling Worm",
@@ -3764,7 +3764,7 @@
             "alias": "",
             "position": "178",
             "rotated": false,
-            "notes": "Original Card (functional reprint)\n\nArt Link: https://x.com/LemmyKirby/status/1782796089646547074\nhttps://xcancel.com/LemmyKirby/status/1782796089646547074"
+            "notes": "Original Card (functional reprint)\n\nArt Link: https://x.com/LemmyKirby/status/1782796089646547074\nhttps://xcancel.com/LemmyKirby/status/1782796089646547074\n\n!tag custom\n!tag functional-reprint\n!tag mill-self\n!tag gains-pp-counters\n!tag card-advantage\n!tag mulch"
         },
         {
             "card_name": "Venus Guardian",
@@ -3785,7 +3785,7 @@
             "alias": "",
             "position": "179",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.furaffinity.net/view/46167471/"
+            "notes": "original card\n\nart: https://www.furaffinity.net/view/46167471/\n\n!tag custom\n!tag power-matters\n!tag gives-vigilance"
         },
         {
             "card_name": "Venus's Blessing",
@@ -3806,7 +3806,7 @@
             "alias": "",
             "position": "180",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/KINO_Fei/status/1495138045418295297\nhttps://xcancel.com/KINO_Fei/status/1495138045418295297\n\naria\n\noverrun"
+            "notes": "original card\n\nart: https://x.com/KINO_Fei/status/1495138045418295297\nhttps://xcancel.com/KINO_Fei/status/1495138045418295297\n\naria\n\n!tag custom\n!tag overrun\n!tag power-boost-to-all\n!tag toughness-boost-to-all\n!tag gives-trample\n!tag gives-vigilance\n!tag castable-from-graveyard"
         },
         {
             "card_name": "Weevil",
@@ -3827,7 +3827,7 @@
             "alias": "",
             "position": "181",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nA Weevil! Such a ferocious beast... It attacks anything that moves! I've heard they can even increase their own power... We must end this battle quickly!"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nA Weevil! Such a ferocious beast... It attacks anything that moves! I've heard they can even increase their own power... We must end this battle quickly!\n\n!tag custom\n!tag power-matters\n!tag gives-trample\n!tag attack-trigger"
         },
         {
             "card_name": "Wild Chomper",
@@ -3848,7 +3848,7 @@
             "alias": "",
             "position": "182",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag cycle\n!tag cheaper-than-mv\n!tag mana-fix\n!tag power-boost-to-all"
         },
         {
             "card_name": "Ant Queen Elizant II",
@@ -3869,7 +3869,7 @@
             "alias": "",
             "position": "183",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/No_842/status/1313475020660895749\nhttps://xcancel.com/No_842/status/1313475020660895749\n\n!tokens Insect Soldier BFS<1>"
+            "notes": "original card\n\nart: https://x.com/No_842/status/1313475020660895749\nhttps://xcancel.com/No_842/status/1313475020660895749\n\n!tokens Insect Soldier BFS<1>\n\n!tag custom\n!tag gives-training\n!tag keyword-anthem\n!tag gives-pp-counters\n!tag attack-trigger\n!tag enters-in-company\n!tag multiple-bodies\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Astotheles, Bandit Leader",
@@ -3890,7 +3890,7 @@
             "alias": "",
             "position": "184",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/1odlj4g/drew_astotheles_for_bugtober/"
+            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/1odlj4g/drew_astotheles_for_bugtober/\n\n!tag custom\n!tag gives-first-strike\n!tag keyword-anthem\n!tag anthem\n!tag power-boost-to-all\n!tag toughness-boost-to-all\n!tag typal\n!tag typal-Rogue\n!tag silence"
         },
         {
             "card_name": "Bee Queen Bianca",
@@ -3911,7 +3911,7 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/SirDiabeetus/status/1653194732850278401\nhttps://xcancel.com/SirDiabeetus/status/1653194732850278401\n\n\u201cOh! Adorable, aren't they? Welcome! I hope the Hive has shown great hospitality and kindness towards you.\u201d"
+            "notes": "original card\n\nart: https://x.com/SirDiabeetus/status/1653194732850278401\nhttps://xcancel.com/SirDiabeetus/status/1653194732850278401\n\n\u201cOh! Adorable, aren't they? Welcome! I hope the Hive has shown great hospitality and kindness towards you.\u201d\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag gives-pp-counters\n!tag repeatable-artifact-tokens\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator\n!tag cost-reducer\n!tag synergy-target"
         },
         {
             "card_name": "The Broodmother",
@@ -3932,7 +3932,7 @@
             "alias": "",
             "position": "186",
             "rotated": false,
-            "notes": "original card\n\nart: game sprites\n\n!tokens Insect BFS<1>"
+            "notes": "original card\n\nart: game sprites\n\n!tokens Insect BFS<1>\n\n!tag custom\n!tag power-boost-to-all\n!tag attack-trigger\n!tag synergy-target\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Cenn and Pisci, Fraudulent Team",
@@ -3953,7 +3953,7 @@
             "alias": "",
             "position": "187",
             "rotated": false,
-            "notes": "original card\n\noriginally UB11\n\nart: https://x.com/hiveblood/status/1426335530875244545\nhttps://xcancel.com/hiveblood/status/1426335530875244545\n\n\u201cWhat would he know? Y'all are just the Queen's lapbugs! No one has the right to tell us we can't explore!\u201d"
+            "notes": "original card\n\noriginally UB11\n\nart: https://x.com/hiveblood/status/1426335530875244545\nhttps://xcancel.com/hiveblood/status/1426335530875244545\n\n\u201cWhat would he know? Y'all are just the Queen's lapbugs! No one has the right to tell us we can't explore!\u201d\n\n!tag custom\n!tag draft-signpost\n!tag attack-trigger\n!tag hate-graveyard\n!tag attacking-matters\n!tag theft"
         },
         {
             "card_name": "Chompy, Next in Line",
@@ -3974,7 +3974,7 @@
             "alias": "",
             "position": "188",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.deviantart.com/vvipereonk/art/Snakemouth-Chompy-994317512"
+            "notes": "original card\n\nart: https://www.deviantart.com/vvipereonk/art/Snakemouth-Chompy-994317512\n\n!tag custom\n!tag draft-signpost\n!tag hate-graveyard\n!tag gives-pp-counters\n!tag lifegain\n!tag mana-sink\n!tag gives-trample\n!tag power-matters"
         },
         {
             "card_name": "Cross and Poi, Termite Guards",
@@ -3984,7 +3984,7 @@
             "number": 202,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "During your turn, Cross and Poi, Termite Guards have first strike.\nWhenever Cross and Poi attack, up to one other target creature you control has base power and toughness 4/2 until end of turn.",
+            "rules_text": "During your turn, Cross and Poi, Termite Guards have first strike.\nWhenever Cross and Poi attack, up to two other attacking creatures get +2/+2 until end of turn.",
             "flavor_text": "[i]\u201cWe won't go easy on you, give it your all.\u201d\n\u2014Poi[/i]",
             "pt": "4/2",
             "special_text": "",
@@ -3995,7 +3995,7 @@
             "alias": "",
             "position": "189",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/jouska_tono/status/1447383829661028352 (color edit by me)\nhttps://xcancel.com/jouska_tono/status/1447383829661028352"
+            "notes": "original card\n\nart: https://x.com/jouska_tono/status/1447383829661028352 (color edit by me)\nhttps://xcancel.com/jouska_tono/status/1447383829661028352\n\n!tag custom\n!tag draft-signpost\n!tag gains-first-strike\n!tag attack-trigger\n!tag attacking-matters"
         },
         {
             "card_name": "The Devourer",
@@ -4016,7 +4016,7 @@
             "alias": "",
             "position": "190",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/vioyume/755533280664813568"
+            "notes": "original card\n\nart: https://www.tumblr.com/vioyume/755533280664813568\n\n!tag custom\n!tag removal\n!tag banish\n!tag lifegain\n!tag gains-pp-counters\n!tag power-matters"
         },
         {
             "card_name": "Doctor H.B.",
@@ -4037,7 +4037,7 @@
             "alias": "",
             "position": "191",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.deviantart.com/mischeviousmalfais/art/It-s-a-picture-of-H-B-with-a-FANCY-BACKGROUND-866213849\n\n!tokens Robot<1>"
+            "notes": "original card\n\nart: https://www.deviantart.com/mischeviousmalfais/art/It-s-a-picture-of-H-B-with-a-FANCY-BACKGROUND-866213849\n\n!tokens Robot<1>\n\n!tag custom\n!tag draft-signpost\n!tag gives-flying\n!tag keyword-anthem\n!tag synergy-artifact-creature\n!tag gives-pp-counters\n!tag repeatable-artifact-tokens\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator\n!tag synergy-noncreature\n!tag cast-trigger"
         },
         {
             "card_name": "Elder of the Roach Village",
@@ -4058,7 +4058,7 @@
             "alias": "",
             "position": "192",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\noriginally UX05"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\noriginally UX05\n\n!tag custom\n!tag draft-signpost\n!tag loot\n!tag card-advantage\n!tag leaving-graveyard-matters\n!tag leaves-graveyard-trigger"
         },
         {
             "card_name": "Frozen Drill",
@@ -4079,7 +4079,7 @@
             "alias": "",
             "position": "193",
             "rotated": false,
-            "notes": "original card\n\nart: me (loosely based on game sprite)\n\ninstant?\nLeif creates an ice spike while Kabbu bursts from underground, flipping an enemy with a chance to freeze it."
+            "notes": "original card\n\nart: me (loosely based on game sprite)\n\ninstant?\nLeif creates an ice spike while Kabbu bursts from underground, flipping an enemy with a chance to freeze it.\n\n!tag custom\n!tag removal\n!tag discount-self\n!tag tapper-creature\n!tag freeze-creature\nf!tag lifegain"
         },
         {
             "card_name": "Gen and Eri, Twin Team",
@@ -4100,7 +4100,7 @@
             "alias": "",
             "position": "194",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/O6poS086IfmfhMR/status/1619039919959334912\nhttps://xcancel.com/O6poS086IfmfhMR/status/1619039919959334912"
+            "notes": "original card\n\nart: https://x.com/O6poS086IfmfhMR/status/1619039919959334912\nhttps://xcancel.com/O6poS086IfmfhMR/status/1619039919959334912\n\n!tag custom\n!tag draft-signpost\n!tag ramp\n!tag ramp-land\n!tag sneak-land\n!tag mana-sink\n!tag counter-fuel\n!tag counters-matter\n!tag card-advantage\n!tag draw-engine"
         },
         {
             "card_name": "Jaune, Prodigious Painter",
@@ -4121,7 +4121,7 @@
             "alias": "",
             "position": "195",
             "rotated": false,
-            "notes": "originally UX01\n\noriginal card\n\nart: https://x.com/MilaTheArtsy/status/1566898506341957632\nhttps://xcancel.com/MilaTheArtsy/status/1566898506341957632\n\n!tokens Robot<1>\n\n\u201cI've had this project for a long time, but not the heart to finish it\u2026 I'm grateful I get to show it to you.\u201d"
+            "notes": "originally UX01\n\noriginal card\n\nart: https://x.com/MilaTheArtsy/status/1566898506341957632\nhttps://xcancel.com/MilaTheArtsy/status/1566898506341957632\n\n!tokens Robot<1>\n\n\u201cI've had this project for a long time, but not the heart to finish it\u2026 I'm grateful I get to show it to you.\u201d\n\n!tag custom\n!tag draft-signpost\n!tag gives-pp-counters\n!tag enters-in-company\n!tag multiple-bodies\n!tag synergy-artifact-token\n!tag copy\n!tag shapesharing"
         },
         {
             "card_name": "Kabbu, the Chivalrous",
@@ -4142,7 +4142,7 @@
             "alias": "",
             "position": "196",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.deviantart.com/vvipereonk/art/Snakemouth-Kabbu-994317862"
+            "notes": "original card\n\nart: https://www.deviantart.com/vvipereonk/art/Snakemouth-Kabbu-994317862\n\n!tag flagged\n!tag custom\n!tag draft-signpost\n!tag gives-pp-counters\n!tag counters-matter\n!tag recursion\n!tag death-trigger"
         },
         {
             "card_name": "Kenny, the Vagabond",
@@ -4163,7 +4163,7 @@
             "alias": "",
             "position": "197",
             "rotated": false,
-            "notes": "original card\n\noriginally UU11\n\nart: https://x.com/hiveblood/status/1438912049376108549\nhttps://xcancel.com/hiveblood/status/1438912049376108549\n\n\u201cEverywhere I've been to is wonderful. I just wish to see more.\u201d"
+            "notes": "original card\n\noriginally UU11\n\nart: https://x.com/hiveblood/status/1438912049376108549\nhttps://xcancel.com/hiveblood/status/1438912049376108549\n\n\u201cEverywhere I've been to is wonderful. I just wish to see more.\u201d\n\n!tag custom\n!tag draft-signpost\n!tag landfall\n!tag gains-pp-counters\n!tag mill-self"
         },
         {
             "card_name": "Kina, Overprotective Fighter",
@@ -4184,7 +4184,7 @@
             "alias": "",
             "position": "198",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/85993492"
+            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/85993492\n\n!tag custom\n!tag power-matters\n!tag saboteur\n!tag card-advantage\n!tag draw-engin"
         },
         {
             "card_name": "King Hector IV and Queen Layra II",
@@ -4205,7 +4205,7 @@
             "alias": "",
             "position": "199",
             "rotated": false,
-            "notes": "original card\n\nart: cannot find (artist DA hacked/deactivated)"
+            "notes": "original card\n\nart: cannot find (artist DA hacked/deactivated)\n\n!tag custom\n!tag power-matters\n!tag gains-pp-counters\n!tag mill-self\n!tag ramp\n!tag ramp-land\n!tag sneak-land"
         },
         {
             "card_name": "Leif, the Enigmatic",
@@ -4226,7 +4226,7 @@
             "alias": "",
             "position": "200",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.deviantart.com/vvipereonk/art/Snakemouth-Leif-994317792\n\nCleanse \u2014"
+            "notes": "original card\n\nart: https://www.deviantart.com/vvipereonk/art/Snakemouth-Leif-994317792\n\nCleanse \u2014 \n\n!tag custom\n!tag draft-signpost\n!tag mulch\n!tag impulse\n!tag mill-self\n!tag remove-counters\n!tag hate-counters"
         },
         {
             "card_name": "Levi and Celia, Seasoned Explorers",
@@ -4247,7 +4247,7 @@
             "alias": "",
             "position": "201",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/1ewrunc/levi_n_celia_if_they_just_locked_in/"
+            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/1ewrunc/levi_n_celia_if_they_just_locked_in/\n\n!tag custom\n!tag attack-trigger\n!tag gains-pp-counters\n!tag mill-self\n!tag counters-matter\n!tag counter-increaser"
         },
         {
             "card_name": "Maki, the Queen's Blade",
@@ -4268,7 +4268,7 @@
             "alias": "",
             "position": "202",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/No_842/status/1307687259601137665\nhttps://xcancel.com/No_842/status/1307687259601137665"
+            "notes": "original card\n\nart: https://x.com/No_842/status/1307687259601137665\nhttps://xcancel.com/No_842/status/1307687259601137665\n\n!tag custom\n!tag anthem\n!tag keyword-anthem\n!tag power-boost-to-all\n!tag toughness-boost-to-all\n!tag typal\n!tag typal-Knight\n!tag typal-Soldier\n!tag typal-Warrior\n!tag typal-coupling\n!tag gives-haste\n!tag synergy-Equipment"
         },
         {
             "card_name": "Mothiva, the Cutthroat",
@@ -4289,7 +4289,7 @@
             "alias": "",
             "position": "203",
             "rotated": false,
-            "notes": "originally UR11\n\noriginal card\n\nart: https://www.pixiv.net/en/artworks/93362276"
+            "notes": "originally UR11\n\noriginal card\n\nart: https://www.pixiv.net/en/artworks/93362276\n\n!tag custom\n!tag draft-signpost\n!tag mill-slef\n!tag mana-sink\n!tag recursion\n!tag reanimate"
         },
         {
             "card_name": "Needle Pincer",
@@ -4310,7 +4310,7 @@
             "alias": "",
             "position": "204",
             "rotated": false,
-            "notes": "originally UX02\n\noriginal card\n\nart: https://www.tumblr.com/drawinintherain/624484671118622720/shes-worth-like-4-bees-ok"
+            "notes": "originally UX02\n\noriginal card\n\nart: https://www.tumblr.com/drawinintherain/624484671118622720/shes-worth-like-4-bees-ok\n\n!tag custom\n!tag draft-signpost\n!tag discount-self\n!tag synergy-Equipment\n!tag removal\n!tag multi-removal\n!tag bite"
         },
         {
             "card_name": "The Peacock Spider",
@@ -4331,7 +4331,7 @@
             "alias": "",
             "position": "205",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nsiren type?"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nsiren type?\n\n!tag custom\n!tag gives-haste\n!tag keyword-anthem\n!tag symmetrical\n!tag force-attacker"
         },
         {
             "card_name": "Professor Honeycomb",
@@ -4352,7 +4352,7 @@
             "alias": "",
             "position": "206",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1527397793739988992\nhttps://xcancel.com/hiveblood/status/1527397793739988992\n\n!tokens Robot<1>\n\n\u201cI'll create the perfect A.D.B.P. through my own superior intellect.\u201d"
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1527397793739988992\nhttps://xcancel.com/hiveblood/status/1527397793739988992\n\n!tokens Robot<1>\n\n\u201cI'll create the perfect A.D.B.P. through my own superior intellect.\u201d\n\n!tag custom\n!tag draft-signpost\n!tag gives-pp-counters\n!tag enters-in-company\n!tag multiple-bodies\n!tag power-matters\n!tag saboteur\n!tag card-advantage\n!tag draw-engine"
         },
         {
             "card_name": "Spuder, Bane of Explorers",
@@ -4362,7 +4362,7 @@
             "number": 220,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "Menace\n[i]Resourceful[/i] \u2014 When Spuder, Bane of Explorers enters, if you control a creature with power greater than its base power, you may pay {RG}. When you do, he deals damage equal to his power to target creature an opponent controls.",
+            "rules_text": "Menace\n[i]Resourceful[/i] \u2014 When Spuder, Bane of Explorers enters, if you control a creature with power greater than its base power, you may pay {RG}. When you do, Spuder deals damage equal to his power to target creature an opponent controls.",
             "flavor_text": "[i]His friends call him Spuder.\nDon't call him Spuder.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4373,7 +4373,7 @@
             "alias": "",
             "position": "207",
             "rotated": false,
-            "notes": "original card\n\noriginally UG11\n\nart: https://x.com/nyusu_UT/status/1293864046651826179\nhttps://xcancel.com/nyusu_UT/status/1293864046651826179"
+            "notes": "original card\n\noriginally UG11\n\nart: https://x.com/nyusu_UT/status/1293864046651826179\nhttps://xcancel.com/nyusu_UT/status/1293864046651826179\n\n!tag custom\n!tag draft-signpost\n!tag power-matters\n!tag removal\n!tag bite"
         },
         {
             "card_name": "Stratos and Delilah, Team Slacker",
@@ -4394,7 +4394,7 @@
             "alias": "",
             "position": "208",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/No_842/status/1306190271583940608\nhttps://xcancel.com/No_842/status/1306190271583940608\n\noriginally UX04\n\n!tag flagged"
+            "notes": "original card\n\nart: https://x.com/No_842/status/1306190271583940608\nhttps://xcancel.com/No_842/status/1306190271583940608\n\noriginally UX04\n\n!tag flagged\n!tag custom\n!tag draft-signpost\n!tag drawback\n!tag attack-trigger\n!tag attacking-matters\n!tag gives-indestructible"
         },
         {
             "card_name": "Tarantular, the Wizard",
@@ -4415,7 +4415,7 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": "originally UW11\n\noriginal card\n\nart: https://www.reddit.com/r/BugFables/comments/st9inz/drew_some_of_my_favourite_spiders_and_that/\n\nspellslinger"
+            "notes": "originally UW11\n\noriginal card\n\nart: https://www.reddit.com/r/BugFables/comments/st9inz/drew_some_of_my_favourite_spiders_and_that/\n\n!tag custom\n!tag draft-signpost\n!tag gives-pp-counters\n!tag synergy-noncreature\n!tag cast-trigger\n!tag counters-matter\n!tag counter-fuel\n!tag copy\n!tag copy-spell"
         },
         {
             "card_name": "ULTIMAX Tank",
@@ -4436,7 +4436,7 @@
             "alias": "",
             "position": "210",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/11c0x8b/heavy_artillery_ch6_spoilers/"
+            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/11c0x8b/heavy_artillery_ch6_spoilers/\n\n!tag custom\n!tag attack-trigger\n!tag gains-indestructible\n!tag removal\n!tag sweeper\n!tag burn\n!tag burn-creature"
         },
         {
             "card_name": "Vi, the Audacious",
@@ -4457,7 +4457,7 @@
             "alias": "",
             "position": "211",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.deviantart.com/vvipereonk/art/Snakemouth-Vi-994317942"
+            "notes": "original card\n\nart: https://www.deviantart.com/vvipereonk/art/Snakemouth-Vi-994317942\n\n!tag custom\n!tag draft-signpost\n!tag attack-trigger\n!tag quick-equip\n!tag synergy-Equipment\n!tag synergy-Medal"
         },
         {
             "card_name": "Wasp General Ultimax",
@@ -4478,7 +4478,7 @@
             "alias": "",
             "position": "212",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/121074352"
+            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/121074352\n\n!tag custom\n!tag attacking-matters\n!tag draft-signpost\n!tag power-boost-to-all\n!tag attack-trigger\n!tag card-advantage\n!tag draw-engine\n!tag impulsive-draw"
         },
         {
             "card_name": "Wasp King Hoaxe",
@@ -4499,7 +4499,7 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": "original card\n\nart: https://hilavaport.tumblr.com/post/776305068189335552"
+            "notes": "original card\n\nart: https://hilavaport.tumblr.com/post/776305068189335552\n\n!tag custom\n!tag attacking-matters\n!tag threaten\n!tag theft\n!tag power-matters\n!tag gives-haste\n!tag removal\n!tag repeatable-removal\n!tag burn\n!tag burn-creature"
         },
         {
             "card_name": "The Watcher",
@@ -4520,7 +4520,7 @@
             "alias": "",
             "position": "214",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.artstation.com/artwork/4Nyvy4"
+            "notes": "original card\n\nart: https://www.artstation.com/artwork/4Nyvy4\n\n!tag custom\n!tag recursion\n!tag reanimate\n!tag tapper-creature\n!tag freeze-creature\n!tag leaving-graveyard-matters\n!tag leaves-graveyard-trigger"
         },
         {
             "card_name": "Zaryant, Royal Bodyguard",
@@ -4541,7 +4541,7 @@
             "alias": "",
             "position": "215",
             "rotated": false,
-            "notes": "original card\n\noriginally UX03\n\nart: https://www.tumblr.com/longeth-dayv/774054195325173760/bug-fables-zaryant-more-buff-bug-ladies-because\n\n!tokens Insect Soldier BFS<2>"
+            "notes": "original card\n\noriginally UX03\n\nart: https://www.tumblr.com/longeth-dayv/774054195325173760/bug-fables-zaryant-more-buff-bug-ladies-because\n\n!tokens Insect Soldier BFS<2>\n\n!tag custom\n!tag draft-signpost\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator\n!tag protection\n!tag synergy-token\n!tag legendary-matters\n!tag martyr\n!tag protects-all\n!tag gives-indestructible"
         },
         {
             "card_name": "Zasp, the Zealous",
@@ -4562,7 +4562,7 @@
             "alias": "",
             "position": "216",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jendra82/status/1452809230054998017\nhttps://xcancel.com/Jendra82/status/1452809230054998017"
+            "notes": "original card\n\nart: https://x.com/Jendra82/status/1452809230054998017\nhttps://xcancel.com/Jendra82/status/1452809230054998017\n\n!tag custom\n!tag draft-signpost\n!tag attack-trigger\n!tag gains-pp-counters\n!tag gives-pp-counters"
         },
         {
             "card_name": "Zommoth",
@@ -4583,7 +4583,7 @@
             "alias": "",
             "position": "217",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/93819364"
+            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/93819364\n\n!tag custom\n!tag castable-from-graveyard\n!tag graveyard-fuel\n!tag removal\n!tag sweeper\n!tag cards-in-graveyard-matter"
         },
         {
             "card_name": "Abomihoney",
@@ -4604,7 +4604,7 @@
             "alias": "",
             "position": "218",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1575828854627004416\nhttps://xcancel.com/MilaTheArtsy/status/1575828854627004416"
+            "notes": "original card\n\nart: https://x.com/MilaTheArtsy/status/1575828854627004416\nhttps://xcancel.com/MilaTheArtsy/status/1575828854627004416\n\n!tag custom\n!tag hate-graveyard\n!tag death-trigger\n!tag lifegain"
         },
         {
             "card_name": "Ahoneynation",
@@ -4625,7 +4625,7 @@
             "alias": "",
             "position": "219",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.newgrounds.com/art/view/crumblekoek/ahoneynation\n\n!tokens Abomihoney BFS<2>"
+            "notes": "original card\n\nart: https://www.newgrounds.com/art/view/crumblekoek/ahoneynation\n\n!tokens Abomihoney BFS<2>\n\n!tag custom\n!tag death-trigger\n!tag multiple-bodies\n!tag lifegain\n!tag hate-graveyard\n!tag creates-oracle-token"
         },
         {
             "card_name": "The Ancient Mask",
@@ -4646,7 +4646,7 @@
             "alias": "",
             "position": "220",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/17lale8/vi_art_texttextless_ver/\n\nvi"
+            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/17lale8/vi_art_texttextless_ver/\n\nvi\n\n!tag custom\n!tag ramp\n!tag synergy-Equipment\n!tag gives-tap-ability\n!tag gives-mana-ability\n!tag mana-rock"
         },
         {
             "card_name": "Antlion Jaws",
@@ -4667,7 +4667,7 @@
             "alias": "",
             "position": "221",
             "rotated": false,
-            "notes": "original card\n\nart: game sprites, redrawn by me\n\ncolorless?\nmedal idea may have weird rules baggage\nAssign X (X: Attach to target creature you control. You may assign to any number of creatures. Assign only as a sorcery.)"
+            "notes": "original card\n\nart: game sprites, redrawn by me\n\ncolorless?\nmedal idea may have weird rules baggage\nAssign X (X: Attach to target creature you control. You may assign to any number of creatures. Assign only as a sorcery.)\n\n!tag custom\n!tag gives-trample\n!tag block-trigger\n!tag burn-creature\n!tag burn\n!tag hate-blocker"
         },
         {
             "card_name": "Berserker",
@@ -4688,7 +4688,7 @@
             "alias": "",
             "position": "222",
             "rotated": false,
-            "notes": "Note: Edit \u2022 Preferences for view change\ncould try 200% + use view finder for final export (higher res)\n\nno info skeleton card\n\noriginal card\n\nart: game sprites, redrawn by me"
+            "notes": "Note: Edit \u2022 Preferences for view change\ncould try 200% + use view finder for final export (higher res)\n\nno info skeleton card\n\noriginal card\n\nart: game sprites, redrawn by me\n\n!tag custom\n!tag forced-attacker\n!tag drawback"
         },
         {
             "card_name": "Bug Me Not!",
@@ -4709,7 +4709,7 @@
             "alias": "",
             "position": "223",
             "rotated": false,
-            "notes": "original card\n\nart: game sprites, redrawn by me"
+            "notes": "original card\n\nart: game sprites, redrawn by me\n\n!tag custom\n!tag power-matters\n!tag hate-low-power\n!tag gives-evasion"
         },
         {
             "card_name": "Charge Up Plus",
@@ -4730,7 +4730,7 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": "originally MX05\n\noriginal card\n\nart: game sprites, redrawn by me"
+            "notes": "originally MX05\n\noriginal card\n\nart: game sprites, redrawn by me\n\n!tag custom\n!tag attack-trigger\n!tag enlarge"
         },
         {
             "card_name": "World Map",
@@ -4751,7 +4751,7 @@
             "alias": "",
             "position": "225",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://www.deviantart.com/sticspace/art/Bug-Fables-Team-Snakemouth-Map-1020048582"
+            "notes": "Reprint\n\nArt Link: https://www.deviantart.com/sticspace/art/Bug-Fables-Team-Snakemouth-Map-1020048582\n\n!tag reprint\n!tag tutor\n!tag tutor-land"
         },
         {
             "card_name": "Favorite One",
@@ -4772,7 +4772,7 @@
             "alias": "",
             "position": "226",
             "rotated": false,
-            "notes": "originally UL05\n\noriginal card\n\nart: game sprites, redrawn by me"
+            "notes": "originally UL05\n\noriginal card\n\nart: game sprites, redrawn by me\n\n!tag custom\n!tag enrage\n!tag gives-pp-counters"
         },
         {
             "card_name": "HP Plus",
@@ -4793,7 +4793,7 @@
             "alias": "",
             "position": "227",
             "rotated": false,
-            "notes": "original card\n\nart: game sprites, redrawn by me"
+            "notes": "original card\n\nart: game sprites, redrawn by me\n\n!tag custom\n!tag vanilla-Equipment"
         },
         {
             "card_name": "Leaf Cloak",
@@ -4814,7 +4814,7 @@
             "alias": "",
             "position": "228",
             "rotated": false,
-            "notes": "original card\n\nart: game sprites, redrawn by me"
+            "notes": "original card\n\nart: game sprites, redrawn by me\n\n!tag custom\n!tag protection"
         },
         {
             "card_name": "Leaf of the Everlasting Sapling",
@@ -4835,7 +4835,7 @@
             "alias": "",
             "position": "229",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/kumoketu/status/1744284696375365896\nhttps://xcancel.com/kumoketu/status/1744284696375365896\n\nelizant II, hoaxe"
+            "notes": "original card\n\nart: https://x.com/kumoketu/status/1744284696375365896\nhttps://xcancel.com/kumoketu/status/1744284696375365896\n\nelizant II, hoaxe\n\n!tag custom\n!tag discount-self\n!tag synergy-artifact\n!tag ramp\n!tag mana-rock\n!tag mana-sink\n!tag card-advantage\n!tag draw-engine\n!tag power-boost-to-all\n!tag toughness-boost-to-all\n!tag gives-hexproof\n!tag gives-indestructible\n!tag hand-size-matters"
         },
         {
             "card_name": "Life Cast",
@@ -4856,7 +4856,7 @@
             "alias": "",
             "position": "230",
             "rotated": false,
-            "notes": "original card\n\nart: game sprites, redrawn by me\n\nwording hard\ngoes infinite with kenrith \u2014 probably fine?"
+            "notes": "original card\n\nart: game sprites, redrawn by me\n\nwording hard\ngoes infinite with kenrith \u2014 probably fine?\n\n!tag custom\n!tag cost-ignorer\n!tag life-payment"
         },
         {
             "card_name": "Life Stealer",
@@ -4877,7 +4877,7 @@
             "alias": "",
             "position": "231",
             "rotated": false,
-            "notes": "original card\n\nart: game sprites, redrawn by me"
+            "notes": "original card\n\nart: game sprites, redrawn by me\n\n!tag custom\n!tag lifegain"
         },
         {
             "card_name": "Miracle Matter",
@@ -4898,7 +4898,7 @@
             "alias": "",
             "position": "232",
             "rotated": false,
-            "notes": "original card\n\nart: game sprites, redrawn by me"
+            "notes": "original card\n\nart: game sprites, redrawn by me\n\n!tag custom\n!tag recursion\n!tag cheat-death"
         },
         {
             "card_name": "Strong Start",
@@ -4919,7 +4919,7 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": "original card\n\nart: game sprites, redrawn by me"
+            "notes": "original card\n\nart: game sprites, redrawn by me\n\n!tag custom\n!tag gives-first-strike\n!tag flowstone"
         },
         {
             "card_name": "Trading Post",
@@ -4940,7 +4940,7 @@
             "alias": "",
             "position": "234",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://www.deviantart.com/fuzzyspirit/art/Shopping-Day-854412439\n\nvi, kabbu, caravan\n\n!tokens Goat<1>"
+            "notes": "Reprint\n\nArt Link: https://www.deviantart.com/fuzzyspirit/art/Shopping-Day-854412439\n\nvi, kabbu, caravan\n\n!tokens Goat<1>\n\n!tag reprint\n!tag discard-outlet\n!tag lifegain\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator\n!tag sacrifice-outlet\n!tag recursion\n!tag regrowth\n!tag card-advantage\n!tag draw-engine"
         },
         {
             "card_name": "Triumph Buzz",
@@ -4961,7 +4961,7 @@
             "alias": "",
             "position": "235",
             "rotated": false,
-            "notes": "original card\n\nart: game sprites, redrawn by me\n\nold: (Medals may be equipped to any number of creatures at the same time.)"
+            "notes": "original card\n\nart: game sprites, redrawn by me\n\nold: (Medals may be equipped to any number of creatures at the same time.)\n\n!tag custom\n!tag death-trigger\n!tag gives-pp-counters"
         },
         {
             "card_name": "Bountiful Landscape",
@@ -4982,7 +4982,7 @@
             "alias": "",
             "position": "236",
             "rotated": false,
-            "notes": "Originally CW19\ntemur termites\n\nReprint\n\nArt Link: https://www.deviantart.com/vvipereonk/art/Kingdom-among-the-mist-901678273\n\n!landslot"
+            "notes": "Originally CW19\ntemur termites\n\nReprint\n\nArt Link: https://www.deviantart.com/vvipereonk/art/Kingdom-among-the-mist-901678273\n\n!landslot\n\n!tag reprint\n!tag fetchland"
         },
         {
             "card_name": "Deceptive Landscape",
@@ -5003,7 +5003,7 @@
             "alias": "",
             "position": "237",
             "rotated": false,
-            "notes": "Originally CU19\nabzan ants\n\nReprint\n\nArt Link: https://x.com/nyusu_UT/status/1309087320092663812\nhttps://xcancel.com/nyusu_UT/status/1309087320092663812\n\n!landslot"
+            "notes": "Originally CU19\nabzan ants\n\nReprint\n\nArt Link: https://x.com/nyusu_UT/status/1309087320092663812\nhttps://xcancel.com/nyusu_UT/status/1309087320092663812\n\n!landslot\n\n!tag reprint\n!tag fetchland"
         },
         {
             "card_name": "Expensive Resort",
@@ -5024,7 +5024,7 @@
             "alias": "",
             "position": "238",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/shrimpricebowl/754270100310327296/home-is-where-family-is\n\n!tokens Treasure BFS<2>"
+            "notes": "original card\n\nart: https://www.tumblr.com/shrimpricebowl/754270100310327296/home-is-where-family-is\n\n!tokens Treasure BFS<2>\n\n!tag custom\n!tag ramp"
         },
         {
             "card_name": "Fabled Passage",
@@ -5045,7 +5045,7 @@
             "alias": "",
             "position": "239",
             "rotated": false,
-            "notes": "originally MX04\n\nReprint\n\nArt Link: https://www.deviantart.com/vvipereonk/art/Ant-Metro-913848146"
+            "notes": "originally MX04\n\nReprint\n\nArt Link: https://www.deviantart.com/vvipereonk/art/Ant-Metro-913848146\n\n!tag reprint\n!tag fetchland"
         },
         {
             "card_name": "Foreboding Landscape",
@@ -5066,7 +5066,7 @@
             "alias": "",
             "position": "240",
             "rotated": false,
-            "notes": "Originally CB19\nsultai roaches\n\nReprint\n\nArt Link: https://x.com/Blipbugbug/status/1756692335252152683\nhttps://xcancel.com/Blipbugbug/status/1756692335252152683\nhttps://www.pixiv.net/en/artworks/116796052\n\n!landslot"
+            "notes": "Originally CB19\nsultai roaches\n\nReprint\n\nArt Link: https://x.com/Blipbugbug/status/1756692335252152683\nhttps://xcancel.com/Blipbugbug/status/1756692335252152683\nhttps://www.pixiv.net/en/artworks/116796052\n\n!landslot\n\n!tag reprint\n!tag fetchland"
         },
         {
             "card_name": "Perilous Landscape",
@@ -5087,7 +5087,7 @@
             "alias": "",
             "position": "241",
             "rotated": false,
-            "notes": "jeskai bees\n\nReprint\n\nArt Link: https://www.deviantart.com/vvipereonk/art/A-suite-for-the-sweets-above-1-2-920776095\n\n!landslot"
+            "notes": "jeskai bees\n\nReprint\n\nArt Link: https://www.deviantart.com/vvipereonk/art/A-suite-for-the-sweets-above-1-2-920776095\n\n!landslot\n\n!tag reprint\n!tag fetchland"
         },
         {
             "card_name": "Royal Court",
@@ -5108,7 +5108,7 @@
             "alias": "",
             "position": "242",
             "rotated": false,
-            "notes": "Original Card (functional reprint)\n\nArt Link: https://www.deviantart.com/loracia-art/art/Bug-Fables-Ant-Castle-869010039\n\n!tapped"
+            "notes": "Original Card (functional reprint)\n\nArt Link: https://www.deviantart.com/loracia-art/art/Bug-Fables-Ant-Castle-869010039\n\n!tapped\n\n!tag custom\n!tag functional-reprint\n!tag hate-graveyard\n!tag rainbow-land"
         },
         {
             "card_name": "Secluded Village",
@@ -5129,7 +5129,7 @@
             "alias": "",
             "position": "243",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/SnowsilverK/status/1640671632954994688\nhttps://xcancel.com/SnowsilverK/status/1640671632954994688"
+            "notes": "original card\n\nart: https://x.com/SnowsilverK/status/1640671632954994688\nhttps://xcancel.com/SnowsilverK/status/1640671632954994688\n\n!tag custom\n!tag utility-land\n!tag mill-self\n!tag mana-sink"
         },
         {
             "card_name": "Shattered Landscape",
@@ -5150,7 +5150,7 @@
             "alias": "",
             "position": "244",
             "rotated": false,
-            "notes": "Originally CG19\nmardu wasps\n\nReprint\n\nArt Link: https://www.tumblr.com/machiko-yayoi/721719626537533440/hello-i-am-usually-active-on-twitter-but-i-am\n\n!landslot"
+            "notes": "Originally CG19\nmardu wasps\n\nReprint\n\nArt Link: https://www.tumblr.com/machiko-yayoi/721719626537533440/hello-i-am-usually-active-on-twitter-but-i-am\n\n!landslot\n\n!tag reprint\n!tag fetchland"
         },
         {
             "card_name": "Snakemouth Haven",
@@ -5171,7 +5171,7 @@
             "alias": "",
             "position": "245",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Jaxoline_Artist/status/1642896488215740416\nhttps://xcancel.com/Jaxoline_Artist/status/1642896488215740416"
+            "notes": "original card\n\nart: https://x.com/Jaxoline_Artist/status/1642896488215740416\nhttps://xcancel.com/Jaxoline_Artist/status/1642896488215740416\n\n!tag custom\n!tag rainbow-land\n!tag filterland"
         },
         {
             "card_name": "Forest",
@@ -5192,7 +5192,7 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://x.com/nyusu_UT/status/1296412283690717185\nhttps://xcancel.com/nyusu_UT/status/1296412283690717185\n\ngolden settlement\nvi, kabbu, leif\n\n!landslot"
+            "notes": "Reprint\n\nArt Link: https://x.com/nyusu_UT/status/1296412283690717185\nhttps://xcancel.com/nyusu_UT/status/1296412283690717185\n\ngolden settlement\nvi, kabbu, leif\n\n!landslot\n\n!tag reprint"
         },
         {
             "card_name": "Plains",
@@ -5213,7 +5213,7 @@
             "alias": "",
             "position": "247",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://x.com/SnowsilverK/status/1373092754599809025\nhttps://xcancel.com/SnowsilverK/status/1373092754599809025\n\nvi, kabbu, leif\n\n!landslot"
+            "notes": "Reprint\n\nArt Link: https://x.com/SnowsilverK/status/1373092754599809025\nhttps://xcancel.com/SnowsilverK/status/1373092754599809025\n\nvi, kabbu, leif\n\n!landslot\n\n!tag reprint"
         },
         {
             "card_name": "Island",
@@ -5234,7 +5234,7 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://x.com/Holy_Gadunka/status/1405370355938598914\nhttps://xcancel.com/Holy_Gadunka/status/1405370355938598914\n\npeacock island\nvi, kabbu, leif\n\n!landslot"
+            "notes": "Reprint\n\nArt Link: https://x.com/Holy_Gadunka/status/1405370355938598914\nhttps://xcancel.com/Holy_Gadunka/status/1405370355938598914\n\npeacock island\nvi, kabbu, leif\n\n!landslot\n\n!tag reprint"
         },
         {
             "card_name": "Swamp",
@@ -5255,7 +5255,7 @@
             "alias": "",
             "position": "249",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://x.com/kumoketu/status/1398874712688660490\nhttps://xcancel.com/kumoketu/status/1398874712688660490\n\nwild swamplands\nkabbu\n\n!landslot"
+            "notes": "Reprint\n\nArt Link: https://x.com/kumoketu/status/1398874712688660490\nhttps://xcancel.com/kumoketu/status/1398874712688660490\n\nwild swamplands\nkabbu\n\n!landslot\n\n!tag reprint"
         },
         {
             "card_name": "Mountain",
@@ -5276,7 +5276,7 @@
             "alias": "",
             "position": "250",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://x.com/kumoketu/status/1352011686782279680\nhttps://xcancel.com/kumoketu/status/1352011686782279680\n\nbee kingdom hive bridge\nvi, kabbu, leif, h.b., hawk\n\n!landslot"
+            "notes": "Reprint\n\nArt Link: https://x.com/kumoketu/status/1352011686782279680\nhttps://xcancel.com/kumoketu/status/1352011686782279680\n\nbee kingdom hive bridge\nvi, kabbu, leif, h.b., hawk\n\n!landslot\n\n!tag reprint"
         },
         {
             "card_name": "Insect Soldier",
@@ -5297,7 +5297,7 @@
             "alias": "",
             "position": "251",
             "rotated": false,
-            "notes": "Unique Token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "Unique Token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom"
         },
         {
             "card_name": "Insect",
@@ -5318,7 +5318,7 @@
             "alias": "",
             "position": "252",
             "rotated": false,
-            "notes": "Unique Token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nmidge"
+            "notes": "Unique Token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nmidge\n\n!tag custom"
         },
         {
             "card_name": "Leafbug Ninja",
@@ -5339,7 +5339,7 @@
             "alias": "",
             "position": "253",
             "rotated": false,
-            "notes": "Unique Token\n\nArt Link: https://x.com/LemmyKirby/status/1669413274704592896\nhttps://xcancel.com/LemmyKirby/status/1669413274704592896\n\nhttps://scryfall.com/card/tm3c/22/tarmogoyf"
+            "notes": "Unique Token\n\nArt Link: https://x.com/LemmyKirby/status/1669413274704592896\nhttps://xcancel.com/LemmyKirby/status/1669413274704592896\n\nhttps://scryfall.com/card/tm3c/22/tarmogoyf\n\n!tag custom\n!tag named-token\n!tag token-version-of-a-card"
         },
         {
             "card_name": "Seedling",
@@ -5360,7 +5360,7 @@
             "alias": "",
             "position": "254",
             "rotated": false,
-            "notes": "Unique Token\n\nArt Link: https://x.com/MilaTheArtsy/status/1553083422595497985\nhttps://xcancel.com/MilaTheArtsy/status/1553083422595497985"
+            "notes": "Unique Token\n\nArt Link: https://x.com/MilaTheArtsy/status/1553083422595497985\nhttps://xcancel.com/MilaTheArtsy/status/1553083422595497985\n\n!tag custom\n!tag named-token\n!tag token-version-of-a-card"
         },
         {
             "card_name": "Venus Bud",
@@ -5381,7 +5381,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": "Unique Token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "Unique Token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag named-token"
         },
         {
             "card_name": "Insect",
@@ -5402,7 +5402,7 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": "Reprint Token\n\nArt Link: https://x.com/StemTheBug/status/1695158437599121830\nhttps://xcancel.com/StemTheBug/status/1695158437599121830\n\nmothfly"
+            "notes": "Reprint Token\n\nArt Link: https://x.com/StemTheBug/status/1695158437599121830\nhttps://xcancel.com/StemTheBug/status/1695158437599121830\n\nmothfly\n\n!tag reprint"
         },
         {
             "card_name": "Insect Beast",
@@ -5423,7 +5423,7 @@
             "alias": "",
             "position": "257",
             "rotated": false,
-            "notes": "Unique Token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nscorpion"
+            "notes": "Unique Token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nscorpion\n\n!tag custom"
         },
         {
             "card_name": "Plant",
@@ -5444,7 +5444,7 @@
             "alias": "",
             "position": "258",
             "rotated": false,
-            "notes": "Reprint Token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nchomper"
+            "notes": "Reprint Token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nchomper\n\n!tag reprint"
         },
         {
             "card_name": "Clue",
@@ -5465,7 +5465,7 @@
             "alias": "",
             "position": "259",
             "rotated": false,
-            "notes": "Reprint Token\n\nArt Link: https://x.com/MilaTheArtsy/status/1598006339036680193/photo/1\nhttps://xcancel.com/MilaTheArtsy/status/1598006339036680193/photo/1"
+            "notes": "Reprint Token\n\nArt Link: https://x.com/MilaTheArtsy/status/1598006339036680193/photo/1\nhttps://xcancel.com/MilaTheArtsy/status/1598006339036680193/photo/1\n\n!tag reprint"
         },
         {
             "card_name": "Robot",
@@ -5486,7 +5486,7 @@
             "alias": "",
             "position": "260",
             "rotated": false,
-            "notes": "Unique token\nmanufacture token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nmender"
+            "notes": "Unique token\nmanufacture token\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nmender\n\n!tag custom"
         },
         {
             "card_name": "Food",
@@ -5507,7 +5507,7 @@
             "alias": "",
             "position": "261",
             "rotated": false,
-            "notes": "Reprint Token\n\nArt Link: https://rincsart.tumblr.com/post/733791064002019328/bug-fables-banner-for-the-discord-the-theme-was\n\nvi, kabbu, leif"
+            "notes": "Reprint Token\n\nArt Link: https://rincsart.tumblr.com/post/733791064002019328/bug-fables-banner-for-the-discord-the-theme-was\n\nvi, kabbu, leif\n\n!tag reprint"
         },
         {
             "card_name": "Treasure",
@@ -5528,7 +5528,7 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": "Unique Token\n\nArt Link: https://www.reddit.com/r/BugFables/comments/i22gad/im_back_with_potential_pin_designs_please_let_me/\n\nvi\n\nart bg?"
+            "notes": "Unique Token\n\nArt Link: https://www.reddit.com/r/BugFables/comments/i22gad/im_back_with_potential_pin_designs_please_let_me/\n\nvi\n\nart bg?\n\n!tag reprint"
         },
         {
             "card_name": "Abomihoney",
@@ -5549,7 +5549,7 @@
             "alias": "",
             "position": "263",
             "rotated": false,
-            "notes": "Unique Token\n\nArt Link: https://x.com/MilaTheArtsy/status/1575828854627004416\nhttps://xcancel.com/MilaTheArtsy/status/1575828854627004416"
+            "notes": "Unique Token\n\nArt Link: https://x.com/MilaTheArtsy/status/1575828854627004416\nhttps://xcancel.com/MilaTheArtsy/status/1575828854627004416\n\n!tag custom\n!tag named-token\n!tag token-version-of-a-card"
         },
         {
             "card_name": "Sand Warden",
@@ -5570,7 +5570,7 @@
             "alias": "",
             "position": "264",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nThese guardians were designed to hide in plain sight, attacking intruders while their guards lay low. They adapt to the cold with ease, and won't stop chasing unwanted visitors until they leave or are buried beneath the sands.\n\n!tokens Robot<1>"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nThese guardians were designed to hide in plain sight, attacking intruders while their guards lay low. They adapt to the cold with ease, and won't stop chasing unwanted visitors until they leave or are buried beneath the sands.\n\n!tokens Robot<1>\n\n!tag custom\n!tag death-trigger\n!tag gives-pp-counters"
         },
         {
             "card_name": "Helper Boost",
@@ -5591,7 +5591,7 @@
             "alias": "",
             "position": "265",
             "rotated": false,
-            "notes": "original card\n\nart: game sprites, redrawn by me\n\n!tokens Insect Soldier BFS<1>"
+            "notes": "original card\n\nart: game sprites, redrawn by me\n\n!tokens Insect Soldier BFS<1>\n\n!tag custom\n!tag synergy-Medal\n!tag gives-training\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Citizen",
@@ -5612,7 +5612,7 @@
             "alias": "",
             "position": "266",
             "rotated": false,
-            "notes": "Reprint Token\n\nArt Link: https://x.com/MilaTheArtsy/status/1609937245355790336\nhttps://xcancel.com/MilaTheArtsy/status/1609937245355790336\n\ntod"
+            "notes": "Reprint Token\n\nArt Link: https://x.com/MilaTheArtsy/status/1609937245355790336\nhttps://xcancel.com/MilaTheArtsy/status/1609937245355790336\n\ntod\n\n!tag reprint"
         },
         {
             "card_name": "Royal Fealty",
@@ -5633,7 +5633,7 @@
             "alias": "",
             "position": "267",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.tumblr.com/kereruatbugaria/798303558178095104/bugtober-day19-empower\n\nmaki, elizant"
+            "notes": "original card\n\nart: https://www.tumblr.com/kereruatbugaria/798303558178095104/bugtober-day19-empower\n\nmaki, elizant\n\n!tokens Insect Soldier BFS<2>\n\n!tag custom\n!tag multiple-bodies\n!tag gives-training\n!tag synergy-token"
         },
         {
             "card_name": "Defend the Factory",
@@ -5654,7 +5654,7 @@
             "alias": "",
             "position": "268",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/1t0ywnk/malbee_and_the_honey_factory_oc/\nhttps://www.newgrounds.com/art/view/vizorflarf/malbee-and-the-honey-factory\n\nmalbee\n\n!tokens Robot BFS<1>"
+            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/1t0ywnk/malbee_and_the_honey_factory_oc/\nhttps://www.newgrounds.com/art/view/vizorflarf/malbee-and-the-honey-factory\n\nmalbee\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag gives-pp-counters\n!tag castable-from-graveyard\n!tag graveyard-fuel"
         },
         {
             "card_name": "Dead Lander \u03b1",
@@ -5675,7 +5675,7 @@
             "alias": "",
             "position": "269",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/kxz8ws/fanart_dead_landers_alpha_beta_gamma/"
+            "notes": "original card\n\nart: https://www.reddit.com/r/BugFables/comments/kxz8ws/fanart_dead_landers_alpha_beta_gamma/\n\n!tag custom\n!tag leaving-graveyard-matters\n!tag leaves-graveyard-trigger\n!tag removal\n!tag repeatable-removal"
         },
         {
             "card_name": "Forced Conscription",
@@ -5696,7 +5696,7 @@
             "alias": "",
             "position": "270",
             "rotated": false,
-            "notes": "original card\n\nart: https://bsky.app/profile/someguyiguess.bsky.social/post/3mbp4htkd4c24\n\nfuff/ultimax\n\nalso could be 2R sorcery"
+            "notes": "original card\n\nart: https://bsky.app/profile/someguyiguess.bsky.social/post/3mbp4htkd4c24\n\nfuff/ultimax\n\nalso could be 2R sorcery\n\n!tag custom\n!tag attacking-matters\n!tag discount-self\n!tag threaten\n!tag theft\n!tag givs-haste"
         },
         {
             "card_name": "Acornling",
@@ -5717,7 +5717,7 @@
             "alias": "",
             "position": "271",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag gives-pp-counters\n!tag counters-matter\n!tag protection"
         },
         {
             "card_name": "Crystal Slumber",
@@ -5738,7 +5738,7 @@
             "alias": "",
             "position": "272",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Tumblr](https://spectralgecko.tumblr.com/post/797718237315055616/whumptober-17-coma)"
+            "notes": "Unique Card\n\nArt Link: [Tumblr](https://spectralgecko.tumblr.com/post/797718237315055616/whumptober-17-coma)\n\n!tag custom\n!tag banish\n!tag gives-pp-counters\n!tag removal\n!tag removal-exile"
         },
         {
             "card_name": "Fruitful Aphids",
@@ -5759,7 +5759,7 @@
             "alias": "",
             "position": "273",
             "rotated": false,
-            "notes": "Unique Token\n\nArt Link: https://fallenaither.tumblr.com/post/779672707874816000/another-entry-for-a-banner-contest-in-the-bf"
+            "notes": "Unique Token\n\nArt Link: https://fallenaither.tumblr.com/post/779672707874816000/another-entry-for-a-banner-contest-in-the-bf\n\n!tag custom\n!tag named-token\n!tag token-version-of-a-card"
         },
         {
             "card_name": "Honey Factory Guide",
@@ -5780,7 +5780,7 @@
             "alias": "",
             "position": "274",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\ntuvi\n\n!tokens Robot BFS<1>"
+            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\ntuvi\n\n!tokens Robot BFS<1>\n\n!tag custom\n!tag mana-sink\n!tag lifegain\n!tag gives-pp-counters\n!tag repeatable-artifact-tokens\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Honey Factory Overseer",
@@ -5801,7 +5801,7 @@
             "alias": "",
             "position": "275",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/No_842/status/1406979772232523781\nhttps://xcancel.com/No_842/status/1406979772232523781\n\nbeena\n\nNOTE: goes infinite with <<Cursed Mirror>> and <<Machine God's Effigy>> if you control enough artifacts"
+            "notes": "Unique Card\n\nArt Link: https://x.com/No_842/status/1406979772232523781\nhttps://xcancel.com/No_842/status/1406979772232523781\n\nbeena\n\nNOTE: goes infinite with <<Cursed Mirror>> and <<Machine God's Effigy>> if you control enough artifacts\n\n!tag custom\n!tag saboteur\n!tag copy\n!tag copy-artifact\n!tag synergy-artifact"
         },
         {
             "card_name": "Unorthodox Couple",
@@ -5822,7 +5822,7 @@
             "alias": "",
             "position": "276",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nrebelle/voi"
+            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nrebelle/voi\n\n!tag custom\n!tag saboteur\n!tag ramp\n!tag cost-reducer\n!tag synergy-artifact"
         },
         {
             "card_name": "Cactling",
@@ -5843,7 +5843,7 @@
             "alias": "",
             "position": "277",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tapped\n!tokens Seedling BFS<1>"
+            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tapped\n!tokens Seedling BFS<1>\n\n!tag custom\n!tag drawback\n!tag mill-self\n!tag creates-oracle-token\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator"
         },
         {
             "card_name": "Poison Master",
@@ -5864,7 +5864,7 @@
             "alias": "",
             "position": "278",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [X](https://x.com/hiveblood/status/1462954034311094274#m), [XCancel](https://xcancel.com/hiveblood/status/1462954034311094274#m)\n\nxic"
+            "notes": "Unique Card\n\nArt Link: [X](https://x.com/hiveblood/status/1462954034311094274#m), [XCancel](https://xcancel.com/hiveblood/status/1462954034311094274#m)\n\nxic\n\n!tag custom\n!tag attacking-matters\n!tag opponet-loses-life"
         },
         {
             "card_name": "Berry Merchant",
@@ -5885,7 +5885,7 @@
             "alias": "",
             "position": "279",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nskirby"
+            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\nskirby\n\n!tag custom\n!tag card-advantage\n!tag rummage\n!tag prevent-blocker"
         },
         {
             "card_name": "Krawler Swarm",
@@ -5906,8 +5906,8 @@
             "alias": "",
             "position": "280",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996"
+            "notes": "Unique Card\n\nArt Link: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag attack-trigger\n!tag mill-self"
         }
     ],
-    "version": 15
+    "version": 16
 }

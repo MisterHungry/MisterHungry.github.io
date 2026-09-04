@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>OSC</name>
-			<longname>Oneshot Commander Cards</longname>
+			<longname>OneShot Commander Cards</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-17</releasedate>
+			<releasedate>2026-09-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -59,7 +59,7 @@
 		<card>
 			<name>Rue, Elusive Guide</name>
 			<text>First strike, haste
-Converge — When Rue, Elusive Guide enters, you get {E} for each color of mana spent to cast it.
+Converge — When Rue, Elusive Guide enters, you get {E} for each color of mana spent to cast her.
 Pay {E}{E}: Target creature can&apos;t block this turn.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/3.png" num="30">OSC</set>
 			<prop>
@@ -77,7 +77,7 @@ Pay {E}{E}: Target creature can&apos;t block this turn.</text>
 		</card>
 		<card>
 			<name>Cedric, Prodigious Tinkerer</name>
-			<text>Converge — When Cedric, Prodigious Tinkerer enters, create a 1/1 colorless Robot artifact creature token for each color of mana spent to cast this spell. 
+			<text>Converge — When Cedric, Prodigious Tinkerer enters, create a 1/1 colorless Robot artifact creature token for each color of mana spent to cast him. 
 {1}, {T}, Sacrifice an artifact: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/4.png" num="33">OSC</set>
 			<prop>
@@ -89,13 +89,14 @@ Pay {E}{E}: Target creature can&apos;t block this turn.</text>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/3</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Robot</related>
 		</card>
 		<card>
 			<name>Prototype, Reclusive Robot</name>
-			<text>Converge — When Prototype, Reclusive Robot enters, look at the top X cards of your library, where X is the number of colors of mana spent to cast this spell. Put up to two cards from among them into your hand and the rest into your graveyard.
+			<text>Converge — When Prototype, Reclusive Robot enters, look at the top X cards of your library, where X is the number of colors of mana spent to cast him. Put up to two cards from among them into your hand and the rest into your graveyard.
 Whenever Prototype or another artifact creature you control dies, you get {E}.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/5.png" num="13">OSC</set>
 			<prop>
@@ -177,13 +178,14 @@ Whenever Silver, Morose Engineer enters or attacks, create a 1/1 colorless Robot
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Robot</related>
 		</card>
 		<card>
 			<name>Transport Rowbot</name>
-			<text>When Transport Rowbot enters, you get {E} for each Robot you control.
+			<text>When this creature enters, you get {E} for each Robot you control.
 {T}, Pay {E}: You may tap or untap target artifact or creature.</text>
 			<set rarity="uncommon" picurl="https://misterhungry.github.io/sets/OSC-files/img/10.png" num="15">OSC</set>
 			<prop>
@@ -293,7 +295,7 @@ When Maize dies, you may pay six {E}. If you do, return her to the battlefield t
 		<card>
 			<name>Alula, Cheerful Sister</name>
 			<text>Reach
-When Alula, Cheerful Sister enters, you get {E}{E}, then it explores.
+When Alula, Cheerful Sister enters, you get {E}{E}, then she explores.
 {T}, Pay any amount of {E}: Look at that many cards from the top of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 ---
 (Back): Calamus, Protective Brother</text>
@@ -369,6 +371,7 @@ Each creature you control with a +1/+1 counter on it has haste.</text>
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Cat</related>
 		</card>
 		<card>
 			<name>Kip, Brilliant Engineer</name>
@@ -387,6 +390,7 @@ Each creature you control with a +1/+1 counter on it has haste.</text>
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Junk</related>
 		</card>
 		<card>
 			<name>Mr. Lamplighter</name>
@@ -406,6 +410,7 @@ Pay {E}{E}{E}: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacri
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Junk</related>
 		</card>
 		<card>
 			<name>Ling, Outgoing Proprietor</name>
@@ -424,6 +429,7 @@ Whenever you sacrifice an artifact, you get {E}.</text>
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Food</related>
 		</card>
 		<card>
 			<name>Shepherd of Secrets</name>
@@ -446,7 +452,7 @@ Pay {E}{E}: Target creature gains trample until end of turn.</text>
 		<card>
 			<name>Watcher of Time</name>
 			<text>Double strike, haste
-Whenever Watcher of Time attacks, you get {E}{E}, then you may pay {E}{E}{E}{E}{E}{E}{E}{E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.</text>
+Whenever this creature attacks, you get {E}{E}, then you may pay {E}{E}{E}{E}{E}{E}{E}{E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.</text>
 			<set rarity="mythic" picurl="https://misterhungry.github.io/sets/OSC-files/img/23.png" num="31">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -463,8 +469,8 @@ Whenever Watcher of Time attacks, you get {E}{E}, then you may pay {E}{E}{E}{E}{
 		</card>
 		<card>
 			<name>Niko, Messiah of Light</name>
-			<text>Whenever you cast a historic spell, put a +1/+1 counter on Niko, Messiah of Light. You get {E}.
-{T}, Pay {E}{E}{E}: Move any number of counters from Niko onto another legendary creature you control. You may return Niko to their owner&apos;s hand.
+			<text>Whenever you cast a historic spell, you get {E}. If this is the first time this ability has resolved this turn, put a +1/+1 counter on Niko, Messiah of Light.
+{5}, Pay {E}{E}{E}: Move any number of counters from Niko onto another legendary creature you control, then transform Niko. Activate only as a sorcery.
 ---
 (Back): The Sun</text>
 			<set rarity="mythic" picurl="https://misterhungry.github.io/sets/OSC-files/img/24_front.png" num="6a">OSC</set>
@@ -473,18 +479,18 @@ Whenever Watcher of Time attacks, you get {E}{E}, then you may pay {E}{E}{E}{E}{
 				<side>front</side>
 				<type>Legendary Creature — Cat Human</type>
 				<maintype>Creature</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>WUBRG</coloridentity>
-				<pt>2/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related attach="transform">The Sun</related>
 		</card>
 		<card>
 			<name>The Sun</name>
-			<text>The first creature spell you cast each turn gains sunburst. (It enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+			<text>The first creature spell you cast each turn gains sunburst. (It enters with a +1/+1 counter on it for each color of mana spent to cast it.)
 Whenever a legendary creature you control attacks, you get {E}.
 {T}, Pay {E}{E}{E}{E}{E}: Add {W}{U}{B}{R}{G}.
 ---
@@ -504,7 +510,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Cat OSC</name>
-			<text>Lifelink</text>
+			<text></text>
 			<set rarity="common" picurl="https://misterhungry.github.io/sets/OSC-files/img/25.png" num="1">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -558,7 +564,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Black Clover</name>
-			<text>{T}, Sacrifice Black Clover: Add one mana of any one color.</text>
+			<text>{T}, Sacrifice this artifact: Add one mana of any one color.</text>
 			<set rarity="uncommon" picurl="https://misterhungry.github.io/sets/OSC-files/img/28.png" num="52">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -572,7 +578,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Abandoned Facility</name>
-			<text>When Abandoned Facility enters the battlefield, you get {E}.
+			<text>When this land enters, you get {E}.
 {T}: Add {C}.
 {T}, Pay {E}: Add one mana of any color.</text>
 			<set rarity="uncommon" picurl="https://misterhungry.github.io/sets/OSC-files/img/29.png" num="63">OSC</set>
@@ -738,7 +744,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Village Home</name>
-			<text>Village Home enters the battlefield tapped.
+			<text>This land enters tapped.
 {T}: Add one mana of any color in your commander&apos;s color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1.</text>
 			<set rarity="common" picurl="https://misterhungry.github.io/sets/OSC-files/img/40.png" num="87">OSC</set>
 			<prop>
@@ -796,7 +802,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Skyline Cafe</name>
-			<text>{T}, Pay 1 life, Sacrifice Skyline Cafe: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.</text>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/44.png" num="81">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -810,7 +816,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Flooded Strand</name>
-			<text>{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/45.png" num="69">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -824,7 +830,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Unstable Catwalks</name>
-			<text>{T}, Pay 1 life, Sacrifice Unstable Catwalks: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/46.png" num="86">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -838,7 +844,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Code Portals</name>
-			<text>{T}, Pay 1 life, Sacrifice Code Portals: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/47.png" num="66">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -852,7 +858,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Glen Overlook</name>
-			<text>{T}, Pay 1 life, Sacrifice Glen Overlook: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.</text>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/48.png" num="71">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -866,7 +872,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Polluted Delta</name>
-			<text>{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/49.png" num="75">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -880,7 +886,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Crowded Apartments</name>
-			<text>{T}, Pay 1 life, Sacrifice Crowded Apartments: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/50.png" num="68">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -894,7 +900,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Graveyard Passage</name>
-			<text>{T}, Pay 1 life, Sacrifice Graveyard Passage: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/51.png" num="72">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -908,7 +914,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Windswept Heath</name>
-			<text>{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.</text>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/52.png" num="88">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -922,7 +928,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Wooded Foothills</name>
-			<text>{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/53.png" num="89">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -968,7 +974,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Solemn Observatory</name>
-			<text>As Solemn Observatory enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.</text>
+			<text>As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/56.png" num="82">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -983,7 +989,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Forest Clearing</name>
-			<text>As Forest Clearing enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.</text>
+			<text>As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/57.png" num="70">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -998,7 +1004,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Countdown Room</name>
-			<text>As Countdown Room enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.</text>
+			<text>As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/58.png" num="67">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1013,7 +1019,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Hallowed Fountain</name>
-			<text>As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.</text>
+			<text>As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/59.png" num="73">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1028,7 +1034,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Plant Spirit&apos;s Domain</name>
-			<text>As Plant Spirit&apos;s Domain enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.</text>
+			<text>As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/60.png" num="74">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1043,7 +1049,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Refuge Library</name>
-			<text>As Refuge Library enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.</text>
+			<text>As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/61.png" num="78">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1058,7 +1064,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Steam Vents</name>
-			<text>As Steam Vents enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.</text>
+			<text>As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/62.png" num="83">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1073,7 +1079,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>City Alley</name>
-			<text>As City Alley enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.</text>
+			<text>As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/63.png" num="65">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1088,7 +1094,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Ruins Courtyard</name>
-			<text>As Ruins Courtyard enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.</text>
+			<text>As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/64.png" num="79">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1103,7 +1109,7 @@ Whenever a legendary creature you control attacks, you get {E}.
 		</card>
 		<card>
 			<name>Barren Wastes</name>
-			<text>As Barren Wastes enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.</text>
+			<text>As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/65.png" num="64">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1222,7 +1228,7 @@ Whenever a creature you control exploits a creature, you get {E}{E}.</text>
 		</card>
 		<card>
 			<name>Gift of the Glenfolk</name>
-			<text>Whenever a nontoken creature enters the battlefield under your control, if it doesn&apos;t have the same name as another creature you control or a creature card in your graveyard, draw a card.</text>
+			<text>Whenever a nontoken creature enters under your control, if it doesn&apos;t have the same name as another creature you control or a creature card in your graveyard, draw a card.</text>
 			<set rarity="mythic" picurl="https://misterhungry.github.io/sets/OSC-files/img/72.png" num="37">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1274,7 +1280,7 @@ Pay {E}{E}{E}{E}{E}: Put a shield counter on another target nonland permanent yo
 		<card>
 			<name>Glen Guardian</name>
 			<text>Defender
-Whenever Glen Guardian enters or blocks, you get {E}.
+Whenever this creature enters or blocks, you get {E}.
 {1}{G}, {T}, Pay any amount of {E}: Return target card with mana value less than the amount of {E} you paid from your graveyard to your hand.</text>
 			<set rarity="common" picurl="https://misterhungry.github.io/sets/OSC-files/img/75.png" num="38">OSC</set>
 			<prop>
@@ -1344,7 +1350,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 		</card>
 		<card>
 			<name>Power of the Penguins</name>
-			<text>When Power of the Penguins enters the battlefield, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.
+			<text>When Power of the Penguins enters, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.
 Whenever a legendary creature you control dies, Power of the Penguins deals damage equal to that creature&apos;s power to target opponent.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/79.png" num="50">OSC</set>
 			<prop>
@@ -1361,7 +1367,7 @@ Whenever a legendary creature you control dies, Power of the Penguins deals dama
 		</card>
 		<card>
 			<name>Heart of the Tower</name>
-			<text>Whenever Heart of the Tower or another artifact enters the battlefield under your control, you get {E}{E}.
+			<text>Whenever Heart of the Tower or another artifact enters under your control, you get {E}{E}.
 Pay eight {E}, Exile Heart of the Tower: Take an extra turn after this one.</text>
 			<set rarity="mythic" picurl="https://misterhungry.github.io/sets/OSC-files/img/80.png" num="57">OSC</set>
 			<prop>
@@ -1441,8 +1447,8 @@ Pay eight {E}, Exile Heart of the Tower: Take an extra turn after this one.</tex
 		</card>
 		<card>
 			<name>Power of the Messiah</name>
-			<text>When Power of the Messiah enters the battlefield, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.) (You may cast it as a sorcery on a later turn without paying its mana cost.)
-Whenever a legendary creature enters the battlefield under your control, put a +1/+1 counter on each creature you control.</text>
+			<text>When Power of the Messiah enters, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)
+Whenever a legendary creature enters under your control, put a +1/+1 counter on each creature you control.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/85.png" num="49">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1502,7 +1508,7 @@ Tap an untapped legendary creature you control: Add one mana of any color.</text
 		</card>
 		<card>
 			<name>Prismatic Vista</name>
-			<text>{T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="mythic" picurl="https://misterhungry.github.io/sets/OSC-files/img/89.png" num="76">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1516,10 +1522,10 @@ Tap an untapped legendary creature you control: Add one mana of any color.</text
 		</card>
 		<card>
 			<name>The Skies Above</name>
-			<text>The Skies Above enters the battlefield tapped.
+			<text>This land enters tapped.
 {T}: Add {G}.
 As long as you control six or more lands, lands you control have &quot;{T}: Add one mana of any color.&quot;
-{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice The Skies Above: Search your library for any number of God cards, put them onto the battlefield, then shuffle.</text>
+{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice this land: Search your library for any number of God cards, put them onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/OSC-files/img/90.png" num="80">OSC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1564,7 +1570,7 @@ Creatures you control with +1/+1 counters on them have all activated abilities o
 		</card>
 		<card>
 			<name>Aura Shards</name>
-			<text>Whenever a creature enters the battlefield under your control, you may destroy target artifact or enchantment.</text>
+			<text>Whenever a creature enters under your control, you may destroy target artifact or enchantment.</text>
 			<set rarity="uncommon" picurl="https://misterhungry.github.io/sets/OSC-files/img/93.png" num="44">OSC</set>
 			<prop>
 				<layout>normal</layout>

@@ -185,6 +185,8 @@
 	<img class="preload-hidden" src="../sets/OSC-files/logo.png" />
 	<img class="preload-hidden" src="../sets/BFS-files/icon.png" />
 		<img class="preload-hidden" src="../sets/OSC-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="../sets/OSC-files/bg.png" />
+
 		<div class="header">
 		<div class="search-grid">
 			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
@@ -230,9 +232,9 @@
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="../previews/OSC"><img src="../sets/OSC-files/icon.png">Oneshot Commander Cards</a>
+		<a class="set-bar" href="../previews/OSC"><img src="../sets/OSC-files/icon.png">OneShot Commander Cards</a>
 	
-		<a class="set-bar inactive" href="../previews/BFS"><img src="../sets/BFS-files/icon.png">Bug Fables Custom Set (Beta V3)</a>
+		<a class="set-bar inactive" href="../previews/BFS"><img src="../sets/BFS-files/icon.png">Bug Fables Custom Set (Beta V3.1)</a>
 	
 		</div>
 		<div class="banner">
@@ -557,7 +559,7 @@
 		}
 		while (images_loaded.includes(false));
 
-		
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
 		loadImages();
 	});
 

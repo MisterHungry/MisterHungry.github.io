@@ -1,4 +1,604 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Affable Bee
+
+Amber, Devoted Carrier
+
+Ant Kingdom Infantry
+
+Ant Kingdom Lieutenant
+
+Ant Tunnel Miner
+
+Aspiring Musician
+
+Assisted Hover
+
+Bee-Boop
+
+A Bond Thicker Than Honey
+
+Boulder Toss
+
+Defiant Standoff
+
+Desperate Treatment
+
+Diligent Cleaner
+
+Eetl, Retired Administrator
+
+Explorers' Celebration
+
+Gift of Love
+
+Heavy Drone B-33
+
+Honey Factory Maintenance Chief
+
+Inspiring Melody
+
+Jayde, Dissident Worker
+
+Kabbu's Request
+
+Kingdom Border Guard
+
+Masterful Slice
+
+Mayor Emmet
+
+Medal Vendor
+
+Medicine Brewer
+
+A Mother's Dream
+
+Passionate Baker
+
+Queen Elizant I, the Peacemaker
+rules_text: Convoke
+Whenever a creature deals damage to a player, return it to its owner's hand.
+At the beginning of your end step, if you didn't attack this turn, create a 1/1 white Insect Soldier creature token, then put a +1/+1 counter on each creature you control. => Convoke
+Whenever a creature deals damage to a player, return it to its owner's hand.
+At the beginning of your end step, if you didn't attack with a creature this turn, create a 1/1 white Insect Soldier creature token, then put a +1/+1 counter on each creature you control.
+
+Queen's Teachings
+
+Queen's Decree
+
+Salvation Strike
+
+Security Turret
+
+Seedling Slayer
+
+Yin, Late Bloomer
+
+Ancient Icefall
+
+Beetle Fortune Teller
+
+Bloatshroom
+
+Bubble Shield
+
+Charm Dancer
+
+Checkpoint Scan
+
+Cocoon of Slumber
+
+Denmuki
+
+Disheveled Assistant
+
+Diving Spider
+
+Don't Make a Sound
+
+Emergency Protocol
+
+Encased in Crystal
+
+Frigid Coffin
+
+Frost Bowling
+
+Gloomy Artist
+
+Haunted Cloth
+
+Hypnotic Smoke
+
+Jellyshroom
+
+Kali, Compelling Seamstress
+
+Mimic Spider
+
+Momentous Discovery
+
+Professor Neolith
+
+Quest Board Manager
+
+Roach Scientists
+rules_text: When this creature enters, surveil 2.
+{U}, {T}, Exile a creature card from your graveyard: Manufacture 1. => When this creature enters, surveil 2.
+{U}, {T}, Exile a creature card from your graveyard: Manufacture 1. [i](Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)[/i]
+
+Royal Caretakers
+
+Secret Route
+
+Sophisticated Research
+
+Spry Elder
+
+Spy
+
+Spy Cards
+
+Stealth Mission
+
+Take Inventory
+
+The Tidal Wyrm
+
+Card Tournament Contender
+
+Alchemize
+
+Water Strider
+
+Ambushed by Bandits
+
+The Beast
+
+Big Mistake
+
+Bittersweet Memory
+
+Bounty Board
+
+Caught as Prey
+
+Dead Lander Ω
+rules_text: Menace
+If a creature an opponent controls would die, instead exile it and put a +1/+1 counter on this creature
+During your turn, you may cast cards exiled with this card. If you cast a spell this way, remove three counters from among creatures you control rather than pay its mana cost.
+ => Menace
+If a creature an opponent controls would die, instead exile it and put a +1/+1 counter on this creature.
+During your turn, you may cast cards exiled with this card. If you cast a spell this way, remove three counters from among creatures you control rather than pay its mana cost.
+
+
+Dead Lander γ
+
+Defiant Operators
+
+Defy Your Past
+
+Dune Scorpion
+
+Exiled Alchemist
+rules_text: Deathtouch
+{X}{B}, {T}: Remove X counters from creatures you control, then manufacture X. [i](Distribute X +1/+1 counters among creatures you control or create a X/X colorless Robot artifact creature token.)[/i] => Deathtouch
+{X}{B}, {T}, Remove X counters from creatures you control: Manufacture X. [i](Distribute X +1/+1 counters among creatures you control or create a X/X colorless Robot artifact creature token.)[/i]
+
+Failed Experiment
+
+The False Monarch
+
+Lawless Ruffian
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Raid[/i] — When this creature enters, if you attacked this turn, destroy target creature an opponent controls that was dealt damage this turn. Its controller loses 2 life. => Menace
+[i]Raid[/i] — When this creature enters, if you attacked this turn, destroy target creature an opponent controls that was dealt damage this turn. Its controller loses 2 life.
+
+Leafbug Archer
+
+Leif's Request
+
+Lost Appetite
+
+Lost Sands Bandit
+
+Lost Sands Burglar
+
+Lost Sands Thief
+
+Madesphy
+
+Mantidfly
+
+Monsieur Scarlet
+
+Mothfly Cluster
+
+Piercing Roar
+
+Scorpion Caretaker
+
+Scorpion Sting
+
+Shady Dealer
+
+Snakemouth Researchers
+
+Sororicide
+
+Sprout From Within
+
+Stargaze
+
+Undercover Barkeep
+
+Zombee
+
+Zombeetle
+
+Zombiant
+
+Apprehensive Novice
+
+Arrow Worm
+
+Automated Drone Boomerang Prototype
+
+Battle Plan
+
+Beehive Guardian
+
+Big Score
+
+Bomb Master
+
+Boomerang Toss
+
+Brash Wager
+
+Set Ablaze
+
+Combination Attack
+
+Carmina, Seasoned Gambler
+
+Disciplined Slash
+rules_text: Disciplined Slash deals damage to any target equal to the number of attacking creatures you control.
+Flashback—{1}{R}{R}, Sacrifice an equipment. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Disciplined Slash deals damage to any target equal to the number of attacking creatures you control.
+Flashback—{1}{R}{R}, Sacrifice an Equipment. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Exploration Team Rivalry
+
+Explorers' Accountant
+
+Hurricane Toss
+
+Lay Siege
+
+Peculiar Inventor
+
+Rabid Chase
+
+Riz, Isolated Bulwark
+
+Unconventional Collector
+
+Rush Into Action
+
+Sharp Assistant
+
+Termite Engineers
+
+Termite Financier
+
+Termite Knight
+
+Underground Bartender
+
+Vanessa II, Usurped Queen
+
+Vengeful Kin
+
+Vi's Request
+
+Wasp Assault
+
+Wasp Bomber
+
+Wasp Driller
+
+Wasp Fanatic
+
+Wasp Scout
+
+Wasp Trooper
+
+Wronged Sailor
+
+Abundant Harvest
+
+Acolyte Aria
+
+Altruist Hospitality
+
+Belostoss
+
+Butomu, Mighty Blacksmith
+rules_text: When Butomu, Mighty Blacksmith enters, create a Treasure token.
+Tap three untapped artifacts or creatures you control: Butomu, Mighty Blacksmith explores.
+Tap four untapped artifacts or creatures you control: Destroy target artifact or enchantment. => When Butomu, Mighty Blacksmith enters, create a Treasure token.
+Tap three untapped artifacts or creatures you control: Butomu explores.
+Tap four untapped artifacts or creatures you control: Destroy target artifact or enchantment.
+
+Carry the Lineage
+
+Charitable Sightseer
+
+Chomper Brute
+
+Diana, Stout Miner
+
+Sparring Match
+
+Enter the Unknown
+
+Exotic Voyage
+
+Fashionable Denizen
+
+Frenzied Sunflower Dance
+
+Fruitful Aphids
+
+Fruity Bugs
+
+Goddess Venus
+
+Golden Festival Harvest
+
+Golden Seedling
+
+Heavy Strike
+
+Inichas
+
+Inquisitive Biologist
+
+Inseparable Travelers
+
+Ironnail
+
+Leafbug Clubber
+
+Leafbug Ninja
+
+Luminous Traveler
+
+Mother Chomper
+rules_text: Trample
+Mother Chomper has lifelink as long as you control a white or black permanent.
+[i]Renew[/i] — {4}{G}{G}, Exile this card from your graveyard: Put three +1/+1 counters, a trample counter, and a lifelink counter on target creature. Activate only as a sorcery.
+ => Trample
+Mother Chomper has lifelink as long as you control a white or black permanent.
+[i]Renew[/i] — {4}{G}{G}, Exile this card from your graveyard: Put three +1/+1 counters and a trample counter on target creature. If you control a white or black permanent, put a lifelink counter on it. Activate only as a sorcery.
+
+
+Primal Weevil
+
+Seedling
+
+Seedling King
+
+Shattered Wings
+
+Tunneling Worm
+
+Venus Guardian
+
+Venus's Blessing
+
+Weevil
+
+Wild Chomper
+
+Ant Queen Elizant II
+
+Astotheles, Bandit Leader
+
+Bee Queen Bianca
+
+The Broodmother
+
+Cenn and Pisci, Fraudulent Team
+
+Chompy, Next in Line
+
+Cross and Poi, Termite Guards
+rules_text: During your turn, Cross and Poi, Termite Guards have first strike.
+Whenever Cross and Poi attack, up to one other target creature you control has base power and toughness 4/2 until end of turn. => During your turn, Cross and Poi, Termite Guards have first strike.
+Whenever Cross and Poi attack, up to two other attacking creatures get +2/+2 until end of turn.
+
+The Devourer
+
+Doctor H.B.
+
+Elder of the Roach Village
+
+Frozen Drill
+
+Gen and Eri, Twin Team
+
+Jaune, Prodigious Painter
+
+Kabbu, the Chivalrous
+
+Kenny, the Vagabond
+
+Kina, Overprotective Fighter
+
+King Hector IV and Queen Layra II
+
+Leif, the Enigmatic
+
+Levi and Celia, Seasoned Explorers
+
+Maki, the Queen's Blade
+
+Mothiva, the Cutthroat
+
+Needle Pincer
+
+The Peacock Spider
+
+Professor Honeycomb
+
+Spuder, Bane of Explorers
+rules_text: Menace
+[i]Resourceful[/i] — When Spuder, Bane of Explorers enters, if you control a creature with power greater than its base power, you may pay {RG}. When you do, he deals damage equal to his power to target creature an opponent controls. => Menace
+[i]Resourceful[/i] — When Spuder, Bane of Explorers enters, if you control a creature with power greater than its base power, you may pay {RG}. When you do, Spuder deals damage equal to his power to target creature an opponent controls.
+
+Stratos and Delilah, Team Slacker
+
+Tarantular, the Wizard
+
+ULTIMAX Tank
+
+Vi, the Audacious
+
+Wasp General Ultimax
+
+Wasp King Hoaxe
+
+The Watcher
+
+Zaryant, Royal Bodyguard
+
+Zasp, the Zealous
+
+Zommoth
+
+Abomihoney
+
+Ahoneynation
+
+The Ancient Mask
+
+Antlion Jaws
+
+Berserker
+
+Bug Me Not!
+
+Charge Up Plus
+
+World Map
+
+Favorite One
+
+HP Plus
+
+Leaf Cloak
+
+Leaf of the Everlasting Sapling
+
+Life Cast
+
+Life Stealer
+
+Miracle Matter
+
+Strong Start
+
+Trading Post
+
+Triumph Buzz
+
+Bountiful Landscape
+
+Deceptive Landscape
+
+Expensive Resort
+
+Fabled Passage
+
+Foreboding Landscape
+
+Perilous Landscape
+
+Royal Court
+
+Secluded Village
+
+Shattered Landscape
+
+Snakemouth Haven
+
+Insect Soldier
+
+Insect
+
+Leafbug Ninja
+
+Seedling
+
+Venus Bud
+
+Insect
+
+Insect Beast
+
+Plant
+
+Clue
+
+Robot
+
+Food
+
+Treasure
+
+Abomihoney
+
+Sand Warden
+
+Helper Boost
+
+Citizen
+
+Royal Fealty
+
+Defend the Factory
+
+Dead Lander α
+
+Forced Conscription
+
+Acornling
+
+Crystal Slumber
+
+Fruitful Aphids
+
+Honey Factory Guide
+
+Honey Factory Overseer
+
+Unorthodox Couple
+
+Cactling
+
+Poison Master
+
+Berry Merchant
+
+Krawler Swarm
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Set Ablaze added.

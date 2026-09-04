@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>BFS</name>
-			<longname>Bug Fables Custom Set (Beta V3)</longname>
+			<longname>Bug Fables Custom Set (Beta V3.1)</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-17</releasedate>
+			<releasedate>2026-09-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -522,7 +522,7 @@ At the beginning of your end step, if two or more tokens have left the battlefie
 			<name>Queen Elizant I, the Peacemaker</name>
 			<text>Convoke
 Whenever a creature deals damage to a player, return it to its owner&apos;s hand.
-At the beginning of your end step, if you didn&apos;t attack this turn, create a 1/1 white Insect Soldier creature token, then put a +1/+1 counter on each creature you control.</text>
+At the beginning of your end step, if you didn&apos;t attack with a creature this turn, create a 1/1 white Insect Soldier creature token, then put a +1/+1 counter on each creature you control.</text>
 			<set rarity="mythic" picurl="https://misterhungry.github.io/sets/BFS-files/img/28.png" num="31">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -536,6 +536,7 @@ At the beginning of your end step, if you didn&apos;t attack this turn, create a
 				<pt>4/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Insect Soldier BFS</related>
 		</card>
 		<card>
 			<name>Queen&apos;s Teachings</name>
@@ -992,6 +993,7 @@ Whenever this creature deals combat damage to a player, proliferate. (Choose any
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Cursed Role</related>
 		</card>
 		<card>
 			<name>Mimic Spider</name>
@@ -1066,7 +1068,7 @@ Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a b
 		<card>
 			<name>Roach Scientists</name>
 			<text>When this creature enters, surveil 2.
-{U}, {T}, Exile a creature card from your graveyard: Manufacture 1.</text>
+{U}, {T}, Exile a creature card from your graveyard: Manufacture 1. (Put a +1/+1 counter on a creature you control or create a 1/1 colorless Robot artifact creature token.)</text>
 			<set rarity="uncommon" picurl="https://misterhungry.github.io/sets/BFS-files/img/59.png" num="68">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1395,7 +1397,7 @@ Destroy target creature.</text>
 		<card>
 			<name>Dead Lander Ω</name>
 			<text>Menace
-If a creature an opponent controls would die, instead exile it and put a +1/+1 counter on this creature
+If a creature an opponent controls would die, instead exile it and put a +1/+1 counter on this creature.
 During your turn, you may cast cards exiled with this card. If you cast a spell this way, remove three counters from among creatures you control rather than pay its mana cost.</text>
 			<set rarity="mythic" picurl="https://misterhungry.github.io/sets/BFS-files/img/78.png" num="86">BFS</set>
 			<prop>
@@ -1486,7 +1488,7 @@ Whenever a creature dies, if this creature entered this turn, each opponent lose
 		<card>
 			<name>Exiled Alchemist</name>
 			<text>Deathtouch
-{X}{B}, {T}: Remove X counters from creatures you control, then manufacture X. (Distribute X +1/+1 counters among creatures you control or create a X/X colorless Robot artifact creature token.)</text>
+{X}{B}, {T}, Remove X counters from creatures you control: Manufacture X. (Distribute X +1/+1 counters among creatures you control or create a X/X colorless Robot artifact creature token.)</text>
 			<set rarity="uncommon" picurl="https://misterhungry.github.io/sets/BFS-files/img/83.png" num="91">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1500,6 +1502,7 @@ Whenever a creature dies, if this creature entered this turn, each opponent lose
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Robot BFS</related>
 		</card>
 		<card>
 			<name>Failed Experiment</name>
@@ -1539,7 +1542,7 @@ Whenever The False Monarch enters, attacks, or dies, create a 1/1 black Insect c
 		</card>
 		<card>
 			<name>Lawless Ruffian</name>
-			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+			<text>Menace
 Raid — When this creature enters, if you attacked this turn, destroy target creature an opponent controls that was dealt damage this turn. Its controller loses 2 life.</text>
 			<set rarity="common" picurl="https://misterhungry.github.io/sets/BFS-files/img/86.png" num="94">BFS</set>
 			<prop>
@@ -2163,7 +2166,7 @@ When Carmina, Seasoned Gambler enters, you may search your library for a card, p
 		<card>
 			<name>Disciplined Slash</name>
 			<text>Disciplined Slash deals damage to any target equal to the number of attacking creatures you control.
-Flashback—{1}{R}{R}, Sacrifice an equipment. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback—{1}{R}{R}, Sacrifice an Equipment. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/BFS-files/img/121.png" num="130">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -2678,7 +2681,7 @@ Resourceful — When this creature enters, if you control a creature with power 
 		<card>
 			<name>Butomu, Mighty Blacksmith</name>
 			<text>When Butomu, Mighty Blacksmith enters, create a Treasure token.
-Tap three untapped artifacts or creatures you control: Butomu, Mighty Blacksmith explores.
+Tap three untapped artifacts or creatures you control: Butomu explores.
 Tap four untapped artifacts or creatures you control: Destroy target artifact or enchantment.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/BFS-files/img/150.png" num="162">BFS</set>
 			<prop>
@@ -3097,7 +3100,7 @@ Renew — {3}{G}, Exile this card from your graveyard: Put two +1/+1 counters an
 			<name>Mother Chomper</name>
 			<text>Trample
 Mother Chomper has lifelink as long as you control a white or black permanent.
-Renew — {4}{G}{G}, Exile this card from your graveyard: Put three +1/+1 counters, a trample counter, and a lifelink counter on target creature. Activate only as a sorcery.</text>
+Renew — {4}{G}{G}, Exile this card from your graveyard: Put three +1/+1 counters and a trample counter on target creature. If you control a white or black permanent, put a lifelink counter on it. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://misterhungry.github.io/sets/BFS-files/img/173.png" num="185">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -3329,6 +3332,7 @@ Spells you cast and abilities you activate that target a creature you control co
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Robot BFS</related>
 		</card>
 		<card>
 			<name>The Broodmother</name>
@@ -3389,7 +3393,7 @@ Whenever Cenn and Pisci, Fraudulent Team attack, you may exile a nonland card wi
 		<card>
 			<name>Cross and Poi, Termite Guards</name>
 			<text>During your turn, Cross and Poi, Termite Guards have first strike.
-Whenever Cross and Poi attack, up to one other target creature you control has base power and toughness 4/2 until end of turn.</text>
+Whenever Cross and Poi attack, up to two other attacking creatures get +2/+2 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://misterhungry.github.io/sets/BFS-files/img/189.png" num="202">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -3716,7 +3720,7 @@ Resourceful — Whenever Professor Honeycomb deals combat damage to a player, if
 		<card>
 			<name>Spuder, Bane of Explorers</name>
 			<text>Menace
-Resourceful — When Spuder, Bane of Explorers enters, if you control a creature with power greater than its base power, you may pay {RG}. When you do, he deals damage equal to his power to target creature an opponent controls.</text>
+Resourceful — When Spuder, Bane of Explorers enters, if you control a creature with power greater than its base power, you may pay {RG}. When you do, Spuder deals damage equal to his power to target creature an opponent controls.</text>
 			<set rarity="uncommon" picurl="https://misterhungry.github.io/sets/BFS-files/img/207.png" num="220">BFS</set>
 			<prop>
 				<layout>normal</layout>
@@ -4731,6 +4735,7 @@ At the beginning of combat on your turn, target creature token to you control ga
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="2">Insect Soldier BFS</related>
 		</card>
 		<card>
 			<name>Defend the Factory</name>

@@ -1,5 +1,5 @@
 ﻿{
-    "name": "Oneshot Commander Cards",
+    "name": "OneShot Commander Cards",
     "formats": "Commander",
     "image_type": "png",
     "draft_structure": "none",
@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag free cast another\n!tag tutor"
+            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag free-cast-another\n!tag tutor"
         },
         {
             "card_name": "Painful Truths",
@@ -47,7 +47,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag card advantage\n!tag hand positive"
+            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag card-advantage\n!tag hand-positive"
         },
         {
             "card_name": "Food",
@@ -78,7 +78,7 @@
             "number": 30,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "First strike, haste\n[i]Converge[/i] \u2014 When Rue, Elusive Guide enters, you get {E} for each color of mana spent to cast it.\nPay {E}{E}: Target creature can't block this turn.",
+            "rules_text": "First strike, haste\n[i]Converge[/i] \u2014 When Rue, Elusive Guide enters, you get {E} for each color of mana spent to cast her.\nPay {E}{E}: Target creature can't block this turn.",
             "flavor_text": "[i]\u201cI'm sorry if you are looking for me. But I cannot talk to you. Not now...\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -89,7 +89,7 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [DeviantArt](https://www.deviantart.com/marshukitty/art/Rue-676519539)\n\n!tag custom\n!tag counter fuel-energy\n!tag energy generator\n!tag prevent blocker"
+            "notes": "Unique Card\n\nArt Link: [DeviantArt](https://www.deviantart.com/marshukitty/art/Rue-676519539)\n\n!tag custom\n!tag counter-fuel-energy\n!tag energy-generator\n!tag prevent-blocker"
         },
         {
             "card_name": "Cedric, Prodigious Tinkerer",
@@ -99,9 +99,9 @@
             "number": 33,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i]Converge[/i] \u2014 When Cedric, Prodigious Tinkerer enters, create a 1/1 colorless Robot artifact creature token for each color of mana spent to cast this spell. \n{1}, {T}, Sacrifice an artifact: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "[i]Converge[/i] \u2014 When Cedric, Prodigious Tinkerer enters, create a 1/1 colorless Robot artifact creature token for each color of mana spent to cast him. \n{1}, {T}, Sacrifice an artifact: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "1/2",
             "special_text": "",
             "shape": "normal",
             "set": "OSC",
@@ -110,7 +110,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Facebook](https://www.facebook.com/photo/?fbid=669119315233633&set=ecnf.100064067107685)\n\n!tag custom\n!tag card advantage\n!tag impulse draw\n!tag multiple bodies\n!tag sacrifice outlet"
+            "notes": "Unique Card\n\nArt Link: [Facebook](https://www.facebook.com/photo/?fbid=669119315233633&set=ecnf.100064067107685)\n\n!tag custom\n!tag card-advantage\n!tag enters-in-company\n!tag multiple-bodies\n!tag impulse-draw\n!tag multiple-bodies\n!tag sacrifice-outlet\n\n!tokens Robot<1>"
         },
         {
             "card_name": "Prototype, Reclusive Robot",
@@ -120,7 +120,7 @@
             "number": 13,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "[i]Converge[/i] \u2014 When Prototype, Reclusive Robot enters, look at the top X cards of your library, where X is the number of colors of mana spent to cast this spell. Put up to two cards from among them into your hand and the rest into your graveyard.\nWhenever Prototype or another artifact creature you control dies, you get {E}.",
+            "rules_text": "[i]Converge[/i] \u2014 When Prototype, Reclusive Robot enters, look at the top X cards of your library, where X is the number of colors of mana spent to cast him. Put up to two cards from among them into your hand and the rest into your graveyard.\nWhenever Prototype or another artifact creature you control dies, you get {E}.",
             "flavor_text": "[i]\u201c[You seem enthusiastic.]\n[...that was sarcasm.]\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -131,7 +131,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Tumblr](https://argoncrystal18.tumblr.com/post/719210384209461248/prototype-is-so-cool-tbh)\n\n!tag custom\n!tag card advantage\n!tag energy generator\n!tag hand positive\n!tag synergy artifact creature"
+            "notes": "Unique Card\n\nArt Link: [Tumblr](https://argoncrystal18.tumblr.com/post/719210384209461248/prototype-is-so-cool-tbh)\n\n!tag custom\n!tag card-advantage\n!tag death-trigger\n!tag energy-generator\n!tag hand-positive\n!tag synergy-artifact-creature"
         },
         {
             "card_name": "Junk",
@@ -142,7 +142,7 @@
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
-            "flavor_text": "[i]{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.[/i]",
+            "flavor_text": "[i][/i]T, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "token",
@@ -173,7 +173,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/171piml/prophetbot_is_pretty_neat_i_think/)\n\n!tag custom\n!tag cantrip\n!tag card advantage"
+            "notes": "Unique Card\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/171piml/prophetbot_is_pretty_neat_i_think/)\n\n!tag custom\n!tag cantrip\n!tag death-trigger\n!tag card-advantage"
         },
         {
             "card_name": "The Author",
@@ -194,7 +194,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [World Machine Edition bio](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag gives pp counters\n!tag synergy artifact\n!tag tutor"
+            "notes": "Unique Card\n\nArt Link: [World Machine Edition bio](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag gives-pp-counters\n!tag gives-pp-counters-to-all\n!tag synergy-artifact\n!tag tutor"
         },
         {
             "card_name": "Silver, Morose Engineer",
@@ -206,7 +206,7 @@
             "cost": "{3}{U}",
             "rules_text": "Other Robots you control get +1/+1.\nWhenever Silver, Morose Engineer enters or attacks, create a 1/1 colorless Robot artifact creature token.\n{T}, Sacrifice an artifact: You get {E}{E}.",
             "flavor_text": "[i]\u201c[This is going to sound cold, but...]\n[I honestly think you are better off just...leaving and letting the world die naturally.]\u201d[/i]",
-            "pt": "4/4",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "OSC",
@@ -215,7 +215,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Tumblr](https://kerakn.tumblr.com/post/721562379550326784/im-pretty-late-to-this-challenge-but-i-wanted-to)\n\n!tag custom\n!tag anthem\n!tag energy generator\n!tag repeatable artifact tokens\n!tag repeatable creature tokens\n!tag repeatable token generator\n!tag typal\n!tag typal Robot"
+            "notes": "Unique Card\n\nArt Link: [Tumblr](https://kerakn.tumblr.com/post/721562379550326784/im-pretty-late-to-this-challenge-but-i-wanted-to)\n\n!tag custom\n!tag anthem\n!tag attack-trigger\n!tag energy-generator\n!tag enters-in-company\n!tag multiple-bodies\n!tag repeatable-artifact-tokens\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator\n!tag titan-trigger\n!tag typal\n!tag typal-Robot\n\n!tokens Robot<1>"
         },
         {
             "card_name": "Transport Rowbot",
@@ -225,7 +225,7 @@
             "number": 15,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When Transport Rowbot enters, you get {E} for each Robot you control.\n{T}, Pay {E}: You may tap or untap target artifact or creature.",
+            "rules_text": "When this creature enters, you get {E} for each Robot you control.\n{T}, Pay {E}: You may tap or untap target artifact or creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -236,7 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/14o3vy4/niko_and_rowbot/)\n\n!tag custom\n!tag counter fuel-energy\n!tag energy generator\n!tag twiddle\n!tag typal\n!tag typal Robot"
+            "notes": "Unique Card\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/14o3vy4/niko_and_rowbot/)\n\n!tag custom\n!tag counter-fuel-energy\n!tag energy-generator\n!tag twiddle\n!tag typal\n!tag typal-Robot"
         },
         {
             "card_name": "Robot",
@@ -278,7 +278,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [promo art](https://www.fangamer.com/products/oneshot-hoodie-world-machine)\n\n!tag custom\n!tag graveyard seal\n!tag hate graveyard\n!tag removal"
+            "notes": "Unique Card\n\nArt Link: [promo art](https://www.fangamer.com/products/oneshot-hoodie-world-machine)\n\n!tag custom\n!tag graveyard-seal\n!tag hate-graveyard\n!tag removal"
         },
         {
             "card_name": "Magpie, Easygoing Merchant",
@@ -320,7 +320,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [World Machine Edition bio](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag card advantage\n!tag counter fuel-energy\n!tag future sight engine"
+            "notes": "Unique Card\n\nArt Link: [World Machine Edition bio](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag card-advantage\n!tag counter-fuel-energy\n!tag future-sight-engine"
         },
         {
             "card_name": "Maize, Benevolent Guardian",
@@ -341,7 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Amino](https://aminoapps.com/c/osamino/page/blog/amaizeing/QKZg_Ja7SXuJWmwxMoe4xRV8P1dwaDZP2dj) (dead source), [Pinterest](https://fr.pinterest.com/pin/946459677935568495/) (repost)\n\n!tag custom\n!tag cheat death\n!tag counter fuel-energy\n!tag energy generator\n!tag ramp\n!tag ramp land"
+            "notes": "Unique Card\n\nArt Link: [Amino](https://aminoapps.com/c/osamino/page/blog/amaizeing/QKZg_Ja7SXuJWmwxMoe4xRV8P1dwaDZP2dj) (dead source), [Pinterest](https://fr.pinterest.com/pin/946459677935568495/) (repost)\n\n!tag custom\n!tag cheat-death\n!tag counter-fuel-energy\n!tag death-trigger\n!tag energy-generator\n!tag ramp\n!tag ramp-land"
         },
         {
             "card_name": "Alula, Cheerful Sister",
@@ -351,7 +351,7 @@
             "number": 32,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Reach\nWhen Alula, Cheerful Sister enters, you get {E}{E}, then it explores.\n{T}, Pay any amount of {E}: Look at that many cards from the top of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+            "rules_text": "Reach\nWhen Alula, Cheerful Sister enters, you get {E}{E}, then she explores.\n{T}, Pay any amount of {E}: Look at that many cards from the top of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
             "flavor_text": "[i]\u201cYour eyes! They reminded me of the sun! That's why you're our messiah, right?\u201d\n[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -374,7 +374,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link (Alula): [Tumblr](https://rownou.tumblr.com/post/742703592103903232/oneshot-alula-it-heckin-wimdy-she-enjoys-it-a)\nArt Link (Calamus): promo art\n\n!tag custom\n!tag counter fuel-energy\n!tag energy generator\n!tag card advantage\n!tag gives pp counters\n\n!tag removal\n!tag repeatable removal"
+            "notes": "Unique Card\n\nArt Link (Alula): [Tumblr](https://rownou.tumblr.com/post/742703592103903232/oneshot-alula-it-heckin-wimdy-she-enjoys-it-a)\nArt Link (Calamus): promo art\n\n!tag custom\n!tag counter-fuel-energy\n!tag energy-generator\n!tag card-advantage\n!tag gains-pp-counters\n\n!tag removal\n!tag repeatable-removal"
         },
         {
             "card_name": "George, the Six-Sided",
@@ -395,7 +395,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [World Machine Edition bio](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag counters matter\n!tag gives haste\n!tag gives pp counters\n!tag removal"
+            "notes": "Unique Card\n\nArt Link: [World Machine Edition bio](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag counters-matter\n!tag gives-haste\n!tag gives-pp-counters\n!tag removal"
         },
         {
             "card_name": "Kelvin, Back Alley Heater",
@@ -416,7 +416,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Tumblr](https://infinitebrians.tumblr.com/post/181788046451/kelvin-from-oneshot)\n\n!tag custom\n!tag counter fuel-energy\n!tag energy generator\n!tag gives pp counters\n!tag repeatable creature tokens\n!tag repeatable token generator\n!tag typal\n!tag typal Cat"
+            "notes": "Unique Card\n\nArt Link: [Tumblr](https://infinitebrians.tumblr.com/post/181788046451/kelvin-from-oneshot)\n\n!tag custom\n!tag counter-fuel-energy\n!tag energy-generator\n!tag gives-pp-counters\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator\n!tag typal\n!tag typal-Cat\n\n!tokens Cat<1>"
         },
         {
             "card_name": "Kip, Brilliant Engineer",
@@ -437,7 +437,7 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Tumblr](https://itskyahh.tumblr.com/post/171348887060/redraw)\n\n!tag custom\n!tag card advantage\n!tag counter fuel-energy\n!tag energy generator\n!tag impulse draw\n!tag ramp\n!tag synergy artifact"
+            "notes": "Unique Card\n\nArt Link: [Tumblr](https://itskyahh.tumblr.com/post/171348887060/redraw)\n\n!tag custom\n!tag card-advantage\n!tag counter-fuel-energy\n!tag energy-generator\n!tag impulse-draw\n!tag ramp\n!tag synergy-artifact\n\n!tokens Junk<1>"
         },
         {
             "card_name": "Mr. Lamplighter",
@@ -458,7 +458,7 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "Unique Card:\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag card advantage\n!tag counter fuel-energy\n!tag energy generator\n!tag gives pp counters\n!tag impulse draw\n!tag repeatable artifact tokens\n!tag repeatable token generator"
+            "notes": "Unique Card:\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag card-advantage\n!tag counter-fuel-energy\n!tag energy-generator\n!tag impulse-draw\n!tag repeatable-artifact-tokens\n!tag repeatable-token-generator\n\n!tokens Junk<1>"
         },
         {
             "card_name": "Ling, Outgoing Proprietor",
@@ -479,7 +479,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [World Machine Edition bio](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag energy generator\n!tag lifegain matters\n!tag sacrifice matters"
+            "notes": "Unique Card\n\nArt Link: [World Machine Edition bio](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag energy-generator\n!tag lifegain-matters\n!tag sacrifice-matters\n\n!tokens Food<1>"
         },
         {
             "card_name": "Shepherd of Secrets",
@@ -500,7 +500,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag counter fuel-energy\n!tag gives trample\n!tag mana dork\n!tag ramp"
+            "notes": "Unique Card\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag custom\n!tag counter-fuel-energy\n!tag gives-trample\n!tag mana-dork\n!tag ramp"
         },
         {
             "card_name": "Watcher of Time",
@@ -510,7 +510,7 @@
             "number": 31,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "Double strike, haste\nWhenever Watcher of Time attacks, you get {E}{E}, then you may pay {E}{E}{E}{E}{E}{E}{E}{E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.",
+            "rules_text": "Double strike, haste\nWhenever this creature attacks, you get {E}{E}, then you may pay {E}{E}{E}{E}{E}{E}{E}{E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.",
             "flavor_text": "[i]\u201cHere we are, at the eleventh hour.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -521,7 +521,7 @@
             "alias": "Lightning Runner",
             "position": "23",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/aqualittt/art/watcher-oneshot-game-878905758)\n\n!tag reprint\n!tag counter fuel-energy\n!tag energy generator\n!tag extra combat phase"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/aqualittt/art/watcher-oneshot-game-878905758)\n\n!tag reprint\n!tag attack-trigger\n!tag counter-fuel-energy\n!tag energy-generator\n!tag extra-combat-phase"
         },
         {
             "card_name": "Niko, Messiah of Light",
@@ -530,10 +530,10 @@
             "type": "Legendary Creature \u2014 Cat Human",
             "number": 6,
             "color_identity": "WUBRG",
-            "cost": "{2}{W}",
-            "rules_text": "Whenever you cast a historic spell, put a +1/+1 counter on Niko, Messiah of Light. You get {E}.\n{T}, Pay {E}{E}{E}: Move any number of counters from Niko onto another legendary creature you control. You may return Niko to their owner's hand.",
+            "cost": "{1}{W}",
+            "rules_text": "Whenever you cast a historic spell, you get {E}. If this is the first time this ability has resolved this turn, put a +1/+1 counter on Niko, Messiah of Light.\n{5}, Pay {E}{E}{E}: Move any number of counters from Niko onto another legendary creature you control, then transform Niko. Activate only as a sorcery.",
             "flavor_text": "[i]A bright-eyed child with a curious heart, Niko was summoned to play the role of the Sun-Bearer and Messiah to a broken world.\n[/i]",
-            "pt": "2/2",
+            "pt": "1/1",
             "special_text": "",
             "shape": "modal double faced",
             "set": "OSC",
@@ -545,7 +545,7 @@
             "color2": "",
             "type2": "Legendary Artifact",
             "cost2": "{5}",
-            "rules_text2": "The first creature spell you cast each turn gains sunburst. [i](It enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)[/i]\nWhenever a legendary creature you control attacks, you get {E}.\n{T}, Pay {E}{E}{E}{E}{E}: Add {W}{U}{B}{R}{G}.",
+            "rules_text2": "The first creature spell you cast each turn gains sunburst. [i](It enters with a +1/+1 counter on it for each color of mana spent to cast it.)[/i]\nWhenever a legendary creature you control attacks, you get {E}.\n{T}, Pay {E}{E}{E}{E}{E}: Add {W}{U}{B}{R}{G}.",
             "flavor_text2": "[i]You only get one shot.\n[/i]",
             "pt2": "",
             "special_text2": "",
@@ -554,7 +554,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link (Niko): [DeviantArt](https://www.deviantart.com/cartoonistchris/art/Precious-Boy-Niko-1011721757)\nArt Link (The Sun): promo art\n\n!tag custom\n!tag counter fuel-energy\n!tag energy generator\n!tag gains pp counters\n!tag synergy historic\n!tag synergy legendary\n\n!tag mana rock\n!tag ramp"
+            "notes": "Unique Card\n\nArt Link (Niko): [DeviantArt](https://www.deviantart.com/cartoonistchris/art/Precious-Boy-Niko-1011721757)\nArt Link (The Sun): promo art\n\n!tag custom\n!tag counter-fuel-energy\n!tag energy-generator\n!tag gains-pp-counters\n!tag synergy-historic\n!tag synergy-legendary\n\n!tag attack-trigger\n!tag gives-pp-counters\n!tag mana-rock\n!tag ramp"
         },
         {
             "card_name": "Cat",
@@ -564,7 +564,7 @@
             "number": 1,
             "color_identity": "W",
             "cost": "",
-            "rules_text": "Lifelink",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -596,7 +596,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/asdfg21/art/Goodbye-705114936)\n\n!tag reprint\n!tag hate graveyard\n!tag modal\n!tag removal\n!tag removal exile\n!tag sweeper"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/asdfg21/art/Goodbye-705114936)\n\n!tag reprint\n!tag hate-graveyard\n!tag modal\n!tag removal\n!tag removal-exile\n!tag sweeper"
         },
         {
             "card_name": "Cultivate",
@@ -617,7 +617,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag ramp\n!tag ramp land"
+            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag ramp\n!tag ramp-land"
         },
         {
             "card_name": "Black Clover",
@@ -627,7 +627,7 @@
             "number": 52,
             "color_identity": "C",
             "cost": "{0}",
-            "rules_text": "{T}, Sacrifice Black Clover: Add one mana of any one color.",
+            "rules_text": "{T}, Sacrifice this artifact: Add one mana of any one color.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -638,7 +638,7 @@
             "alias": "Lotus Petal",
             "position": "28",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag mana egg\n!tag ramp"
+            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag mana-egg\n!tag ramp"
         },
         {
             "card_name": "Abandoned Facility",
@@ -648,7 +648,7 @@
             "number": 63,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When Abandoned Facility enters the battlefield, you get {E}.\n{T}: Add {C}.\n{T}, Pay {E}: Add one mana of any color.",
+            "rules_text": "When this land enters, you get {E}.\n{T}: Add {C}.\n{T}, Pay {E}: Add one mana of any color.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -659,7 +659,7 @@
             "alias": "Aether Hub",
             "position": "29",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag reprint\n!tag counter fuel-energy\n!tag energy generator\n!tag rainbow land"
+            "notes": "Reprint\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag reprint\n!tag counter-fuel-energy\n!tag energy-generator\n!tag rainbow-land"
         },
         {
             "card_name": "Entity's Inner Workings",
@@ -680,7 +680,7 @@
             "alias": "Aetherworks Marvel",
             "position": "30",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [SafeReactor](https://safereactor.cc/post/5589800)\n\n!tag reprint\n!tag counter fuel energy\n!tag energy generator\n!tag free cast another"
+            "notes": "Reprint\n\nArt Link: [SafeReactor](https://safereactor.cc/post/5589800)\n\n!tag reprint\n!tag counter-fuel-energy\n!tag energy-generator\n!tag free-cast-another"
         },
         {
             "card_name": "Trinket Collection",
@@ -701,7 +701,7 @@
             "alias": "Decoction Module",
             "position": "31",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Pixiv](https://www.pixiv.net/en/artworks/77842544)\n\n!tag reprint\n!tag bounce\n!tag energy generator"
+            "notes": "Reprint\n\nArt Link: [Pixiv](https://www.pixiv.net/en/artworks/77842544)\n\n!tag reprint\n!tag bounce\n!tag energy-generator"
         },
         {
             "card_name": "Fabrication Module",
@@ -722,7 +722,7 @@
             "alias": "Fabrication Module",
             "position": "32",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/wolyafa/art/Standing-before-the-Machine-653571099)\n\n!tag reprint\n!tag energy generator\n!tag gives pp counters"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/wolyafa/art/Standing-before-the-Machine-653571099)\n\n!tag reprint\n!tag energy-generator\n!tag gives-pp-counters"
         },
         {
             "card_name": "Galvanic Discharge",
@@ -743,7 +743,7 @@
             "alias": "Harnessed Lightning",
             "position": "33",
             "rotated": false,
-            "notes": "reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/aamakuruu/art/Niko-654351509)\n\n!tag reprint\n!tag counter fuel-energy\n!tag energy generator\n!tag removal"
+            "notes": "reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/aamakuruu/art/Niko-654351509)\n\n!tag reprint\n!tag counter-fuel-energy\n!tag energy-generator\n!tag removal"
         },
         {
             "card_name": "Plains",
@@ -869,7 +869,7 @@
             "alias": "Command Tower",
             "position": "39",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag rainbow land"
+            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag rainbow-land"
         },
         {
             "card_name": "Village Home",
@@ -879,7 +879,7 @@
             "number": 87,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Village Home enters the battlefield tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1.",
+            "rules_text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -890,7 +890,7 @@
             "alias": "Path of Ancestry",
             "position": "40",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/blackzaro/art/remake-Back-Home-Oneshot-787372334)\n\n!tag reprint\n!tag rainbow land\n!tag typal"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/blackzaro/art/remake-Back-Home-Oneshot-787372334)\n\n!tag reprint\n!tag rainbow-land\n!tag typal"
         },
         {
             "card_name": "Amber Pendant",
@@ -911,7 +911,7 @@
             "alias": "Sol Ring",
             "position": "41",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag adds multiple mana\n!tag mana rock\n!tag ramp"
+            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag adds-multiple-mana\n!tag mana-rock\n!tag ramp"
         },
         {
             "card_name": "Radiant Die",
@@ -932,7 +932,7 @@
             "alias": "Arcane Signet",
             "position": "42",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag mana rock\n!tag ramp"
+            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag mana-rock\n!tag ramp"
         },
         {
             "card_name": "Clue",
@@ -963,7 +963,7 @@
             "number": 81,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Skyline Cafe: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -984,7 +984,7 @@
             "number": 69,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1005,7 +1005,7 @@
             "number": 86,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Unstable Catwalks: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1026,7 +1026,7 @@
             "number": 66,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Code Portals: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1047,7 +1047,7 @@
             "number": 71,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Glen Overlook: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1068,7 +1068,7 @@
             "number": 75,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1089,7 +1089,7 @@
             "number": 68,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Crowded Apartments: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1110,7 +1110,7 @@
             "number": 72,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Graveyard Passage: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1131,7 +1131,7 @@
             "number": 88,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1152,7 +1152,7 @@
             "number": 89,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1205,7 +1205,7 @@
             "alias": "Path to Exile",
             "position": "55",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Tumblr](https://kartrina130.tumblr.com/post/171079703604/one-shot-the-solstice-way-to-world-machine)\n\n!tag reprint\n!tag drawback\n!tag land ramp\n!tag ramp\n!tag removal\n!tag removal exile"
+            "notes": "Reprint\n\nArt Link: [Tumblr](https://kartrina130.tumblr.com/post/171079703604/one-shot-the-solstice-way-to-world-machine)\n\n!tag reprint\n!tag drawback\n!tag land-ramp\n!tag ramp\n!tag removal\n!tag removal=exile"
         },
         {
             "card_name": "Solemn Observatory",
@@ -1215,7 +1215,7 @@
             "number": 82,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "As Solemn Observatory enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+            "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1226,7 +1226,7 @@
             "alias": "Blood Crypt",
             "position": "56",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [X](https://x.com/Vulkiri/status/1685011725521768448), [XCancel](https://xcancel.com/Vulkiri/status/1685011725521768448), [Reddit](https://www.reddit.com/r/oneshot/comments/15c7b9p/refuge_observatory/)\n\n!tag reprint\n!tag dual land\n!tag shockland"
+            "notes": "Reprint\n\nArt Link: [X](https://x.com/Vulkiri/status/1685011725521768448), [XCancel](https://xcancel.com/Vulkiri/status/1685011725521768448), [Reddit](https://www.reddit.com/r/oneshot/comments/15c7b9p/refuge_observatory/)\n\n!tag reprint\n!tag dual-land\n!tag shockland"
         },
         {
             "card_name": "Forest Clearing",
@@ -1236,7 +1236,7 @@
             "number": 70,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "As Forest Clearing enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+            "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1247,7 +1247,7 @@
             "alias": "Breeding Pool",
             "position": "57",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/mel17641/art/Calamus-and-Alula-see-the-sun-Oneshot-756778889)\n\n!tag reprint\n!tag dual land\n!tag shockland"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/mel17641/art/Calamus-and-Alula-see-the-sun-Oneshot-756778889)\n\n!tag reprint\n!tag dual-land\n!tag shockland"
         },
         {
             "card_name": "Countdown Room",
@@ -1257,7 +1257,7 @@
             "number": 67,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "As Countdown Room enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+            "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1268,7 +1268,7 @@
             "alias": "Godless Shrine",
             "position": "58",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/lockrikard/art/The-timer-675417027)\n\n!tag reprint\n!tag dual land\n!tag shockland"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/lockrikard/art/The-timer-675417027)\n\n!tag reprint\n!tag dual-land\n!tag shockland"
         },
         {
             "card_name": "Hallowed Fountain",
@@ -1278,7 +1278,7 @@
             "number": 73,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+            "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1289,7 +1289,7 @@
             "alias": "Hallowed Fountain",
             "position": "59",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [X](https://x.com/justbirb_/status/1625246859504545808), [XCancel](https://xcancel.com/justbirb_/status/1625246859504545808)\n\n!tag reprint\n!tag dual land\n!tag shockland"
+            "notes": "Reprint\n\nArt Link: [X](https://x.com/justbirb_/status/1625246859504545808), [XCancel](https://xcancel.com/justbirb_/status/1625246859504545808)\n\n!tag reprint\n!tag dual-land\n!tag shockland"
         },
         {
             "card_name": "Plant Spirit's Domain",
@@ -1299,7 +1299,7 @@
             "number": 74,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "As Plant Spirit's [/i][i]Domain[/i][i] enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+            "rules_text": "As [/i]this land[i] enters, you may pay 2 life. If you don't, it enters tapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1310,7 +1310,7 @@
             "alias": "Overgrown Tomb",
             "position": "60",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag reprint\n!tag dual land\n!tag shockland"
+            "notes": "Reprint\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag reprint\n!tag dual-land\n!tag shockland"
         },
         {
             "card_name": "Refuge Library",
@@ -1320,7 +1320,7 @@
             "number": 78,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "As Refuge Library enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+            "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1331,7 +1331,7 @@
             "alias": "Sacred Foundry",
             "position": "61",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag reprint\n!tag dual land\n!tag shockland"
+            "notes": "Reprint\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag reprint\n!tag dual-land\n!tag shockland"
         },
         {
             "card_name": "Steam Vents",
@@ -1341,7 +1341,7 @@
             "number": 83,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "As Steam Vents enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+            "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1352,7 +1352,7 @@
             "alias": "Steam Vents",
             "position": "62",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/beetlewinqs/art/huevember-day-18-820768138)\n\n!tag reprint\n!tag dual land\n!tag shockland"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/beetlewinqs/art/huevember-day-18-820768138)\n\n!tag reprint\n!tag dual-land\n!tag shockland"
         },
         {
             "card_name": "City Alley",
@@ -1362,7 +1362,7 @@
             "number": 65,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "As City Alley enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+            "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1373,7 +1373,7 @@
             "alias": "Stomping Ground",
             "position": "63",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/nuu-u/art/Oneshot-SecondShot-1005556955), [Artist Website](https://saghaley.com/gallery/index.html)\n\n!tag reprint\n!tag dual land\n!tag shockland"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/nuu-u/art/Oneshot-SecondShot-1005556955), [Artist Website](https://saghaley.com/gallery/index.html)\n\n!tag reprint\n!tag dual-land\n!tag shockland"
         },
         {
             "card_name": "Ruins Courtyard",
@@ -1383,7 +1383,7 @@
             "number": 79,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "As Ruins Courtyard enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+            "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1394,7 +1394,7 @@
             "alias": "Temple Garden",
             "position": "64",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag reprint\n!tag dual land\n!tag shockland"
+            "notes": "Reprint\n\nArt Link: [World Machine Edition wallpaper](https://www.spriters-resource.com/nintendo_switch/oneshotworldmachineedition/)\n\n!tag reprint\n!tag dual-land\n!tag shockland"
         },
         {
             "card_name": "Barren Wastes",
@@ -1404,7 +1404,7 @@
             "number": 64,
             "color_identity": "UB",
             "cost": "",
-            "rules_text": "As Barren Wastes enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+            "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1415,7 +1415,7 @@
             "alias": "Watery Grave",
             "position": "65",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/kakrita/art/Niko-876508567)\n\n!tag reprint\n!tag dual land\n!tag shockland"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/kakrita/art/Niko-876508567)\n\n!tag reprint\n!tag dual-land\n!tag shockland"
         },
         {
             "card_name": "Caring Mother",
@@ -1436,7 +1436,7 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/pqj0a3/oc_oneshots_instagram_nikos_mom/)\n\n!tag custom\n!tag lifegain\n!tag lifegain matters\n!tag energy generator\n!tag typal\n!tag typal Cat\n\n!tokens Food<1>"
+            "notes": "Unique Card\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/pqj0a3/oc_oneshots_instagram_nikos_mom/)\n\n!tag custom\n!tag lifegain\n!tag lifegain-matters\n!tag energy-generator\n!tag typal\n!tag typal-Cat\n\n!tokens Food<1>"
         },
         {
             "card_name": "Nature's Lore",
@@ -1457,7 +1457,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [X](https://x.com/Antanariva/status/1268233691488227332), [XCancel](https://xcancel.com/Antanariva/status/1268233691488227332)\n\n!tag reprint\n!tag ramp\n!tag ramp land"
+            "notes": "Reprint\n\nArt Link: [X](https://x.com/Antanariva/status/1268233691488227332), [XCancel](https://xcancel.com/Antanariva/status/1268233691488227332)\n\n!tag reprint\n!tag ramp\n!tag ramp-land"
         },
         {
             "card_name": "Fierce Guardianship",
@@ -1478,7 +1478,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Reddit](https://www.deviantart.com/wojtovix/art/OneShot-691631994)\n\n!tag reprint\n!tag game changer\n!tag counterspell\n!tag free spell"
+            "notes": "Reprint\n\nArt Link: [Reddit](https://www.deviantart.com/wojtovix/art/OneShot-691631994)\n\n!tag reprint\n!tag game-changer\n!tag counterspell\n!tag free-spell"
         },
         {
             "card_name": "Doubling Season",
@@ -1499,7 +1499,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/banny2136/art/Oneshot-Terrarium-902653154)\n\n!tag reprint\n!tag counter doubler\n!tag counter increaser\n!tag synergy token\n!tag token doubler"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/banny2136/art/Oneshot-Terrarium-902653154)\n\n!tag reprint\n!tag counter-doubler\n!tag counter-increaser\n!tag synergy-token\n!tag token-doubler"
         },
         {
             "card_name": "Motorized Cleaner",
@@ -1520,7 +1520,7 @@
             "alias": "Lightning Greaves",
             "position": "70",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1j97pua/roomba_time_oc/)\n\n!tag reprint\n!tag gives haste\n!tag protection"
+            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1j97pua/roomba_time_oc/)\n\n!tag reprint\n!tag gives-haste\n!tag protection"
         },
         {
             "card_name": "Corrupted Robot",
@@ -1541,7 +1541,7 @@
             "alias": "",
             "position": "71",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [DeviantArt](https://www.deviantart.com/yoryro/art/Red-Glitch-Robot-One-Shot-767131314) (note: nsfw account)\n\n!tag energy generator\n!tag gives mm counters\n!tag sacrifice outlet\n!tag synergy exploit"
+            "notes": "Unique Card\n\nArt Link: [DeviantArt](https://www.deviantart.com/yoryro/art/Red-Glitch-Robot-One-Shot-767131314) (note: nsfw account)\n\n!tag energy-generator\n!tag gives-mm-counters\n!tag sacrifice-outlet\n!tag synergy-exploit"
         },
         {
             "card_name": "Gift of the Glenfolk",
@@ -1551,7 +1551,7 @@
             "number": 37,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Whenever a nontoken creature enters the battlefield under your control, if it doesn't have the same name as another creature you control or a creature card in your graveyard, draw a card.",
+            "rules_text": "Whenever a nontoken creature enters under your control, if it doesn't have the same name as another creature you control or a creature card in your graveyard, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1562,7 +1562,7 @@
             "alias": "Guardian Project",
             "position": "72",
             "rotated": false,
-            "notes": "Reprint\n\nArt LInk: [Tumblr](https://hederarien.tumblr.com/post/637131713411203072/alula-and-calamus-owo)\n\n!tag reprint\n!tag card advantage\n!tag draw engine"
+            "notes": "Reprint\n\nArt LInk: [Tumblr](https://hederarien.tumblr.com/post/637131713411203072/alula-and-calamus-owo)\n\n!tag reprint\n!tag card-advantage\n!tag draw-engine"
         },
         {
             "card_name": "Negate",
@@ -1604,7 +1604,7 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/19cjrku/barren_guardian/)\n\n!tag custom\n!tag counter fuel-energy\n!tag energy generator\n!tag protection"
+            "notes": "Unique Card\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/19cjrku/barren_guardian/)\n\n!tag custom\n!tag counter-fuel-energy\n!tag energy-generator\n!tag protection"
         },
         {
             "card_name": "Glen Guardian",
@@ -1614,7 +1614,7 @@
             "number": 38,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Defender\nWhenever Glen Guardian enters or blocks, you get {E}.\n{1}{G}, {T}, Pay any amount of {E}: Return target card with mana value less than the amount of {E} you paid from your graveyard to your hand.",
+            "rules_text": "Defender\nWhenever this creature enters or blocks, you get {E}.\n{1}{G}, {T}, Pay any amount of {E}: Return target card with mana value less than the amount of {E} you paid from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/6",
             "special_text": "",
@@ -1625,7 +1625,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "Unique Card:\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1acm3kj/glen_guardian/)\n\n!tag custom\n!tag counter fuel-enery\n!tag energy generator\n!tag recursion\n!tag regrowth"
+            "notes": "Unique Card:\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1acm3kj/glen_guardian/)\n\n!tag custom\n!tag counter-fuel-enery\n!tag energy-generator\n!tag recursion\n!tag regrowth"
         },
         {
             "card_name": "Refuge Guardian",
@@ -1646,7 +1646,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1aq0uk6/refuge_guardian/)\n\n!tag custom\n!tag counter fuel-energy\n!tag energy generator\n!tag forced attacker"
+            "notes": "Unique Card\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1aq0uk6/refuge_guardian/)\n\n!tag custom\n!tag counter-fuel-energy\n!tag energy-generator\n!tag forced-attacker"
         },
         {
             "card_name": "Awaken Again",
@@ -1667,7 +1667,7 @@
             "alias": "Ephemerate",
             "position": "77",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag blink\n!tag protection\n!tag castable from exile"
+            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag blink\n!tag protection\n!tag castable-from-exile"
         },
         {
             "card_name": "Electrosiphon",
@@ -1688,7 +1688,7 @@
             "alias": "Electrosiphon",
             "position": "78",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/tbcdkb/i_found_this_game_this_week_and_i_love_it_d_i/)\n\n!tag reprint\n!tag counterspell\n!tag energy generator"
+            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/tbcdkb/i_found_this_game_this_week_and_i_love_it_d_i/)\n\n!tag reprint\n!tag counterspell\n!tag energy-generator"
         },
         {
             "card_name": "Power of the Penguins",
@@ -1698,7 +1698,7 @@
             "number": 50,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
-            "rules_text": "When Power of the Penguins enters the battlefield, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.\nWhenever a legendary creature you control dies, Power of the Penguins deals damage equal to that creature's power to target opponent.",
+            "rules_text": "When Power of the Penguins enters, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.\nWhenever a legendary creature you control dies, Power of the Penguins deals damage equal to that creature's power to target opponent.",
             "flavor_text": "[i]\u201cHello.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1709,7 +1709,7 @@
             "alias": "Rakdos Joins Up",
             "position": "79",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Tumblr](https://normalart.tumblr.com/post/176077747137/%EF%BD%88%EF%BD%85%EF%BD%8C%EF%BD%8C%EF%BD%8F)\n\n!tag reprint\n!tag gives pp counters\n!tag reanimate\n!tag recursion\n!tag synergy legendary\n!tag burn player"
+            "notes": "Reprint\n\nArt Link: [Tumblr](https://normalart.tumblr.com/post/176077747137/%EF%BD%88%EF%BD%85%EF%BD%8C%EF%BD%8C%EF%BD%8F)\n\n!tag reprint\n!tag death-trigger\n!tag gives-pp-counters\n!tag reanimate\n!tag recursion\n!tag synergy-legendary\n!tag burn-player"
         },
         {
             "card_name": "Heart of the Tower",
@@ -1719,7 +1719,7 @@
             "number": 57,
             "color_identity": "C",
             "cost": "{6}",
-            "rules_text": "Whenever Heart of the Tower or another artifact enters the battlefield under your control, you get {E}{E}.\nPay eight {E}, Exile Heart of the Tower: Take an extra turn after this one.",
+            "rules_text": "Whenever Heart of the Tower or another artifact enters under your control, you get {E}{E}.\nPay eight {E}, Exile Heart of the Tower: Take an extra turn after this one.",
             "flavor_text": "[i]\u201c[...I'm just borrowing your reflection to talk to you.]\n[It's not like my physical form is good for that.]\u201d\n[/i]",
             "pt": "",
             "special_text": "",
@@ -1730,7 +1730,7 @@
             "alias": "Gonti's Aether Heart",
             "position": "80",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [ArtStation](https://www.artstation.com/artwork/ZGx3aR)\n\n!tag reprint\n!tag counter fuel-energy\n!tag energy generator\n!tag extra turn\n!tag synergy artifact"
+            "notes": "Reprint\n\nArt Link: [ArtStation](https://www.artstation.com/artwork/ZGx3aR)\n\n!tag reprint\n!tag counter-fuel-energy\n!tag energy-generator\n!tag extra-turn\n!tag synergy-artifact"
         },
         {
             "card_name": "Fatal Error",
@@ -1751,7 +1751,7 @@
             "alias": "Swords to Plowshares",
             "position": "81",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [X](https://x.com/familiarcities/status/1429869513206640644), [XCancel](https://xcancel.com/familiarcities/status/1429869513206640644)\n\n!tag reprint\n!tag drawback\n!tag removal\n!tag removal exile"
+            "notes": "Reprint\n\nArt Link: [X](https://x.com/familiarcities/status/1429869513206640644), [XCancel](https://xcancel.com/familiarcities/status/1429869513206640644)\n\n!tag reprint\n!tag drawback\n!tag removal\n!tag removal-exile"
         },
         {
             "card_name": "Sunfall",
@@ -1772,7 +1772,7 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/aamakuruu/art/Niko-908844852)\n\n!tag reprint\n!tag removal\n!tag removal exile\n!tag sweeper\n\n!tokens Phyrexian<1>"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/aamakuruu/art/Niko-908844852)\n\n!tag reprint\n!tag removal\n!tag removal-exile\n!tag sweeper\n\n!tokens Phyrexian<1>"
         },
         {
             "card_name": "Dig Through the Code",
@@ -1793,7 +1793,7 @@
             "alias": "Vampiric Tutor",
             "position": "83",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [BSky](https://bsky.app/profile/did:plc:ghcdnbmnslqwr6d26oikl4j3/post/3lvzjirjoas26)\n\n!tag reprint\n!tag game changer\n!tag tutor\n!tag tutor to top"
+            "notes": "Reprint\n\nArt Link: [BSky](https://bsky.app/profile/did:plc:ghcdnbmnslqwr6d26oikl4j3/post/3lvzjirjoas26)\n\n!tag reprint\n!tag game-changer\n!tag tutor\n!tag tutor-to-top"
         },
         {
             "card_name": "Book of Solstice",
@@ -1814,7 +1814,7 @@
             "alias": "Chromatic Orrery",
             "position": "84",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/clauslikesyou/art/Niko-Book-2-875608163)\n\n!tag reprint\n!tag adds multiple mana\n!tag card advantage\n!tag draw engine\n!tag mana fix\n!tag mana rock\n!tag ramp"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/clauslikesyou/art/Niko-Book-2-875608163)\n\n!tag reprint\n!tag adds-multiple-mana\n!tag card-advantage\n!tag draw-engine\n!tag mana-fix\n!tag mana-rock\n!tag ramp"
         },
         {
             "card_name": "Power of the Messiah",
@@ -1824,7 +1824,7 @@
             "number": 49,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
-            "rules_text": "When Power of the Messiah enters the battlefield, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i] [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]\nWhenever a legendary creature enters the battlefield under your control, put a +1/+1 counter on each creature you control.",
+            "rules_text": "When Power of the Messiah enters, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. [i](You may cast it as a sorcery on a later turn without paying its mana cost.)[/i]\nWhenever a legendary creature enters under your control, put a +1/+1 counter on each creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1835,7 +1835,7 @@
             "alias": "Kellan Joins Up",
             "position": "85",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/ts8lid/niko_with_friends_d/)\n\n!tag reprint\n!tag free cast another\n!tag gives pp counters\n!tag synergy legendary"
+            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/ts8lid/niko_with_friends_d/)\n\n!tag reprint\n!tag free-cast-another\n!tag gives-pp-counters\n!tag gives-pp-counters-to-all\n!tag synergy-legendary"
         },
         {
             "card_name": "Prophet's Feather",
@@ -1856,7 +1856,7 @@
             "alias": "Relic of Legends",
             "position": "86",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag mana rock\n!tag ramp\n!tag synergy legendary"
+            "notes": "Reprint\n\nArt Link: [in-game art](https://www.spriters-resource.com/pc_computer/oneshotsteamversion/)\n\n!tag reprint\n!tag mana-rock\n!tag ramp\n!tag synergy-legendary"
         },
         {
             "card_name": "Chromatic Lantern",
@@ -1877,7 +1877,7 @@
             "alias": "Chromatic Lantern",
             "position": "87",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Tumblr](hhttps://teeterarting.tumblr.com/post/723122391634657280/stroll-in-the-glen)\n\n!tag reprint\n!tag mana fix\n!tag mana rock\n!tag ramp"
+            "notes": "Reprint\n\nArt Link: [Tumblr](hhttps://teeterarting.tumblr.com/post/723122391634657280/stroll-in-the-glen)\n\n!tag reprint\n!tag mana-fix\n!tag mana-rock\n!tag ramp"
         },
         {
             "card_name": "Ram Enclosure",
@@ -1898,7 +1898,7 @@
             "alias": "Exotic Orchard",
             "position": "88",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/aamakuruu/art/Ram-Puzzle-856197956)\n\n!tag reprint\n!tag rainbow land"
+            "notes": "Reprint\n\nArt Link: [DeviantArt](https://www.deviantart.com/aamakuruu/art/Ram-Puzzle-856197956)\n\n!tag reprint\n!tag rainbow-land"
         },
         {
             "card_name": "Prismatic Vista",
@@ -1908,7 +1908,7 @@
             "number": 76,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1929,7 +1929,7 @@
             "number": 80,
             "color_identity": "WUBRG",
             "cost": "",
-            "rules_text": "The Skies Above enters the battlefield tapped.\n{T}: Add {G}.\nAs long as you control six or more lands, lands you control have \u201c{T}: Add one mana of any color.\u201d\n{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice The Skies Above: Search your library for any number of God cards, put them onto the battlefield, then shuffle.",
+            "rules_text": "This land enters tapped.\n{T}: Add {G}.\nAs long as you control six or more lands, lands you control have \u201c{T}: Add one mana of any color.\u201d\n{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice this land: Search your library for any number of God cards, put them onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1940,7 +1940,7 @@
             "alias": "The World Tree",
             "position": "90",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Tumblr](https://www.tumblr.com/na--ko/167079720297)\n\n!tag reprint\n!tag mana fix\n!tag rainbow land\n!tag tutor to battlefield"
+            "notes": "Reprint\n\nArt Link: [Tumblr](https://www.tumblr.com/na--ko/167079720297)\n\n!tag reprint\n!tag mana-fix\n!tag rainbow-land\n!tag tutor-to-battlefield"
         },
         {
             "card_name": "Unfamiliar Home",
@@ -1961,7 +1961,7 @@
             "alias": "Mana Confluence",
             "position": "91",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Pixiv](https://www.pixiv.net/en/artworks/80932829) (dead source)\n\n!tag reprint\n!tag rainbow land"
+            "notes": "Reprint\n\nArt Link: [Pixiv](https://www.pixiv.net/en/artworks/80932829) (dead source)\n\n!tag reprint\n!tag rainbow-land"
         },
         {
             "card_name": "Niko's Pancake Cauldron",
@@ -1982,7 +1982,7 @@
             "alias": "Agatha's Soul Cauldron",
             "position": "92",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/qha5if/niko_brewing_pancake_potions_oc/)\n\n!tag reprint\n!tag gives pp counters\n!tag hate graveyard\n!tag imprint\n!tag mana fix"
+            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/qha5if/niko_brewing_pancake_potions_oc/)\n\n!tag reprint\n!tag gives-pp-counters\n!tag hate-graveyard\n!tag imprint\n!tag mana-fix"
         },
         {
             "card_name": "Aura Shards",
@@ -1992,7 +1992,7 @@
             "number": 44,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "Whenever a creature enters the battlefield under your control, you may destroy target artifact or enchantment.",
+            "rules_text": "Whenever a creature enters under your control, you may destroy target artifact or enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2003,7 +2003,7 @@
             "alias": "",
             "position": "93",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1jj24bo/shattered_light_oc/)\n\n!tag reprint\n!tag game changer\n!tag disenchant\n!tag removal\n!tag repeatable removal"
+            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1jj24bo/shattered_light_oc/)\n\n!tag reprint\n!tag game-changer\n!tag disenchant\n!tag removal\n!tag repeatable-removal"
         },
         {
             "card_name": "Season of Gathering",
@@ -2024,7 +2024,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [SafeReactor](https://safereactor.cc/post/5550298) (repost; can't find original)\n\n!tag reprint\n!tag card advantage\n!tag gives pp counters\n!tag hand positive\n!tag modal\n!tag power matters\n1tag removal\n!tag sweeper"
+            "notes": "Reprint\n\nArt Link: [SafeReactor](https://safereactor.cc/post/5550298) (repost; can't find original)\n\n!tag reprint\n!tag card-advantage\n!tag gives-pp-counters\n!tag hand-positive\n!tag modal\n!tag power-matters\n!tag removal\n!tag sweeper"
         },
         {
             "card_name": "Halted Program",
@@ -2045,7 +2045,7 @@
             "alias": "Chthonian Nightmare",
             "position": "95",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [ArtStation](https://einbent.artstation.com/projects/6NkkQN)\n\n!tag custom\n!tag counter fuel energy\n!tag energy generator\n!tag reanimate\n!tag recursion\n!tag sacrifice outlet"
+            "notes": "Reprint\n\nArt Link: [ArtStation](https://einbent.artstation.com/projects/6NkkQN)\n\n!tag reprint\n!tag counter-fuel-energy\n!tag energy-generator\n!tag reanimate\n!tag recursion\n!tag sacrifice-outlet"
         },
         {
             "card_name": "Farseek",
@@ -2066,7 +2066,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1mm1sih/pixel_art_attempt/), [X](https://x.com/justcallmeEcho0/status/1954303365128794118), [XCancel](https://xcancel.com/justcallmeEcho0/status/1954303365128794118)\n\n!tag reprint\n!tag ramp\n!tag ramp land"
+            "notes": "Reprint\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1mm1sih/pixel_art_attempt/), [X](https://x.com/justcallmeEcho0/status/1954303365128794118), [XCancel](https://xcancel.com/justcallmeEcho0/status/1954303365128794118)\n\n!tag reprint\n!tag ramp\n!tag ramp-land"
         },
         {
             "card_name": "Recommission",
@@ -2087,7 +2087,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [BSky](https://bsky.app/profile/did:plc:izxioccbo2aqonlvso2jas2a/post/3l6t3j3cpvk2d), [Artist Website](https://saghaley.com/gallery/index.html)\n\n!tag reprint\n!tag gives pp counters\n!tag reanimate\n!tag reanimate artifact\n!tag recursion"
+            "notes": "Reprint\n\nArt Link: [BSky](https://bsky.app/profile/did:plc:izxioccbo2aqonlvso2jas2a/post/3l6t3j3cpvk2d), [Artist Website](https://saghaley.com/gallery/index.html)\n\n!tag reprint\n!tag gives-pp-counters\n!tag reanimate\n!tag reanimate-artifact\n!tag recursion"
         },
         {
             "card_name": "Refuge Bookbot",
@@ -2108,7 +2108,7 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [X](https://x.com/pcdraws_/status/1740466397921092085), [XCancel](https://xcancel.com/pcdraws_/status/1740466397921092085)\n\n!tag custom\n!tag card advantage\n!tag counter fuel-energy\n!tag rummage\n!tag synergy historic\n!tag tutor\n!tag tutor to top\n!tag typal\n!tag typal Robot"
+            "notes": "Unique Card\n\nArt Link: [X](https://x.com/pcdraws_/status/1740466397921092085), [XCancel](https://xcancel.com/pcdraws_/status/1740466397921092085)\n\n!tag custom\n!tag card-advantage\n!tag counter-fuel-energy\n!tag rummage\n!tag synergy-historic\n!tag tutor\n!tag tutor-to-top\n!tag typal\n!tag typal-Robot"
         }
     ]
 }
