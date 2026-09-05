@@ -1,0 +1,500 @@
+<html>
+<head>
+    <title>BFS CHANGELOGS</title>
+    <link rel="icon" type="image/x-icon" href="../../img/articles.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../resources/mana.css">
+    <link rel="stylesheet" href="../../resources/header.css">
+    <link rel="stylesheet" href="../../resources/card-text.css">
+</head>
+<script title="root">
+    const rootPath = "../..";
+</script>
+<style>
+    @font-face {
+        font-family: 'Beleren Small Caps';
+        src: url('../../resources/beleren-caps.ttf');
+    }
+    @font-face {
+        font-family: Beleren;
+        src: url('../../resources/beleren.ttf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Black';
+        src: url('../../resources/gotham-narrow-black.otf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Bold';
+        src: url('../../resources/gotham-narrow-bold.otf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Medium';
+        src: url('../../resources/gotham-narrow-medium.otf');
+    }
+    body {
+        font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+        overscroll-behavior: none;
+        margin: 0px;
+        background-color: #ffffff;
+    }
+    .article-container {
+        width: 80%;
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 40px;
+        background-color: rgba(255, 255, 255, 0.95);
+        border: 1px solid #d5d9d9;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        overflow-x: auto;
+    }
+    .article-content img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0;
+        object-fit: contain;
+        flex: 0 1 auto;
+        min-width: 0;
+    }
+    .article-content p.image-paragraph {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+        width: 80%;
+        margin: 20px auto;
+    }
+    /* Only hide BR tags that are immediately between images in a flex row */
+    .article-content p.image-paragraph img + br {
+        display: none;
+    }
+    h4 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        text-align: right;
+        width: 80%;
+        margin: -15px auto 30px auto;
+        color: #666;
+        font-style: italic;
+    }
+    h1, h2 {
+        margin: 0;
+    }
+    h1 {
+        font-family: "Gotham Narrow Bold", Arial, serif;
+        font-size: 36px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+    h2 {
+        font-family: "Gotham Narrow Medium", Arial, serif;
+        font-size: 32px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    p {
+        line-height: 1.6;
+        font-size: 16px;
+    }
+    hr {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        border: 0;
+        border-top: 1px solid #d5d9d9;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    th, td {
+        border: 1px solid #d5d9d9;
+        padding: 12px;
+        text-align: center;
+    }
+    th {
+        background-color: #f8f8f8;
+        font-family: "Gotham Narrow Bold", Arial, serif;
+    }
+    td img {
+        display: inline-block !important;
+        float: none !important;
+        vertical-align: middle;
+    }
+</style>
+<body>
+    <div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+    <div class="article-container">
+        <div class="article-content">
+            <p>Article card art by <a href="https://www.deviantart.com/vvipereonk/art/You-want-a-tunnel-to-what-893171993">VVipereonK</a></p>
+<h2>Changelog (VB3 --&gt; VB3.1):</h2>
+<ul>
+<li>
+<p>Functional Changes</p>
+</li>
+<li>
+<p>Cross and Poi, Termite Guards: changed attack trigger (to work better with resourceful)</p>
+</li>
+<li>Exiled Alchemist: moved counter removal to cost; added manufacture reminder text</li>
+<li>Mother Chomper: modified renew ability</li>
+<li>
+<p>Aesthetic / Formatting Changes</p>
+</li>
+<li>
+<p>Butomu, Mighty Blacksmith: 2nd line @ name</p>
+</li>
+<li>Dead Lander Gamma: added missing punctuation</li>
+<li>Lawless Ruffian: removed menace reminder text</li>
+<li>Madesphy: shortened flavor text</li>
+<li>Queen Elizant I, the Peacemaker: updated end step trigger syntax</li>
+<li>(general): some text clipping fixes</li>
+<li>(general): added search tags</li>
+</ul>
+<h2>Changelog (VB2.1 --&gt; VB3):</h2>
+<ul>
+<li>Functional Changes</li>
+<li>(general, 24 cards): Replaced formidable and modified effects (and some extra) with new mechanic "Resourceful" (power &gt; base power)</li>
+<li>Ancient Mask: added legendary supertype; changed name to "The Ancient Mask"</li>
+<li>Arrow Worm: reworked card</li>
+<li>Astotheles, Bandit Leader: changed mentor ability to a Rogue typal ability</li>
+<li>Bittersweet Memory: upshifted to uncommon</li>
+<li>Bloatshroom: changed death mill to renew eff</li>
+<li>Burn Away: replaced with new card Set Ablaze (downshifted to common)</li>
+<li>Cactling: added new card</li>
+<li>Charitable Sightseer: downshifted to common</li>
+<li>Charm Dancer: changed second ability to explore</li>
+<li>Chomper Brute: downshifted to uncommon; changed mana cost from 2G to 3G; changed from 3/3 to 4/3 (in addition to formidable change)</li>
+<li>Cocoon of Slumber: downshifted to common</li>
+<li>Defiant Standoff: reworked card to a mass pump</li>
+<li>Disheveled Assistant: changed from 2/1 to 1/1 with conditional +1/+1 buff</li>
+<li>Diving Spider: changed tapped hexproof to untapped hexproof; added hexproof reminder text</li>
+<li>Encased in Crystal: changed mana cost from 1U to U; removed etb tap</li>
+<li>Exiled Alchemist: changed counter distribution to manufacture</li>
+<li>Failed Experiment: downshifted to common</li>
+<li>Frenzied Sunflower Dance, Goddess Venus: removed lifelink from Venus Bud tokens</li>
+<li>Fruitful Aphids: upshifted to uncommon</li>
+<li>Gift of Love: changed draw to be immediate</li>
+<li>Honey Factory Overseer: reworked card; old effect kept in new card Honey Factory Guide</li>
+<li>Kingdom Border Guard: changed ward to training; changed from 2/3 to 2/2</li>
+<li>Krawler Swarm: added new card</li>
+<li>Leaf Cloak: downshifted to common</li>
+<li>Life Stealer: upshifted to uncommon</li>
+<li>Lost Sands Burglar: changed mana cost from 3B to 4B; changed from 2/5 to 3/5; added life loss</li>
+<li>Maki, the Queen’s Blade: changed mentor ability to a typal ability</li>
+<li>Medicine Brewer: reworked card</li>
+<li>Piercing Roar: changed fear to menace, +1/+0 to +2/+0 (cut cameo mechanic)</li>
+<li>Poison Master: added new card</li>
+<li>Primal Weevil: changed mana cost from 3G to 4G; changed from 4/4 to 5/4 (in addition to formidable change)</li>
+<li>Professor Honeycomb: changed from 3/2 to 2/2 (in addition to modified change)</li>
+<li>Professor Neolith: reworked card</li>
+<li>Quest Board Manager: upshifted to uncommon; changed activated ability to sorcery speed; added explore reminder text</li>
+<li>Royal Caretakers: replaced etb draw with flash; replaced ltb with renew; changed from 2/1 to 3/2</li>
+<li>Rush Into Action: changed mana cost from R to 1R; changed block trigger to menace</li>
+<li>Security Turret: changed mana cost from 2W to 3W; changed from 2/3 to 4/4; changed from manufacture 1 to 2; removed reach</li>
+<li>Sharp Assistant: changed mana cost from 3R to 4R; added haste</li>
+<li>Smoke Bomb: cut card</li>
+<li>Spoils From Yonder: added new card</li>
+<li>Stratos and Delilah, Team Slacker: changed mentor ability to another attack trigger</li>
+<li>Unorthodox Couple: added new card</li>
+<li>Vengeful Kin: changed mana cost from 2R to 3R; changed from 3/2 to 4/3</li>
+<li>Vi, the Audacious: added "you control" to attach ability</li>
+<li>Wasp Fanatic: upshifted to Insect; changed target creature to target Insect; added menace reminder text</li>
+<li>Wasp Scout: upshifted to uncommon</li>
+<li>Wild Chomper: reworked card</li>
+<li>Wronged Sailor: changed ability from 1R to 2R and added +1/+1 counter</li>
+<li>Zombeetle: changed from +3/+3 to +5/+5; changed mana cost from 3B to 5B</li>
+<li>Aesthetic / Formatting Changes</li>
+<li>(general): changed quote formatting; other minor spacing changes</li>
+<li>Bee-Boop: added flying reminder text</li>
+<li>Beehive Guardian: added flying reminder text</li>
+<li>Bubble Shield: added hexproof reminder text</li>
+<li>Denmuki: added flash reminder text</li>
+<li>Emergency Protocol: added manufacture reminder text; put flavor text in quotes</li>
+<li>Inichas: added vigilance reminder text</li>
+<li>Inseparable Travelers: added explore reminder text</li>
+<li>Lawless Ruffian: added menace reminder text</li>
+<li>Leafbug Clubber: added trample reminder text</li>
+<li>Madesphy: added flash reminder text</li>
+<li>Rubbish Enthusiast: changed name to Unconventional Collector</li>
+<li>Spry Elder: added explore reminder text</li>
+<li>Zombiant: added deathtouch reminder text</li>
+</ul>
+<h2>Changelog (VB2 --&gt; VB2.1):</h2>
+<ul>
+<li>Functional Changes</li>
+<li>Acolyte Aria: changed from 4/6 to 5/5; changed mana cost from 4G to 5G</li>
+<li>Ant Tunnel Miner: changed Treasure generation to be catch-up; added Treasure reminder text</li>
+<li>Fashionable Denizen: changed second tap ability to care about modified</li>
+<li>A Mother's Dream: changed Treasure generation to be catch-up</li>
+<li>Kabbu's Request: changed second lore ability (cut cameo mechanic); changed third lore ability from power to toughness</li>
+<li>Queen Elizant I, the Peacemaker: reworked end step ability (cut cameo mechanic)</li>
+<li>Tarantular, the Wizard: changed from 3/5 to 4/4</li>
+<li>Wasp Trooper: changed to first strike on your turn</li>
+<li>Aesthetic / Formatting Changes</li>
+<li>Ambushed by Bandits: added Treasure reminder text</li>
+<li>Enter the Unknown: changed flavor text</li>
+<li>Frenzied Sunflower Dance: added convoke reminder text</li>
+<li>Goddess Venus: added devotion reminder text</li>
+</ul>
+<h2>Changelog (VB1.1 --&gt; VB2):</h2>
+<ul>
+<li>Functional Changes</li>
+<li>Ahoneynation: changed mana cost from 5 to 6</li>
+<li>Altruist Hospitality: changed replicate to a kicker cost (cut cameo mechanic)</li>
+<li>Apprehensive Novice: slight buff to formidable ability; added training and haste reminder text</li>
+<li>Arrow Worm: removed disguise ability (cut cameo mechanic); changed from 4/1 to 4/2; added flavor text</li>
+<li>Bee-Boop: changed Construct type to Robot</li>
+<li>Bloatshroom: changed Plant type to Fungus</li>
+<li>Bomb Master: changed formidable ability to "noncreature artifact"</li>
+<li>Charitable Sightseer: changed explore ability to be sorcery speed</li>
+<li>Construct Token: replaced with Robot Token (manufacture change)</li>
+<li>Duel for Dominance: replaced with Sparring Match (cut cameo mechanic)</li>
+<li>Expedition Map: replaced with World Map</li>
+<li>Exploration Team Rivalry: changed goad ability to a fight ability (cut cameo mechanic)</li>
+<li>Explorers’ Accountant: changed "equipped creature" to "modified creature"</li>
+<li>Explorers' Celebration: changed flashback cost to tapping</li>
+<li>Fruity Bugs: changed trample ability to be a formidable ability</li>
+<li>Fruitful Aphids: changed from 0/0 to 0/1; reworked populate ability to a self-copying ability (cut cameo mechanic)</li>
+<li>Gloomy Artist: changed copy ability to a tap ability, changed cost from 3UU to 2UU, and added "you control" condition</li>
+<li>Golden Seedling: changed shroud to ward 4</li>
+<li>Heavy Drone B-33: changed type from Construct to Drone; changed attack trigger "When" to "Whenever"</li>
+<li>Honey Factory Maintenance Chief: changed mana cost from 4W to 5W</li>
+<li>Jaune, Prodigious Painter: added extra "you control" to cloning ability</li>
+<li>Jellyshroom: changed Plant type to Fungus</li>
+<li>Kenny, the Vagabond: removed Citizen type</li>
+<li>Kingdom Border Guard: changed ward ability</li>
+<li>Life Stealer: removed toughness boost, changed assign all cost from 4 to 5</li>
+<li>Quicksand Whirlpool: replaced with new card Crystal Slumber</li>
+<li>Royal Fealty: changed "equipped creature" to "creature token"</li>
+<li>Salvation Strike: changed life gain from 3 to 2</li>
+<li>Sand Warden: removed "pay 1" from death trigger</li>
+<li>Security Turret: changed Construct type to Robot</li>
+<li>Spry Elder: removed stun counters</li>
+<li>Spy: changed mana cost from U to 1U; changed from choosing up to one player to any number of players</li>
+<li>Stratos and Delilah, Team Slacker: nerfed by increasing drawback</li>
+<li>Termite Engineers: changed Scientist type to Artificer</li>
+<li>Venus's Blessing: changed grave eff from harmonize to flashback with upside (cut cameo mechanic)</li>
+<li>Aesthetic / Formatting Changes</li>
+<li>Acornling: fixed ward reminder text</li>
+<li>Antlion Jaws: changed block trigger "When" to "Whenever"</li>
+<li>Bittersweet Memory: added Escape reminder text</li>
+<li>Bug Me Not!: added "assign all" reminder text</li>
+<li>Cenn and Pisci, Fraudulent Team: changed attack trigger "When" to "Whenever"</li>
+<li>Diana, Stout Miner: changed "them" to "those cards"</li>
+<li>Favorite One: added "assign all" reminder text; changed damage trigger "When" to "Whenever"</li>
+<li>Helper Boost: added "assign all" reminder text</li>
+<li>Leaf Cloak: added "assign all" reminder text; fixed ward reminder text</li>
+<li>Life Cast: added "assign all" reminder text</li>
+<li>Lost Sands Bandit: changed damage trigger "When" to "Whenever"</li>
+<li>Masterful Slice: added Food reminder text</li>
+<li>Miracle Matter: added "assign all" reminder text</li>
+<li>The False Monarch: changed "this creature" to [CARDNAME] (legendary creature); changed attack trigger "When" to "Whenever"</li>
+<li>Tournament Challenger: changed name to Card Tournament Contender</li>
+<li>ULTIMAX Tank: changed attack trigger "When" to "Whenever"</li>
+<li>Vi, the Audacious: changed attack trigger "When" to "Whenever"</li>
+</ul>
+<h2>Changelog (VB1 --&gt; VB1.1):</h2>
+<ul>
+<li>Functional Changes</li>
+<li>Ant Kingdom Lieutenant: changed from 3/6 to 3/5</li>
+<li>Automated Drone Boomerang Prototype: changed syntax on activated ability to require untapped equipped creature and changed ability cost from 1 to R</li>
+<li>Big Mistake: changed wither to menace (removing -1/-1 counters)</li>
+<li>Kingdom Border Guard: changed ward from counters to equipment</li>
+<li>Madesphy: reworked ability (counters to only P/T change), 2/1 to 1/1</li>
+<li>Rabid Chase: changed loot effect to rummage</li>
+<li>Rubbish Enthusiast: changed loot effect to rummage</li>
+<li>Shady Dealer: reworked grave effect (look at top two -&gt; just one)</li>
+<li>Sprout From Within: changed -1/-1 counters to plague counters</li>
+<li>Aesthetic / Formatting Changes</li>
+<li>removed flavor text: Cenn and Pisci, Fraudulent Team; Charitable Sightseer; Dead Lander (Omega); Jaune, Prodigious Painter; Kenny, the Vagabond; Professor Honeycomb; The Beast; Weevil</li>
+<li>Brash Wager: reworded effect syntax</li>
+<li>Mantidfly: removed reminder text</li>
+<li>Seedling: shortened flavor text</li>
+<li>ULTIMAX Tank: removed duplicated rules text</li>
+</ul>
+<h2>Changelog (VA3 --&gt; VB1; first "public" version):</h2>
+<ul>
+<li>Functional Changes</li>
+<li>Medal type (all): mechanic reworked to "assign all" ability</li>
+<li>Acornling: added new card</li>
+<li>Affable Bee: changed sac ability to count tokens, 1/2 to 2/2</li>
+<li>Arrow Worm: disguise cost changed from 1R to 1RR</li>
+<li>Automated Drone Boomerang Prototype: changed buff from +2/+0 to +2/+1</li>
+<li>Belostoss: changed from 4/5 to 4/4</li>
+<li>A Bond Thicker Than Honey: cost reduction reworked to fit with new assign all ability</li>
+<li>Boomerang Toss: upshifted to uncommon</li>
+<li>Bounty Board: reworked sac ability</li>
+<li>Burning Krawler: slot downshifted to common and replaced with Combination Attack</li>
+<li>Cross and Poi, Termite Guards: nerfed pump ability (4/4 to 4/2)</li>
+<li>Dead Lander (alpha): added new card</li>
+<li>Defend the Factory: added new card</li>
+<li>Denmuki: added flash</li>
+<li>Enter the Unknown: downshifted to common</li>
+<li>Evolving Wilds: replaced with Sand Warden</li>
+<li>Forced Conscription: added new card</li>
+<li>Frozen Drill: changed to gain twice X life</li>
+<li>Goddess Venus: Reworked from planeswalker to creature</li>
+<li>Golden Seedling: changed hexproof to shroud</li>
+<li>Helper Boost: added new card</li>
+<li>Honey Factory Overseer: changed ability cost from 4W to 3W</li>
+<li>Inquisitive Biologist: changed mana cost from 3G to 2GG, upshifted to uncommon</li>
+<li>Kina, Overprotective Fighter: added "you control" to draw ability (oversight)</li>
+<li>Life Cast: nerfed to once per turn (anti-infinite failsafe)</li>
+<li>Life Stealer: changed buff from -1/+2 to +0/+1</li>
+<li>Lost Appetite: changed mana cost from 3BB to 4B</li>
+<li>Mother Chomper: changed from 6/5 to 5/5, changed mana cost from 5G to 4GG</li>
+<li>Primal Weevil: changed formidable ability to "another target creature"</li>
+<li>Royal Fealty: added new card</li>
+<li>Seedling: changed from 1/2 to 1/1 (also changed token)</li>
+<li>Seedling King: changed reminder text in line with Seedling change</li>
+<li>Spry Elder: added ability to stun, changed etb</li>
+<li>Termite Engineers: changed from 3/4 to 3/3</li>
+<li>Unconvincing Camouflage: replaced with Alchemize</li>
+<li>Undercover Barkeep: reworked card</li>
+<li>Vi, the Audacious: attack ability reworked to fit with new assign all ability</li>
+<li>Wild Chomper: changed from 3/3 to 3/2</li>
+<li>Aesthetic / Formatting Changes</li>
+<li>Ambushed by Bandits: fixed wording (if to when)</li>
+<li>Burn Away: fixed artist name (paperanimal --&gt; pawperanimal)</li>
+<li>Charge up Plus: fixed formatting, added missing "until end of turn" clause</li>
+<li>Royal Decree: changed name to Queen's Decree (card with that name already exists)</li>
+<li>Stealth Mission: changed art</li>
+</ul>
+<h2>Changelog (VA2 --&gt; VA3):</h2>
+<ul>
+<li>Functional Changes</li>
+<li>Ahoneynation: fixed reminder text; added missing food sac effect</li>
+<li>Carry the Lineage: removed "other" from ability</li>
+<li>Inquisitive Biologist: changed formidable ability to only your turn</li>
+<li>King Hector IV and Queen Layra II: changed formidable ability to only your turn</li>
+<li>Mimic Spider: reworked ability</li>
+<li>Miracle Matter: changed to return tapped, increased equip cost from 3 to 4</li>
+<li>Scorpion Caretaker: fixed reminder text; increased ability cost from 1B to 2B</li>
+<li>Seedling King: fixed trample wording; made tokens enter tapped</li>
+<li>Spuder, Bane of Explorers: changed from 4/3 to 3/3</li>
+<li>Venus Guardian: changed formidable ability to only your turn</li>
+<li>Aesthetic / Formatting Changes</li>
+<li>Lost Appetite: added missing period</li>
+<li>Passionate Baker: fixed reminder text (3/1 to 2/1)</li>
+<li>Queen Elizant I, the Peacemaker: changed "during your end step" to "at the beginning of your end step"</li>
+</ul>
+<h2>Changelog (VA1 --&gt; VA2):</h2>
+<ul>
+<li>Functional Changes</li>
+<li>Big Mistake: mana cost changed from 1B to 2B; effect changed from +2/-2 to +3/-3</li>
+<li>Bittersweet Memory: mana cost changed from 1B to B</li>
+<li>Chompy, Next in Line: changed exile from cost to effect</li>
+<li>Failed Experiment: added option to pay 1B to additional cost</li>
+<li>Favorite One: mana cost changed from 4 to 3</li>
+<li>Frenzied Sunflower Dance: mana cost changed from XXG to XXGG; added convoke</li>
+<li>Jayde, Dissident Rebel: changed damage trigger from "creature tokens you control" to "creatures you control"</li>
+<li>Lawless Ruffian: added "Its controller loses 2 life"</li>
+<li>Lost Sands Burglar: changed from 3/5 to 2/5</li>
+<li>Monsieur Scarlet: changed from 2/3 to 3/2</li>
+<li>Seedling King: changed from 5/4 to 4/3</li>
+<li>Shady Dealer: removed renew ability word (not a sorcery)</li>
+<li>Wasp Assault: added ability to hit planeswalkers</li>
+<li>Aesthetic / Formatting Changes</li>
+<li>Icefall: changed name to Ancient Icefall (card already exists with that name)</li>
+<li>Ant Queen Elizant II: fixed reminder text</li>
+<li>Charitable Sightseer: fixed reminder text</li>
+<li>Cross and Poi, Termite Guards: fixed wording (singular agreement)</li>
+<li>Expensive Resort: uncapitalized token</li>
+<li>Frigid Coffin: changed "the" to "that"</li>
+<li>Golden Seedling: capitalized Treasure</li>
+<li>Jaune, Prodigious Painter: "this creature" to "CARDNAME" for legendary</li>
+<li>Levi and Celia, Seasoned Explorers: fixed art crop</li>
+<li>Lost Sands Bandit: fixed wording</li>
+<li>Luminous Traveler: fixed reminder text</li>
+<li>Piercing Roar: fixed flavor text</li>
+<li>Sprout From Within: added missing Aura subtype</li>
+<li>Spuder, Bane of Explorers: fixed text clipping (was only on export and not on MSE?)</li>
+<li>The Devourer: added missing "creature" word</li>
+<li>Zombee: italicized ability word</li>
+<li>Zommoth: "CARDNAME" to "this creature" for nonlegendary</li>
+</ul>
+        </div>
+    </div>
+    <script>
+        document.getElementById("search").addEventListener("keypress", function(event) {
+          if (event.key === "Enter") {
+                event.preventDefault();
+                search();
+          }
+        });
+
+        function search() {
+            const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+            url.searchParams.append('search', document.getElementById("search").value);
+            window.location.href = url.pathname + url.search;
+        }
+
+        function randomCard() {
+            fetch(rootPath + '/lists/all-cards.json')
+                .then(response => response.json())
+                .then(data => {
+                    const cards = data.cards;
+                    const random_card = cards[Math.floor(Math.random() * cards.length)];
+                    const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+                    const params = {
+                        set: random_card.set,
+                        num: random_card.number,
+                        name: random_card.card_name
+                    }
+                    for (const key in params) {
+                        url.searchParams.append(key, params[key]);
+                    }
+                    window.location.href = url.pathname + url.search;
+                }).catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>

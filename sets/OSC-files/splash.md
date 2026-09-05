@@ -2,7 +2,7 @@
 
 
 
-OSC is a collection of eternal format cards based around the indie RPG \[OneShot](https://www.oneshot-game.com/) by Future Cat. It's designed to be played all together as a Commander deck led by Niko. There are 24 custom cards, all creatures, and the rest are alternate art canon reprints.
+OSC is a collection of eternal format cards based around the indie RPG [OneShot](https://www.oneshot-game.com/) by Future Cat. It's designed to be played all together as a [Commander deck](https://misterhungry.github.io/deck?id=yZVHdx7coG) led by Niko. There are 24 custom cards, all creatures, and the rest are alternate art canon reprints.
 
 
 

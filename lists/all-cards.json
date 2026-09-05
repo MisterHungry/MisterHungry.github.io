@@ -571,7 +571,7 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1470918310162223104\nhttps://xcancel.com/hiveblood/status/1470918310162223104\n\n!tokens Citizen BFS<1>\n\n!tag custom\n!tag synergy-token\n!tag cost-reducer-equip-ability\n!tag synergy-Equipmenth\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator",
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1470918310162223104\nhttps://xcancel.com/hiveblood/status/1470918310162223104\n\n!tokens Citizen BFS<1>\n\n!tag custom\n!tag synergy-token\n!tag cost-reducer-equip-ability\n!tag synergy-Equipment\n!tag repeatable-creature-tokens\n!tag repeatable-token-generator",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/hiveblood/status/1470918310162223104\">X</a>, <a href=\"https://xcancel.com/hiveblood/status/1470918310162223104\">XCancel</a></p>"
@@ -1555,7 +1555,7 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/CalendarCursed/status/1578170880479604736\nhttps://xcancel.com/CalendarCursed/status/1578170880479604736\n\nshould it be 1U?\n\"You may have a player mill a card.\"\n\"You may have any number of players mill a card.\"\n\n!tag flagged\n!tag custom\n!tag card-advntage\n!tag cantrip\n!tag mill-any\n!tag mill-self\n!tag peek-library",
+            "notes": "original card\n\nart: https://x.com/CalendarCursed/status/1578170880479604736\nhttps://xcancel.com/CalendarCursed/status/1578170880479604736\n\nshould it be 1U?\n\"You may have a player mill a card.\"\n\"You may have any number of players mill a card.\"\n\n!tag flagged\n!tag custom\n!tag card-advantage\n!tag cantrip\n!tag mill-any\n!tag mill-self\n!tag peek-library",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/CalendarCursed/status/1578170880479604736\">X</a>, <a href=\"https://xcancel.com/CalendarCursed/status/1578170880479604736\">XCancel</a></p>"
@@ -2778,7 +2778,7 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag sacrifice-outlet\n!tag card-advantage\n!tag power-mattters\n!tag removal\n!tag repeatable-removal\n!tag burn\n!tag burn-any",
+            "notes": "original card\n\nart: https://x.com/Maci_Lena/status/1912861907901685996\nhttps://xcancel.com/Maci_Lena/status/1912861907901685996\n\n!tag custom\n!tag sacrifice-outlet\n!tag card-advantage\n!tag power-matters\n!tag removal\n!tag repeatable-removal\n!tag burn\n!tag burn-any",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/Maci_Lena/status/1912861907901685996\">X</a>, <a href=\"https://xcancel.com/Maci_Lena/status/1912861907901685996\">XCancel</a></p>"
@@ -2946,7 +2946,7 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.deviantart.com/lilithmoth/art/Rivalry-team-Snakemouth-V-s-team-Motiva-904669691\n\nvi, kabbu, leif, mothiva, zasp\n\nart has ratio squished (too vertical for regular frame)\n\n2R: Target creature gets +1/+1 and gains haste until end of turn.\n\n!tag flagged\n!tag custom\n!tag card-advantage\n!tag impulsive-draw\n!tag gives-castable-from-exile\n!tag fight\n!tag removal\n!tag repeatable-removal",
+            "notes": "original card\n\nart: https://www.deviantart.com/lilithmoth/art/Rivalry-team-Snakemouth-V-s-team-Motiva-904669691\n\nvi, kabbu, leif, mothiva, zasp\n\nart has ratio squished (too vertical for regular frame)\n\n2R: Target creature gets +1/+1 and gains haste until end of turn.\n\n!tag flagged\n!tag custom\n!tag card-advantage\n!tag impulse-draw\n!tag gives-castable-from-exile\n!tag fight\n!tag removal\n!tag repeatable-removal",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.deviantart.com/lilithmoth/art/Rivalry-team-Snakemouth-V-s-team-Motiva-904669691\">DeviantArt</a></p>"
@@ -2970,7 +2970,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "original card\n\nart: https://x.com/hiveblood/status/1424042724257378307\nhttps://xcancel.com/hiveblood/status/1424042724257378307\n\nartis\n\n\u201cHeh. I see you lot like challenge.\u201d\n\n!tag custom\n!tag card-advantage\n!tag draw-engine\n!tag impulsive-draw\n!tag gives-castable-from-exile\n!tag synergy-Medal\n!tag synergy-Equipment\n!tag power-matters\n!tag gives-trample",
+            "notes": "original card\n\nart: https://x.com/hiveblood/status/1424042724257378307\nhttps://xcancel.com/hiveblood/status/1424042724257378307\n\nartis\n\n\u201cHeh. I see you lot like challenge.\u201d\n\n!tag custom\n!tag card-advantage\n!tag draw-engine\n!tag impulse-draw\n!tag gives-castable-from-exile\n!tag synergy-Medal\n!tag synergy-Equipment\n!tag power-matters\n!tag gives-trample",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/hiveblood/status/1424042724257378307\">X</a>, <a href=\"https://xcancel.com/hiveblood/status/1424042724257378307\">XCancel</a></p>"
@@ -3281,7 +3281,7 @@
             "alias": "",
             "position": "136",
             "rotated": false,
-            "notes": "original card\n\nart: cannot find (artist DA hacked/deactivated)\n\n!tag custom\n!tag tutor\n!tag tutor-equipment\n!tag power-matters\n!tag gives-unblockable",
+            "notes": "original card\n\nart: cannot find (artist DA hacked/deactivated)\n\n!tag custom\n!tag tutor\n!tag tutor-to-hand\n!tag tutor-equipment\n!tag power-matters\n!tag gives-unblockable",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card</p>\n<p>Art Link: missing (artist DA hacked/deactivated)</p>"
@@ -4769,7 +4769,7 @@
             "alias": "",
             "position": "198",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/85993492\n\n!tag custom\n!tag power-matters\n!tag saboteur\n!tag card-advantage\n!tag draw-engin",
+            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/85993492\n\n!tag custom\n!tag power-matters\n!tag saboteur\n!tag card-advantage\n!tag draw-engine",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.pixiv.net/en/artworks/85993492\">Pixiv</a></p>"
@@ -4889,7 +4889,7 @@
             "alias": "",
             "position": "203",
             "rotated": false,
-            "notes": "originally UR11\n\noriginal card\n\nart: https://www.pixiv.net/en/artworks/93362276\n\n!tag custom\n!tag draft-signpost\n!tag mill-slef\n!tag mana-sink\n!tag recursion\n!tag reanimate",
+            "notes": "originally UR11\n\noriginal card\n\nart: https://www.pixiv.net/en/artworks/93362276\n\n!tag custom\n!tag draft-signpost\n!tag mill-self\n!tag mana-sink\n!tag recursion\n!tag reanimate",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.pixiv.net/en/artworks/93362276\">Pixiv</a></p>"
@@ -5105,7 +5105,7 @@
             "alias": "",
             "position": "212",
             "rotated": false,
-            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/121074352\n\n!tag custom\n!tag attacking-matters\n!tag draft-signpost\n!tag power-boost-to-all\n!tag attack-trigger\n!tag card-advantage\n!tag draw-engine\n!tag impulsive-draw",
+            "notes": "original card\n\nart: https://www.pixiv.net/en/artworks/121074352\n\n!tag custom\n!tag attacking-matters\n!tag draft-signpost\n!tag power-boost-to-all\n!tag attack-trigger\n!tag card-advantage\n!tag draw-engine\n!tag impulse-draw",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://www.pixiv.net/en/artworks/121074352\">Pixiv</a></p>"
@@ -5416,7 +5416,7 @@
             "alias": "",
             "position": "225",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: https://www.deviantart.com/sticspace/art/Bug-Fables-Team-Snakemouth-Map-1020048582\n\n!tag reprint\n!tag tutor\n!tag tutor-land",
+            "notes": "Reprint\n\nArt Link: https://www.deviantart.com/sticspace/art/Bug-Fables-Team-Snakemouth-Map-1020048582\n\n!tag reprint\n!tag tutor\n!tag tutor-to-hand\n!tag tutor-land",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6493,7 +6493,7 @@
             "alias": "",
             "position": "270",
             "rotated": false,
-            "notes": "original card\n\nart: https://bsky.app/profile/someguyiguess.bsky.social/post/3mbp4htkd4c24\n\nfuff/ultimax\n\nalso could be 2R sorcery\n\n!tag custom\n!tag attacking-matters\n!tag discount-self\n!tag threaten\n!tag theft\n!tag givs-haste",
+            "notes": "original card\n\nart: https://bsky.app/profile/someguyiguess.bsky.social/post/3mbp4htkd4c24\n\nfuff/ultimax\n\nalso could be 2R sorcery\n\n!tag custom\n!tag attacking-matters\n!tag discount-self\n!tag threaten\n!tag theft\n!tag gives-haste",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://bsky.app/profile/someguyiguess.bsky.social/post/3mbp4htkd4c24\">Bluesky</a></p>"
@@ -6685,7 +6685,7 @@
             "alias": "",
             "position": "278",
             "rotated": false,
-            "notes": "Unique Card\n\nArt Link: [X](https://x.com/hiveblood/status/1462954034311094274#m), [XCancel](https://xcancel.com/hiveblood/status/1462954034311094274#m)\n\nxic\n\n!tag custom\n!tag attacking-matters\n!tag opponet-loses-life",
+            "notes": "Unique Card\n\nArt Link: [X](https://x.com/hiveblood/status/1462954034311094274#m), [XCancel](https://xcancel.com/hiveblood/status/1462954034311094274#m)\n\nxic\n\n!tag custom\n!tag attacking-matters\n!tag opponent-loses-life",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card</p>\n<p>Art Link: <a href=\"https://x.com/hiveblood/status/1462954034311094274#m\">X</a>, <a href=\"https://xcancel.com/hiveblood/status/1462954034311094274#m\">XCancel</a></p>"
@@ -8097,7 +8097,7 @@
             "alias": "Path to Exile",
             "position": "55",
             "rotated": false,
-            "notes": "Reprint\n\nArt Link: [Tumblr](https://kartrina130.tumblr.com/post/171079703604/one-shot-the-solstice-way-to-world-machine)\n\n!tag reprint\n!tag drawback\n!tag land-ramp\n!tag ramp\n!tag removal\n!tag removal=exile",
+            "notes": "Reprint\n\nArt Link: [Tumblr](https://kartrina130.tumblr.com/post/171079703604/one-shot-the-solstice-way-to-world-machine)\n\n!tag reprint\n!tag drawback\n!tag land-ramp\n!tag ramp\n!tag removal\n!tag removal-exile",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Reprint</p>\n<p>Art Link: <a href=\"https://kartrina130.tumblr.com/post/171079703604/one-shot-the-solstice-way-to-world-machine\">Tumblr</a></p>"
@@ -8577,7 +8577,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "Unique Card:\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1acm3kj/glen_guardian/)\n\n!tag custom\n!tag counter-fuel-enery\n!tag energy-generator\n!tag recursion\n!tag regrowth",
+            "notes": "Unique Card:\n\nArt Link: [Reddit](https://www.reddit.com/r/oneshot/comments/1acm3kj/glen_guardian/)\n\n!tag custom\n!tag counter-fuel-energy\n!tag energy-generator\n!tag recursion\n!tag regrowth",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Unique Card:</p>\n<p>Art Link: <a href=\"https://www.reddit.com/r/oneshot/comments/1acm3kj/glen_guardian/\">Reddit</a></p>"
